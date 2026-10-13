@@ -1,0 +1,52 @@
+name: Market Room V3.3 LINE Digest
+
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "Digest to send"
+        required: true
+        type: choice
+        options:
+          - morning
+          - tw_close
+          - us_pre
+  schedule:
+    # UTC; Taiwan is UTC+8 all year
+    - cron: '0 0 * * *'   # Taiwan 08:00
+    - cron: '0 6 * * *'   # Taiwan 14:00
+    - cron: '0 13 * * *'  # Taiwan 21:00
+
+permissions:
+  contents: read
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Select digest
+        id: digest
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+          MANUAL_MODE: ${{ inputs.mode }}
+          SCHEDULE: ${{ github.event.schedule }}
+        run: |
+          if [ "$EVENT_NAME" = "workflow_dispatch" ]; then
+            echo "mode=$MANUAL_MODE" >> "$GITHUB_OUTPUT"
+          elif [ "$SCHEDULE" = '0 0 * * *' ]; then
+            echo 'mode=morning' >> "$GITHUB_OUTPUT"
+          elif [ "$SCHEDULE" = '0 6 * * *' ]; then
+            echo 'mode=tw_close' >> "$GITHUB_OUTPUT"
+          else
+            echo 'mode=us_pre' >> "$GITHUB_OUTPUT"
+          fi
+      - name: Send LINE digest
+        env:
+          LINE_CHANNEL_ACCESS_TOKEN: ${{ secrets.LINE_CHANNEL_ACCESS_TOKEN }}
+          LINE_TO_USER_ID: ${{ secrets.LINE_TO_USER_ID }}
+        run: python notify_v33.py --mode "${{ steps.digest.outputs.mode }}"
