@@ -39,7 +39,7 @@ jobs:
           from pathlib import Path
 
           path = Path("output/cleaned/candidates.csv")
-          if not path.exists():
+          if not path.is_file():
               raise SystemExit("ERROR: candidates.csv was not generated")
 
           with path.open(encoding="utf-8-sig", newline="") as f:
@@ -55,11 +55,33 @@ jobs:
       - name: Run market download test
         run: python test_market_download.py
 
+      - name: Verify benchmark report
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          path = Path("output/benchmark/report.json")
+          if not path.is_file():
+              raise SystemExit("ERROR: Benchmark report was not generated")
+
+          report = json.loads(path.read_text(encoding="utf-8"))
+
+          for market in ("TW", "US"):
+              data = report["markets"][market]
+              print(
+                  f"{market}: {data['successful']}/{data['attempted']} "
+                  f"success, {data['elapsed_seconds']} seconds"
+              )
+
+          print("Benchmark report verified.")
+          PY
+
       - name: Upload test results
         if: always()
         uses: actions/upload-artifact@v4
         with:
           name: market-download-test-results
-          path: output/download_test/
-          if-no-files-found: warn
+          path: output/benchmark/report.json
+          if-no-files-found: error
           retention-days: 7
