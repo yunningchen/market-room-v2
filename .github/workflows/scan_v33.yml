@@ -40,13 +40,15 @@ jobs:
           cp output/v33/report.json docs/data/status.json
       - name: Build V4.2 daily history (incremental)
         run: python build_history.py --limit 12
+      - name: Build V5 signal changes
+        run: python build_signals.py
       - name: Save rotation state, master and dashboard
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/v33/state.json data/v33/master.csv docs/data/ranking.csv docs/data/status.json docs/data/history/
+          git add data/v33/state.json data/v33/master.csv docs/data/ranking.csv docs/data/status.json docs/data/history/ docs/data/signals.json docs/data/signals_state.json
           if ! git diff --cached --quiet; then
-            git commit -m "Update V3.3 progress and V4 dashboard"
+            git commit -m "Update V3.3 progress and V5 dashboard"
             git push
           fi
       - name: Upload results and diagnostics
