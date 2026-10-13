@@ -32,8 +32,14 @@ jobs:
       - name: Clean stock universe
         run: python clean_universe.py --input output/universe.csv
 
+      - name: Inspect cleaning outputs
+        run: |
+          echo "Available CSV files:"
+          find . -maxdepth 4 -type f -name "*.csv" -print
+
       - name: Run V3 technical scanner
         run: python scanner_v3.py
+
 
       - name: Upload V3 results
         if: always()
