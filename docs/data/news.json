@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-10-13T18:35:02+08:00",
+  "updated_at": "2026-10-13T20:46:30+08:00",
   "news": [
+    {
+      "market": "美股",
+      "title": "Weekly market commentary - BlackRock",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
+      "published": "2026-10-13T17:43+08:00",
+      "publisher": "BlackRock"
+    },
     {
       "market": "美股",
       "title": "Wall Street Futures Diverge as AI Investment Doubts, LVMH Weakness and Bank Results Drive Trading: Dow Jones, S&P, Nasdaq - Yahoo Finance UK",
@@ -16,6 +23,13 @@
       "publisher": "Yahoo Finance"
     },
     {
+      "market": "美股",
+      "title": "Market Movers blog: Oil prices remain high despite energy deal rumours - Investment Week",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5mZHNUUnlOeExDV2hSRjhxWEs0blpwaGhqUzIzQ054d1JaTnNIcGZWbkhtTDVwZFdwUXM5ekRkX2Z5UFJEWW5uMGtRSzVnd2NwZDFRUWZnYm9JWHFlTUptZzJGSHdKOS1oTEJxOUk0bFRWdw?oc=5",
+      "published": "2026-10-13T17:28+08:00",
+      "publisher": "Investment Week"
+    },
+    {
       "market": "財報新聞",
       "title": "個股概覽 | 個股 - 股市 - CMoney",
       "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBfVGtPUmhQeF9nalNLNm9zTGJWQlREWTlFa2dVeEhkNElpN1d0OXlyaFF3U3NaYnBodklvejVEU1YtdkNl?oc=5",
@@ -24,24 +38,10 @@
     },
     {
       "market": "美股",
-      "title": "Weekly market commentary - BlackRock",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
-      "published": "2026-10-13T13:06+08:00",
-      "publisher": "BlackRock"
-    },
-    {
-      "market": "財報新聞",
-      "title": "台股開盤》三大利空 早盤挫逾800點 專家：支撐47500點 靜待台積法說 | Newtalk - LINE TODAY",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ybWJMdVg5STY3aWMzTXVBNFRQRVpjOTV2dmpvaGl2VDFtSDNhUVRvVGRjckpqeU1SNGdhaHg1akVvdW9oOWFyNEdjRmxIMFJCNWxQRFJ3?oc=5",
-      "published": "2026-10-13T10:13+08:00",
-      "publisher": "LINE TODAY"
-    },
-    {
-      "market": "台股",
-      "title": "全球經濟指標 - 鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MWDczb0VIbE5YVlR6aDRlcDBqNlhFWUNZVndjczlpX2xNUmt3WTVsQXhEbmFEUGVGVUR4YjNLUTdlUUl4a3ZmTnNRWk1hSjFf?oc=5",
-      "published": "2026-10-13T05:52+08:00",
-      "publisher": "鉅亨網"
+      "title": "Stocks Settle Lower as Crude Prices Jump and Chipmakers Fall - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQU5mVXZac09OZ3FnOW5ZbFdlZHZmaWZmNm9zT0lwZVB3NXJ6VHRUUUJPQjdyZFJBVjhabmpSbk9objBTbE9QZDZuQ0VxUmEzZFF2clZ1U2hmWmhqZEhEdGQ5d1Bwc3BsUUgzUWNhMkt3Sm1weHZLWVluWnQtbExrNEZGOVdBNHVsbldxMmF0U2UzcFFtWll2eUtyX3IwaUl1UXFXc0FhZEh6OHNIdHlKaTFXVkl4ekhOTXVB?oc=5",
+      "published": "2026-10-13T04:32+08:00",
+      "publisher": "TradingView"
     },
     {
       "market": "美股",
@@ -77,6 +77,13 @@
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUDFIeGZNOFlfVW9TbUFXWTYzVzV0NzU1OUt1dzctVFd0OW1tVkRfaWRmQkpuZ2tvLWNTVzUwUVJpdnQ5QWxmZWp6TS0xbXFPZGc3QkViU3pyUElYOE9ScFF3UkUwSUppeHhNY1IyZ3pwbFNLRWlncVdsM2JlczJhZjNKcC1felUyX09GS0NEemI5bEZObmFabFVQMVZUTGl3LURjQklrMWxkT0F5MDJzbi1hNXhxd3N6T05VSXA4MUtISGhHQ2VSM3RGdmY1Zk5Td2fSAdIBQVVfeXFMTlAxSHhmTThZX1VvU21BV1k2M1c1dDc1NTlLdXc3LVRXdDltbVZEX2lkZkJKbmdrby1jU1c1MFFSaXZ0OUFsZmVqek0tMW1xT2RnN0JFYlN6clBJWDhPUnBRd1JFMElKaXh4TWNSMmd6cGxTS0VpZ3FXbDNiZXMyYWYzSnAtX3pVMl9PRktDRHpiOWxGTm5hWmxVUDFWVExpdy1EY0JJazFsZE9BeTAyc24tYTV4cXdzek9OVUlwODFLSEhoR0NlUjN0RnZmNWZOU3dn?oc=5",
       "published": "2026-10-12T18:05+08:00",
       "publisher": "Devdiscourse"
+    },
+    {
+      "market": "美股",
+      "title": "US Stock Market Today: S&P 500 Futures Edge Up On Sticky Inflation Expectations - Simply Wall Street",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPelJVSEgyMXVWX3p1T1VtV2p0Y0FJbkdsdk5sN3MxWnFUQUZab0M0YlROUjJ6VThMRXhQRll1eEtCa0ZPS2t3UjA4NUtkSnBDSjBSLXM1Sk5nNDBWUGEyOTFmWVdVMm9GdFRXd2xkMTdaNWdOSDJhSXpOc0VzNndMeWdtUHVwTkZyUUdCRVNUSTFTQlVNZmszeGo5c0N5X2pNZDB4Zk5CdnNEZE1sNHFPNlRMeVg4UGp6ZGVxMVlqZFJJSXp1eXZWQzU3b9IB0AFBVV95cUxPNWJPTEtOWmRSZkZQNi1ZemR1cXNuMGtCMF9LN1dETEp6aWphY3pnMTRHQzRBUGJHMkVhMXlIM2F2Vkp2V0p5ZUt4X0tiQUdvUk8zcVVCbkE1dl9GTUJLU01iTm5yaXBTTWhXUENkc05ibEVIVldkTjVQakRaeDBJR3JBVksxSjRPcGpYclU5TGZIanpkY1UyS1BxTWhEbkljdWVKS0IxdEJJMFp3SmwtSjZ2SVFTcVAwUENlYno0YzdQUHVKdE9pdHRpa2RLa09R?oc=5",
+      "published": "2026-10-12T16:50+08:00",
+      "publisher": "Simply Wall Street"
     },
     {
       "market": "台股",
@@ -268,25 +275,11 @@
       "publisher": "The Economic Times"
     },
     {
-      "market": "美股",
-      "title": "Global Market: EMs see first foreign outflow since June as Fed turns hawkish - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNNW9UcW1fSzlhOTVFTDQyTDBQSUI0RkNCOHZRVkJBTkt5Yl9UUTdsUmhRSm1pVEIwS21pLVFxVlo2aTBQaUduM1U0aTVldkxkVjJZZE40a0RPOHlUVDlmc1R4WXZ2R3RUd3h0SVRoOVV2cXl4M1p3NUMwYXF0T0IwUkhjNHRTOUJCQ0FLOF9LS2VNcVVYWXFCVHp2cU1aRmk0WnhpOWVNUlQ5LWx2aVFTUEpiUG9CdE1aZ2EwUTZMb3BRbnp3b1hwMTlHa1pWTHFWc1QwSF9jcjRJdEVVRGlmdFF3YjVza2vSAewBQVVfeXFMT1ZJejVxdl84ellIVXhZc3ZFZ2lhOUR0dVdwOEd2RHJqa2NhS0ZUMHZSMnl4NEY1c2Z0djdhNUNweFVFZlQ4TFZyRDg5bC1pNExHckhJd29qQy1zNWFfSlNldXl3NGRKWXk2dmdmSHlvY3Y3VndtYjZhMG5tLTJmeVhvTXpEMUc5SkN4bFRXY1cwbWw4YmpicVA1U2ZzNENKR1dxakNWN3l1eUJEMWRYc3hNaDhUampabTBFTWVNbW1MdGN5TndMNWhqb0dZdnlvOEppQ0I4cUtNVDQwc3g1UmI0aXY2TnRINTZrdTE?oc=5",
-      "published": "2026-10-08T13:33+08:00",
-      "publisher": "The Economic Times"
-    },
-    {
       "market": "台股",
       "title": "台股盤中跌逾600點！電子金融股走弱 | NOWNEWS今日新聞 - LINE TODAY",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VV2RDTTM3QnAxOTdPMjllcy1BTmFkM25YZkpLYnowVXFEMFVDMmU4MWFPaVNpdlMwa2JzT0N1S2RyVEVQdDJobGJkQURobkRmS05TdHNB?oc=5",
       "published": "2026-10-08T12:22+08:00",
       "publisher": "LINE TODAY"
-    },
-    {
-      "market": "美股",
-      "title": "Global Market: Japan stocks fall for second day as profit-taking, rate fears weigh - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPNnFISE1ocEJvLURaUS0wSjZsLWVMMVBETzZfZUh0Q21rYzZtY0hBQlpoSHlYcFR1TDVVdW1kYmd4TXh6VWFWejlhbjFOaFZldjdPbXE1alZXeGZsVUo3aUtobnBEem9nekw0RUt5SGZIM3pwY2YweVpCdWNZMEJnY294eVJwN2V0bkRKZXhKV3YxSUVPaUxSbDlBTVBFckgtTDluUFhGN1JVd1l1TVlkM0tPVDF4czZJaEhWRFVvLVhTV25PbGxTUlRSb0pUZDBvMXVlMUhGQldPb1l1TklzS1ZOWlJmbzh6amNCYXVR0gHzAUFVX3lxTE9TTU1Ua2FIOHYzYndmVHVTNHFzLThoR2tGcTdfSlFWRUM2WEQ1Y0tlLTRUeUtONGl0NWdhMUpFSWhKaVA1SmNnZjI2ZWl0UVM5MlZtV1lCdTlzT1ZSckRnN0dXNDB0WTJvdmRVcDJOUXh6ai1LMDg4VlZ3cEpXT09uVWNKOTdKeHNwaVVVX2dDMldxTk5vUWR2dGJmeEZXeVd5TkFLTzB4dHhaZl92VjhOQnF0Y0QzeWpkdjhud0Z4YXBpR3kycFMxVzRsTnVmME5NT2JhQ3lsbGxXYTVDWWJZZG5IWXR0S05xbDNCeVNuMm9vOA?oc=5",
-      "published": "2026-10-08T12:17+08:00",
-      "publisher": "The Economic Times"
     },
     {
       "market": "美股",
@@ -322,13 +315,6 @@
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNdG1FcUdSWWtrcGNKOFRxNmFYNmJuV2tsc1Q0UF9TZHJlclNPQ2R1czBKbFVwcDQ1X0dRRHJSdUNhVjJ3WkZWOWJnQjBNNGg1WlgzT0lxWFpUMlYwa3hVWnIzOWIwYmFwMnhXdDJ0QWpfNWpBbEFzNkhrWUFPOWJTWmdDanpQWEIyRmJBY3lnOW1BS3VwR05WbkhvVEFNUHFnQ1V6X2ZTZG9fVWVzREo0UFEzU2xvLVpTMGdlb0lLaXJ5MzAyYjQ0b0huVHF0XzA3Qzh5bFBrWXp2cVExWVNvSGFGMDU3Q05mRWRJ0gHwAUFVX3lxTE1YbnZ6ejBIRXA4RTNhLWd3R1pxdDFDSEJPZUlaa0oyUk8yZmFNZVA2SHE2RFpyM0Y3ZWRUeVFDYlBjVXhkTWhJNkRVLUVORGpRR042bGtsYUFRaW9CR2x2RENteFhha2piT0ZRUDZRaFQtM2ZxLU1Kd0Y1YkJ0R01MTXdaelBQeTRtQXMwYjFfend4NFBUTzNnRFYwTmVXaVdZNGFSMVJ6aWMxNmlkd0VLVEFIZW1kZXl5S0p3VmFjeWVDN292eXI0TVNwSXZtS2xDcVZwU0xGcGF4VENUR0NOMjlCOThJX3NGc3FsV2ZTVA?oc=5",
       "published": "2026-10-07T04:10+08:00",
       "publisher": "The Economic Times"
-    },
-    {
-      "market": "美股",
-      "title": "Dow futures jump 220 points: 5 things to know before Wall Street opens on Oct. 6 - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOXVQdDVNOEcteFFtQzEyUXA2OWxWNldMNWhLYnphNmV5NUlZTVhlbE1EX0wzcTc4QnNVOTh6c1hON2xBbFNKZ19fS3A2X2pIbG0tdlRkRm1HSWk4d0ZqRGpxLTd4QVB5cl9oVDVETDdqZUtPeDA0dm94Y1BfWlBkR25LY3Vudkt3N2JSVUtGdEllZ1lDbHRLemdvYXM2cEJDZGx1TUJuVWFpelVBTVlscXFsRWkwdVZNWlNlT1IwNUU1aDN6bzgxb08yQXVnd214?oc=5",
-      "published": "2026-10-06T19:24+08:00",
-      "publisher": "TradingView"
     }
   ],
   "events": [
