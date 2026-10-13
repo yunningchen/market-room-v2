@@ -60,6 +60,18 @@ def taiwan(key, suffix):
     if not isinstance(data, list):
         raise ValueError("Expected JSON array")
 
+    if key == "TPEX" and data:
+        print(
+            "TPEX FIELD NAMES:",
+            list(data[0].keys()),
+            flush=True,
+        )
+        print(
+            "TPEX FIRST RECORD:",
+            json.dumps(data[0], ensure_ascii=False),
+            flush=True,
+        )
+
     records = []
 
     for row in data:
