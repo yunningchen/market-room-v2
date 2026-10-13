@@ -70,7 +70,7 @@ def explanation(row):
         if rsi >= 70:
             notes.append(f'RSI {rsi:.0f}，短線偏熱，留意追高風險')
         elif rsi >= 50:
-            notes.append(f'RSI {rsi:.0f}，近期動能偏強，但不保證繼續上漲')
+            notes.append(f'RSI {rsi:.0f}，近期動能偏強')
         else:
             notes.append(f'RSI {rsi:.0f}，動能尚未明顯轉強')
     return '；'.join(notes) or '目前缺少足夠指標可解讀'
@@ -102,9 +102,25 @@ def compose(mode, now, rows):
         lines.append('')
     lines.extend([
         '💡 怎麼看？分數越高，代表越符合目前設定的技術篩選條件，不代表上漲機率。',
-        '⚠️ 使用已保存的歷史日 K 資料；不是即時行情、盤前成交價或最新財經新聞。',
-        '休市日可能沿用最近交易日資料，請看每檔的行情日期。僅供觀察，不是買賣建議。',
+        '行情為已保存的日 K 資料，請留意行情日期。',
     ])
+    # V5: add only newly detected events within 24 hours, avoiding repeated old alerts.
+    try:
+        payload = json.loads(Path('docs/data/signals.json').read_text(encoding='utf-8'))
+        cutoff = now - timedelta(hours={'morning': 11, 'tw_close': 6, 'us_pre': 7}[mode])
+        valid_markets = set().union(*(MARKETS[key] for _, key in groups))
+        events = []
+        for e in payload.get('signals', []):
+            t = datetime.fromisoformat(e['detected_utc'].replace('Z', '+00:00'))
+            if t >= cutoff and e.get('market') in valid_markets:
+                events.append(e)
+        if events:
+            lines.extend(['', '【近期技術變化】'])
+            for e in events[:3]:
+                lines.append(f"• {e.get('symbol', '?')}：{e.get('message', '')}（{e.get('date', '')}）")
+            lines.append('詳情：https://yunningchen.github.io/market-room-v2/')
+    except (OSError, ValueError, KeyError, TypeError):
+        pass
     return '\n'.join(lines)[:4900]
 
 
