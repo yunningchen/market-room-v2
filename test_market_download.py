@@ -1,86 +1,150 @@
 
-name: Market Room Download Test
+"""Read-only batch download benchmark for Market Room. No dashboard writes."""
 
-on:
-  workflow_dispatch:
+import argparse
+import csv
+import json
+import time
+from datetime import datetime, timezone
+from pathlib import Path
 
-permissions:
-  contents: read
+import pandas as pd
+import yfinance as yf
 
-jobs:
-  download-test:
-    runs-on: ubuntu-latest
-    timeout-minutes: 30
+MARKETS = {
+    "TW": {"TWSE", "TPEX"},
+    "US": {"NASDAQ", "NYSE", "NYSE American"},
+}
 
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
+def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--input", default="output/cleaned/candidates.csv")
+    parser.add_argument("--per-market", type=int, default=30)
+    parser.add_argument("--chunk-size", type=int, default=10)
+    args = parser.parse_args()
 
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          python -m pip install yfinance pandas numpy
+    if not 1 <= args.per_market <= 100:
+        parser.error("per-market must be 1..100")
+    if not 1 <= args.chunk_size <= 50:
+        parser.error("chunk-size must be 1..50")
 
-      - name: Generate stock universe
-        run: python universe.py
+    with open(args.input, encoding="utf-8-sig", newline="") as file:
+        rows = list(csv.DictReader(file))
 
-      - name: Clean stock universe
-        run: python clean_universe.py --input output/universe.csv
+    report = {
+        "generated_utc": datetime.now(timezone.utc).isoformat(),
+        "markets": {},
+    }
 
-      - name: Verify stock universe
-        run: |
-          python - <<'PY'
-          import csv
-          from pathlib import Path
+    for label, markets in MARKETS.items():
+        symbols = list(dict.fromkeys(
+            row["symbol"]
+            for row in rows
+            if row.get("market") in markets and row.get("symbol")
+        ))
+        symbols = symbols[:args.per_market]
 
-          path = Path("output/cleaned/candidates.csv")
-          if not path.exists():
-              raise SystemExit("ERROR: candidates.csv was not generated")
+        results = []
+        started = time.monotonic()
 
-          with path.open(encoding="utf-8-sig", newline="") as f:
-              rows = list(csv.DictReader(f))
+        for i in range(0, len(symbols), args.chunk_size):
+            batch = symbols[i:i + args.chunk_size]
 
-          required = {"symbol", "name", "market"}
-          if not rows or not required.issubset(rows[0]):
-              raise SystemExit("ERROR: Invalid or empty stock universe")
+            try:
+                data = yf.download(
+                    batch,
+                    period="9mo",
+                    interval="1d",
+                    auto_adjust=True,
+                    progress=False,
+                    threads=False,
+                    timeout=20,
+                    group_by="ticker",
+                )
 
-          print(f"Stock universe verified: {len(rows)} stocks")
-          PY
+                for symbol in batch:
+                    try:
+                        if isinstance(data.columns, pd.MultiIndex):
+                            if symbol in data.columns.get_level_values(0):
+                                frame = data[symbol]
+                            elif symbol in data.columns.get_level_values(1):
+                                frame = data.xs(
+                                    symbol, axis=1, level=1
+                                )
+                            else:
+                                raise ValueError(
+                                    "Ticker missing in response"
+                                )
+                        else:
+                            frame = data
 
-      - name: Run market download test
-        run: python test_market_download.py
+                        close = pd.to_numeric(
+                            frame["Close"], errors="coerce"
+                        ).dropna()
 
-      - name: Verify benchmark report
-        run: |
-          python - <<'PY'
-          import json
-          from pathlib import Path
+                        if len(close) < 90:
+                            raise ValueError(
+                                f"Only {len(close)} valid bars"
+                            )
 
-          path = Path("output/benchmark/report.json")
-          if not path.is_file():
-              raise SystemExit("ERROR: Benchmark report was not generated")
+                        results.append({
+                            "symbol": symbol,
+                            "ok": True,
+                            "last_price_date": str(
+                                pd.Timestamp(close.index[-1]).date()
+                            ),
+                            "bars": len(close),
+                        })
 
-          report = json.loads(path.read_text(encoding="utf-8"))
-          for market in ("TW", "US"):
-              data = report["markets"][market]
-              print(
-                  f"{market}: {data['successful']}/{data['attempted']} "
-                  f"success, {data['elapsed_seconds']} seconds"
-              )
+                    except Exception as exc:
+                        results.append({
+                            "symbol": symbol,
+                            "ok": False,
+                            "error": str(exc)[:160],
+                        })
 
-          print("Benchmark report verified.")
-          PY
+            except Exception as exc:
+                for symbol in batch:
+                    results.append({
+                        "symbol": symbol,
+                        "ok": False,
+                        "error": str(exc)[:160],
+                    })
 
-      - name: Upload test results
-        if: always()
-        uses: actions/upload-artifact@v4
-        with:
-          name: market-download-test-results
-          path: output/benchmark/report.json
-          if-no-files-found: error
-          retention-days: 7
+            time.sleep(1.5)
+
+        successful = sum(result["ok"] for result in results)
+
+        report["markets"][label] = {
+            "attempted": len(symbols),
+            "successful": successful,
+            "success_rate": (
+                round(successful / len(symbols), 3)
+                if symbols else 0
+            ),
+            "elapsed_seconds": round(
+                time.monotonic() - started, 1
+            ),
+            "results": results,
+        }
+
+        print(
+            f"{label}: {successful}/{len(symbols)} "
+            f"in {report['markets'][label]['elapsed_seconds']}s",
+            flush=True,
+        )
+
+    output = Path("output/benchmark")
+    output.mkdir(parents=True, exist_ok=True)
+
+    (output / "report.json").write_text(
+        json.dumps(report, ensure_ascii=False, indent=2) + "\n",
+        encoding="utf-8",
+    )
+
+    print("Benchmark report saved successfully.", flush=True)
+
+
+if __name__ == "__main__":
+    main()
