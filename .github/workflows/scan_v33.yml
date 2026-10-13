@@ -1,4 +1,3 @@
-
 name: Market Room V3.3 Rotation
 
 on:
@@ -17,44 +16,37 @@ jobs:
   scan:
     runs-on: ubuntu-latest
     timeout-minutes: 45
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
           persist-credentials: true
-
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-
       - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          python -m pip install yfinance pandas numpy
-
+        run: python -m pip install --upgrade pip yfinance pandas numpy
       - name: Generate stock universe
         run: python universe.py
-
       - name: Clean stock universe
-        run: |
-          python clean_universe.py --input output/universe.csv
-
+        run: python clean_universe.py --input output/universe.csv
       - name: Run next batch and merge rankings
+        run: python scanner_v33.py --input output/cleaned/candidates.csv --limit 100
+      - name: Update dashboard data
         run: |
-          python scanner_v33.py --input output/cleaned/candidates.csv --limit 100
-
-      - name: Save rotation state and master ranking
+          mkdir -p docs/data
+          cp output/v33/fresh_ranking.csv docs/data/ranking.csv
+          cp output/v33/report.json docs/data/status.json
+      - name: Save rotation state, master and dashboard
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/v33/state.json data/v33/master.csv
+          git add data/v33/state.json data/v33/master.csv docs/data/ranking.csv docs/data/status.json
           if ! git diff --cached --quiet; then
-            git commit -m "Update V3.3 batch progress and rankings"
+            git commit -m "Update V3.3 progress and V4 dashboard"
             git push
           fi
-
       - name: Upload results and diagnostics
         if: always()
         uses: actions/upload-artifact@v4
