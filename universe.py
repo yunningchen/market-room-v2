@@ -100,14 +100,15 @@ def taiwan(key, suffix):
             or ""
         ).strip()
 
+        
         name = str(
             row.get("公司名稱")
             or row.get("公司簡稱")
-            or row.get("CompanyName")
             or row.get("CompanyAbbreviation")
-            or row.get("CompanyShortName")
+            or row.get("CompanyName")
             or ""
         ).strip()
+
 
         if len(code) == 4 and code.isdigit():
             records.append({
