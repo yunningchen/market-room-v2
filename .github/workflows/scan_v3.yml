@@ -24,22 +24,23 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install yfinance pandas numpy
+          python -m pip install yfinance pandas numpy
 
       - name: Generate stock universe
         run: python universe.py
 
       - name: Clean stock universe
-        run: python clean_universe.py --input output/universe.csv
+        run: |
+          python clean_universe.py --input output/universe.csv
 
       - name: Inspect cleaning outputs
         run: |
           echo "Available CSV files:"
-          find . -maxdepth 4 -type f -name "*.csv" -print
+          find output -maxdepth 4 -type f -name "*.csv" -print
 
       - name: Run V3 technical scanner
-        run: python scanner_v3.py
-
+        run: |
+          python scanner_v3.py --input output/cleaned/candidates.csv
 
       - name: Upload V3 results
         if: always()
