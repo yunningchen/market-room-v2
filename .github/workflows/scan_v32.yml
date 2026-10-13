@@ -30,8 +30,7 @@ jobs:
         run: python universe.py
 
       - name: Clean stock universe
-        run: |
-          python clean_universe.py --input output/universe.csv
+        run: python clean_universe.py --input output/universe.csv
 
       - name: Inspect cleaning outputs
         run: |
@@ -40,7 +39,7 @@ jobs:
 
       - name: Run V3.2 technical scanner
         run: |
-          python scanner_v32.py --input output/cleaned/candidates.csv --limit 100 --offset 0
+          python scanner_v32.py --input output/cleaned/candidates.csv --limit 100 --batch-index 0
 
       - name: Upload V3.2 results
         if: always()
