@@ -1,19 +1,26 @@
 {
-  "updated_at": "2026-10-14T08:59:36+08:00",
+  "updated_at": "2026-10-14T12:49:39+08:00",
   "news": [
+    {
+      "market": "美股",
+      "title": "Asian markets mixed as tech firms claw back some losses - Yahoo Finance Singapore",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZ0ZVbHdPd0NLb3dGSXR3MjlnbzNhc09td3hTRWMxWHcxVDhrZ0ltN0J2NlcwWTJ6eWNtaHkxX0xTTUZpazIyaGZCMDNBYXN4UlZtNE9XZjlJb2RqdkJYam9nQkUyN1NyckVTbktoU1ZXdjNuWkRVaUp5RnpZV3U4TkxaaExsZw?oc=5",
+      "published": "2026-10-14T10:56+08:00",
+      "publisher": "Yahoo Finance Singapore"
+    },
+    {
+      "market": "美股",
+      "title": "Bitget UEX Daily | US Stocks Edge Lower; Bank Earnings Diverge; AI Chip Shares Remain Under Pressure (October 14, 2026) - Bitget",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1pTmc4SENUR1pGUGJQUHVNdW43Ri1tZldIWm5mYnZCeWgzNktsT3g3Wi03VEpQUE15T1ZNNWhqUDNkM2pvNHlrLUF5Ny1ENmFvLUQwb2JMWWVFTDBsYmZYOUJDd9IBY0FVX3lxTE1pTmc4SENUR1pGUGJQUHVNdW43Ri1tZldIWm5mYnZCeWgzNktsT3g3Wi03VEpQUE15T1ZNNWhqUDNkM2pvNHlrLUF5Ny1ENmFvLUQwb2JMWWVFTDBsYmZYOUJDdw?oc=5",
+      "published": "2026-10-14T09:29+08:00",
+      "publisher": "Bitget"
+    },
     {
       "market": "美股",
       "title": "Trading Day: Earnings season debuts to mixed reviews - Yahoo Finance Singapore",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOE9ldk9uUjdveEViaFhpNDhRR0MzX0ZIYldyczVwWUtWRnp4SDd4bGMwaDBkanhvX21yTWROLVRhLWNJeGNDT19zeVEydE1DVUU2cU93Rjd0aHZaUUZjdElveHRXN3RZYXhOUWZQWGFsc1NFMXdUR3puWlpjVWp3UzI0c3k0QlprQjhB?oc=5",
       "published": "2026-10-14T05:05+08:00",
       "publisher": "Yahoo Finance Singapore"
-    },
-    {
-      "market": "美股",
-      "title": "US Stock Market Today LIVE: Dow Jones Gains 0.47%, S&P 500 Falls 0.15% & Nasdaq Drops 0.39% as Chip Stocks Slide; Check What Investors Should Know - The Sunday Guardian",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNdW5NTFEwWHJxbkpfSWo4bW1LRVg4dGJxbG0tWHpzcnRKMjdsU01lX2dPSE9qZDhMZThFVEI5NWtHeFdpc21PazczYVpDNE1tV1VjWEZESExzOU9YNzFaejRQaEswYWhMd2F0MXEtdUpFc1A0OHhMbHZNZ1ZVRkxmb1kxSFVuYk1maUdNVFJ3MUhCSXgyX2ZnNlN5M2w5QWRGUFhTY1RwZkl5TWpXWGtSMmxQUmV5UXNWRHRESEtJSUp5cG5mdFliNmZMZmZGX0s1VWE4alN4bTA1VzBMWTMtaWpmQ01VblpKc1hKMUZDR1ZmOWZ6aV9zTWlZajhNTElJT1VOQmlvZWxyU3dGUjRZ0gGUAkFVX3lxTE9hS0VzT0JycnRobDJGSlZWLU1MTmtWbm1PNjhlUjFvcngxVjZBbExBc2hoVVRVNmd6b00wMkxPSWh1dWZaZ1N1czFpdXZMUzNoNUU2djM2ZXYwQVlEaFBna01fbm14TnBQSktNR25ueUc4YWZ0QzVJMXl2STBVOUZRa016M3hfWDVYVkpEajVoNEh4VW1DX2h6ZDZkbEVkQm94SjdyTFVvSnhsQy1BZ1ZKbFFQdWpfYW9EUDB6ZVdabVhvenBoX0NIR3pPMWhjTjZUS1l4SmxkNXQtSzdVX1hRTmQ0Z0poa19sNE84YUdLeUlyNnBZUUhMNnRVSDRyZF9EVnpaY2p6TnE2UTRMLWRxSUwwcw?oc=5",
-      "published": "2026-10-13T22:54+08:00",
-      "publisher": "The Sunday Guardian"
     },
     {
       "market": "美股",
@@ -59,6 +66,13 @@
     },
     {
       "market": "美股",
+      "title": "US Stocks Set for Muted Open as Inflation Report and Bank Earnings Approach: Dow Jones, S&P, Nasdaq, Futures - Yahoo Finance UK",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1uZGRBdjRqMHNUWDJnUTkxY3Y5RDd6c2QtenZzeEF5SllJZjEzRHVBblRJOHFmMGpHWWJzdUpKYThfSVNJSU1MMDhhMHVKcGwyYkJlODl5ZElXUGo3cDFJX2wxM1dPTm9fUWtHRElIVVZTZ0doV3VaSXdaRW9DUQ?oc=5",
+      "published": "2026-10-12T21:18+08:00",
+      "publisher": "Yahoo Finance UK"
+    },
+    {
+      "market": "美股",
       "title": "US STOCKS-US stock futures muted as oil stays above $100 ahead of earnings - Devdiscourse",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUDFIeGZNOFlfVW9TbUFXWTYzVzV0NzU1OUt1dzctVFd0OW1tVkRfaWRmQkpuZ2tvLWNTVzUwUVJpdnQ5QWxmZWp6TS0xbXFPZGc3QkViU3pyUElYOE9ScFF3UkUwSUppeHhNY1IyZ3pwbFNLRWlncVdsM2JlczJhZjNKcC1felUyX09GS0NEemI5bEZObmFabFVQMVZUTGl3LURjQklrMWxkT0F5MDJzbi1hNXhxd3N6T05VSXA4MUtISGhHQ2VSM3RGdmY1Zk5Td2fSAdIBQVVfeXFMTlAxSHhmTThZX1VvU21BV1k2M1c1dDc1NTlLdXc3LVRXdDltbVZEX2lkZkJKbmdrby1jU1c1MFFSaXZ0OUFsZmVqek0tMW1xT2RnN0JFYlN6clBJWDhPUnBRd1JFMElKaXh4TWNSMmd6cGxTS0VpZ3FXbDNiZXMyYWYzSnAtX3pVMl9PRktDRHpiOWxGTm5hWmxVUDFWVExpdy1EY0JJazFsZE9BeTAyc24tYTV4cXdzek9OVUlwODFLSEhoR0NlUjN0RnZmNWZOU3dn?oc=5",
       "published": "2026-10-12T18:05+08:00",
@@ -70,6 +84,13 @@
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMUxUSFlGQk5EekxtX2p4UUdkTFRNdzhxTWJtY25TWmM4R0FpMGF4cEVoSGl4aDBVQUppbEowN3N0OVR6eTd5T2VzTS1Ycy1MUU5LWDZRV0tNSkFtS001WTVhcmdfNVBEbWtCYkpwNDFqcVF6LThKUk94aFFaMThXWQ?oc=5",
       "published": "2026-10-12T16:19+08:00",
       "publisher": "CMoney投資網誌"
+    },
+    {
+      "market": "財報新聞",
+      "title": "台積電法說會本週登場！專家估大盤指數「高點震盪」：5萬點絕非行情終點 - 民視財經網",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9JdjktVEFXWUg1amV2VlBfZUVNOC0tYVE1dS01SXJPWFNaekdBMW5QOU0zZGx6eWNQRURDUDh3cE1FemxERHRpQkdFTXNFa1FRaHAyRUhTV3BfNm8zU3ZQUTg1ZUYydw?oc=5",
+      "published": "2026-10-12T16:08+08:00",
+      "publisher": "民視財經網"
     },
     {
       "market": "美股",
@@ -91,6 +112,13 @@
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FaldPMXN2R05mTHVfa3Z2Z0FKdkQyR2RwR2NiS3E1OXFNZlViQTJUanF0V0lXWDhudzJENUZmT3lCalh3Um5VTmxFTHJaRHVXWUxMYlhtWUxqd9IBX0FVX3lxTE5ZbWtQb3Q2WGFsZUstaDYtNl9lSGIyN01ZODUyaU9UZUZkOTd6dkpWY0dCMmx0N2hwSGFNV1JpYTI4Z0N4a01yS0FYeWJWbXRfSGtSd1NSX2drSXk0Y0Fn?oc=5",
       "published": "2026-10-12T11:43+08:00",
       "publisher": "經濟日報"
+    },
+    {
+      "market": "財報新聞",
+      "title": "台股開盤》電子權值承壓 大盤跳水逾400點！本週聚焦南亞科、台積法說 | Newtalk - LINE TODAY",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kTWlFaXhycXZOWE80UWw0bE4wa01jVjZ3aWFrMGVTUHdtZEd4MVNVZDVVaXZBY1JSV2xVSXRWdUdFV0lzVnlXTFdSQ0dncUJWRTZaVkdB?oc=5",
+      "published": "2026-10-12T09:38+08:00",
+      "publisher": "LINE TODAY"
     },
     {
       "market": "財報新聞",
@@ -135,6 +163,13 @@
       "publisher": "TradingKey"
     },
     {
+      "market": "財報新聞",
+      "title": "台股本周開盤挫勒等？ 專家曝「這些族群」買盤可留意 | CTWANT - LINE TODAY",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5DMWJKS19NbkZOeUY5TEVjd3pZOUlQWXBaaTZ4YVUxUnlOTnk4OVZPSTU0QWVIem5rR3BOc0FDNFNkQWNSc0hYWFNkQlRscXk5X1c1UkR3?oc=5",
+      "published": "2026-10-11T13:50+08:00",
+      "publisher": "LINE TODAY"
+    },
+    {
       "market": "美股",
       "title": "Week Ahead: US inflation data, major bank earnings to drive Wall Street - Livemint",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWmlOWUlaOFppVUFpcE42em9haFdSRFJZSEZ4T2Rpd2tPckx4TF9iNy1tbkpxemlBTlVfcXpyMU1fa3BCMFpsTEhWSXpOSHpiMEVTdVQySU00QlZ0NHBnb3N5YVlVc1JHcTdaVVVodFZRd3dSV1dGcFYxTlpJVDhNLUFITWsxTDg0b0I4RmVMN0VkNEh2QTRSVWNWOXBycjFCbVJsalhnY1V6T3YtMldtbmZzOVRpVElhR2NIS3BSZHpabFR6X1BnZlVWYXVoQ1RmMS03MG5R0gHbAUFVX3lxTE9NYWZfTk5nRkFFYnZqOEU5dXVSY3FkclhMSXk0NzVJTkJKS210bUswUFdWWUhwLTBBWXlsWVlfbElBS21sYVR0SXJRZjJkTUZOYllaUGtnN3Nwa3RjX2dOdTYweG1Kc0ZJOFI4Z1FwYjVndHFVLWpVNm9GMjRudTdGMWZETDhoQTl6Z2VXWG1uNDQ1cm8wblFGSkY3VEhpQWNkd1FXMEhyNE9oUEVDVE5WYTRVWk1FZEJ0MWxKdjJ0T29OWXlDaUNRYVZCUUtxbmRGeVhveUMzRXhTQQ?oc=5",
@@ -167,13 +202,6 @@
       "title": "US bull market nears fourth anniversary, but narrow rally raises risks - The Economic Times",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPLWFtVFFzVXNqN2N6akFaMHMtbVdZLWdDZjZDUkRUd0p3VW9DTkt2bHdycGxZOC1MT3ZMWTdCNzduMXlJbzlrQWZiRWVaNGs2WURmMnhlYzJjRk1USVlPNnV1OERWTHFZWV9IaThSeUFjbnFyaVJwT3o1b055R1QxQ0dybi14SFEwclhGWFRMMHBpYUR1VGpBZm1fNEVaVWx6WDBjZF9DbkduV1lMRER2RkZjZzZSd2w1aTBaMkFsSWQwTjhPTi0tUmpUR0s1M1Z2ZDhta2JrblNpRk5EQ3pzaHN1NjlYRXFIZ0dCWlJDcHPSAfYBQVVfeXFMUGFVcnI0eXR3bVpYV0ZrR21oYzVXYnc1VUd2NElveE95emM5VjJSTHV6UmpydTJjZ0k3bWdldzRxS2hLTWZaTlgyMFgxZ1RCaEN4aU05MDd4b0JZS0ZZNkg1UjBnRzRFNUhEZVRYX2JiZTV6ZlhodlZfTG1BY29SbnJRMnprSTBrUGJGSFhCc2lNWkI1dXQyYjJSdldQRklEWDdYUng0SlZiZGF3WHNHOUJQckpRN2hPZXlQS2hFRjgxNUhocncwMXpOMU51cURwdFZpX1JZbE05NDBuSDV0M3RPTzdrZDlKM3dobkxBMXVsYzNTOFVn?oc=5",
       "published": "2026-10-10T00:53+08:00",
-      "publisher": "The Economic Times"
-    },
-    {
-      "market": "美股",
-      "title": "US stocks: US market rises as oil retreats; SpaceX spectrum deal hammers telecoms - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPa0pvd3BaZEtzeVliZGxSM2c0dG8tZ0F3NHdmQWlhcWdzUjlIQ0hUWjU2ZElnVkVDdURRLW12UUVkRVNQN3lzc1lraW5BSjNsOXJhYk5Ga3R2bzRrb2xHMFdKb25Ed0tKbEkyTFRDNGN2amNkTkdqRVBJb1pvYlJmZDVsZ2c3dlE3alUyQmVfSFd6RENETzJEaU1tWFd1TG5MNTB1OFpWNEIzd01CaHREUFJjQ2x3N1lRVDZodU5CVmJqdzNzcnBsOXAxdllzZUticDZReWhVNVQtNFRuZThnd2hfajNucHpMNmljdjBKSFhUaXFramRlRk4xb1ZxMnVId0HSAYcCQVVfeXFMTUhueWRhMVFMcXQxMzJ2RXVoTlEwb1dWbVpBSlREa0lYaHlHbWhkcm45dFVpQTYtX3Z2LW5zcm5YRVFEQ2ZMSGFtS3E3X3VmN0poTmIzajFkM2pNYlhwRFlJTzVKU0lITXJ6V04tVElnd0p2Q1diejlaaFQyNkk5WnI3RXpFS1JVbzBUUjl5T1otT29VOVBrRzVIMWZaR3NWUHVLNlhPcE5MZGpuZC1qa1FmY2syejFJZnhGMjJMRmluanQwRjdHTzVHTTBmMW8yT0VESzZ1Nm5seWh5VHZ5WW1SWkVRLUwzRFpRZTJEVlZjdUZWYThYY2tBeElmZ0dyc0dZV0FKV3c?oc=5",
-      "published": "2026-10-09T21:56+08:00",
       "publisher": "The Economic Times"
     },
     {
