@@ -1,12 +1,26 @@
 {
-  "updated_at": "2026-10-14T16:51:22+08:00",
+  "updated_at": "2026-10-14T20:58:50+08:00",
   "news": [
+    {
+      "market": "財報新聞",
+      "title": "台股美股庫存終於能一起看，AI重押部位藏了多大風險？-孔明投資長 - CMoney投資網誌",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44dmFxaEFUS2h0X2F5OEtXTWRURWNDZ0FFMHI5Vm9SWDlPY0NLTEdFYWcwT01zazhpVlpyMms5ME9TYkdkSTl2ajBCRnBfdVdDSFAyQzJhV014NXhCWFdYek5aNDlLTmdLdmpPUmo1VXYzU0Z0cjEtYzJGUXNobHM?oc=5",
+      "published": "2026-10-14T16:59+08:00",
+      "publisher": "CMoney投資網誌"
+    },
     {
       "market": "財報新聞",
       "title": "長榮漲停原因是什麼？9月營收年增63.75%，還要看運價與貨量-實習大人-林序安 - CMoney投資網誌",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMVMwSzFvV2F2cWR1RHZWZlVmMlFFdjFfcV9ZMWVPbGh4bmNOaGpwNjdZQUktM0JtYmxxRW0tSHpFVGJ4WUhOdEtxSEdPb25XN19XTXZNMENJT2UweXNlV3l5VERoZktCT3Z4Rk1lWlFCYkdacEwtM1hYZFVfdjh4bTY3NU9zZG1UZGVNUTdFSmpESGNfcHVXQ3dxTzBDS1ljMHh0ay1MVDNrNnd4YWdLdU5BdWo5b0NzSVRyU0xPWVlCeUNVdi1FOQ?oc=5",
       "published": "2026-10-14T16:37+08:00",
       "publisher": "CMoney投資網誌"
+    },
+    {
+      "market": "美股",
+      "title": "Market Movers blog: US bank results bonanza fails to move indices - Investment Week",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5mZHNUUnlOeExDV2hSRjhxWEs0blpwaGhqUzIzQ054d1JaTnNIcGZWbkhtTDVwZFdwUXM5ekRkX2Z5UFJEWW5uMGtRSzVnd2NwZDFRUWZnYm9JWHFlTUptZzJGSHdKOS1oTEJxOUk0bFRWdw?oc=5",
+      "published": "2026-10-14T15:57+08:00",
+      "publisher": "Investment Week"
     },
     {
       "market": "財報新聞",
@@ -16,11 +30,25 @@
       "publisher": "鏡週刊Mirror Media"
     },
     {
+      "market": "美股",
+      "title": "Global Market: China stocks slip as AI selloff deepens, mixed inflation data weighs - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNSUtxWElxbzBpM0VBVHA3dGpFT3ZwREt1RlR4bEZFVEpXWGFzMTA3aTllNmRZVHpLTWJ3NnBkbGdqVzRRLVZBT1J5Y1JPcG93SVZtLWphQ0s4WXVpbVMyc0ZDSG9WVy1ZZ2NwZGNkVkRuaXZRTGk4cFhuMHZoY0J6VjZBUEkwdVJ6U3dFeUszc0NmdmNDSDNVNzZoQ0F0RUNaaVVzZDk1TXpGV0xmbGJpdHlPX0pVdHVTVklvTGQzcnc0VzRMSjdScEp2R0paVzhwbHBjeXc3dlY4X3dXb2l6SnFCLWNpM2J3M19nbmxYONIB9AFBVV95cUxNOG1mTndCeVJLOFZSdjd0OG9GZlNDNjNZeFd5QmxrQUJjVDNoT0wzQk5sMUtNdUZTV0NLWXoyR3pDYkozY0xTcHdiWTc1ZUxTU3JvT3BObUluRHNvbXJLTkpmWE40SWY1ZnJsVDRYWFBHZ1N2SWRBaUJwTGJWaHdyb1hQbmc3Nmtjd19Kb3A5UFM1T01DODlJSXUxa29tZXRDQ2VSRVAzU3JGZG9sTTE5eFotaWtwYTNwYlRuYkVOMjd0Nk5ROUFRV2dET25LbTcyLXoxZ1BSdUdSbGlrY1A1SnZMVFhpUWFGcW5jSnl4cXNTQUxY?oc=5",
+      "published": "2026-10-14T13:41+08:00",
+      "publisher": "The Economic Times"
+    },
+    {
       "market": "財報新聞",
       "title": "台股漲多的科技股再次面臨財報檢驗 等待美股財報、台積電法說 - 經濟日報",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONXctMUs5RHoyektudVlHYkhjaXMxYW50cnBTeVVjWHI5OHN1U2lTOXpob29keHJpVUFkS2RPWmM5MDlsbE5uQ1NrTzNKWTAwMnpnd2tqRy1pa1d5dzdjcHRIUTd5ekoxOTBURlFIcS1qWkhicThBdEJ2RDJDRDltetIBX0FVX3lxTE5uZmFiNXZLZXZhdTg5WkNrcW1BcmNuNnVsUzlFekhNRG1PaHRDdk9FaHhQT2JyRGtrRE9SdnhZQkQtaEd1aXZRNDNvakRsaDZhcWt0cmpFVW5FaG1HWV9Z?oc=5",
       "published": "2026-10-14T13:21+08:00",
       "publisher": "經濟日報"
+    },
+    {
+      "market": "美股",
+      "title": "Global Market: China’s yuan firms as investors await US CPI data, assess inflation - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNYkpzVWh6V2JsNUJQTU44UFJWZjhjS1lwYUtadk8zX3pCN0x2UHRib0dXVnliY3B6ZE44S2UwYnFwTXdKWTEtRWlvVDlUUi11c0VkLS1LYWgtaW1jWTY3N1ZRZ2djLUtKX212b3RBSTJSY0t6RGFCdzJJU24tNHN0MnhKVTV1U0Q1QTNtTDdISFhYMThWUVBtUzV5Y2llYUxWR2IwWFdsX1d0NVk5cTA0bFhZS2NaaWR3OEwzMTFiUlA0OHg5OE14NlJyUWl0VkI5UU5iU1pHOF9TSWtQTUV2VXZpVk9lSmdSUDVYTtIB8gFBVV95cUxPbzdSaU5nd3RKcWlJNjI2eEFQLUYyZXJKLVl3TmM5clZXYk5Yb2dHNXMxUG9tYWlTWVE1NGxxeVYyZ3BSX3JEQTg3dVVLWkgtaDlNSXU0dkktNk5EVG00VDJBQnV3eHFHVWNUejlPeWlIOVRxTmNieWtoa2tmZVNZYU84Z3BQc0ZQdVdrYldnTk9Td1BKQno1dV90Y2pOZ1VIWFpXVmRRMkZWb2JNS1hMRmY3eTZxZW5ySEZNTG90SUVCX1BqNlBYTE5wYlF0aExXZVM3QVZkZnB2aFQzSHBQSFdKbkpybzNCVGpLRlpwRktjZw?oc=5",
+      "published": "2026-10-14T12:42+08:00",
+      "publisher": "The Economic Times"
     },
     {
       "market": "美股",
@@ -38,20 +66,6 @@
     },
     {
       "market": "美股",
-      "title": "Global Market Today: Asian stocks rise on Fed rate signal, oil gains - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOd0s3a3cxNjhhZVB5NmRQQlZ2U20yaC04UDVwMk1nUV9Da01URGNwVUdudmZ5UmplUWJ1bU9JcFRrVlR3dGFuWFBaUHlIaXhBN2hLaDk3NGFTYU5XcWdNTzZmdUZZTmpMaVF6eXk0dGVtOFFSMXhJakU3SkFvNFp1TEROdWdGbU9yeGdvbkZVaWZXUFhZMnA2cWJPNGpUZFdscnBheEU5cmxaYzRRYUNQQl9mRF9QdVZXZmNNTzdFVnpHUFYtWDVSUEktNWNtS3VFX1NzS0xMUnVSVknSAeABQVVfeXFMUHI4MDJUOVVVQlBNLXc0S0pmak85bVRJMUFNTEJjR2xhcTNxaFU0UVVqMkxMTnhnVlJOQ0N4Y3ZUcWZ0d0F4VTdzZmhqTGdCNVd0X0dkaTM4d3pYRHJhQkhXRzhNYmVndGp2andEekJhYVNQTGtSYmtIRVJ1RkJ1Q2N0X2huMl9EWkZmcjVIYzM0WDBVRjAtRWFQbUVNU1pCQnc5OE9wemlKbzR0dWY1eUpRcVphWTlTd1k0V0FySGZoZ0w0MzhMYmljVWx0Rjd2QXEwWk43WWtITWRmblZGYUc?oc=5",
-      "published": "2026-10-14T09:01+08:00",
-      "publisher": "The Economic Times"
-    },
-    {
-      "market": "美股",
-      "title": "Stocks Erase Gains After ASML, Dollar Declines: Markets Wrap - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQkdpWnlfNjZqMGFBMUtMU1JNdFhzem9kbFhSR3Z0Qnl0ZkVacmR6TzRSQXBvMU5SNElCUkEtWFpueWhuWWNGdUR2dkVPcVdtQmRuT1VuRVVldlhDaW1lRHhYdHF6cTQxNUJNb3F1V0ZrNWszNGlsbllLTkR0SGs1ZXo0NHY3eW9aYmxuSnZkNy1MSS1k?oc=5",
-      "published": "2026-10-14T06:03+08:00",
-      "publisher": "Bloomberg.com"
-    },
-    {
-      "market": "美股",
       "title": "Trading Day: Earnings season debuts to mixed reviews - Yahoo Finance Singapore",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOE9ldk9uUjdveEViaFhpNDhRR0MzX0ZIYldyczVwWUtWRnp4SDd4bGMwaDBkanhvX21yTWROLVRhLWNJeGNDT19zeVEydE1DVUU2cU93Rjd0aHZaUUZjdElveHRXN3RZYXhOUWZQWGFsc1NFMXdUR3puWlpjVWp3UzI0c3k0QlprQjhB?oc=5",
       "published": "2026-10-14T05:05+08:00",
@@ -66,10 +80,10 @@
     },
     {
       "market": "美股",
-      "title": "Market Movers blog: Oil prices remain high despite energy deal rumours - Investment Week",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5mZHNUUnlOeExDV2hSRjhxWEs0blpwaGhqUzIzQ054d1JaTnNIcGZWbkhtTDVwZFdwUXM5ekRkX2Z5UFJEWW5uMGtRSzVnd2NwZDFRUWZnYm9JWHFlTUptZzJGSHdKOS1oTEJxOUk0bFRWdw?oc=5",
-      "published": "2026-10-13T17:28+08:00",
-      "publisher": "Investment Week"
+      "title": "Dow closes 198 pts higher as US stocks close mixed ahead of earnings - Invezz",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcFZTcllKN1ZsVXJDcU9teWgxZ00zMGRveF9udEJhTjlvcmVfM0ZhLXNqOG1ma25MWDRtSzl0UFFXLWlCUFhsRVpEV1JPcUdrNDNBU3hHVHpFVEliZWMwdldTWUV3U3o3VHdNemM2VC03a0VYbUE1RmZJNllrem1NaFo5SkJ6NlNtR1VObC1HSlBuTGsxRS1YbEpqOW5MREVmQjBMVGhXNA?oc=5",
+      "published": "2026-10-13T04:20+08:00",
+      "publisher": "Invezz"
     },
     {
       "market": "美股",
@@ -234,13 +248,6 @@
     },
     {
       "market": "美股",
-      "title": "US bank earnings in focus as Treasury yields surge, raising concerns over lending and dealmaking - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOWWlEQ1ExX01zLVNPMWtJa3g5b09VUklubzdHUklwSGxzZExnU09hS3YtNnFJXzBGU3NLWlZjVldWY1hpcGtIXzZxeEhHVl9ZQjRLdXhkVEF3OXVhNkhodTk0blROMU9wN2tNWFgxYk9ncmtrVTF5Rm1lQ05Nb0N2T2VIRXp0SUU4cXZhX1hxeHdDV1l6T1FUbWgxR1JaRE9fLWtQamxmci1kUTAtbWdCOFdxM0JBMF9wVHd0ZUdUbHhsbmRYeTZuNGl0d1B2NmVtYTR0TF9NZUtpM2twbWQzaTllb3JVTTJsYjVubVVxOGNYbUw2TkpObUczRG9KRGFzSUhXYk5yeHVTdUZhUGJQNmtrUdIBmAJBVV95cUxNMWVhS3JXN2R2VjBVbkQ3eHM1RmtIYUdqNWJkZlRUVVZndXU3QkxTaXFhVUl2cS1hQldtN3FreVFLcDlOMlB3OUY0TEwzTHI0RGt5dlFVbF9RUUVQR1RzVHAtR1dvTnE0Q3VpQ3hjOEJ5SDEyMzhuY1RPbGpUNWVwZFNkUnVZNTMzX0VwcGFDYnB3YzNpcnRHeEZSZHFnVVluSUJzeHhleGFoQ1VWZDkwbXd5WVNOVHpGQWpCZEd5eC1oZ3VraFJUcU1rV2c0cjJuVjh0ZXd6ejJSQVlZX2Z6clBzeTFubHBSTEFSRzZOU1Q1NERSb2ZWVS1nREhhYnBvemtlaDlBM2JYQXgzSjk2aXc2dWQzTG4w?oc=5",
-      "published": "2026-10-09T12:18+08:00",
-      "publisher": "The Economic Times"
-    },
-    {
-      "market": "美股",
       "title": "Global Market: Wall Street in focus as US jobless claims ease amid Fed rate uncertainty - The Economic Times",
       "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNckRiempTck1QejNVLWQ4TDNRREtNWGdwSlQtNV9rTVd5Q1VpUlp0ejFnSW4tRFpDS2RmaFB5LW1TZHlSdnEwVFhwa1BNVVV1ZlBaMjViby1vWHBpOE1ZelAxLUFhQ1FIVVVZSjJuOFRBOUliWHdRX1Fmb2UzMlJNVzc4WlprcmN3OFRXaTBJcDRPLWd5NjZzSHlNbmMtWXdFZWhzVjBsWHk1NG9UNzNMVmVsTnZBemRTWjBmLWJJR2hCeHBsX0YzRENzUkljalY2U0RVdmktMGYxSzNMUllReXJtaUxXUHNxN2VzNjcxcEQwdThfNDcwa1BOUFJ1dXE5TVBCOUEzTdIBjAJBVV95cUxQUlkxclRRcnBwcEctU1NFaW5EREI5eTJzLTA5SmlEME1ZTDFWU0NxQ2FxMW9yR0Y3OUVHYnpFenFwYnI5WmRSblhYUGdORTFwM1Q4N0twbl8xam4tUVppZlNNdmZLaUZGMFZ2WmxkdGlsdzFfcDVmTnI2MlNDQ1RmT29SV2x0TkVwSzhaLTViN2gwamx6MFR3NjEwR0FUeHQyWmxQRFV6VjRPZDV5enlHZHhaWFA3VzRLU2JtY0RuazNXaTI1STBOeERtYnlTQUhXRkpLajBEWjdyMFBFeVBkSjM0MXhieVBkUXBtQXFNQ0QxQWlsek5sMk0xS0NXWE5QOE5yUDlqU2JJY0Ja?oc=5",
       "published": "2026-10-09T12:06+08:00",
@@ -252,20 +259,6 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAyTVptWVN6NmJmSnpMVlFXNlJKQUpOaTIxbGZYTlF4TzZsN3NsVWFnRHhvc0dYd3BOTEU0Sk1CRUhkeU1rcmRQVnFpeVc4RHlEMXJscWFjTlVJa2dKMEdhNlZ3OGpwWExxMEtnUEVhNnJyYkxhbkE?oc=5",
       "published": "2026-10-09T06:55+08:00",
       "publisher": "BigGo Finance"
-    },
-    {
-      "market": "財報新聞",
-      "title": "美股多收黑 OpenAI 年化營收低於投資人預期拖累AI股 - 經濟日報",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5RaDlhSWtlQXFZNVhDM2NRcklISHhiaHlSdF9iOFA2OFprRkY1WnZvekw3Zk5XMTJ5VVdkWFM2LXBybFZUWVZSYUxVVU5MaHBKT0ZER3FZQmRsbHFu0gFiQVVfeXFMTkUwMUg2bDhKalFycDRmRU43b3lkdVo3VVlSRDZkTkVQRmJiQUNIQUxvT3ItTlNSNzFGdEl1U1YzNk5QeWFkTjRhSzluMTI5VkNOSk1HakZ2YlZCNTNXbVo1WHc?oc=5",
-      "published": "2026-10-09T05:30+08:00",
-      "publisher": "經濟日報"
-    },
-    {
-      "market": "美股",
-      "title": "Tech stocks drag Nasdaq lower on report of OpenAI revenue fall, high yields - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNa095RGFtR0N5cXRacUlud2VlODNkak0yZVZuY19GYkE3RnZXbjlvMkF3Yy1Bem5HWWJfMm1qS0RtSU9pOWhkOUs2cTVuYjNVeW5nMEJDY2RXX1A4akZZLXd4LTMxU2JZYlV3RDg1eC10OXE2VGRPQ05PcGhIVDlGeVhwd2Nub3NSWmxJaXNxRHcwUmIxUFpRLU83VDlVbW41THM1THNJUXdyMmZzd0ZETVM4WEpVMV9WYVdZazc5Q1k3dFNuNURCTmtkeTc4RWdack5OejJWOUtkcXMyM0o3YmZpR0dVbGRYbkNkSlNEdHBTOWI2OTJB0gH8AUFVX3lxTE9BbThXSFJMUVd2R3JmMlNCSnlLcjhVS3NTTHZ1RTJIdnNFVTRnR2FQTTZCNFprMll2cGt4QkRCYWQ0a0ItdV81TUdFeEp5RzRqaEVVT1dPWVozV2Ixc2dGaHRkc3RaUEF5NXdJeGlpODhEd3hQalJoeXF4U0tWNzJneHV1anAtaDc5eWVxc1dCR2hmNWRoYVF1dmp1dkhRRnhabngtd0NIYjRzWkJxZHo3UzdveUZRbzNkY1ZmT1JZZEJ5YlM0U3NWemhqM1Y5SmFLcVhZandWTzdLbmdlNkVudklqWnh1OTdMQnR3d0NZLUctQjk3YUxudzdZMw?oc=5",
-      "published": "2026-10-09T03:56+08:00",
-      "publisher": "The Economic Times"
     },
     {
       "market": "美股",
@@ -642,6 +635,14 @@
       "company": "旺宏",
       "type": "台股法說會",
       "datetime": "2026-10-27T16:00+08:00",
+      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=40",
+      "source": "TDCC 公司投資人關係整合平台"
+    },
+    {
+      "symbol": "2303",
+      "company": "聯電",
+      "type": "台股法說會",
+      "datetime": "2026-10-28T17:00+08:00",
       "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=40",
       "source": "TDCC 公司投資人關係整合平台"
     }
