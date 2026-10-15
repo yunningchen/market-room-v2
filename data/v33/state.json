@@ -1,9 +1,9 @@
 {
-  "next_batch": 29,
-  "last_batch": 28,
+  "next_batch": 30,
+  "last_batch": 29,
   "total_batches": 70,
   "candidate_count": 6948,
-  "last_run_utc": "2026-10-15T06:41:02.715177+00:00",
-  "last_batch_success": 99,
-  "last_batch_failed": 1
+  "last_run_utc": "2026-10-15T08:38:08.141017+00:00",
+  "last_batch_success": 100,
+  "last_batch_failed": 0
 }
