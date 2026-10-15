@@ -1,6 +1,27 @@
 {
-  "updated_at": "2026-10-15T08:57:22+08:00",
+  "updated_at": "2026-10-15T12:48:24+08:00",
   "news": [
+    {
+      "market": "美股",
+      "title": "US stocks fall after hot inflation report as leading AI shares tumble - eNCA",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQWd3c1gycS1LRkNHOVpMSEpKbDBsZzBuUW9vYmdpSDUtN2hESHdKVUJfV2FKRlFldmpKSnlqeHdQb3Z5UTVGMGI2YTRpbnM0X3h3ejB4WEF2dTZzdFVCeWpQb01RbHJPZk90WjltSnVLcFhUajhUUUY4enU3RUZudXpqRkJmNXJmMXpobjlDTC1PeTNnSVQtMGF5VmM?oc=5",
+      "published": "2026-10-15T12:04+08:00",
+      "publisher": "eNCA"
+    },
+    {
+      "market": "美股",
+      "title": "US stocks plunge, tech stocks under pressure. - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVzUwUS15LWNqQjJzeHpxNG5DV3A2S0w3LVJRUVJ2TFJwUmNYMmF0UEdIVEZFRF9aOTF6bDRiX09rbzhSbUlwT2NMdUUtM0JJNTBGWWU5X2NORElNUGw5WGxrY3VMRGphc0Q5UndnU0YyR0VURVVXVE9ZZjRNV2JkUkN6Ynhsdw?oc=5",
+      "published": "2026-10-15T10:44+08:00",
+      "publisher": "Vietnam.vn"
+    },
+    {
+      "market": "美股",
+      "title": "U.S. stock futures fall as hot inflation revives Fed hike concerns - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONDlPNEpFdTFtVXBaSWJBOVR3THRfUG00S0EyLWNqMTA5amVid0FQUGVvQWNOYzRqNHd5b3JPWDUzMm1kOEotN2xJTldnQV9KaDlaaGluMkxMUkFiYTBZbUpOWmV4QjlqNW5nUkZMV3hyNXFKYUp2WHIzUllXdTdhMnpGQkNBUXVCSTJfUzdlWG9sZ0E?oc=5",
+      "published": "2026-10-15T09:00+08:00",
+      "publisher": "Yahoo Finance"
+    },
     {
       "market": "美股",
       "title": "Nasdaq ends sharply lower as hot inflation data stirs rate-hike worries - Reuters",
@@ -9,25 +30,11 @@
       "publisher": "Reuters"
     },
     {
-      "market": "財報新聞",
-      "title": "個股概覽 | 個股 - 股市 - CMoney",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBfVGtPUmhQeF9nalNLNm9zTGJWQlREWTlFa2dVeEhkNElpN1d0OXlyaFF3U3NaYnBodklvejVEU1YtdkNl?oc=5",
-      "published": "2026-10-15T06:54+08:00",
-      "publisher": "CMoney"
-    },
-    {
       "market": "美股",
       "title": "Nasdaq closes 1.8% lower as as hotter CPI fuels Fed rate hike fears - Invezz",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZklqdXVJSmRYTGl5a1lDWkd3TGFSeXZfNHI5enoyWlZaMWlGY29zaVFUZEhQVkpybW05am85ajF3OC15ZnNmakoydGc0TjRDMGVyVE5qM3BYMTZ3Ml90NEoxUWtTMEYwSTFuN0lJNkFLU1czYkhWMzNld253eHBidTdKaHpjUHk1V2tfMkVCQ2VCaGs4eUlKRlFiajAzSUlZSkVxWUVDMkpoaDlUOUNmQg?oc=5",
       "published": "2026-10-15T04:47+08:00",
       "publisher": "Invezz"
-    },
-    {
-      "market": "美股",
-      "title": "US stocks: Nasdaq ends sharply lower as hot inflation data stirs rate-hike worries - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPVzFwY2h3anc5aU9CdnZCcGd1YUptS0FvVHRPQjJsbE1CMnM5OHowWHNhY0Vrd3FwZmVqSGMtVE00dHlwajdva3RNWlMtRk1TbU9kTkx6dlhZNkd2Qks4YXVlOUxqZE1lWFhBY04zUFRrWkctY05hY2FkQlRXRHd2VVhGVXZjSzlNMllVU2hMVFhZRTRBb09OdWU4SzlJcTItWUFKTEx3TV9tZVJ3WS1TQVBfNklaZDVMTUxQeFJXelZNRkl4ZG9tZXVKdEZySHF4MUdtSlg5WHVGT05FeEt6ZWRPWmppNm51MTU0RkdSONIB9AFBVV95cUxOeFh3RlRsR0lHQnJoZ1FaLVpOQjNqY1lHY1ZiLWFaSVhQZzZjOWxlak5XaGdudGc2ZlNaREpjLU5ncmxzVnVjaFBGbVRHYWhHUG5hLVRNc1JMZmNPWjM0SVpSd09hY3FRZ0JHaTVNN1ZEMWZyZ0lhVnRTUHFhTlJrTXlKSjl5b25rdzNueGNmV0pxTEpaWnhKMURxcWgwd2sxOHUya0l4Sm1ZUS0ydnhqVHlxZlZHbTVqa190eTFLZnZuTW1kc2trbl9aTzRXeU9FTTJyV2piZ2Jqb3NWWkk4aEgxaURKeWlBRU1CSzRlUTZWOFpF?oc=5",
-      "published": "2026-10-15T04:16+08:00",
-      "publisher": "The Economic Times"
     },
     {
       "market": "美股",
@@ -59,13 +66,6 @@
     },
     {
       "market": "美股",
-      "title": "US stocks: AI shares tumble up to 16%, erasing $80 billion as hot US inflation fuels rate fears - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNTHdtVXpCSVVOWl9uOW4wb1h5bVY5aGFTUElwY243Q0ZGTHBYMVpucS1OcTFzVWQ3c2dad2o2ZG5BSlNQc1VsV2JyQnJiRU9jRm12OWZQdy1RZHRXNk1oR1haWnVxVW9leFhJYnRkUXduWkVDWFNwNXhCaXpobkhneEJxY2hrV0RadUNoSDhUWmhxWjZJYkg0ZURuM2JmT3piX0pBVjJrRk1USlZfbFJpU1ZpazRqM0ExZHNjTzgwbFRLLUxYTHp5LVBLWXJVVWtYLThUWVJ3WEpwMjQ4UFdTb2RFYkJBTnl2QXQ0ejhjbWzSAfYBQVVfeXFMUGR0eWRJejRpdGRjRWtfMzdzM05nS2x1QUhTNWxOSGFpOW5Kd1pDdk9KNGlLQTQ4NEQ4SUhUM3FLX3N0bndxbVcwVlJZbVBrQmRnNVREbVpSYm9FWUh5UlRlN0VtUHgwREMydDdmcVlMRVotZE1aZFp3ZFpRZlRfdGp1c21uTmUtY08tcFVxOFFUUngzVTRvTl9LUmZvU3VvaUNNZFNaQi1DekNxekJCWkpPWkV5ZVZsY1gwNmpsbGt3aVpNOUNrdkJtaGlUaGRjN1ZaUGpEZVk5cG5aS2NRSVhZbE5LaldIMWZsT3hJQ0xkeXVhNERB?oc=5",
-      "published": "2026-10-15T02:52+08:00",
-      "publisher": "The Economic Times"
-    },
-    {
-      "market": "美股",
       "title": "Stocks Turn Lower as AI, Tech Shares Slump - WSJ",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWDg0c0hqOWpocm5NRkdFQUVhdHlsbUFoTDloRFFRdW12ZUhwQzRRRGFYZXhRQUQ5WFoyMm93Q0tJd2JkbWpQR3JDZVM4Q3MzdWhXTzhkWTJDUm0wZlZSSGg2WWhVdWtEaXNVanNPNElNMjFpc2J4dnl2cTMzejFPUWp2c1pvN29sQW4zSk5OSjBYSF80MEhTd2xXa1RaSmpqQlhpS0J6QUFqeVZncXo2azFMQ2Y?oc=5",
       "published": "2026-10-15T02:19+08:00",
@@ -87,6 +87,13 @@
     },
     {
       "market": "美股",
+      "title": "US Stock Market Today LIVE: Dow Jones Falls 0.16%, S&P 500 Drops 0.40% & Nasdaq Slides 0.63% as Hot CPI Inflation Fuels Fed Rate Hike Bets & Oil Prices Stay Elevated; Check What Investors Should Know ",
+      "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQM1M5cU5HRWRpQjFpX1JkNUVBREdFTFFNSFFPWVNKblRYTnExSXpJRXdFUW5OQVpmdnpMNzlyOTgzX0JzUGhUQUNZYTlCS1Q1RWJiWWJqTVZGNDdPY3c5TEhRQnVZRnNwYXdYNUpzdXNZMnIzTG9UZGhoR25LY3hubndaMllOaXJ3QXRhVWp3amp5c2prSHN2cHhFNTN1Tkw5OUpMWUhHUFo3N2xRUzFER3lhY3ZGTGd0S2pQZTZXUjQ0UkVkUHVyc0dBQk9DdFVkUWJ5dGdCNVBXaXEyaGtxZUVqQ3lZZkFJTzI0U2F5Z1NNYnhsUGNPWWZFblhLbngyMURMM19Md09pLWczelNISU95YnZJamlCczVvU05jY0RZaFQ0MG9TcW1pQ3NwQXdkVkJHTk1nNE1qUkVFdHdULTBnQ2lmQjd2am1jWjhoQ1hpc3U4anNqWtIB2AJBVV95cUxQM1M5cU5HRWRpQjFpX1JkNUVBREdFTFFNSFFPWVNKblRYTnExSXpJRXdFUW5OQVpmdnpMNzlyOTgzX0JzUGhUQUNZYTlCS1Q1RWJiWWJqTVZGNDdPY3c5TEhRQnVZRnNwYXdYNUpzdXNZMnIzTG9UZGhoR25LY3hubndaMllOaXJ3QXRhVWp3amp5c2prSHN2cHhFNTN1Tkw5OUpMWUhHUFo3N2xRUzFER3lhY3ZGTGd0S2pQZTZXUjQ0UkVkUHVyc0dBQk9DdFVkUWJ5dGdCNVBXaXEyaGtxZUVqQ3lZZkFJTzI0U2F5Z1NNYnhsUGNPWWZFblhLbngyMURMM19Md09pLWczelNISU95YnZJamlCczVvU05jY0RZaFQ0MG9TcW1pQ3NwQXdkVkJHTk1nNE1qUkVFdHdULTBnQ2lmQjd2am1jWjhoQ1hpc3U4anNqWg?oc=5",
+      "published": "2026-10-14T22:41+08:00",
+      "publisher": "The Sunday Guardian"
+    },
+    {
+      "market": "美股",
       "title": "US yields jump as hot consumer inflation boosts rate hike bets - The Economic Times",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZ3NUOEhaNXY4YVNTcDFVcFFUUUNtSWczQ0dFRXR1UEZSRHNyMndtaDJncEdGcEN3SFdxYV9RcVRFa3gyX24yUHQxVFRqU1BjdjVlTmNCc0t3d2UwMkRyb3ZlazJnMklfSG9MWWU3RXlxbDZTak9meWpFdkVsQTkxcDZaMjBRbDRCbEk2bjlld2tTbk5TYjdaeGdSd0lxTmE2elF6RHYxbXNnazQ4TTE0R2dfN0t1dl8zejd4SDFJRlYwZHZRZW1KNFVqaGV0aWtWNkd2VFBB?oc=5",
       "published": "2026-10-14T22:08+08:00",
@@ -104,6 +111,13 @@
       "title": "US Stock Market Today: Dow Futures Rise 0.27%, S&P 500 Futures Gain 0.15% & Nasdaq Futures Slip 0.16% Ahead of US CPI Inflation Data, Bank Earnings & Oil Price Surge; Check What Investors Should Know ",
       "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxNOURRN0xON1lnWTVXb3B1elZESnZ1cUhHWXIzeXlKamJJdFphRkdZWkNIYmFkb0RDNEJlQW9yRXdqN3h1T2RkZGg1b1VJcFYzNkNvMnlVaXlkMFB6VWxPUWpEM1NlMGtwU1QxeTVNRXpGelR2ZDZseTdwbi1BaWlmUnZYUUtlLTJPSFloZFp2S1pDbVZWSEx4R0Q2aF9vbnBreGl4SjBMdnMwbXJRTmJ6QTZEN2FIWEc2YW42UEszUTBwSERJMjJJeEJDZGZ3cGltOG1lb3lwcWJGalBMMVlIZXh1Q19kZlRlTk9FLVk1cmVCSlNHNEV0WklqWGRZd0dydXdoM283cUpyaDZ6QVkyZndLR2xYVGNtLWtxc19KY3UxMVRpRkVNeFpNUG1qNmNlMUZFRlVKSzZpVHVVVkNOQzNqUTBNLVByUGZBOVk4VGFTLXBtdDZn0gHXAkFVX3lxTE05RFE3TE43WWdZNVdvcHV6VkRKdnVxSEdZcjN5eUpqYkl0WmFGR1laQ0hiYWRvREM0QmVBb3JFd2o3eHVPZGRkaDVvVUlwVjM2Q28yeVVpeWQwUHpVbE9RakQzU2Uwa3BTVDF5NU1FekZ6VHZkNmx5N3BuLUFpaWZSdlhRS2UtMk9IWWhkWnZLWkNtVlZITHhHRDZoX29ucGt4aXhKMEx2czBtclFOYnpBNkQ3YUhYRzZhbjZQSzNRMHBIREkyMkl4QkNkZndwaW04bWVveXBxYkZqUEwxWUhleHVDX2RmVGVOT0UtWTVyZUJKU0c0RXRaSWpYZFl3R3J1d2gzbzdxSnJoNnpBWTJmd0tHbFhUY20ta3FzX0pjdTExVGlGRU14Wk1QbWo2Y2UxRkVGVUpLNmlUdVVWQ05DM2pRME0tUHJQZkE5WThUYVMtcG10Nmc?oc=5",
       "published": "2026-10-14T20:41+08:00",
+      "publisher": "The Sunday Guardian"
+    },
+    {
+      "market": "美股",
+      "title": "Dow Jones Today: Dow Futures Rise 0.27% Ahead of US CPI Inflation Data as Bank Earnings, Nvidia Selloff and Oil Prices Above $100 Shape Wall Street Outlook; Check What Investors Should Know - The Sund",
+      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxOTGdBVjJrVDFZTU1vb1c1S2VnR1FzZHUtQkVlTFJiSnZ1bktnd1BUelZJOGVjbTF6VkZMZlRNbHpFbjVON2U5ajVudERibzJNYzNveWQ0cVgxb0xmOWZYQ21uWUp2VzNIb3NBQzFwVlJCNzNRX1ZTMVIxV1lxWEVMeXFGZTNUS1ZNQ0NVR2RfVEZDNkxWZDNhTjlkSEhYQVJ3S2lwbDZVUTlJSkpxYzVyZl9YZUEtQ3VmaVV1NHFxd0UtelJhM1EwNUxlM09lZkVEUnNUZGh3b2gyRTh4MEJpdi1UNzhoWXdWSEdacEFlU3VfNTZSYzBvWnB5TXJzb3dPdXBKUmFxd1ZFYWY1UzM5MEFnWWNaSllndFpTa3k0UFY0TjVJVU1xa1VQX0FyUERpMzI0SVpzMzZBTGJUVmJzWElFeWJhOTZYZmJQNUFyLUFxQTVlWXfSAdYCQVVfeXFMTkxnQVYya1QxWU1Nb29XNUtlZ0dRc2R1LUJFZUxSYkp2dW5LZ3dQVHpWSThlY20xelZGTGZUTWx6RW41TjdlOWo1bnREYm8yTWMzb3lkNHFYMW9MZjlmWENtbllKdlczSG9zQUMxcFZSQjczUV9WUzFSMVdZcVhFTHlxRmUzVEtWTUNDVUdkX1RGQzZMVmQzYU45ZEhIWEFSd0tpcGw2VVE5SUpKcWM1cmZfWGVBLUN1ZmlVdTRxcXdFLXpSYTNRMDVMZTNPZWZFRFJzVGRod29oMkU4eDBCaXYtVDc4aFl3VkhHWnBBZVN1XzU2UmMwb1pweU1yc293T3VwSlJhcXdWRWFmNVMzOTBBZ1ljWkpZZ3RaU2t5NFBWNE41SVVNcWtVUF9BclBEaTMyNElaczM2QUxiVFZic1hJRXliYTk2WGZiUDVBci1BcUE1ZVl3?oc=5",
+      "published": "2026-10-14T20:29+08:00",
       "publisher": "The Sunday Guardian"
     },
     {
@@ -147,13 +161,6 @@
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZ0ZVbHdPd0NLb3dGSXR3MjlnbzNhc09td3hTRWMxWHcxVDhrZ0ltN0J2NlcwWTJ6eWNtaHkxX0xTTUZpazIyaGZCMDNBYXN4UlZtNE9XZjlJb2RqdkJYam9nQkUyN1NyckVTbktoU1ZXdjNuWkRVaUp5RnpZV3U4TkxaaExsZw?oc=5",
       "published": "2026-10-14T10:56+08:00",
       "publisher": "Yahoo Finance Singapore"
-    },
-    {
-      "market": "美股",
-      "title": "Bitget UEX Daily | US Stocks Edge Lower; Bank Earnings Diverge; AI Chip Shares Remain Under Pressure (October 14, 2026) - Bitget",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1pTmc4SENUR1pGUGJQUHVNdW43Ri1tZldIWm5mYnZCeWgzNktsT3g3Wi03VEpQUE15T1ZNNWhqUDNkM2pvNHlrLUF5Ny1ENmFvLUQwb2JMWWVFTDBsYmZYOUJDd9IBY0FVX3lxTE1pTmc4SENUR1pGUGJQUHVNdW43Ri1tZldIWm5mYnZCeWgzNktsT3g3Wi03VEpQUE15T1ZNNWhqUDNkM2pvNHlrLUF5Ny1ENmFvLUQwb2JMWWVFTDBsYmZYOUJDdw?oc=5",
-      "published": "2026-10-14T09:29+08:00",
-      "publisher": "Bitget"
     },
     {
       "market": "財報新聞",
@@ -277,7 +284,7 @@
     {
       "market": "美股",
       "title": "US stocks: US market posts weekly gains with earnings, inflation data on tap - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQMm5rY0ZtdUxsb21MWTZDYzdjNGljZ1kyR2lpUW92dlVuSlZmUnFOSE1tR1hOTjdkelJnNlZ5YndJZkxMaTQzdE1jM0xoTXVncFF3Mk13TUJ0dFZvYXhPaWtuZ3M2OFdQOGFUbGs1N3NjVFNZcjlwMnVJNDRJcVFNUVZjdVNBaVFDR3dLYjVRejF1c0hIVk9iUVlnb2ZXdWt4dlVuN2NRNzhmaWxqQ2xyN2U3QjMwWHFUT1cxMjJXX3hSWExaWVRWUnNIQzZGc01pWFRVem5KSmx3OXNWWV9lTWxZbkE4M3NQNDcwN2VGQU5GYVozS2kw0gH8AUFVX3lxTFA5SG93U0djaXRqRXc5bjBzTkZJNUZMeEptc3VTRm5TXzFKTFhKWTdsVVNwR3A4QkEzYlZYUFpnNUlnVlZPNFpiWW1JZGhKYVdpaFg1UVlrR0FXdGY0MDlnUi00UnJqeHJ5TEx6RGZGdlp4czcxMlNuX3FkcUU1TFZIdWlRQ2w4cVRnQ3pqMHJrUldXMjY0YUhZc2hQNDhqcTRKaUVqSzVNcnhwakR2aVBnTV95dENzY0hGTVBQVEVOWlV5RGhPR3I0ZkY2c05DYVBwY21DZUFydnNUNENfU2p5WG9EUlAwQUNmM2hFc0xIQkF5a0dvZW5yd05EYw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQMm5rY0ZtdUxsb21MWTZDYzdjNGljZ1kyR2lpUW92dlVuSlZmUnFOSE1tR1hOTjdkelJnNlZ5YndJZkxMaTQzdE1jM0xoTXVncFF3Mk13TUJ0dFZvYXhPaWtuZ3M2OFdQOGFUbGs1N3NjVFNZcjlwMnVJNDRJcVFNUVZjdVNBaVFDR3dLYjVRejF1c0hIVk9iUVlnb2ZXdWt4dlVuN2NRNzhmaWxqQ2xyN2U3QjMwWHFUT1cxMjJXX3hSWExaWVRWUnNIQzZGc01pWFRVem5KSmx3OXNWWV9lTWxZbkE4M3NQNDcwN2VGQU5GYVozS2kw?oc=5",
       "published": "2026-10-10T04:09+08:00",
       "publisher": "The Economic Times"
     },
@@ -290,10 +297,10 @@
     },
     {
       "market": "美股",
-      "title": "US bull market nears fourth anniversary, but narrow rally raises risks - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPLWFtVFFzVXNqN2N6akFaMHMtbVdZLWdDZjZDUkRUd0p3VW9DTkt2bHdycGxZOC1MT3ZMWTdCNzduMXlJbzlrQWZiRWVaNGs2WURmMnhlYzJjRk1USVlPNnV1OERWTHFZWV9IaThSeUFjbnFyaVJwT3o1b055R1QxQ0dybi14SFEwclhGWFRMMHBpYUR1VGpBZm1fNEVaVWx6WDBjZF9DbkduV1lMRER2RkZjZzZSd2w1aTBaMkFsSWQwTjhPTi0tUmpUR0s1M1Z2ZDhta2JrblNpRk5EQ3pzaHN1NjlYRXFIZ0dCWlJDcHPSAfYBQVVfeXFMUGFVcnI0eXR3bVpYV0ZrR21oYzVXYnc1VUd2NElveE95emM5VjJSTHV6UmpydTJjZ0k3bWdldzRxS2hLTWZaTlgyMFgxZ1RCaEN4aU05MDd4b0JZS0ZZNkg1UjBnRzRFNUhEZVRYX2JiZTV6ZlhodlZfTG1BY29SbnJRMnprSTBrUGJGSFhCc2lNWkI1dXQyYjJSdldQRklEWDdYUng0SlZiZGF3WHNHOUJQckpRN2hPZXlQS2hFRjgxNUhocncwMXpOMU51cURwdFZpX1JZbE05NDBuSDV0M3RPTzdrZDlKM3dobkxBMXVsYzNTOFVn?oc=5",
-      "published": "2026-10-10T00:53+08:00",
-      "publisher": "The Economic Times"
+      "title": "US Stock Market Today LIVE: Dow Jones Gains 0.28%, S&P 500 Rises 0.30% & Nasdaq Edges Higher as Oil Surge, Treasury Yields Hit, Tech Sell-Off & Fed Rate Outlook — Check What Investors Should Know - Th",
+      "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPYk90YUhEcDFDazZLcWRjM3VvcWtzcXRtVjVocXk3WHpuMGpmNXdqT0lQSlFOM0c2QU1sNWVObkYzTV9nRlJtT1dRRnhjX3ZWUmdzaWFyakZtSm1ydW9nV0xoNHhBMlk2X3k2TkRjcWFHYzBBaHNnUGtfUTg1N2JDNHY3SDQwVmk3YzZPMTZTOHFhbExLNkJvLTliUDVqR05tWnZ6VlBjQ1RFcHc4U1U4b0JMeVR1THFYSnBNTWxjVlpKN3BpV0QyN2ZQNmRETUFuRTFFM0NsR0lXVktsTmNWRnh4MFlmYWhTamNLbVpHUzNtb3JWZUZfSGc2Y0RkVF9JcXp6M1JCWmh6N1M5T3lXb1FCcFBzNVk4YTl3a2pkTkRTYUZXem4wdzdYcDhMRVlGZlJCaXZWSXFDaFFIT2phVjFLNmljOVVpQWY5OdIB0gJBVV95cUxObWdHN2tJZU9RZ3pEQWVOV2Vsckh1VjRBaWVUQmNmcGo5aUZzcGpkZ3RjR2tBMDNqekE0RzVwRGotd1c2VFNVVHZKT25VUVlVdlNFQVJVd1dVaXVQcFZYQ2Z3VW0zTXR5WTlCU1h0OWRhVXBIMnBUX2tyaDQzei1Hblc3ZS16X0hQTVhWMlpBZGt2cFd6R1FJeFhoa2w1UXA0ZHd2Y014dy1zLW9BYzBrSDVOYmZzUTgxWkgwWnkwZ2VMRWZWaWVVV0k1T29RRVV6UHhTWmJkU1p4aVQ0bXM4WXRRTTFEWVpvcFBzTDJuenhQQnZZRkJCZVd3ek1vUjhseGg4QzhXekk4b3hwUG5iUWRiU0ZWeE9ZeWYwUkpFT2R0UFpaZDRYWXJBaVpyMFBmaVBlTGR2TVlycXVRSkltcTBPZ1hsVWtBRndYc0NWWktoQQ?oc=5",
+      "published": "2026-10-09T22:41+08:00",
+      "publisher": "The Sunday Guardian"
     },
     {
       "market": "美股",
@@ -318,20 +325,6 @@
     },
     {
       "market": "美股",
-      "title": "Global Market: Wall Street in focus as US jobless claims ease amid Fed rate uncertainty - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNckRiempTck1QejNVLWQ4TDNRREtNWGdwSlQtNV9rTVd5Q1VpUlp0ejFnSW4tRFpDS2RmaFB5LW1TZHlSdnEwVFhwa1BNVVV1ZlBaMjViby1vWHBpOE1ZelAxLUFhQ1FIVVVZSjJuOFRBOUliWHdRX1Fmb2UzMlJNVzc4WlprcmN3OFRXaTBJcDRPLWd5NjZzSHlNbmMtWXdFZWhzVjBsWHk1NG9UNzNMVmVsTnZBemRTWjBmLWJJR2hCeHBsX0YzRENzUkljalY2U0RVdmktMGYxSzNMUllReXJtaUxXUHNxN2VzNjcxcEQwdThfNDcwa1BOUFJ1dXE5TVBCOUEzTdIBjAJBVV95cUxQUlkxclRRcnBwcEctU1NFaW5EREI5eTJzLTA5SmlEME1ZTDFWU0NxQ2FxMW9yR0Y3OUVHYnpFenFwYnI5WmRSblhYUGdORTFwM1Q4N0twbl8xam4tUVppZlNNdmZLaUZGMFZ2WmxkdGlsdzFfcDVmTnI2MlNDQ1RmT29SV2x0TkVwSzhaLTViN2gwamx6MFR3NjEwR0FUeHQyWmxQRFV6VjRPZDV5enlHZHhaWFA3VzRLU2JtY0RuazNXaTI1STBOeERtYnlTQUhXRkpLajBEWjdyMFBFeVBkSjM0MXhieVBkUXBtQXFNQ0QxQWlsek5sMk0xS0NXWE5QOE5yUDlqU2JJY0Ja?oc=5",
-      "published": "2026-10-09T12:06+08:00",
-      "publisher": "The Economic Times"
-    },
-    {
-      "market": "美股",
-      "title": "Oil Surge and AI Revenue Concerns Slam Nasdaq Down Over 1%, Philadelphia Semiconductor Index Plunges 3.4% - BigGo Finance",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAyTVptWVN6NmJmSnpMVlFXNlJKQUpOaTIxbGZYTlF4TzZsN3NsVWFnRHhvc0dYd3BOTEU0Sk1CRUhkeU1rcmRQVnFpeVc4RHlEMXJscWFjTlVJa2dKMEdhNlZ3OGpwWExxMEtnUEVhNnJyYkxhbkE?oc=5",
-      "published": "2026-10-09T06:55+08:00",
-      "publisher": "BigGo Finance"
-    },
-    {
-      "market": "美股",
       "title": "US stocks: US markets fall as higher yields and oil prices flag inflation risk - The Economic Times",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPT2xOTzFNMC1qaGdZTWJEU0tkS1J0M2xOdW5HcXNpWGhsZVFxa1Q5dDBvdnlRNlhZWGZ2Z1Z0R2JkelJIY1VwRzh0QmtXMDBQeHAwWmNRU3NhTnllUjI4TXdiV2toNkFNMkRrUV9ET1hNdTlxQkpCb1JFdWJQeHBJNnA4RzJ0MjRjMzM4Zml4T2huTW1ZV01neTlkbHFuMm05MHdnVXo0dDhmdWlZYndTb0w3R1dzRmF3dUlzdmVlX1JiTXA5RWNvdlB1LWtudGJQNGQyblo3TVhRVm1lS25SX3dHRXBYb05mNXJtcnhneGd5UjTSAfgBQVVfeXFMT0RhU3IxUkQ4RkJrUTV2UUItNDlzeGc5QzJUWDdqcU9MY2lKakctVmRLRTJ5U29paVppNkZVM2lma1U0VklHTmVpM2Qyb2ZwRk9fUVlBb2hwY0h4cm5yYTl0b19nNEV3aGNncjdWMmpZYVRaWFhWVU90c19vYVIzSEJCYmJLeWhIaFE4cXZ4dGRIUk41WTk4RFJEbVR0d3JjcFFmZmQ1aVFYWVpPaDlmc3NSemtDbE1TUWxxR202VGpZZkdvRTdEbkh2dTdFUEctNVVDdEw3cHhqWnYtZzk1alBmV0NRQmNLbE5lZVBDM0tGSk5ESV82TUQ?oc=5",
       "published": "2026-10-08T22:19+08:00",
@@ -343,13 +336,6 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTDZkM0VRUndtQklaN2RVbGtQbUhLR1FPenhXeEN3bEd0ZDM0OUdIYk1BSWVxdGpwN2RGdGdXSW9jWkE4b2RFcDVZRXBjSW5VeVA3eTAtbWJzQllEZnFwUEp0R3E1eDJkRG9IRnZkNkF1WEthUEJ1NUFtN3FYOGt3dTdZaTVIdndZWFVhX3VfcFFOdXRwY1lRVTAxMjZaVm1tekxMVFEyblgyemh4akYtU3FoR1lvRzk2TEI0elBvUQ?oc=5",
       "published": "2026-10-08T20:56+08:00",
       "publisher": "UBS"
-    },
-    {
-      "market": "台股",
-      "title": "台股盤中跌逾600點！電子金融股走弱 | NOWNEWS今日新聞 - LINE TODAY",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VV2RDTTM3QnAxOTdPMjllcy1BTmFkM25YZkpLYnowVXFEMFVDMmU4MWFPaVNpdlMwa2JzT0N1S2RyVEVQdDJobGJkQURobkRmS05TdHNB?oc=5",
-      "published": "2026-10-08T12:22+08:00",
-      "publisher": "LINE TODAY"
     }
   ],
   "events": [
