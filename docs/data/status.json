@@ -1,14 +1,14 @@
 {
-  "next_batch": 34,
-  "last_batch": 33,
+  "next_batch": 35,
+  "last_batch": 34,
   "total_batches": 70,
   "candidate_count": 6952,
-  "last_run_utc": "2026-10-15T16:35:04.609235+00:00",
-  "last_batch_success": 98,
-  "last_batch_failed": 2,
-  "stored_symbols": 3335,
-  "fresh_symbols": 3335,
+  "last_run_utc": "2026-10-15T18:36:40.383104+00:00",
+  "last_batch_success": 99,
+  "last_batch_failed": 1,
+  "stored_symbols": 3434,
+  "fresh_symbols": 3434,
   "last_batch_selected": 100,
-  "last_batch_success_rate": 0.98,
+  "last_batch_success_rate": 0.99,
   "note": "Fresh means checked and price date within 7 calendar days. Full-universe freshness is NOT guaranteed."
 }
