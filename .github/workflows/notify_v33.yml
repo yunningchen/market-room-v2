@@ -1,4 +1,4 @@
-name: Market Room V3.3 LINE Digest
+name: Market Room V5 LINE Digest
 
 on:
   workflow_dispatch:
@@ -10,12 +10,14 @@ on:
         options:
           - morning
           - tw_close
+          - us_close
           - us_pre
   schedule:
-    # UTC; Taiwan is UTC+8 all year
-    - cron: '0 0 * * *'   # Taiwan 08:00
-    - cron: '0 6 * * *'   # Taiwan 14:00
-    - cron: '0 13 * * *'  # Taiwan 21:00
+    # UTC; Taiwan is UTC+8 year-round. Weekdays only.
+    - cron: '0 0 * * 1-5'   # Taiwan 08:00
+    - cron: '0 6 * * 1-5'   # Taiwan 14:00
+    - cron: '0 10 * * 1-5'  # Taiwan 18:00
+    - cron: '0 13 * * 1-5'  # Taiwan 21:00
 
 permissions:
   contents: read
@@ -38,12 +40,17 @@ jobs:
         run: |
           if [ "$EVENT_NAME" = "workflow_dispatch" ]; then
             echo "mode=$MANUAL_MODE" >> "$GITHUB_OUTPUT"
-          elif [ "$SCHEDULE" = '0 0 * * *' ]; then
-            echo 'mode=morning' >> "$GITHUB_OUTPUT"
-          elif [ "$SCHEDULE" = '0 6 * * *' ]; then
-            echo 'mode=tw_close' >> "$GITHUB_OUTPUT"
+          elif [ "$SCHEDULE" = '0 0 * * 1-5' ]; then
+            echo "mode=morning" >> "$GITHUB_OUTPUT"
+          elif [ "$SCHEDULE" = '0 6 * * 1-5' ]; then
+            echo "mode=tw_close" >> "$GITHUB_OUTPUT"
+          elif [ "$SCHEDULE" = '0 10 * * 1-5' ]; then
+            echo "mode=us_close" >> "$GITHUB_OUTPUT"
+          elif [ "$SCHEDULE" = '0 13 * * 1-5' ]; then
+            echo "mode=us_pre" >> "$GITHUB_OUTPUT"
           else
-            echo 'mode=us_pre' >> "$GITHUB_OUTPUT"
+            echo "Unknown schedule: $SCHEDULE" >&2
+            exit 1
           fi
       - name: Send LINE digest
         env:
