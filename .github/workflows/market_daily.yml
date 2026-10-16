@@ -1,0 +1,116 @@
+name: Market Room V5 Daily Updates
+
+on:
+  workflow_dispatch:
+    inputs:
+      task:
+        description: 'news / tw / us'
+        required: true
+        default: 'news'
+        type: choice
+        options:
+          - news
+          - tw
+          - us
+  schedule:
+    # Taiwan is UTC+8 year-round. GitHub schedules may start late.
+    - cron: '0 0 * * 1-5'   # 08:00 Taiwan: TW pre-market news
+    - cron: '0 6 * * 1-5'   # 14:00 Taiwan: TW post-close scan
+    - cron: '0 10 * * 1-5'  # 18:00 Taiwan: previous US close scan
+    - cron: '0 13 * * 1-5'  # 21:00 Taiwan: US pre-market news
+
+permissions:
+  contents: write
+
+concurrency:
+  group: market-room-v33-state
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: python -m pip install yfinance pandas numpy requests feedparser
+
+      - name: Choose task
+        id: task
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+          SCHEDULE: ${{ github.event.schedule }}
+          MANUAL_TASK: ${{ inputs.task }}
+        run: |
+          if [ "$EVENT_NAME" = 'workflow_dispatch' ]; then
+            TASK="$MANUAL_TASK"
+          elif [ "$SCHEDULE" = '0 6 * * 1-5' ]; then
+            TASK=tw
+          elif [ "$SCHEDULE" = '0 10 * * 1-5' ]; then
+            TASK=us
+          else
+            TASK=news
+          fi
+          echo "task=$TASK" >> "$GITHUB_OUTPUT"
+          echo "Running task: $TASK"
+
+      - name: Generate stock universe
+        if: steps.task.outputs.task != 'news'
+        run: python universe.py
+
+      - name: Clean stock universe
+        if: steps.task.outputs.task != 'news'
+        run: python clean_universe.py --input output/universe.csv
+
+      - name: Update Taiwan end-of-day prices
+        if: steps.task.outputs.task == 'tw'
+        run: python bulk_market_scan.py --market TW --chunk-size 10 --history-limit 250 --time-budget-minutes 95
+
+      - name: Update US previous-session prices
+        if: steps.task.outputs.task == 'us'
+        run: python bulk_market_scan.py --market US --chunk-size 10 --history-limit 250 --time-budget-minutes 95
+
+      - name: Build V5 strategy
+        if: steps.task.outputs.task != 'news'
+        run: python build_strategy.py
+
+      - name: Build V5 signals
+        if: steps.task.outputs.task != 'news'
+        run: python build_signals.py
+
+      - name: Update news center
+        if: steps.task.outputs.task == 'news'
+        run: python build_news.py
+
+      - name: Commit updated dashboard data
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          if [ "${{ steps.task.outputs.task }}" = 'news' ]; then
+            git add docs/data/news.json
+          else
+            git add data/v33/master.csv data/v33/history_cursor_*.json docs/data/ranking.csv docs/data/status.json docs/data/history/ docs/data/strategy.json docs/data/signals.json docs/data/signals_state.json
+          fi
+          if ! git diff --cached --quiet; then
+            git commit -m "V5 ${{ steps.task.outputs.task }} market update"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
+
+      - name: Upload diagnostics
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: market-room-v5-${{ github.run_id }}
+          path: output/bulk/
+          if-no-files-found: ignore
+          retention-days: 7
