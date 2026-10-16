@@ -15,6 +15,7 @@ MARKETS = {'tw': {'TWSE', 'TPEX'}, 'us': {'NASDAQ', 'NYSE', 'NYSE American'}}
 MODES = {
     'morning': ('🌤️ 早安！台股盤前與美股回顧', [('美股', 'us'), ('台股', 'tw')]),
     'tw_close': ('🌇 台股收盤觀察', [('台股', 'tw')]),
+    'us_close': ('🇺🇸 美股前一交易日收盤觀察', [('美股', 'us')]),
     'us_pre': ('🌙 美股盤前觀察', [('美股', 'us')]),
 }
 
@@ -107,7 +108,7 @@ def compose(mode, now, rows):
     # V5: add only newly detected events within 24 hours, avoiding repeated old alerts.
     try:
         payload = json.loads(Path('docs/data/signals.json').read_text(encoding='utf-8'))
-        cutoff = now - timedelta(hours={'morning': 11, 'tw_close': 6, 'us_pre': 7}[mode])
+        cutoff = now - timedelta(hours={'morning': 11, 'tw_close': 6, 'us_close': 8, 'us_pre': 7}[mode])
         valid_markets = set().union(*(MARKETS[key] for _, key in groups))
         events = []
         for e in payload.get('signals', []):
