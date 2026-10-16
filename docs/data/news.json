@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-10-16T16:51:18+08:00",
+  "updated_at": "2026-10-16T21:01:08+08:00",
   "news": [
+    {
+      "market": "美股",
+      "title": "Market Movers blog: Chip stocks and global indices continue to slide following US inflation jump - Investment Week",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5mZHNUUnlOeExDV2hSRjhxWEs0blpwaGhqUzIzQ054d1JaTnNIcGZWbkhtTDVwZFdwUXM5ekRkX2Z5UFJEWW5uMGtRSzVnd2NwZDFRUWZnYm9JWHFlTUptZzJGSHdKOS1oTEJxOUk0bFRWdw?oc=5",
+      "published": "2026-10-16T18:27+08:00",
+      "publisher": "Investment Week"
+    },
     {
       "market": "財報新聞",
       "title": "台積電法說解讀：營收再加速，為何毛利率反而下滑？ - 口袋證券",
@@ -45,6 +52,13 @@
     },
     {
       "market": "美股",
+      "title": "US stocks: Nasdaq slides toward one-month low as AI selloff deepens, inflation pressures build - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxONVJxWDBQQ3JUUHhIXzBzUUk5RWlWQm9UWVk5S3VmQ2hENEZQb2tUQVlNdDZzY1loOUZjM3FpdGk0aGlXZ3lhdjZlVWJ6M0ZzbDNPSlR6WU1jQ1R6bHM3X21INER0VXF2VTRnSGFfbkJvbGVHai1TMWQ2OHhnanVlaEEtcHk5RDkxTlFmZTVTeHhsUjFhRzJqR3hXRldpODgxNTBRZkt0YUplMGZiLWZpbkZuZmNTQmhLbGpfRlpMSjJkQ01rLU1GYUVMS1duNVZvSGotVjBONlNsT25CTF9pMHpYSVdsMlh3Q2lPTW1JaERkTlpD0gH6AUFVX3lxTE1udTFmS3FKRERRemd4a1JKbUtUaVg0dWZqcmhCNzh1eUVBNmN4bEhfT3kxMW9DbVk1NXYtR3MtUGhMamxkMWx2R09QZHYxYzZYRG94bFdFc3hLMFpYcEcxWkNURFZfQzdVamd0WlEyd0F6dGgxQWFHSG5QRVZvMGxKWFFPc3I2QnotN1NabExsZmRmNURLQWliYXpPWmVIQlNVTkRKRnB5dXVoMzJOQTdtb2dFWVNkRGhVbjdqUXVRR0loeFNSVlN0NXhPdWcyc2hjSkF6LU5lNUVZTEp5R1pjVHdiU01OYWJFQURnb0NaNHIxaXRYQ0lHaUE?oc=5",
+      "published": "2026-10-15T21:57+08:00",
+      "publisher": "The Economic Times"
+    },
+    {
+      "market": "美股",
       "title": "US Stock Market Today: Dow Gains, Nasdaq Sinks 1.18% As Inflation Fuels Fed Rate Fears - NDTV Profit",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOd1JnN1JLNGpVWUlvcDVaQmlXaEY4SkRvZ2h4X1hNZFBGb2IyRkQ1by1nSDFTTS1MemljNVdLdEM5a01xa0NTd2Roa1Zva1RjeDVoUF9fdWcwZU10dWxKUnJzQlJPYUowLXhrUTV1bF9FYkxKTjZmMDBnSXlORC1Zb1ZfM3VWenBjNVpocFJOY2NOU3JjRVFUdmQ0TU9LSktWcW9RTWxORHZRQlBiZ3dBX0ZlOUZCeHozakYzSEhSdWdYcE5xN3fSAc4BQVVfeXFMTVhvMXdvNUFnZTRGYlNvUXpTQUJld2lXTGxDSDVXbE5sLWVUWnlzQTZGSGtlMTZFZnJvVDVMd2pRVXAya2VvUzlqRmhsOW4wNUZyNDlnTkthM1Z4NmdsWWlqaXdCUDBVRXRsNVg3V0JGOUVzemlrSEN2TGI4end0MS0xc2F3cDVBUDVac0l0MGdPamlaRmt0Und1YzYzcEpFU01ETHBwVU42bTlKbnc5T093Z1FZc1ZJMFg4VC1NTV81NV9BelJIS284ZWgwZHc?oc=5",
       "published": "2026-10-15T21:37+08:00",
@@ -67,7 +81,7 @@
     {
       "market": "美股",
       "title": "Wall Street To Open Lower? AI Stock Selloff Among Key Reasons Weighing On US Stock Futures - NDTV Profit",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUENqUGFzX2xfdjkzbXBXVjdqRFV3b21WRkppdUNhSGRheTBGdjM4ck40M3dXOEpKRGJXWDdGQ0d1V1Q5a3JIdzlQOFdFSWJURGZ4czhFNTUycnRzREFYMDhPZE5uUXlObnV1cjFjdlY4ZnpRNTNQZUw5ZlBNR0tCSXktUy1QNHM4X1VZd2hBRHpqcHJReW50RnpMOENudmlsTkdQRm1IYWpwMmV0SEd0ZUpJUVl1SHpNMHN6bXk1ZmU1c2JfdzhPWXBOMG1oZHpKemFuY1Rn0gHWAUFVX3lxTE9QQ2pQYXNfbF92OTNtcFdWN2pEVXdvbVZGSml1Q2FIZGF5MEZ2MzhyTjQzd1c4SkpEYldYN0ZDR3VXVDlrckh3OVA4V0VJYlREZnhzOEU1NTJydHNEQVgwOE9kTm5ReU5udXVyMWN2VjhmelE1M1BlTDlmUE1HS0JJeS1TLVA0czhfVVl3aEFEempwclF5bnRGekw4Q252aWxOR1BGbUhhanAyZXRIR3RlSklRWXVIek0wc3pteTVmZTVzYl93OE9ZcE4wbWhkekp6YW5jVGc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSlYzNVhrNWItSzlKRXotVDkxZXFvY0ZLRlBoU3FqdWlEeEtqRENIaGh0TDREZUEzYklaYklLTGlCcTdvMTBneGlrQ0ZVTVJEdWQ5N2MxMVdvTmFLV2psc05ERGVhNHA5amxobW91SVJrME5COEMtV2h6YlBrdE84TnI3WV8tSWpHaUJxMjNNMXYwTDd0ajUzSWRNeFpiU216aGlTSkJ4QUZBTnYwangyNk1QQWNVMFlGai1DcnNfdXBOVV9uMEo1UlROU21lZ9IB1gFBVV95cUxPUENqUGFzX2xfdjkzbXBXVjdqRFV3b21WRkppdUNhSGRheTBGdjM4ck40M3dXOEpKRGJXWDdGQ0d1V1Q5a3JIdzlQOFdFSWJURGZ4czhFNTUycnRzREFYMDhPZE5uUXlObnV1cjFjdlY4ZnpRNTNQZUw5ZlBNR0tCSXktUy1QNHM4X1VZd2hBRHpqcHJReW50RnpMOENudmlsTkdQRm1IYWpwMmV0SEd0ZUpJUVl1SHpNMHN6bXk1ZmU1c2JfdzhPWXBOMG1oZHpKemFuY1Rn?oc=5",
       "published": "2026-10-15T18:37+08:00",
       "publisher": "NDTV Profit"
     },
@@ -108,10 +122,10 @@
     },
     {
       "market": "美股",
-      "title": "Nasdaq ends higher in big rebound as bond rally offsets tech softness, hot PPI - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONDlPNEpFdTFtVXBaSWJBOVR3THRfUG00S0EyLWNqMTA5amVid0FQUGVvQWNOYzRqNHd5b3JPWDUzMm1kOEotN2xJTldnQV9KaDlaaGluMkxMUkFiYTBZbUpOWmV4QjlqNW5nUkZMV3hyNXFKYUp2WHIzUllXdTdhMnpGQkNBUXVCSTJfUzdlWG9sZ0E?oc=5",
-      "published": "2026-10-15T09:00+08:00",
-      "publisher": "Yahoo Finance"
+      "title": "Nasdaq ends higher in big rebound as bond rally offsets tech softness, hot PPI - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbFBrYkxHaWM0WlItWjB0bkRPNG15bm5sel9DOU9QSTM0ZHYwemUyTnhJbThHWVV6NFQ1bnZ5Y1IwVmRsZGJIMFJPMV9qU0p1UkJscEpmRTBKRFg3cU0yQ3JRLUpYNGo2UVI3LVo1SGJaWThTNF9wV0x3cnJIeE9TWG1HNW1sX1pxbnJZU0ZucnR4NmRHNk1aVTZaNlVBT3ByOXhMb0R1YkN4Z2otZVo5NWNmbEVWYVNyTVUzTW1n?oc=5",
+      "published": "2026-10-15T08:35+08:00",
+      "publisher": "Investing.com"
     },
     {
       "market": "美股",
@@ -196,13 +210,6 @@
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZ1Z0Uy0xQzlKOUV6VmJfZUptYnhsVVNTa0xuQkozR19Va09SeXRQQm95ZGRESmN5c1RydjZDN19BVFdLVy1yZVJCUUZUcEFhUXIzMWU5X29JQnBkb2Fsa25HaEVsaURDZWpTOEw4andYLUtib0hXSVhIb1pWdU1XRW0yU3hWN3J3bEl0aVhqb1NxZnlLQjF1TTc1VVBOQ2JwUWJ6cnRGcDgzZi1IejBFLVg0U1dHY0taRTVFNTVpR2VsdjFINi04ME1CSTRQU0NHaElpS3BxQdIB3AFBVV95cUxOVTNTNFlERThIeFdpWUV4WUltLU1ucDdLS0xNWnloODRqTFpTVnhUOUFfa2xMWi16MmtyMUE4dTlpdnc1M1lLVjVmTXRHb0hTYnZTUnItRXlDcmRFOWVST25DR3dDZmZTaDFwVzhEZGtRX3VpZHpQeHpEbU5WZ3NKN0hFamJIYnBoemRWaUdUTjhoT0tBa0tpclRQWFpWS0VTcXg5RXNNdllvQjZNUExNZXpWcGhrQlRuZWxWMXI0RmpmdkZ2ZXp3NmdpMUlrX1ZEYUo3cFpGUVJ2RnNE?oc=5",
       "published": "2026-10-14T21:30+08:00",
       "publisher": "The Economic Times"
-    },
-    {
-      "market": "美股",
-      "title": "Wall St set for lower open as hot inflation data fuels rate-hike bets - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaDBmaW4tZmgyRnVGRWhpV0tQYlpic3Y2a1gyRm53Z1hFTXhRRWN5ZGNyb0laZjZHZ0hGd2piUkxiOUg1aWJoODB2X3N6d0Rwb3NkSjV6cGR0eDZ5dkJLOW9qanEtY0JINksxdnVBdDliZTlvU2R2WWwza0NQclNTWTFUSGtjQUE3a1NKTUFpYWs?oc=5",
-      "published": "2026-10-14T21:17+08:00",
-      "publisher": "Yahoo Finance"
     },
     {
       "market": "財報新聞",
@@ -290,10 +297,17 @@
     },
     {
       "market": "財報新聞",
-      "title": "台積電法說會本週登場！專家估大盤指數「高點震盪」：5萬點絕非行情終點 - 民視財經網",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9JdjktVEFXWUg1amV2VlBfZUVNOC0tYVE1dS01SXJPWFNaekdBMW5QOU0zZGx6eWNQRURDUDh3cE1FemxERHRpQkdFTXNFa1FRaHAyRUhTV3BfNm8zU3ZQUTg1ZUYydw?oc=5",
+      "title": "台積電法說會本週登場！專家估大盤走勢：5萬非終點 - Yahoo股市",
+      "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxOWkFmZzhRcDE3c29odHlNQ3U4U25fc3V6RFYyU3pfSXoxSXBuaGRpQTQ1WDkzNTN6Y1lLcS1sUnc0b2s3cTczUl9WcVliQXJKTzNaMDhfSU1IVi1SY2tXdk5xcDNobWJwYU5sX1E2UkJpLUFCdkx4VDVxQklNaktZRDR4MnI3VTE3ZDFVaEpxR2pnN1VHUHkwWGIwYkNVS0VLcFBPbDlTSFB5WDNLd3dESjF3RC1nN29oWnZxeHFURjlXZUotT2NpWnZfRnJua1RDVEFuZ2hLOTVXdXI3VFpWbzk2dTVlWGRTOThNZmhfTWM2aWZDb0ktYUREaDZPdVg1cHRUYVIybnVXWWVmTk1ReW5rSk05SDFycUozNFNJLUFQbmktNi02eGFMUEUwMk1OVDN0UmJ4cHh6b2wxQWhJLVAxdUVXb0lIT09qajRTMTFHdWcxa21FRkNzZw?oc=5",
       "published": "2026-10-12T16:08+08:00",
-      "publisher": "民視財經網"
+      "publisher": "Yahoo股市"
+    },
+    {
+      "market": "美股",
+      "title": "Weekly market commentary - BlackRock",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
+      "published": "2026-10-12T15:00+08:00",
+      "publisher": "BlackRock"
     },
     {
       "market": "美股",
@@ -343,20 +357,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9rTEhfR2JZR3lDbXpWeVhlcGplR2dqcTVtNmRlcjdONE9aTVRRLVdqRkZhYndBZG96TjFiR0ZWMWEyVnAzZHJjQXB5cjVfTGtaZ2trWTBFVDU4QdIBX0FVX3lxTE8xRU5YV1dLVUI1eFh2Q2pRUXRvTm5TazlLcWUteEE3cWU4cDEtdUd1aVlBbkJqN1Z4bGRHZzhaT3RfNWJLbW1kaks2dEpacWpXWHZMOXFpdGtPaGEteklJ?oc=5",
       "published": "2026-10-10T02:42+08:00",
       "publisher": "經濟日報"
-    },
-    {
-      "market": "美股",
-      "title": "Why are US stocks rallying despite Fed rate shock? Aswath Damodaran explains in the context of AI - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQZjVoWUJ0OTB2Z3hmdHFEVUthZ3QxbGVFVGhEbFEtUnJoaFA0MHk1dHFVVnhMWk5EeEg5SmxxNkdCOUVUODREMUtyenQ4Z3ZOMkZYV2l3QVhCS1dQdFQtZS01LXlUWXl6Z0ktaTd4N3RHVlIzemQwUGFhQWlTdXZfTlRGMkhNSENNRWE1VWlrQmVWQ21ETXVvNkxZYVpfQk9ta1N2TzRzM1R1WlBKYmdkYUMxaXpMb0paTVN5ZkpWMEFTNTV0Z3dBOEZBQlNRanIzRXYtRFkxaDdoWDhKb1NVQmhTc09mSTBnbHJwWkdfd2VfMndfeEY3TXAzQ3Z2TWFCTmlvSWxqaU5qMTZtVUY3dkZ6dUfSAZoCQVVfeXFMUGFMdEVGbFI4X0RFeGFzQ1p6dHBxNUhvQlYwSHpYWTFvcnR0UXdQQ3BSSllsZVp5dkwzRHZYRWtqTmdWYW95OU9hR2JVN1llWE1wSGdIcFUyN25adC1wdjdKTWRLX0N6bkwtbkRCeXhtdk9icUNNdU9oR2l2N2lyaU16VDN4bGZrWklWVm5WeTRVLVA3R1Zmdkx2NGo4WEdXc1J3Z2tmR2hOX2ZjRUlMaDl4YnNhdzVwMlp0YXpIY1lDQ1dOX0xsOVprY0xPVTg1ZzZ0MXNKbUoxLWlUSzgtX1NFQTNlc1VCb202TDRCalZERi1NMmZYUk96ZGZnM1AzT2dDTk81MjZwWXNmeDlZOVpfY1VnYUdsdkNR?oc=5",
-      "published": "2026-10-09T17:27+08:00",
-      "publisher": "The Economic Times"
-    },
-    {
-      "market": "美股",
-      "title": "US Stock Market Today: S&P 500 Futures Ease On Rising Inflation Expectations And Fed Hawkishness - Simply Wall Street",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVGRNR1dvdGVRMmdlZjItSWxRbzBuUjNmU1pORE55cnRVS3BIdVU4RVRaRy1hVk5zdmEwVl9WdmtEdkxsUHFmMHk2Z0toSVdxTzBaU2lVTG5hLVEycGc3UkctSThoQVJIQWFtdVFSN09CZlB0RnktY1d1ZXhOUTBUZFVvQ3FJQ054aVJoSmtjTkRNQ1pVdndzQTEwS0k3VzNrNWNlRy1YNTk5b28wZXNYY3FUYVNTdHdfbUlCRlpxbHFQSE41U1N5cVdFdzc1TlFNSE1GWFJ2UklSWldQbUxLWdIB5gFBVV95cUxOOFV3Tktsb3gzaVhXcmV2TkZnaXVWX1JuRllxZ25NUVdTN0xaekpGOHJSMXFOQTFOMVphWTNKOThjLWtILV9TM3Y5OV9kaU1MOHRGaThPUEZPMWdZcVcydm1QTjFna1VYNEtuWjEtd201YVFXZ2M2WGM5UHpzUG9tMkhnY1l4TlItN2dWUlBnZlR2QXZuS2N3SDRVVjRFZEpEOHFGTVFMbWpTdUt4Y2lnaFBiUHBsQzBTSmdMMEowTWJlNndENldtYjRPMXlwdFZEdEhHLXFzZWhEdjE5QnZLV3RibVVlQQ?oc=5",
-      "published": "2026-10-09T17:04+08:00",
-      "publisher": "Simply Wall Street"
     }
   ],
   "events": [
