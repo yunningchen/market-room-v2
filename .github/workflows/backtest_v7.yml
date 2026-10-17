@@ -1,0 +1,35 @@
+name: Market Room V7 Research Backtest
+
+on:
+  workflow_dispatch:
+    inputs:
+      per_market:
+        description: 'Sample size per market (1–100); starts with 30'
+        required: true
+        default: '30'
+        type: choice
+        options: ['10', '20', '30', '50', '100']
+
+permissions:
+  contents: read
+
+jobs:
+  research-backtest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install dependencies
+        run: python -m pip install yfinance pandas numpy
+      - name: Run five-year A/B research
+        run: python build_backtest_v7.py --per-market '${{ inputs.per_market }}' --years 5
+      - name: Upload research results (does not modify live dashboard)
+        uses: actions/upload-artifact@v4
+        with:
+          name: market-room-v7-backtest
+          path: docs/data/backtest_v7.json
+          if-no-files-found: error
+          retention-days: 30
