@@ -1,12 +1,40 @@
 {
-  "updated_at": "2026-10-16T21:31:14+08:00",
+  "updated_at": "2026-10-17T08:58:26+08:00",
   "news": [
     {
       "market": "美股",
-      "title": "Market Movers blog: Chip stocks and global indices continue to slide following US inflation jump - Investment Week",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5mZHNUUnlOeExDV2hSRjhxWEs0blpwaGhqUzIzQ054d1JaTnNIcGZWbkhtTDVwZFdwUXM5ekRkX2Z5UFJEWW5uMGtRSzVnd2NwZDFRUWZnYm9JWHFlTUptZzJGSHdKOS1oTEJxOUk0bFRWdw?oc=5",
-      "published": "2026-10-16T18:27+08:00",
-      "publisher": "Investment Week"
+      "title": "美股AI熱潮遇震盪 Meta與特斯拉最新財報成市場焦點 - 民視財經網",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ZdWRGMVVaNEpUckJmVlhRNklsNFM0Y1o1WWNyeEh5Zm9lQ1ppQlBwaV95LWN1c25uSGFOMzR0a0VnTTMwRTh6MF9SRVNNeGhhZHJ5QjltM2Z5TktBMTB3NEVqeGZRZw?oc=5",
+      "published": "2026-10-17T05:11+08:00",
+      "publisher": "民視財經網"
+    },
+    {
+      "market": "美股",
+      "title": "AI 熱潮退燒？華爾街轉身「脫AI」行情狂飆，資金大挪移震撼科技股 - CMoney投資網誌",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcXdHYUlYckhqbl9nTXJZSlhOei1jall0ODc0aFBtVFQzOE9tY2p4d0h5UkhDelRlbDAtMVhwUFNLdlIzMXlkZGplc3NSSHV2OEp3bXJROHBERXhkaXNOSDhLZmlnbW9KQ0lvSDVPUjZRT0VWcHlBYjh5SmZTemhXMldDSTJCbnJuRV8ySnNB?oc=5",
+      "published": "2026-10-17T02:00+08:00",
+      "publisher": "CMoney投資網誌"
+    },
+    {
+      "market": "美股",
+      "title": "AI股最好時光已過 巴克萊示警不再只漲不跌、選股看四條件 - 鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1PZVdULWpqS0FNcW81VnRKTWtEZTk2YUtRMzVHZFlBV3lnQVdUT3RKZk5VMFhSNHBGV1k4b3RWdFQ5OVRNNklOaVZISQ?oc=5",
+      "published": "2026-10-17T00:01+08:00",
+      "publisher": "鉅亨網"
+    },
+    {
+      "market": "美股",
+      "title": "AI概念股估值承壓、資金轉向傳產 法人：美股中期多頭格局未變 - Yahoo 財經",
+      "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxObkdVX2JvWG9GWkxjZTZDbVF0TFpFLUtGWVBWSFNtMU0wWnY2UzZld0Z1cjhoRnQ1bnVDZEVkWmNTbkMtYWJJRUxLNVI3VVFoRHZmUzFlUFV2ZFZmMTlzSjVjeTd5WWRMTTc5REdQQnJPY0NXd1c1QkE4RWtZNmlQZW5rMGJBV2UwN0NORUYtcElPYVJPMG5ReFVKS3FYN252NGtFT3dYME4yVDRVSDR0M2x6SmJzdUduU1hqVktnNDhhcVpFcnJjbnBXblhFdGR6X1JRNVVaU2ZiZlVsM09STnhpMktieEZMTE53Vi0ya3ZEX0c2UHo2eDhzM3lkY2hFNmNFSko5RUFfWVpXTENMMV9rVjdyaG1DVUg5N3BOZWlhVDdEeVNYaC16aVlIQXJxVjJ2TkI5dmZBUnp3NHhjc0RwLVBZWE53UkI2N3lQS25hN2xqZ3ZJUzlpaHhTcDBpMUpraWNtMGpWUW9rWllLNjEwWmZUQ3VnUjBoT3kxV3ZoOEh5ZXBjUHFpZ2hvbUdS?oc=5",
+      "published": "2026-10-16T19:13+08:00",
+      "publisher": "Yahoo 財經"
+    },
+    {
+      "market": "美股",
+      "title": "10/16盤後：美 PPI 創兩年最大增幅！外資無情「連 8 賣」，台股留長上影線是在誘多嗎？ - 鉅亨號",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFByWURWb2h3QWZTWjZQNHRYR1F6enRzcElpaGxfaXExRTNnSmtHdGxmLVBvT0w5Uy1zUGdhenNzZmJLRXpIb1RiUw?oc=5",
+      "published": "2026-10-16T17:24+08:00",
+      "publisher": "鉅亨號"
     },
     {
       "market": "財報新聞",
@@ -23,46 +51,25 @@
       "publisher": "果仁家"
     },
     {
-      "market": "美股",
-      "title": "Nasdaq futures edge lower as AI spending, Fed rate concerns weigh - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNemJYUmdaN19naFptR3ZmeDdtMU9aX1BLeFNlSTR6Y0NsV3FabEZYamcwemZfRUExLTQ2enR6VVVpX1lSSWxVUGt1U3BFZHVmZ1Y2TDlYS29MaFZJNjAwTGVWNEJGZXNIblc0MjA2Z1dGbVFib2lIUjVhVVFwMUtXZ2ZOX3hZbDVoYU9vV1RxcW9KLThMZDVjeQ?oc=5",
-      "published": "2026-10-16T09:40+08:00",
-      "publisher": "Yahoo Finance"
-    },
-    {
-      "market": "美股",
-      "title": "US stocks: Dow, S&P 500 end higher as traders shift from AI to healthcare - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVmRFNkRGLVZvSDNxOEREaW9YUHFzemFXb010Z0JhUG1ENjcxZTBGWHlBd0d0aVRKc2tiYnBKeVk1NTFPMk9CYmdXeFBXWHhNdGF6T0pnRnJHVVZSYmVfcmtrNnJrVDg0VUY3emVjVmQ4LWdhcXhxY0h6OHJQTnppT1BBM0s2Und3UDNoUXFSMWZhTVl2dGYzODgxQlJhWmprRmdhSlY0MjZESHVLczRPeFhJZThRN19FUXAtWnlMN0VsOGtqMmc1Q3BRX0FseDFXdmliRVpuMzBrLTJvSGdpQ3NxRjNZUFVS0gHiAUFVX3lxTFBQUnBJNGZ0Z3JoNWZJVW5NTE5HWnRzNzZlWUswTUNNSmZwU3F1SF9HRnVlMVBwb0xlSW9lS19zdlNLbGx4eFlLSU9XQ0EwZ0M4NHVGdy1hbUpRNU53UjA2VlJIanRtMHA2LVpsRE03My1GNGh4R050QXJKNnZ1a2RDbjBPLWZFVGdJeHJUTVc2SHNiWEZuZVVhY1oxaXp6RERaVTZlR2RvcWJvZEE0TDJEblN0REw0WHEtcTUxaGpCTmx5dVpnVTZPOElzdnR0WGZ4ZV9pYjNhV2hzMXN3eUtoQUE?oc=5",
-      "published": "2026-10-16T04:10+08:00",
-      "publisher": "The Economic Times"
+      "market": "財報新聞",
+      "title": "台積電法說會後行情失靈！股價跌10元 分析師：守住「2450元」就會偏多 - Yahoo股市",
+      "url": "https://news.google.com/rss/articles/CBMiwANBVV95cUxQU2NiQ203c3NPelVKOWZfWWZLZy1OdWZyUnl2WHEyS0h6ZV9aVFdscV9JTk96emFWcVpPOHQ4eGF2S0FwbUxHdWgyVDF2WmNfa0o2bzBFRDdObkRoVE5ObFN2WnhuS01HbUZNSl9pY1hUZGRuOEwzaFdfQk5RR0VmNHJaUUdZTHdobjFlaFJCdXVYU3ppQ2dQdmdKLXpLdmU5eU03aE1uWHVBV05SX3hxRm1UZFA4dlYxbm8ydzMyZElRYzgySjJhRXBkM1BOWm4xdi1obHR1NVc2Q0x6MUY5V1lSZHlUYW44aUk2QnhfNzlkM05TYndCRVpDb2lpR3NOeDVPQ3BSc3RzQ2YxZHFKLTB3NnNnMnlxNWVFXzZibHp5NWlmLWptdFNTU2FscjlrRDRXWGxJZldCY3F6VmJKRGcxSXlaREs2d1BCUWxRWmF0ZFB5a3hETzR5YmJOZUlQVk5maGVTbTF4STRjbXJXMXBHbDkzWm5WckQ3YnlQa2RISlV4cHl0Nm1QTGZESE5ndHpnZ3JjNzFLOUlFV1AtVVNfRmxwNTBEQVdkTFJaTVI3OFlEOG4zeEpkcTZPc01r?oc=5",
+      "published": "2026-10-16T09:23+08:00",
+      "publisher": "Yahoo股市"
     },
     {
       "market": "財報新聞",
       "title": "台股操作...盯六大指標 - 經濟日報",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5nWjZPQkI3b1ZSVXpaM1pvTm1vWDVWUll4QWJ2Wm1DOFJYbEFhM0ZOU1JXYXBWZWlYOU9iU0FZSzI3bTBHbEd6d2hEWnNUNnFLZWE5d1QxbC00aDlwY2RxS1E0bDJ6Mm8zc2VKaEtjRi1YOHVJajdQatIBX0FVX3lxTE1CbGFaYmE4M25FZDN1eVFmR00wRGI3OHAxbUZJYUFwdE1WcGg4TWhTVkFwNXhTSFdLaWpsT3V1MHlzRU5LTC1hWlJFX1BCczFVakJhY20ybHFGXzA2S0tn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBQZjRVd3JmMldFQXhRQWFNbFN3Z1ZHdUVXR1NRZzZtSktDeUdGZTNrMFBwU09JeTNXeGdibzhHMjE4blZ4VFl0cHJBS1ZVMW9ZcFV6VURwWFFTUUxNY1ctalRQRGNLSzZYMk85THlqdEZiTUxESnRoRjMzQTHSAV9BVV95cUxNQmxhWmJhODNuRWQzdXlRZkdNMERiNzhwMW1GSWFBcHRNVnBoOE1oU1ZBcDV4U0hXS2lqbE91dTB5c0VOS0wtYVpSRV9QQnMxVWpCYWNtMmxxRl8wNktLZw?oc=5",
       "published": "2026-10-16T03:09+08:00",
       "publisher": "經濟日報"
     },
     {
       "market": "美股",
-      "title": "S&P 500’s road to 8,000 grows tougher as yields rise, AI doubts mount; all eyes on quarterly earnings - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPNG5vdXlLYURtTDAwRDNveS1ycEdDNmRVYzBiSWhvYk5xdnFWMFdFa3VqQUQ1REYtSjVzekIxSEJKZUFpTFBzOEJrTUNWYVlIR3hvLVU2UTVUTTZGQU9KeXVyT2QyNkdBZVVvZXVOVzlmdUVCUmtMUF8tM21TYmFpd2tQZ0VjWFlJNFEwZlF0OVRDS0NyRzEyMFgwMDkzbHhTTmg0TzNqdVp3OEpvNk1KaWZadmZib1hqcXB4RDVTMklJQUVtUDNObUpVbFZsS05GS0puNnRsRzZPMlFSQ2tSSnhBR0JvT3BLWG5vM3VDSnZBWUlBbzF4eS1NdzFzUXhkUFo4M1pGNlZCZjB4MkQ5c3ltMnHSAZoCQVVfeXFMTXA2aGtvejlTYjMzalNRWEhTVnpVemJwZ3lORkI1ZG1uU0lIM1dKSG94TnlpRGFQVjFjWVNLY2JyUEo4ZTdIS0dOT0tpWFl4RFdmbXhXcjRYX0tKWDdmcm1ZRDdqYzB3N3drcUNKcHRuX3BDYS1Gb3hNUVlXbkg5ejdKZXZtUWdmYjkwZjR4aUJDVWRULWhySzVZSXJ1eUQ3ZEo5NHgyWG9weVBaVUN4WEZxUmttenR0cnZ6OHdGRkFjV0VuVkxmN3QyMzREdzdnWlFZa2NMcjdQZUNQWXRRd1I3VVBGeEpndk1Edmh1UEotTFhfdENLdWZBUFJ4VEgtVUlTRl9fV3dzRUxQZ0E2VHUtRFlMYkRyMjFn?oc=5",
-      "published": "2026-10-16T01:06+08:00",
-      "publisher": "The Economic Times"
-    },
-    {
-      "market": "美股",
-      "title": "US stocks: Nasdaq slides toward one-month low as AI selloff deepens, inflation pressures build - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxONVJxWDBQQ3JUUHhIXzBzUUk5RWlWQm9UWVk5S3VmQ2hENEZQb2tUQVlNdDZzY1loOUZjM3FpdGk0aGlXZ3lhdjZlVWJ6M0ZzbDNPSlR6WU1jQ1R6bHM3X21INER0VXF2VTRnSGFfbkJvbGVHai1TMWQ2OHhnanVlaEEtcHk5RDkxTlFmZTVTeHhsUjFhRzJqR3hXRldpODgxNTBRZkt0YUplMGZiLWZpbkZuZmNTQmhLbGpfRlpMSjJkQ01rLU1GYUVMS1duNVZvSGotVjBONlNsT25CTF9pMHpYSVdsMlh3Q2lPTW1JaERkTlpD0gH6AUFVX3lxTE1udTFmS3FKRERRemd4a1JKbUtUaVg0dWZqcmhCNzh1eUVBNmN4bEhfT3kxMW9DbVk1NXYtR3MtUGhMamxkMWx2R09QZHYxYzZYRG94bFdFc3hLMFpYcEcxWkNURFZfQzdVamd0WlEyd0F6dGgxQWFHSG5QRVZvMGxKWFFPc3I2QnotN1NabExsZmRmNURLQWliYXpPWmVIQlNVTkRKRnB5dXVoMzJOQTdtb2dFWVNkRGhVbjdqUXVRR0loeFNSVlN0NXhPdWcyc2hjSkF6LU5lNUVZTEp5R1pjVHdiU01OYWJFQURnb0NaNHIxaXRYQ0lHaUE?oc=5",
-      "published": "2026-10-15T21:57+08:00",
-      "publisher": "The Economic Times"
-    },
-    {
-      "market": "美股",
-      "title": "US Stock Market Today: Dow Gains, Nasdaq Sinks 1.18% As Inflation Fuels Fed Rate Fears - NDTV Profit",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOd1JnN1JLNGpVWUlvcDVaQmlXaEY4SkRvZ2h4X1hNZFBGb2IyRkQ1by1nSDFTTS1MemljNVdLdEM5a01xa0NTd2Roa1Zva1RjeDVoUF9fdWcwZU10dWxKUnJzQlJPYUowLXhrUTV1bF9FYkxKTjZmMDBnSXlORC1Zb1ZfM3VWenBjNVpocFJOY2NOU3JjRVFUdmQ0TU9LSktWcW9RTWxORHZRQlBiZ3dBX0ZlOUZCeHozakYzSEhSdWdYcE5xN3fSAc4BQVVfeXFMTVhvMXdvNUFnZTRGYlNvUXpTQUJld2lXTGxDSDVXbE5sLWVUWnlzQTZGSGtlMTZFZnJvVDVMd2pRVXAya2VvUzlqRmhsOW4wNUZyNDlnTkthM1Z4NmdsWWlqaXdCUDBVRXRsNVg3V0JGOUVzemlrSEN2TGI4end0MS0xc2F3cDVBUDVac0l0MGdPamlaRmt0Und1YzYzcEpFU01ETHBwVU42bTlKbnc5T093Z1FZc1ZJMFg4VC1NTV81NV9BelJIS284ZWgwZHc?oc=5",
-      "published": "2026-10-15T21:37+08:00",
-      "publisher": "NDTV Profit"
+      "title": "「美股怕的不是獲利、是估值」華爾街大多頭Yardeni下修標普500目標價 - 鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1CQnFCV1hpNnQ3WFFkMGs4QjBnUnp1a1dVczRjcW9peWU0LUdVRHpheTdId0VlX196WTByMjA5eUkwa1J2eWt4UUNrRQ?oc=5",
+      "published": "2026-10-15T22:00+08:00",
+      "publisher": "鉅亨網"
     },
     {
       "market": "財報新聞",
@@ -72,20 +79,6 @@
       "publisher": "vocus"
     },
     {
-      "market": "美股",
-      "title": "US stock futures mixed as inflation and AI concerns hit Nasdaq 100 - Wall Street's sharpest decline - Beinsure",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYlVMX1I2OVpuaXlVVTdVNzBST1M5MDVGZHU4ZUpmbHhudG84Um40NWxQcDFNd3Z1VnpRU1ZYTlF4Qkt1S1JJUmMtUzJiUGQwX2JqXzFrbjlSWmdwMjgwN3c1bUFSVUpZV2wzY3VIRk1uZ3JtZ3NjTTNxeUY1N2JqRDNGYnp4VzdmUk1XVDlUUFlmcXZaNVhaTQ?oc=5",
-      "published": "2026-10-15T19:18+08:00",
-      "publisher": "Beinsure"
-    },
-    {
-      "market": "美股",
-      "title": "Wall Street To Open Lower? AI Stock Selloff Among Key Reasons Weighing On US Stock Futures - NDTV Profit",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUENqUGFzX2xfdjkzbXBXVjdqRFV3b21WRkppdUNhSGRheTBGdjM4ck40M3dXOEpKRGJXWDdGQ0d1V1Q5a3JIdzlQOFdFSWJURGZ4czhFNTUycnRzREFYMDhPZE5uUXlObnV1cjFjdlY4ZnpRNTNQZUw5ZlBNR0tCSXktUy1QNHM4X1VZd2hBRHpqcHJReW50RnpMOENudmlsTkdQRm1IYWpwMmV0SEd0ZUpJUVl1SHpNMHN6bXk1ZmU1c2JfdzhPWXBOMG1oZHpKemFuY1Rn0gHWAUFVX3lxTE9QQ2pQYXNfbF92OTNtcFdWN2pEVXdvbVZGSml1Q2FIZGF5MEZ2MzhyTjQzd1c4SkpEYldYN0ZDR3VXVDlrckh3OVA4V0VJYlREZnhzOEU1NTJydHNEQVgwOE9kTm5ReU5udXVyMWN2VjhmelE1M1BlTDlmUE1HS0JJeS1TLVA0czhfVVl3aEFEempwclF5bnRGekw4Q252aWxOR1BGbUhhanAyZXRIR3RlSklRWXVIek0wc3pteTVmZTVzYl93OE9ZcE4wbWhkekp6YW5jVGc?oc=5",
-      "published": "2026-10-15T18:37+08:00",
-      "publisher": "NDTV Profit"
-    },
-    {
       "market": "財報新聞",
       "title": "台股崩1655點失守4萬7！外資狂賣3025億創紀錄、台積電Q3大賺7630億，10/15 股市重點懶人包一次看 - 風傳媒",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBnZG56ZFk0THBKWDJFME1manZDN2dVd2ZoLXVSaGw2UkV5SF9wbldlcldlREtOU19KZExNRlB2U3JiQjROT3NQT29aa3FaSHpW?oc=5",
@@ -93,60 +86,60 @@
       "publisher": "風傳媒"
     },
     {
+      "market": "美股",
+      "title": "美股定期定額人數增逾4成 凱基證券觀察「追AI也存大盤」成投資新趨勢 | 財富管理 | 商情 - 經濟日報",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Oa3lDMW43YTN5b0pPaHZ5bld6S0tMVUJnLVZlbFVHVzl6eG5nMmVjZXFJOXVOVVdFeEE2bG52ZkpkcUpuS21sR2I3eHJwQTk2bXRxX1dKTEpVUQ?oc=5",
+      "published": "2026-10-15T16:01+08:00",
+      "publisher": "經濟日報"
+    },
+    {
+      "market": "美股",
+      "title": "全球股市大跌原因找到了？美股科技股重挫、日韓股市跳水3大利空引發市場恐慌| 張一笙 | 風生活 - 風傳媒",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB0YmhwZ1g0MHV2MVNZa21LQ3ZtWlBOekZtQmxpdW9LQW9lLU1QUEM5RWwtQ3FaaEVXZ1hfTUY5VTcyVlotZ0Y5eE1OQktsNl9h?oc=5",
+      "published": "2026-10-15T14:53+08:00",
+      "publisher": "風傳媒"
+    },
+    {
+      "market": "財報新聞",
+      "title": "台積電法說會報喜！Q3狂賺7631億、年增69%創新高 EPS衝29.43元 - Yahoo股市",
+      "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPbFVWekhPa25mdTQ2R3lKYzh6Rkt1Y0p6Q0xsMGdsZUJ6R1d0YzNmNnNlZV9ndURpRWdOb2Zna3luU0hXYkRnclNkUTgzcnBzcUQ0N1Y3ZjZSYWYtdFZjdnBMMHNBWXZjLUZkY3ZzMGloR1BTUFYtcURIX3dZUmxUWXJxWXVpT1hKcTJZeUhxNXRiZzk0T1BTRk92Rzk2MF9NNHRzOHNtRWlHLWxISFViMFlKVmNYeWZFcXZQZEl5OHhhTkY3ZzNqOHdVOXNuOEYxY2pHSnBjTjVZZDRWMjFyNVhtZzl6a2I2QnUxbWgwOGNUTnBIeFFITTV0Q1VtaVpxcXBqRVdRNmljWmR2V190Zl9vQWRveVRsWnpnUUpNMEluLVFsTDR4UlhHVk5zM2tyRGd6c2R0c2FwN2J3d3c?oc=5",
+      "published": "2026-10-15T14:50+08:00",
+      "publisher": "Yahoo股市"
+    },
+    {
+      "market": "財報新聞",
+      "title": "【台積電法說】第4季營收上看1.72兆元、年增65％！ 魏哲家：第2波AI需求正強勁 - Yahoo股市",
+      "url": "https://news.google.com/rss/articles/CBMi3ANBVV95cUxOcjFMcU5vdnUwcWg1Q2hzem5JMjkwQXc4RXphZ0dwZTFTbE04Zy1MOWkyUUdWSF82ZWpSR0owWUxESVpGaWxjZmpITktUeVVVMHlkdjczcXBqdGxObWUxdU4zRzNRSDZzc1VOcTJqaGZ2R092WTRvNXpZX3FhVjNNUkpxbDJ6QVNac0VpLUZjWWhPSEkyNkMwaUExU2w5N2h2YjI4LTkzeEF6bVpWazlhbVo3enIzejVWQ3Y2OWpHMFl1LXFaWHVNQmw1b2JsdUFWWmtfd1NFZnlJWnNuSDJYZnNuZXdzQWtlVDNCTjVuZ0xLVVZTWUQzU0hsVk1WeUI5NnRjZmp5bUdsMVQ0c2lUU25VM09MTzlMV0czTXVNSmVLQkdDRlJPWHBTeDFzUTZSWjhhaTA5VTF3SVpfdE9RbkFhUHkyUGttYUpSaXhwd21SSlRkX0VjYVNseTh1WDNJb3Z3SElReGR6VWpXYjEzTkpDNEhtQnFXQm5TSHJnczRORm83X2ZMNWtQZG04MmNRc0FneWh0cF9KaWYtMENBdktBU3BXcmpNckpNVk93eW1UUDZPVG1RZWFEcjZrcFBHOU5JZk5BWmI4ZVNTSXc0bnJ3NDRXODEyaEpLMw?oc=5",
+      "published": "2026-10-15T14:42+08:00",
+      "publisher": "Yahoo股市"
+    },
+    {
       "market": "財報新聞",
       "title": "【台積電法說會】第三季EPS低於30元被嫌！網歎「住套房也是住房哲家沒有騙人」 3大熱議一次看 - Yahoo股市",
       "url": "https://news.google.com/rss/articles/CBMixgRBVV95cUxOZU9mdEV1aDd0U1JSQU1oUUZVYVFfSUtkTDZ3end0S2NFZE5qcHdfQTRPb3JsU3ZUci1aeVhnS1JnV1lSOXdmbmNHa2lyNmh3bGZFMXctMGFsd2t4QmF6N0FET1VLaWtWSkhfSGRwZ3V3T0FRYXB5T1YxdkZMMDRRNE94TUhqdTlIVWFFNDZfeDZnbEpEdjh1SU9GYndBdWNIUGdPR0I3bVg2bFFGejViYkRWUEk5YkZVc3BVRlMyOFRWdS1PUjJ1UWlGd1N0YWVteU5KRjR3Q1IwUTJoZ0pza2NxT3VTYWpTRk1ua1A4S3k3LXdpa3hiaXhkLXZ1SmhUNWlHWXhnWXBpbk5KcjM5MzBoN2xGdEo4b0gwdTRmb0FzOTRsbmE3cDBRSHFVRDFNYlYwVHB3NWNGTGpDQTJ4N21vMGpzRHhVRzVCLU55VmhCbFk2bEo1T0kwZ093NjlSRndTWWJUR3ZFQ1J5cVlfOGFIYk9SUm8yRVB3X09tRHFOUnMxQ3ozNTRFMElYNzV3ZVNXQVdsREExNnJpa2ozWTEtdWZqR2ZVUGhSNXdoXzlNYVh2WmJfQmRHdHFoVWFzdWN2VE9ONkNTNS1DN19mdzJZb3VTeVhPM09ZWkdhd1lsVmczc1FkUDg3TzZMWDNuMF9Vam9NSjhXdE90bEtIcDBET3FuLTZpbTJxVU9YWldRQm82ZjRqOWY1TmcyWFpGY1dxTzdBUWZ3QUV4SHNMQnZrSThTc3VicWprcjNjWGRMODJiYnc?oc=5",
-      "published": "2026-10-15T14:24+08:00",
+      "published": "2026-10-15T14:25+08:00",
       "publisher": "Yahoo股市"
     },
     {
       "market": "美股",
-      "title": "US stocks fall after hot inflation report as leading AI shares tumble - eNCA",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQWd3c1gycS1LRkNHOVpMSEpKbDBsZzBuUW9vYmdpSDUtN2hESHdKVUJfV2FKRlFldmpKSnlqeHdQb3Z5UTVGMGI2YTRpbnM0X3h3ejB4WEF2dTZzdFVCeWpQb01RbHJPZk90WjltSnVLcFhUajhUUUY4enU3RUZudXpqRkJmNXJmMXpobjlDTC1PeTNnSVQtMGF5VmM?oc=5",
-      "published": "2026-10-15T12:04+08:00",
-      "publisher": "eNCA"
+      "title": "Meta有望上漲逾11%？10大分析師最新目標價一覽 - 鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9mRU9keWVueWRjanVJRmI0SEFQOFlxQlEyM0ZOZlRKOHVxbnE4bTkxOXJFYzhrSkVqZlp1aU5nSDFfcHpaLXF2WnVGQU5UdWM?oc=5",
+      "published": "2026-10-15T11:00+08:00",
+      "publisher": "鉅亨網"
     },
     {
       "market": "美股",
-      "title": "US stocks plunge, tech stocks under pressure. - Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVzUwUS15LWNqQjJzeHpxNG5DV3A2S0w3LVJRUVJ2TFJwUmNYMmF0UEdIVEZFRF9aOTF6bDRiX09rbzhSbUlwT2NMdUUtM0JJNTBGWWU5X2NORElNUGw5WGxrY3VMRGphc0Q5UndnU0YyR0VURVVXVE9ZZjRNV2JkUkN6Ynhsdw?oc=5",
-      "published": "2026-10-15T10:44+08:00",
-      "publisher": "Vietnam.vn"
+      "title": "美股收盤／通膨掀 AI 股賣壓 費半重挫4.3% 美股創7月來最重跌幅 - 經濟日報",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5aUElYWVI4bHpXNTM5VGVMMWhCU29KMFo5LUhBeWpNclhlTFpDZHBPSVhmU2stMW9ScWM2Y1hqS2dGdWkzUkVUWWRUYkFMR1FmbUxYN0NJMGphN1Ju0gFiQVVfeXFMTVFRdzVNQjBpb2xUTlFSQWZpSUJjamhUX3VCSFVzaDhfWnI2NUtlNVZESWNTaGtYcUNuZlJYNmZqVC1jWWNMeWdtUkx2cklINUtyVjhsaUdLZXdBRFZHZTlubHc?oc=5",
+      "published": "2026-10-15T06:49+08:00",
+      "publisher": "經濟日報"
     },
     {
       "market": "美股",
-      "title": "U.S. stock futures fall as hot inflation revives Fed hike concerns - Yahoo Finance Australia",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1oWkF3dWtNdHJjOXdzd253SzhfYWNpbWVIb0QzWmpEaXZ0UE5oOWhIbGNhUUtycHRBSWdfUHFlTWJPQ2I1YmYzU0dkUUVDcVRIcHZwVUxDSjFsVGhfWlV1alNDZVh6LW4ySFJWVmVYcWdiMlIxNmE1cmxMSk1fdw?oc=5",
-      "published": "2026-10-15T09:02+08:00",
-      "publisher": "Yahoo Finance Australia"
-    },
-    {
-      "market": "美股",
-      "title": "Nasdaq ends higher in big rebound as bond rally offsets tech softness, hot PPI - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbFBrYkxHaWM0WlItWjB0bkRPNG15bm5sel9DOU9QSTM0ZHYwemUyTnhJbThHWVV6NFQ1bnZ5Y1IwVmRsZGJIMFJPMV9qU0p1UkJscEpmRTBKRFg3cU0yQ3JRLUpYNGo2UVI3LVo1SGJaWThTNF9wV0x3cnJIeE9TWG1HNW1sX1pxbnJZU0ZucnR4NmRHNk1aVTZaNlVBT3ByOXhMb0R1YkN4Z2otZVo5NWNmbEVWYVNyTVUzTW1n?oc=5",
-      "published": "2026-10-15T08:35+08:00",
-      "publisher": "Investing.com"
-    },
-    {
-      "market": "美股",
-      "title": "Nasdaq ends sharply lower as hot inflation data stirs rate-hike worries - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMDkzb0Zhb0ExSzhlSnR6c25HbzdpY2g1djVFZ1R4eVktaWtCZ2gya1lEdHpzcHlEM1VITE1Pdlc1MmlDclhQQmxOWC13NXdXZjhPOEYtUnc3bm80eThIZ0lEam8tN0hXV3kxNnhob3g5OHFxNHd5VzJsTks4SzlJR0JRVE5LZ2JMbXhYNFhvOC1yTUJ5bWFEN0JWTFdpaFkxN2c?oc=5",
-      "published": "2026-10-15T07:33+08:00",
-      "publisher": "Reuters"
-    },
-    {
-      "market": "美股",
-      "title": "US stocks: Nasdaq ends sharply lower as hot inflation data stirs rate-hike worries - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPVzFwY2h3anc5aU9CdnZCcGd1YUptS0FvVHRPQjJsbE1CMnM5OHowWHNhY0Vrd3FwZmVqSGMtVE00dHlwajdva3RNWlMtRk1TbU9kTkx6dlhZNkd2Qks4YXVlOUxqZE1lWFhBY04zUFRrWkctY05hY2FkQlRXRHd2VVhGVXZjSzlNMllVU2hMVFhZRTRBb09OdWU4SzlJcTItWUFKTEx3TV9tZVJ3WS1TQVBfNklaZDVMTUxQeFJXelZNRkl4ZG9tZXVKdEZySHF4MUdtSlg5WHVGT05FeEt6ZWRPWmppNm51MTU0RkdSONIB9AFBVV95cUxOeFh3RlRsR0lHQnJoZ1FaLVpOQjNqY1lHY1ZiLWFaSVhQZzZjOWxlak5XaGdudGc2ZlNaREpjLU5ncmxzVnVjaFBGbVRHYWhHUG5hLVRNc1JMZmNPWjM0SVpSd09hY3FRZ0JHaTVNN1ZEMWZyZ0lhVnRTUHFhTlJrTXlKSjl5b25rdzNueGNmV0pxTEpaWnhKMURxcWgwd2sxOHUya0l4Sm1ZUS0ydnhqVHlxZlZHbTVqa190eTFLZnZuTW1kc2trbl9aTzRXeU9FTTJyV2piZ2Jqb3NWWkk4aEgxaURKeWlBRU1CSzRlUTZWOFpF?oc=5",
-      "published": "2026-10-15T04:16+08:00",
-      "publisher": "The Economic Times"
-    },
-    {
-      "market": "美股",
-      "title": "AI stocks drop after hot inflation report bolsters bets for Fed rate hikes - Yahoo Finance Singapore",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUkRnSk1DVFpjeTk2WmxkOVpSRjF6VFJlWUU3LTE4endaUkl1ZE9maDZCRDF6TkI5SW9QX2dYdVpxSFpNajVtclg0UzdtTHF1aXBYRnZOMUdza196aHV6N293cFVldXhZTVJtTnlqMEFyaU0yM0QyM1FwaXY2RnlHR3E2Yw?oc=5",
-      "published": "2026-10-15T04:12+08:00",
-      "publisher": "Yahoo Finance Singapore"
+      "title": "通膨走強、AI股遭拋售 美股那指及費半重摔 | NOWNEWS今日新聞 - LINE TODAY",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1IeXpMR3lRbnRWSDNUS3hoRmRUbzFWWmtwZ05RNTVlMzQ2Y2c4RXkxdVotN3plRVcwdGJ2aXVwa2Z3WXNxT081OE5HUFlkX2lBWU9ldEl3?oc=5",
+      "published": "2026-10-15T06:40+08:00",
+      "publisher": "LINE TODAY"
     },
     {
       "market": "財報新聞",
@@ -156,32 +149,11 @@
       "publisher": "TradingKey"
     },
     {
-      "market": "美股",
-      "title": "Nasdaq Composite sinks as US inflation and AI spending fears hit tech stocks - Beinsure",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZS1BY2NTVzUtVTBhUmFCdnhZbVEydFlsOVNqVmRSV1FuQnVzXy1hcFo0R3dJeTh6dXhvVXhMb3Z5VDUxNXEyenRUSEV0TGJYdmprenJRSkFVdHdTUFpSU2tWOGEtcUFNT1dFYnhtVlA2bDhSV0xuU0NtTWlZd19Ub3JGUkpFc0NTRC1Z?oc=5",
-      "published": "2026-10-15T03:38+08:00",
-      "publisher": "Beinsure"
-    },
-    {
       "market": "財報新聞",
       "title": "台股押寶買盤 進場搶短 小摩建議買進12月到期的台積買權價差 - 經濟日報",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Da1hOR2g4MTVsZjlvcjBtNlJjc2taRkxwS0FLYTVRNDgyNDdfSUpoeVdIX3ZtNTlnUGtOYXVaaER1eTlDemtUWUNCWEI4NUNBSm5WcUdZWHdNZ9IBX0FVX3lxTE1PMkFOSHZydGFzaEdfckRqUGdtZVkxYXlBa0dCQUkwUlgtQzRaOHM4ckhWLWdSeGR6bnRJelhtOEx5UHYwX0J4Ul9UUkR0NHlCVXBjc1VOTU9wVlJmWDNj?oc=5",
       "published": "2026-10-15T03:27+08:00",
       "publisher": "經濟日報"
-    },
-    {
-      "market": "美股",
-      "title": "US stocks: AI shares tumble up to 16%, erasing $80 billion as hot US inflation fuels rate fears - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNTHdtVXpCSVVOWl9uOW4wb1h5bVY5aGFTUElwY243Q0ZGTHBYMVpucS1OcTFzVWQ3c2dad2o2ZG5BSlNQc1VsV2JyQnJiRU9jRm12OWZQdy1RZHRXNk1oR1haWnVxVW9leFhJYnRkUXduWkVDWFNwNXhCaXpobkhneEJxY2hrV0RadUNoSDhUWmhxWjZJYkg0ZURuM2JmT3piX0pBVjJrRk1USlZfbFJpU1ZpazRqM0ExZHNjTzgwbFRLLUxYTHp5LVBLWXJVVWtYLThUWVJ3WEpwMjQ4UFdTb2RFYkJBTnl2QXQ0ejhjbWzSAfYBQVVfeXFMUGR0eWRJejRpdGRjRWtfMzdzM05nS2x1QUhTNWxOSGFpOW5Kd1pDdk9KNGlLQTQ4NEQ4SUhUM3FLX3N0bndxbVcwVlJZbVBrQmRnNVREbVpSYm9FWUh5UlRlN0VtUHgwREMydDdmcVlMRVotZE1aZFp3ZFpRZlRfdGp1c21uTmUtY08tcFVxOFFUUngzVTRvTl9LUmZvU3VvaUNNZFNaQi1DekNxekJCWkpPWkV5ZVZsY1gwNmpsbGt3aVpNOUNrdkJtaGlUaGRjN1ZaUGpEZVk5cG5aS2NRSVhZbE5LaldIMWZsT3hJQ0xkeXVhNERB?oc=5",
-      "published": "2026-10-15T02:52+08:00",
-      "publisher": "The Economic Times"
-    },
-    {
-      "market": "美股",
-      "title": "Stocks Turn Lower as AI, Tech Shares Slump - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWDg0c0hqOWpocm5NRkdFQUVhdHlsbUFoTDloRFFRdW12ZUhwQzRRRGFYZXhRQUQ5WFoyMm93Q0tJd2JkbWpQR3JDZVM4Q3MzdWhXTzhkWTJDUm0wZlZSSGg2WWhVdWtEaXNVanNPNElNMjFpc2J4dnl2cTMzejFPUWp2c1pvN29sQW4zSk5OSjBYSF80MEhTd2xXa1RaSmpqQlhpS0J6QUFqeVZncXo2azFMQ2Y?oc=5",
-      "published": "2026-10-15T02:19+08:00",
-      "publisher": "WSJ"
     },
     {
       "market": "財報新聞",
@@ -192,24 +164,31 @@
     },
     {
       "market": "美股",
-      "title": "BlackRock Cuts US Stock Exposure, Says Rate Hike Expectations Are 'Overdone' - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOd1BYb1QwZ2ZoZEZRUURZR2tUZWdFdURURnRfVTF6TzNHM3AyRUxEcXo2T2ZnY0stUm45TzBPMFdkenJDOGJ3RlljSHVpOTgwc1JPRzhqZHNjUW1Xd2RQQUpxbEdGS2ppcUFicXNDdUVkSnFodl8xSU5mQ1Q5enl4OGVZc0JxMVhyWlR0OXpEMnplVUJ3bXlrNG5LLVFZdw?oc=5",
-      "published": "2026-10-14T22:49+08:00",
-      "publisher": "Yahoo Finance"
+      "title": "美股平靜時光所剩不多 月底起四大事件接力、預期波動增50% - Yahoo 財經",
+      "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxQdVpuZkhfNVk3QTFjSFVQUkh2UVRCM3lRREV3b0ZRRktqekdiVlNWSlU0SzBmZ2JYcDlDaFljQ2hkQUxNVkZCR1dja2x0Y29sNU14ZktISWtrWXl3eUVhVU9VMVJsZUpndWdUVEtFWEw1WGlsV1BpbnhzSzluekNlTV80SU44b0VVc0g3Q2VIUlI1YjdYRnpzT2FpVHBBX3RIMlJWVFR2bllMSm9oZDdqeE5iTU1hbG9ZV1IyQ1dPMG1QcXFfaTNYOUxybG83V0R5QV94VFRmYkdKXzFOZkpWeXFFNTlGTzM3RHpJeHg2R2c1UVh4T1ZmUUpnMFZETk1sUUhXR3hqWXYzWE9YWVBYSzdfbnpodGlFUzIyQjVkUm1jVVBqS2liTUVEYTdsWXo4dHlGM1NzMW9DR0tvR1lkbnN4dG5GLTdPS3dtU2xqRzUwZUFTQjljZWtGdy1RSFppYUxKVUJGSHUwbGQ3X2RENjRFZk9qZ1RDT0VFTGNWa2tRT1E?oc=5",
+      "published": "2026-10-15T00:00+08:00",
+      "publisher": "Yahoo 財經"
     },
     {
       "market": "美股",
-      "title": "US yields jump as hot consumer inflation boosts rate hike bets - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZ3NUOEhaNXY4YVNTcDFVcFFUUUNtSWczQ0dFRXR1UEZSRHNyMndtaDJncEdGcEN3SFdxYV9RcVRFa3gyX24yUHQxVFRqU1BjdjVlTmNCc0t3d2UwMkRyb3ZlazJnMklfSG9MWWU3RXlxbDZTak9meWpFdkVsQTkxcDZaMjBRbDRCbEk2bjlld2tTbk5TYjdaeGdSd0lxTmE2elF6RHYxbXNnazQ4TTE0R2dfN0t1dl8zejd4SDFJRlYwZHZRZW1KNFVqaGV0aWtWNkd2VFBB0gHbAUFVX3lxTE1ZT19ZeGp5NUNLMXdVMmFDdk9fbVIwMHRxWEpLQkctZHFtX0IyeUlaYVRmR3BKT2NOV0lPcUFIVWk5MXlSa3pQVnBqY1laNnZjVW5pam9EMzBGaFd0US1KVTRNd2VsVW1TTGZnU3dhVEtyYWJrbGV2T0Q3V3BHRFk3V2JUR184cVlPS2ZuNDItWWMzU0Fkc09Fa1pxVjFmNFpMd1VvdWI0d1R0cFpuQ0NBVzZsZUp2dUZSRU5aOW9IMFZXSkY0OVdDTnNkSDdxVWtMMlloZno2T1hPUQ?oc=5",
-      "published": "2026-10-14T22:08+08:00",
-      "publisher": "The Economic Times"
+      "title": "美國9月CPI通膨高於預期 華爾街美股主要指數開盤走低 | 民視新聞網 - LINE TODAY",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBjQ1J0TUdqdUVjb2dwd2JXWV9TLUlvRVVmMUFiUGJnUVJQcnVQZ1lWY3lvUnRIXzRoMkQ1akNFbjJvSXlXQnU4NjI2VUxqOEo5dVBxQU1B?oc=5",
+      "published": "2026-10-14T22:45+08:00",
+      "publisher": "LINE TODAY"
     },
     {
       "market": "美股",
-      "title": "Gold drops over 1% as hot US inflation data boosts Fed hike bets - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZ1Z0Uy0xQzlKOUV6VmJfZUptYnhsVVNTa0xuQkozR19Va09SeXRQQm95ZGRESmN5c1RydjZDN19BVFdLVy1yZVJCUUZUcEFhUXIzMWU5X29JQnBkb2Fsa25HaEVsaURDZWpTOEw4andYLUtib0hXSVhIb1pWdU1XRW0yU3hWN3J3bEl0aVhqb1NxZnlLQjF1TTc1VVBOQ2JwUWJ6cnRGcDgzZi1IejBFLVg0U1dHY0taRTVFNTVpR2VsdjFINi04ME1CSTRQU0NHaElpS3BxQdIB3AFBVV95cUxOVTNTNFlERThIeFdpWUV4WUltLU1ucDdLS0xNWnloODRqTFpTVnhUOUFfa2xMWi16MmtyMUE4dTlpdnc1M1lLVjVmTXRHb0hTYnZTUnItRXlDcmRFOWVST25DR3dDZmZTaDFwVzhEZGtRX3VpZHpQeHpEbU5WZ3NKN0hFamJIYnBoemRWaUdUTjhoT0tBa0tpclRQWFpWS0VTcXg5RXNNdllvQjZNUExNZXpWcGhrQlRuZWxWMXI0RmpmdkZ2ZXp3NmdpMUlrX1ZEYUo3cFpGUVJ2RnNE?oc=5",
-      "published": "2026-10-14T21:30+08:00",
-      "publisher": "The Economic Times"
+      "title": "Fed10月升息重回討論！華爾街憂通膨擴散 有人喊12月升2碼 - 鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBqYkV6dGloeTV2eHdFaXR3WEtGNzNTUXMtNjhpVHdHSzJneTNKeldXeTdud0VFcVdWbF9xNzNWS1AtZGhFRzhoV1RBajdKN3M?oc=5",
+      "published": "2026-10-14T21:50+08:00",
+      "publisher": "鉅亨網"
+    },
+    {
+      "market": "美股",
+      "title": "〈財報〉股票交易與財富管理雙引擎發威！摩根士丹利Q3獲利報喜 - 鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5qYUdfTk5LcHJMZE9pYkYtNVgxQ3VKc1AyWUlXUjczOEp5RTVxSWc1ZGtDMFlKdHV2OThOZXA5T0pSTElWcWlOVGw2VQ?oc=5",
+      "published": "2026-10-14T21:00+08:00",
+      "publisher": "鉅亨網"
     },
     {
       "market": "財報新聞",
@@ -233,60 +212,123 @@
       "publisher": "鏡週刊Mirror Media"
     },
     {
-      "market": "美股",
-      "title": "Global Market: China stocks slip as AI selloff deepens, mixed inflation data weighs - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNSUtxWElxbzBpM0VBVHA3dGpFT3ZwREt1RlR4bEZFVEpXWGFzMTA3aTllNmRZVHpLTWJ3NnBkbGdqVzRRLVZBT1J5Y1JPcG93SVZtLWphQ0s4WXVpbVMyc0ZDSG9WVy1ZZ2NwZGNkVkRuaXZRTGk4cFhuMHZoY0J6VjZBUEkwdVJ6U3dFeUszc0NmdmNDSDNVNzZoQ0F0RUNaaVVzZDk1TXpGV0xmbGJpdHlPX0pVdHVTVklvTGQzcnc0VzRMSjdScEp2R0paVzhwbHBjeXc3dlY4X3dXb2l6SnFCLWNpM2J3M19nbmxYONIB9AFBVV95cUxNOG1mTndCeVJLOFZSdjd0OG9GZlNDNjNZeFd5QmxrQUJjVDNoT0wzQk5sMUtNdUZTV0NLWXoyR3pDYkozY0xTcHdiWTc1ZUxTU3JvT3BObUluRHNvbXJLTkpmWE40SWY1ZnJsVDRYWFBHZ1N2SWRBaUJwTGJWaHdyb1hQbmc3Nmtjd19Kb3A5UFM1T01DODlJSXUxa29tZXRDQ2VSRVAzU3JGZG9sTTE5eFotaWtwYTNwYlRuYkVOMjd0Nk5ROUFRV2dET25LbTcyLXoxZ1BSdUdSbGlrY1A1SnZMVFhpUWFGcW5jSnl4cXNTQUxY?oc=5",
-      "published": "2026-10-14T13:41+08:00",
-      "publisher": "The Economic Times"
+      "market": "財報新聞",
+      "title": "日月光獲利大增，AI封測擴產背後的現金壓力 - 口袋證券",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE13SV9yUXhJZXYyZU0tVlVGUHFwTTBhTEc5NHFoQ3gybDl2empQa2ZkekFZNUlZSmFTdFFPeHJDUUtuck8yRDJsdU9UdnpVUXB4dEdhRWlR?oc=5",
+      "published": "2026-10-14T15:00+08:00",
+      "publisher": "口袋證券"
     },
     {
       "market": "美股",
-      "title": "Asian markets mixed as tech firms claw back some losses - Yahoo Finance Singapore",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZ0ZVbHdPd0NLb3dGSXR3MjlnbzNhc09td3hTRWMxWHcxVDhrZ0ltN0J2NlcwWTJ6eWNtaHkxX0xTTUZpazIyaGZCMDNBYXN4UlZtNE9XZjlJb2RqdkJYam9nQkUyN1NyckVTbktoU1ZXdjNuWkRVaUp5RnpZV3U4TkxaaExsZw?oc=5",
-      "published": "2026-10-14T10:56+08:00",
-      "publisher": "Yahoo Finance Singapore"
+      "title": "美股財報季開鑼 華爾街銀行3好1壞 - 世界新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5nN3FxUGFScTR0N1QzRXlEZ21ERXRaTmdwZEVnN0VWVHhwTUZ4M050bVNGbVlSYzY0SThPc2hWS01LdXFhUGdUT05fbEJQQUxvR2tvOTNaWWt4cm5UamRJMUhR0gFnQVVfeXFMUFloMkxxaEZxdmFvLURXR21lOGJfWmg2MnNrRlhGRTdOS05wcmdSU1lCZU9Xb1BWNndpVUtZdU9kR1E5QlVqdTNldGxfUDliMmxXWjd3NXoySmVRR0xrbGQtZWpaNldqNA?oc=5",
+      "published": "2026-10-14T14:00+08:00",
+      "publisher": "世界新聞網"
     },
     {
       "market": "美股",
-      "title": "Nasdaq drops as tech stocks tumble amid rise in Fed rate hike bets on hot CPI data - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPN3FCcWg1LWlCRlZSb2hpUUdpQzE1MHlDSE00MUFRVnNBMEhYWlZvaml0NVNDdmd4bjJIdXBXZzRJZm1XRDU5VThCN1NuWE1IMUZsZjhJQkNTVENOZDI4OWFtR09fZEM1NGVFY1dPeEF1NGlzNVRveDNqZkl4SG9fMHlyekVTYldPdWF3cTExdlRBcjRibnc?oc=5",
-      "published": "2026-10-14T09:24+08:00",
-      "publisher": "Yahoo Finance"
+      "title": "【即時新聞】輝達(NVDA)相挺也沒用？CoreWeave(CRWV)暴跌15%，華爾街狂掃「泡沫賣權」看空AI雲端類股 - CMoney",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9HSWhINFBmUGFZcFd5RGZETDc3Tk8zeE5uRm5WbnVsSkp5TF9BN1lUdzVGcW9ETnFVWFVMRkVaaWYtRHhQOTh3N0lOVTUxNHZzQm80R2toUVc?oc=5",
+      "published": "2026-10-14T13:24+08:00",
+      "publisher": "CMoney"
+    },
+    {
+      "market": "財報新聞",
+      "title": "台股收盤／收漲284點49K有壓力 台積電尾單7999張摜壓收2490元 - TVBS新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0yN19VWkFBN1VncTMyQTBVSU0xQ0NlVlB0VTFWUzhrUjRmMUk3RzRONFNzcF92WkZDYV9iNEViNVd4dnlYZW1GeXhjSDJyVE0?oc=5",
+      "published": "2026-10-14T09:05+08:00",
+      "publisher": "TVBS新聞網"
     },
     {
       "market": "美股",
-      "title": "Will the Stock Market Crash in 2026? 5 Risks to Consider | Investing - U.S. News - Money",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWk5OQUItYlZ0a3dDV0lIWVJZcVNhSm5sQXpKY052RGJNd1lwX25IZ2JJVW50WG44WGRLYXR3cG12bUF5NThuZlFMTkdGbHBONkdJYXpMSjVXeEJsMks1RnZXa3U2SC1PdmtYZ0ZJVEdaTDVXRFVCcWY1cDd0OUNRN0ZfYlI4NkRDRlpiZQ?oc=5",
-      "published": "2026-10-14T01:59+08:00",
-      "publisher": "U.S. News - Money"
+      "title": "全球債市風暴下，“華爾街風向標” 摩根大通 業績先感受到了寒意 - 鉅亨號",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBaam1pX085Z2dHOU5qeHVnMWc5MjdTQ0JTcmxXV2JXM0UyOUVxOUxUclhSY2d1Y0h2T0VhN2IzYnZ1M3dmMUlMVw?oc=5",
+      "published": "2026-10-14T08:34+08:00",
+      "publisher": "鉅亨號"
     },
     {
       "market": "美股",
-      "title": "US Stock Futures Mixed as AI Concerns, LVMH Sales and Bank Earnings Shape Market Sentiment: Dow Jones, S&P, Nasdaq, Wall Street - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTW5wVjJWbzltNW1KVHJzdWxBU3gyY0dvOHM4RjlJZ29JSXJUaUtONk5YVHc4SGQ2UUtXcGpldk5vbTE0dGtNODY4YkxCYUtjMlM2MmQ2QTg1elE4REY4S211azN6UmZybHFiMFVSajFXLU1nVEdIaXZ0MFRnY3dGZnp2Sy1oWC11MG1iZGdUSURYNTlL?oc=5",
-      "published": "2026-10-13T17:28+08:00",
-      "publisher": "Yahoo Finance"
+      "title": "美股財報季開跑大型銀行喜憂參半 科技股七巨頭漲勢恐趨緩 - 商傳媒",
+      "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxQQlNsaUxrR3c2SWE0SUZuTk9hTTZEWjNKTFpvZVE5bFZNeW5jQzVZT1BLVXlUQldQbVhvaGxQNmhEelE4MTl5dzRaV0NabG0yZE9jSGdQckVTT3B4RzFwZXMwVjFMMWxrM3J4Nk45S1Y3X1FtUVlFVzJKVUdFTnBoS1hnUVJqQ2hjZUZvSWxvdk10TGFBa2gtWUZXT1FBSE5EUVpOZzRVaDBiNWhHby1xUE9EVWlVZ2VzZU10RVZVcERjSnUzS0NiX1U5aTlZWGVaQ2t2TDdDam5udUUyd2hMaEFtOVF6djBqMlg5WGw5cURqZU54MHlTdTRNckpkd2ZNN1NDOHlqQnQzLW1YbmsxcExBWm1fNkJwR3VISFRmU2xzU1FleU9JU0ZQZ3lLaTJ2V0FYdzhGcGZna3JEYlEzakUySDBGNHNrcG52TlB6dU05SzhVMmtEQ3RSNVF1U0FvXzJyUkQxMHhsbUtKVnZmRm1KQ3dXR1l2RUlXc0t2bzNqZHE3dFhfVkJQVWNiLUVESGlV?oc=5",
+      "published": "2026-10-14T07:27+08:00",
+      "publisher": "商傳媒"
     },
     {
       "market": "美股",
-      "title": "Cleveland Fed's Hammack backs restrictive policy, says better if it comes 'relatively quickly' - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQaW1MZ0VGMnQxVVdNN3lnTnU1eDFXelhIUlVISzR1MHlvaFhLYWY3RVV0MHRIaklXNEpMNkhGNGFvUW14dEtURy0xaTZHTVFRWG5ockVKeHRCZU5TVGlrbnIwTlJoc2Q5cHczN3pxMjZLaXU5cFdnY1k5SDJHY3MwV3V3VnBrT1VTWEJhemNUWU1VYXZxTGRGY0l0ZnVyRkNyMFl3R2w4ZGtkODliT2UwZmVlQlI3YnhoVXcwQ3l6ZG9WcV9tRW95ZjlvLWtFQUE0SjdqS2ptVnJxYXl4NG9WVUczX2tsNjdFUnMtNlN3akF6VXo3NmJ2UXdtWdIBgAJBVV95cUxPQ3MzSmlNTldENzVGZlR4a2ZrZ0xCZXJmek15TlYzTHFJSktrSDNKckNMNzU4NTFqRmw0Mjg4aC1mU2VzYjRBMU9EdFljR0ZfLWJHYWMzUU1MVlZjOWNLWGpRZkdCeUlfTm8wTE1uZGZ1VzZieExjVTVEOUMxLTl4NGRSS09PeDFSV05sUl9DRm1IRC1QY3F3X1dhVnFiY2pmckljclU4YU5JQmY4ZjEwUW9NODBPWmkzUG8tZllRaUJFSWF2OWZzbVQ3S0w4M3lsaTJYZTdnbU9CRkZCcnA5Nmc4Y3ZOVGZOQzJyam91Z1BFQ28tSThZME1zTlBOTVVl?oc=5",
-      "published": "2026-10-13T03:03+08:00",
-      "publisher": "The Economic Times"
+      "title": "〈美股盤後〉美光跌3.6%晶片股承壓 那指收低、費半連五跌 - 鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB4LUtvMHFmdDMzQ2JfekFJSFNlYmlNSXBvbVFJdUhZd3hnSnowUTJBblNudHpPVlFfYmY5aUtyV2U2RTlIeFpocTB0b0IwNkE?oc=5",
+      "published": "2026-10-14T05:44+08:00",
+      "publisher": "鉅亨網"
     },
     {
       "market": "美股",
-      "title": "US stocks muted as tech weakness offsets energy gains; earnings in focus - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcm1YZE1FdjZPMmtDbEQ0Z0d2V0pBcWRXYTR5ZHo1QUp6V0hCNEVxZmtycEh3RE5qTzQxYkRqS2VxVW5OMlFzTk12NHZxTk9tZ2lRb2RRU2RiR1JqMW5QQjVtLXZjTGlrdGRTZllDNi05b25tMWVyTko1cUsyakZXVW5GN1VURUZxbk1pRU9YeUJhR3cyMGRiTXFFWG1oWEpoMzF1Y3EwVlBoTmVVWmY0cllSenR6SnF0aTlaeEg3SERNLXZ4NEp6Q2xCU1ZJa1VkU3fSAdcBQVVfeXFMTVR0SHZZeDEtUHBtcTZ6ZnMyT0VfRzI1dVdrT2JPRFpBa2xyMEdEMi11dFhsUHN0SUhsLUFWSkdRRVFXQ3JzN0RRM0lMN3Z2UWtIMzRVb05jRGVoTExRQXdjUlBYYnNOZlV5cVZHT3VWQVFWZ0hyalB5RndDNXBXVGRWbm5xZjJFWkJKT0ctellDbVlRV0hrMFladFdoa0VuUEk4OFlfeG9VbWNQVHZFSF9Nb2Z4eVMyRnN2Umh4b1pQcFoyTGpxczVsOFVvZm8tVzlCUkRYdHc?oc=5",
-      "published": "2026-10-12T21:45+08:00",
-      "publisher": "The Economic Times"
+      "title": "銀行財報亮眼難抵AI投資熱潮疑慮　美股收低 - 經濟日報",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBaam9UdEo4Z1czbFo3NmRjRTlmZF9kbDhaOG56d0FtVjQ4Q1N1ek9FLTlUMjdjN3hrNEZtX2hXbi1vMElvclFpY19iLVpiekNiQnR3eFBZaUFlcFhI0gFiQVVfeXFMTVhCNUZUdF84LWN3QjVBNm53Z1M4MDE4YUVjUmhuYmFlM3dsWm5hREdzZGttcE02Wjh3T3c0a3NrT05WQVRpZ3JkLUNaaUVSUjZVY1dCaUxOVWtZOURreVpsZEE?oc=5",
+      "published": "2026-10-14T05:12+08:00",
+      "publisher": "經濟日報"
     },
     {
       "market": "美股",
-      "title": "US Stocks Set for Muted Open as Inflation Report and Bank Earnings Approach: Dow Jones, S&P, Nasdaq, Futures - Yahoo Finance UK",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1uZGRBdjRqMHNUWDJnUTkxY3Y5RDd6c2QtenZzeEF5SllJZjEzRHVBblRJOHFmMGpHWWJzdUpKYThfSVNJSU1MMDhhMHVKcGwyYkJlODl5ZElXUGo3cDFJX2wxM1dPTm9fUWtHRElIVVZTZ0doV3VaSXdaRW9DUQ?oc=5",
-      "published": "2026-10-12T21:18+08:00",
-      "publisher": "Yahoo Finance UK"
+      "title": "〈美股盤後〉美光跌3.9%拖累費半、那指 油價走高、銀行財報季登場 - 鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBoMnQ2c0pBQ21JLTZKalR5aWRZQVVrWkJob19VQlJTbDJGUFdQQnE5YUM4bEpvSHN0TEdramllQlpPbEc4RUNhVUlFOC12c0k?oc=5",
+      "published": "2026-10-14T02:48+08:00",
+      "publisher": "鉅亨網"
+    },
+    {
+      "market": "美股",
+      "title": "華爾街大行財報亮點藏隱憂！股票交易撐場 成長動能能否延續？ - 鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9pRDZWRl9uSDd4OXJoak1fNHljQ0dsUjBhdjhyVW12QTVVLUxUWkNZUnl1andjLUJmOFNZemFyQVFUdmViUUpNTGt2R0Z5Nk0?oc=5",
+      "published": "2026-10-14T00:51+08:00",
+      "publisher": "鉅亨網"
+    },
+    {
+      "market": "美股",
+      "title": "「明年我會全年放空！」華爾街傳奇操盤手瓊斯示警美股三大壓力 - 鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE45azgxVzJOY3g1MEpjVHcycXRCS2RSQkFnY2t1OXRlcElrTGNRbkYzTEQzWm9JbXVMU0RaLVVxN2pVNXYyWUxxWEdSS0ItWWM?oc=5",
+      "published": "2026-10-13T22:30+08:00",
+      "publisher": "鉅亨網"
+    },
+    {
+      "market": "美股",
+      "title": "美股早盤／記憶體股領跌 科技股黯淡 費半挫1% - UDN",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02eFJaYS1EQkpFRnFDQ1JZTndJajN5cFd4MHJ4R0ZGTk9TM1Fxajk4Y3BmMnFjbzA3NUpXUExjeFlCSmtSSFJOcThURVo1SmpvTGNqdTUyQkVhN1lTbzdqSHQ5TktTemd1ck8yQVZyeUl2Y2w4amJJbVlwSE9JcHc?oc=5",
+      "published": "2026-10-13T21:52+08:00",
+      "publisher": "UDN"
+    },
+    {
+      "market": "美股",
+      "title": "〈美股早盤〉銀行財報喜憂參半、晶片股續挫 主要指數漲跌互現 - 鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE54MjFDaTJ3cHFBTmJONVZOMVhwV1BEUDJwRnNtaFVHcHpLdGw1SVBNS05hT1JZUzI0OFB6RVd4bEdEeDhhbEtNRVA5WnNoUDg?oc=5",
+      "published": "2026-10-13T21:45+08:00",
+      "publisher": "鉅亨網"
+    },
+    {
+      "market": "美股",
+      "title": "#GSPC S&P 500指數 - 【即時新聞】輝達(NVDA)自高點回跌7%！高油價壓抑美股，華爾街緊盯這3檔AI股 - 股市爆料同學會 - CMoney",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE80c1VzV3ByaFRka1NxMklPTVMybkhJSWFYTGVMdjFobHp3bTdFZTBCdzdSZjhqcXBqTWY5WW1QbWFpOExtNlVYWDd5bTBDcE1LRmR1OFMyM3k?oc=5",
+      "published": "2026-10-13T14:46+08:00",
+      "publisher": "CMoney"
+    },
+    {
+      "market": "美股",
+      "title": "高殖利率該出手了？華爾街看見美債價值 仍提醒別急著抄底 - 鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1CazJSWllVWmF3UkpDcXNuWG5tWDhkc1lzWjhxbDA5MU5wbHRCZWlQcUdsOGZOVnRBeXdrUTZxcjdicDA2Ump1NE9scDJIM28?oc=5",
+      "published": "2026-10-13T14:06+08:00",
+      "publisher": "鉅亨網"
+    },
+    {
+      "market": "美股",
+      "title": "美股收盤／費半重挫2.7% 台積電ADR連五日下跌 油價續漲 銀行財報和 CPI 考驗美股 - 經濟日報",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1KZ3d1TlJvdUxUdFlpblZTeHZ5QVdmc1VQdzlrRXBWa2ZDM0tXdGR3NHg5SFFlN0xEclRGYXF1UFNOMkFPU0pxTFgyMEFoM202T09kcXpBV0VrQmFO0gFiQVVfeXFMTnBBODI0d1BOOExtVFJZWnR4WHlpbWtmWktUczRBcHZMRFc4Y0MwN0c1ZVZJRHRIZjlsOEI3anV2aFZtaTdTR1R6N1RpWktXRExzdlB4MlJvXzNDd3EyVncxNnc?oc=5",
+      "published": "2026-10-13T06:57+08:00",
+      "publisher": "經濟日報"
+    },
+    {
+      "market": "美股",
+      "title": "〈美股早盤〉主要指數平盤附近震盪 市場聚焦財報與通膨數據 - 鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE80WmROY1BMbGc4MG1PVzNiRm9FVXhQMHhPejIwWDJ6SWxHQ3FzT2FTMU1PTDREeXVKS0RxVXhLSERtVlRsX2JBYXJHa1lLUVU?oc=5",
+      "published": "2026-10-12T21:42+08:00",
+      "publisher": "鉅亨網"
     },
     {
       "market": "台股",
@@ -304,17 +346,10 @@
     },
     {
       "market": "美股",
-      "title": "Weekly market commentary - BlackRock",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
-      "published": "2026-10-12T15:00+08:00",
-      "publisher": "BlackRock"
-    },
-    {
-      "market": "美股",
-      "title": "US stocks in focus as bank earnings, inflation data set to test market rally - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQVmc3OEcycHI1NFFVZWVneGF0NlJkNExYY3R4cUV3N2FYRFRfVElXeFFDMDY3ajJiR0hHenBfMnV6RVhRbGRnYmtXaHB5Y01NcEZkOHdNdnV2aXZrSGlKMXBpQUtUQVlqUEpoRm8wcmpkZVo1LUJMTFZUQ0tGMUVySDRhd3NXNWRxTHg5TFJPdDdlQUd3ZEJ2TzlRMUtlNFV1T2gzZGRseHY2ZTB4eVFKZmpnaE1idnZ0ZUhZWEdqQ211MnpwUjB1dTJtTEdEcEI1bXVRUGN2SFpJaC1oUFEtdG1fcTRWUGpSMUFfeDg0cTcyLUZTcjhDYdIB_gFBVV95cUxOem12a1hwUEEwMDd3UE5CbVNnZFRQVHRPYS1faFpyRjdKMDIwbnlKalZkWVU5SXk4YzJXOWtNcW8xX3hYWHpQZzZCZ2tvb2NXTlJGTV9kc2k3ZHBGTGJ2bWFtaGtzRmZNYWxFdG5idnMybjdFVWlLMjRmdERoVWF6TDBOZUVYbDhZbWFWV3ZnNmxURDlCYnZLd1loU2RralRxOVRoRzRGcGFab3cwUTdFSWl6MF9wSzFXVmJ4NW1fbWlfbC1LbW5ZcHRNOS1PSm8ySHc4RE9SUFhkVHIzTi13WHBzQkg0blJMZkdvTnEyU1dfb29QQnRTUWVtdHpJdw?oc=5",
-      "published": "2026-10-12T12:24+08:00",
-      "publisher": "The Economic Times"
+      "title": "華爾街早報：能源停火與中東火線對撞，AI反彈撞上CPI與財報季，靜待沃什發聲 - PANews",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZ3phclBScklvZENhb3oydTZGME81WUxJTXUweTdHRUtzR3QydG04WXc5TlhEVWxQUjNfZ2ROaHgyWE5SRXJfdDZ2OFVrTFFBZmtPVVRzSmZ0bkJTWlROS212eHg2dzBvcmwzVlQ1c2Rtckk0amU0b3Y4Z3prYXI0TEtGbGZ1QQ?oc=5",
+      "published": "2026-10-12T13:24+08:00",
+      "publisher": "PANews"
     },
     {
       "market": "財報新聞",
@@ -324,6 +359,13 @@
       "publisher": "經濟日報"
     },
     {
+      "market": "美股",
+      "title": "本週操盤筆記：美CPI牽動升息預期！美股財報季開跑、台積電法說和ASML接力登場 - 鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9SSEJOOHJUaHFEaEIwVzdoYjRMdkNzUVBIaTRicjJfT3J3U191bzdIdnRfclMyUi1jMXlDQlktT1YtOTd3QURmVWpfb09Nbnc?oc=5",
+      "published": "2026-10-11T21:30+08:00",
+      "publisher": "鉅亨網"
+    },
+    {
       "market": "財報新聞",
       "title": "三事件變化牽動台股後市 永豐投顧：大盤 43K 以下本益比低 觀望不殺低 - 經濟日報",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GeWlGSUxEMHVrd0I5eTQ0UVV3N1lKS1JLS0dkMVJrZi1LLXNJeFk3bEROaTYxNUxQV2hTNVBVRkhyQ21naWQ0Z2dwTHRZYzdTMGJyM1A5bDU5d9IBX0FVX3lxTFBiT3lVTHprT2xjbnFsS0lKTFNYcW1TNFdPeTIzT2R6VE1BRFZlSWFoaDJEam9tUmV4czVLVV9qU2dwOXFidlpkX3gxWGZ2UXpsb1hZdkhhaG14OGJodWxF?oc=5",
@@ -331,88 +373,48 @@
       "publisher": "經濟日報"
     },
     {
+      "market": "財報新聞",
+      "title": "科技供應鏈遇美國專利調查與外資提款750億，本周資金聚焦台積電法說會！-財經焦點情報站 - CMoney投資網誌",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVHhualpyY2daZTB5bWJLbHFaaERDN19uMHN3T3VwNHhxUk5VSXY0THFiSnM5Z19nRm5yWUpqTXF6Z2Vhcm5JcDYwanpRRHFLZ1h2U251YWZkLXZ6YnJqbnRISG9nTkRMWkNNWXExaU0wcmRXY1ZNeWM0Mmxab1VOQ0dn?oc=5",
+      "published": "2026-10-11T16:20+08:00",
+      "publisher": "CMoney投資網誌"
+    },
+    {
       "market": "美股",
-      "title": "The Week Ahead: US September CPI and PPI Set for Release, Wall Street Major Bank Earnings Season Officially Kicks Off, TSMC Earnings in Focus - TradingKey",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPazJkVS11d1V6YUZxWHJLaU4xdUQ2dkxrRldHZFFuUmo4eTJkenpTUmUzd3g2MHRCNkRWaTg0dFZ0Szk4MXpJRzR4MUlvY0Z3LVRLRVQ0YUdhTGhXMmNCWmw3Y3hJRnJsVE9jMmM1cTZtblVZc1ZxbnJkdXpPd1NocHpibml2dFkwMTRYbHUwY3RkX09VMkZvaWhISXNYWlZXNkpuR3NMbDJ1U1hPNEJOek5OdHEzYVBPUlpvNlhIU2hoR3dVUjhTRHBzZkFQQmF1RVdMN0Q4Q28?oc=5",
-      "published": "2026-10-11T14:06+08:00",
+      "title": "一週前瞻：美國9月CPI和PPI重磅來襲，華爾街大型銀行財報季正式開啟，台積電財報成焦點 - TradingKey",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZW9lekpqZDk5b1hrQU9URjk4eDdWUmYwQWRqakFEVFBzcW4tbERxTmNsRUg1SHlIRlBRZFE3Z3Y1cjl6cHNQWS1LVHdzLS0zWjAyN0pwdmZKdlpGTFk2SVZRN2RwSktyb1NfalpTTDNqbWhrbWpvN0pjREhoSzR0aWphOUZhUkV6WE05WE1QU0gwVTRQdzdRamo0MzJ1WFNLOWNIak1KaGtOTGhxZU1MYkcyV2wwMjVtTktCQkVjTDZ3dVdwclhpdEJSelk3amllUkVKSlY0QzcwZ2NzcWdzQS1B?oc=5",
+      "published": "2026-10-11T14:04+08:00",
       "publisher": "TradingKey"
     },
     {
       "market": "美股",
-      "title": "Tech Weekly: Revenue and Funding Questions Rattle AI Stocks - Investing News Network",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xc1ZETzNSQnR0UnducUtIRUtmTWRocmN3a0hNeUJFZC02VDJIa3NaTmVhZmVyTHB5LVNyWWJoU1g5dzRGQmFncjBUeU1KRUNfc2c?oc=5",
-      "published": "2026-10-10T05:30+08:00",
-      "publisher": "Investing News Network"
-    },
-    {
-      "market": "美股",
-      "title": "US stocks: US market posts weekly gains with earnings, inflation data on tap - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQMm5rY0ZtdUxsb21MWTZDYzdjNGljZ1kyR2lpUW92dlVuSlZmUnFOSE1tR1hOTjdkelJnNlZ5YndJZkxMaTQzdE1jM0xoTXVncFF3Mk13TUJ0dFZvYXhPaWtuZ3M2OFdQOGFUbGs1N3NjVFNZcjlwMnVJNDRJcVFNUVZjdVNBaVFDR3dLYjVRejF1c0hIVk9iUVlnb2ZXdWt4dlVuN2NRNzhmaWxqQ2xyN2U3QjMwWHFUT1cxMjJXX3hSWExaWVRWUnNIQzZGc01pWFRVem5KSmx3OXNWWV9lTWxZbkE4M3NQNDcwN2VGQU5GYVozS2kw0gH8AUFVX3lxTFA5SG93U0djaXRqRXc5bjBzTkZJNUZMeEptc3VTRm5TXzFKTFhKWTdsVVNwR3A4QkEzYlZYUFpnNUlnVlZPNFpiWW1JZGhKYVdpaFg1UVlrR0FXdGY0MDlnUi00UnJqeHJ5TEx6RGZGdlp4czcxMlNuX3FkcUU1TFZIdWlRQ2w4cVRnQ3pqMHJrUldXMjY0YUhZc2hQNDhqcTRKaUVqSzVNcnhwakR2aVBnTV95dENzY0hGTVBQVEVOWlV5RGhPR3I0ZkY2c05DYVBwY21DZUFydnNUNENfU2p5WG9EUlAwQUNmM2hFc0xIQkF5a0dvZW5yd05EYw?oc=5",
-      "published": "2026-10-10T04:09+08:00",
-      "publisher": "The Economic Times"
+      "title": "美股狂漲創歷史新高 下週迎2大考驗 | NOWNEWS今日新聞 - LINE TODAY",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9TU0ZMM05YelI5QkJNQ3owNFZ2WVNCekIyWkROMTFWeERyRTNNWm9oVUZBUHdac0xMOF9lZlhPMU9JNkJFclRXWGFKQzBDcFlyaEdDejFB?oc=5",
+      "published": "2026-10-11T07:18+08:00",
+      "publisher": "LINE TODAY"
     },
     {
       "market": "財報新聞",
-      "title": "台股多頭氣盛 仍須防「短線回馬槍」 - 經濟日報",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9rTEhfR2JZR3lDbXpWeVhlcGplR2dqcTVtNmRlcjdONE9aTVRRLVdqRkZhYndBZG96TjFiR0ZWMWEyVnAzZHJjQXB5cjVfTGtaZ2trWTBFVDU4QdIBX0FVX3lxTE8xRU5YV1dLVUI1eFh2Q2pRUXRvTm5TazlLcWUteEE3cWU4cDEtdUd1aVlBbkJqN1Z4bGRHZzhaT3RfNWJLbW1kaks2dEpacWpXWHZMOXFpdGtPaGEteklJ?oc=5",
-      "published": "2026-10-10T02:42+08:00",
+      "title": "南亞科、台積電法說接力登場 誰是台股衝上5萬點推手？ - 經濟日報",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pcE1nRkIxQkNMOEF5MTZNMldiUTYtc1VPUFVaU2JhS29yRWpTSWRSRnhOa1ZBTjBUTno5R1h2V1hUNEpaenRXdUw0WTdGMzNKZE5iczJndmxVQdIBX0FVX3lxTE8yRXQ3V1dlVWVHZWd1em9Yd0k0N2FJd0RiaHJZcnpwMld3eTRTa0xQNEZ5Zjh5MWl1ZjFOWGFBVU45RHY4T0JubExBejEzUjdCcFhSOUQ5NWh3SlFKVi13?oc=5",
+      "published": "2026-10-11T01:35+08:00",
       "publisher": "經濟日報"
     }
   ],
   "events": [
     {
-      "symbol": "6902",
-      "company": "GOGOLOOK",
-      "type": "台股法說會",
-      "datetime": "2026-10-16T10:30+08:00",
-      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=0",
-      "source": "TDCC 公司投資人關係整合平台"
-    },
-    {
-      "symbol": "3531",
-      "company": "先益",
-      "type": "台股法說會",
-      "datetime": "2026-10-16T14:00+08:00",
-      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=0",
-      "source": "TDCC 公司投資人關係整合平台"
-    },
-    {
-      "symbol": "4566",
-      "company": "時碩工業",
-      "type": "台股法說會",
-      "datetime": "2026-10-16T14:00+08:00",
-      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=0",
-      "source": "TDCC 公司投資人關係整合平台"
-    },
-    {
-      "symbol": "6414",
-      "company": "樺漢",
-      "type": "台股法說會",
-      "datetime": "2026-10-16T14:00+08:00",
-      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=0",
-      "source": "TDCC 公司投資人關係整合平台"
-    },
-    {
-      "symbol": "6657",
-      "company": "華安",
-      "type": "台股法說會",
-      "datetime": "2026-10-16T14:30+08:00",
-      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=0",
-      "source": "TDCC 公司投資人關係整合平台"
-    },
-    {
-      "symbol": "7946",
-      "company": "廣騰",
-      "type": "台股法說會",
-      "datetime": "2026-10-16T15:30+08:00",
-      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=0",
-      "source": "TDCC 公司投資人關係整合平台"
-    },
-    {
       "symbol": "6515",
       "company": "穎崴",
       "type": "台股法說會",
       "datetime": "2026-10-19T09:00+08:00",
+      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=0",
+      "source": "TDCC 公司投資人關係整合平台"
+    },
+    {
+      "symbol": "2474",
+      "company": "可成",
+      "type": "台股法說會",
+      "datetime": "2026-10-19T12:00+08:00",
       "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=0",
       "source": "TDCC 公司投資人關係整合平台"
     },
@@ -435,6 +437,14 @@
     {
       "symbol": "3540",
       "company": "曜越",
+      "type": "台股法說會",
+      "datetime": "2026-10-19T14:30+08:00",
+      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=0",
+      "source": "TDCC 公司投資人關係整合平台"
+    },
+    {
+      "symbol": "7859",
+      "company": "翰可能源",
       "type": "台股法說會",
       "datetime": "2026-10-19T14:30+08:00",
       "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=0",
@@ -469,6 +479,14 @@
       "company": "安克",
       "type": "台股法說會",
       "datetime": "2026-10-21T14:30+08:00",
+      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=0",
+      "source": "TDCC 公司投資人關係整合平台"
+    },
+    {
+      "symbol": "3052",
+      "company": "夆典",
+      "type": "台股法說會",
+      "datetime": "2026-10-21T15:00+08:00",
       "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=0",
       "source": "TDCC 公司投資人關係整合平台"
     },
@@ -517,7 +535,7 @@
       "company": "精成科",
       "type": "台股法說會",
       "datetime": "2026-10-23T14:30+08:00",
-      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=20",
+      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=0",
       "source": "TDCC 公司投資人關係整合平台"
     },
     {
@@ -525,7 +543,7 @@
       "company": "智原",
       "type": "台股法說會",
       "datetime": "2026-10-27T14:30+08:00",
-      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=20",
+      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=0",
       "source": "TDCC 公司投資人關係整合平台"
     },
     {
@@ -533,7 +551,7 @@
       "company": "力成",
       "type": "台股法說會",
       "datetime": "2026-10-27T14:30+08:00",
-      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=20",
+      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=0",
       "source": "TDCC 公司投資人關係整合平台"
     },
     {
@@ -541,7 +559,7 @@
       "company": "旺宏",
       "type": "台股法說會",
       "datetime": "2026-10-27T16:00+08:00",
-      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=20",
+      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=0",
       "source": "TDCC 公司投資人關係整合平台"
     },
     {
@@ -585,6 +603,14 @@
       "source": "TDCC 公司投資人關係整合平台"
     },
     {
+      "symbol": "3529",
+      "company": "力旺",
+      "type": "台股法說會",
+      "datetime": "2026-10-29T09:00+08:00",
+      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=20",
+      "source": "TDCC 公司投資人關係整合平台"
+    },
+    {
       "symbol": "2409",
       "company": "友達",
       "type": "台股法說會",
@@ -621,6 +647,30 @@
       "company": "瑞昱",
       "type": "台股法說會",
       "datetime": "2026-10-29T16:00+08:00",
+      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=20",
+      "source": "TDCC 公司投資人關係整合平台"
+    },
+    {
+      "symbol": "4919",
+      "company": "新唐",
+      "type": "台股法說會",
+      "datetime": "2026-10-30T13:30+08:00",
+      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=20",
+      "source": "TDCC 公司投資人關係整合平台"
+    },
+    {
+      "symbol": "8215",
+      "company": "明基材",
+      "type": "台股法說會",
+      "datetime": "2026-10-30T14:30+08:00",
+      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=20",
+      "source": "TDCC 公司投資人關係整合平台"
+    },
+    {
+      "symbol": "2454",
+      "company": "聯發科",
+      "type": "台股法說會",
+      "datetime": "2026-10-30T15:00+08:00",
       "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=20",
       "source": "TDCC 公司投資人關係整合平台"
     },
