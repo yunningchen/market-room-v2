@@ -11,7 +11,7 @@ OUT = Path('docs/data/news.json')
 HEADERS = {'User-Agent':'MarketRoomNews/1.0 (personal research dashboard; public RSS reader)', 'Accept-Language':'zh-TW,zh;q=0.9,en;q=0.8'}
 QUERIES = [
  ('台股','台股 產業 半導體 金融 重大消息 when:7d','zh-TW','TW'),
- ('美股','US stocks Fed inflation AI earnings when:7d','en-US','US'),
+ ('美股','美股 華爾街 聯準會 科技股 AI 財報 when:7d','zh-TW','TW'),
  ('財報新聞','台股 美股 財報 法說會 earnings results when:7d','zh-TW','TW'),
 ]
 
@@ -31,6 +31,8 @@ def rss_items():
                 link=(item.findtext('link') or '').strip()
                 pub=(item.findtext('pubDate') or '').strip()
                 if not title or not link: continue
+                # Chinese display only; do not falsely label an English title as translated.
+                if market == '美股' and not re.search(r'[\u4e00-\u9fff]', title): continue
                 try: dt=parsedate_to_datetime(pub).astimezone(TZ)
                 except Exception: continue
                 if not NOW-timedelta(days=7) <= dt <= NOW+timedelta(hours=1): continue
