@@ -16,7 +16,7 @@ on:
     # Taiwan is UTC+8 year-round. GitHub schedules may start late.
     - cron: '0 0 * * 1-5'   # 08:00 Taiwan: TW pre-market news
     - cron: '0 6 * * 1-5'   # 14:00 Taiwan: TW post-close scan
-    - cron: '0 10 * * 1-5'  # 18:00 Taiwan: previous US close scan
+    - cron: '0 10 * * 2-6'  # 18:00 Taiwan Tue-Sat: previous US close scan
     - cron: '0 13 * * 1-5'  # 21:00 Taiwan: US pre-market news
 
 permissions:
@@ -55,7 +55,7 @@ jobs:
             TASK="$MANUAL_TASK"
           elif [ "$SCHEDULE" = '0 6 * * 1-5' ]; then
             TASK=tw
-          elif [ "$SCHEDULE" = '0 10 * * 1-5' ]; then
+          elif [ "$SCHEDULE" = '0 10 * * 2-6' ]; then
             TASK=us
           else
             TASK=news
