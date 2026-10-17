@@ -1,0 +1,35 @@
+name: Market Room V7.1 Expanded Research
+
+on:
+  workflow_dispatch:
+    inputs:
+      per_market:
+        description: 'Current ranking sample per market (not historical universe)'
+        required: true
+        default: '100'
+        type: choice
+        options: ['30', '50', '100']
+
+permissions:
+  contents: read
+
+jobs:
+  expanded-research:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install dependencies
+        run: python -m pip install yfinance pandas numpy
+      - name: Run independent five-year expanded backtest
+        run: python build_backtest_v71.py --per-market '${{ inputs.per_market }}' --years 5
+      - name: Upload V7.1 research results only
+        uses: actions/upload-artifact@v4
+        with:
+          name: market-room-v71-expanded-backtest
+          path: backtest_v71.json
+          if-no-files-found: error
+          retention-days: 30
