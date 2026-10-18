@@ -1,19 +1,19 @@
 {
-  "updated_at": "2026-10-18T16:46:04+08:00",
+  "updated_at": "2026-10-18T20:51:38+08:00",
   "news": [
+    {
+      "market": "美股",
+      "title": "AI 概念股大漲後拉回！華爾街下週聚焦晶片股財報能否撐起估值- 寵物新聞 - PChome Online 新聞",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQ2hfTzBnOGFxMHo0NmtDczVMTXMtM0ZSSVVFRGs4Y29IQ2IyLS0zMEJVNTR1N1dNbS1RbUFKMGR4OEVZc1dzT3JyZy1UclBVOWhPNlZhTzRHV2JUM2lrRXZ3V3dTQTRHXzlaN1cxWEJ2SVlfem5zZnkwS0ZPZ0hvRVFSNWdkMW8?oc=5",
+      "published": "2026-10-18T11:56+08:00",
+      "publisher": "PChome Online 新聞"
+    },
     {
       "market": "美股",
       "title": "AI牛市4年要變天？費半本月重挫12%　華爾街緊盯這波財報季 - NOWnews今日新聞",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zeWcwMjJJWkU1cTczcllmR1hGVE9kTVVYeHpPaGQyRkEtZXMxN3liNnhoR1ZKTU1hOElJaklkZDZOSU5HNzVnTGhfRTZpV3RNLUHSAVJBVV95cUxPc3lnMDIySVpFNXE3M3JZZkdYRlRPZE1VWHh6T2hkMkZBLWVzMTd5YjZ4aEdWSk1NYThJSWpJZGQ2TklORzc1Z0xoX0U2aVd0TS1B?oc=5",
       "published": "2026-10-18T06:52+08:00",
       "publisher": "NOWnews今日新聞"
-    },
-    {
-      "market": "美股",
-      "title": "AI交易平倉潮重創全球避險基金 亞洲基金首當其衝 - 鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1haklZQmR6UzlTcDFRdnFtQ1BXdlhXaGRBSG02MkYzSy05bkc2ZzBNTXdrMlVuT3FXbE4wR0tfcUs2ekI5ZmJuWktDS2E5NjQ?oc=5",
-      "published": "2026-10-17T18:00+08:00",
-      "publisher": "鉅亨網"
     },
     {
       "market": "美股",
@@ -45,10 +45,10 @@
     },
     {
       "market": "美股",
-      "title": "美銀Hartnett轉趨避險 未來一個月風險升高 - 鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE93cW5PbjE2WVJFZHJXX3BGcFl4QXR1dmRlRktPZUNtV0ZQd2w4d3VpcGxvMnRLc0I5MVM2ZHBrRFhhSjRQd0plTlNhWUp4ckE?oc=5",
-      "published": "2026-10-17T08:20+08:00",
-      "publisher": "鉅亨網"
+      "title": "華爾街血流成河! 費半周崩11%創一年半最慘| 國際 - 非凡新聞台",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rQVZNcTdJMjk1VWNVZXRQUUhUMDVCN0hWRXpxeXd3WFdSLTZIVVJqTS10OHRYYlBSRWVzSE95M0tUWF81MmVOQTRIQklwUVkwOUlWQ2hSU2laaWNDTHBweE92ZGozb0hob3c?oc=5",
+      "published": "2026-10-17T11:06+08:00",
+      "publisher": "非凡新聞台"
     },
     {
       "market": "台股",
@@ -73,13 +73,6 @@
     },
     {
       "market": "美股",
-      "title": "華爾街血流成河! 費半周崩11%創一年半最慘| 國際 - 非凡新聞台",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rQVZNcTdJMjk1VWNVZXRQUUhUMDVCN0hWRXpxeXd3WFdSLTZIVVJqTS10OHRYYlBSRWVzSE95M0tUWF81MmVOQTRIQklwUVkwOUlWQ2hSU2laaWNDTHBweE92ZGozb0hob3c?oc=5",
-      "published": "2026-10-16T23:06+08:00",
-      "publisher": "非凡新聞台"
-    },
-    {
-      "market": "美股",
       "title": "AI概念股估值承壓、資金轉向傳產 法人：美股中期多頭格局未變 - 鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XZHR5djc3LWp4eTA1LU00Z2Z5RlpBZWlZeTRHOHU5bXFFelBBQjVnOFNXaXhCRVFFUDJyUExZUGV5TFJrYm5QdkJIMDloT28?oc=5",
       "published": "2026-10-16T19:13+08:00",
@@ -90,6 +83,13 @@
       "title": "藥華藥 (6446) Q1法說重點整理，EPS 5.79元、台灣ET藥證獲准、美國預計8月取證一次看懂 - 口袋證券",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE42ZW4wNUdXOVRlMzUzMHJIRHdxTzFIdkFQaC03R3JkbjhGTWwxNF9Db0VxTVNpV0gzVFVLZFZRSFI5UmE4cXJhQUxJMWdmeUhyaTF1MFhR?oc=5",
       "published": "2026-10-16T18:36+08:00",
+      "publisher": "口袋證券"
+    },
+    {
+      "market": "財報新聞",
+      "title": "華邦電（2344）法說會公布Q2財報：EPS飆破5元創新高、CMS營收年增逾4倍 - 口袋證券",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FTFRiT1R1SFNqcHpkV1NSUzgySUhvRHRUQkdBY3JKdEFVSW5jaVZ0QjhWMm82NkVkTTdpeWE0ZXYtSWV0MXZBdlpCUF96blBZZkhxNENR?oc=5",
+      "published": "2026-10-16T15:00+08:00",
       "publisher": "口袋證券"
     },
     {
@@ -114,11 +114,11 @@
       "publisher": "果仁家"
     },
     {
-      "market": "美股",
-      "title": "投資人撤出科技股轉向消費類股 Nike等獲買盤挹注 - 鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB4cG5VRFVtRDJfSml6WHlFYzE0LU9uZmVYTzg0VEVEbTM2LVFQbl9oZE56S1UtUTdwNTZuN1hvbm9KM1ZJUGdXRG4zVEJHU28?oc=5",
-      "published": "2026-10-16T11:00+08:00",
-      "publisher": "鉅亨網"
+      "market": "財報新聞",
+      "title": "台積電法說會後行情失靈！股價跌10元 分析師：守住「2450元」就會偏多 - Yahoo股市",
+      "url": "https://news.google.com/rss/articles/CBMiwANBVV95cUxQU2NiQ203c3NPelVKOWZfWWZLZy1OdWZyUnl2WHEyS0h6ZV9aVFdscV9JTk96emFWcVpPOHQ4eGF2S0FwbUxHdWgyVDF2WmNfa0o2bzBFRDdObkRoVE5ObFN2WnhuS01HbUZNSl9pY1hUZGRuOEwzaFdfQk5RR0VmNHJaUUdZTHdobjFlaFJCdXVYU3ppQ2dQdmdKLXpLdmU5eU03aE1uWHVBV05SX3hxRm1UZFA4dlYxbm8ydzMyZElRYzgySjJhRXBkM1BOWm4xdi1obHR1NVc2Q0x6MUY5V1lSZHlUYW44aUk2QnhfNzlkM05TYndCRVpDb2lpR3NOeDVPQ3BSc3RzQ2YxZHFKLTB3NnNnMnlxNWVFXzZibHp5NWlmLWptdFNTU2FscjlrRDRXWGxJZldCY3F6VmJKRGcxSXlaREs2d1BCUWxRWmF0ZFB5a3hETzR5YmJOZUlQVk5maGVTbTF4STRjbXJXMXBHbDkzWm5WckQ3YnlQa2RISlV4cHl0Nm1QTGZESE5ndHpnZ3JjNzFLOUlFV1AtVVNfRmxwNTBEQVdkTFJaTVI3OFlEOG4zeEpkcTZPc01r?oc=5",
+      "published": "2026-10-16T09:23+08:00",
+      "publisher": "Yahoo股市"
     },
     {
       "market": "財報新聞",
@@ -163,13 +163,6 @@
       "publisher": "口袋證券"
     },
     {
-      "market": "財報新聞",
-      "title": "AI缺電考驗供應鏈，大摩：輝達、博通相對有韌性 - 口袋證券",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RdWxuZnRZZFprRURRVHJDaENJNkV4VWh2VmZIdHpWRVlXeDJmNk4wV2FPQmZzRlpNc19ILUlpaGZxVFQwb2FYMHpLdWZWYzFiSE9zWVRB?oc=5",
-      "published": "2026-10-15T15:00+08:00",
-      "publisher": "口袋證券"
-    },
-    {
       "market": "美股",
       "title": "全球股市大跌原因找到了？美股科技股重挫、日韓股市跳水3大利空引發市場恐慌| 張一笙 | 風生活 - 風傳媒",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB0YmhwZ1g0MHV2MVNZa21LQ3ZtWlBOekZtQmxpdW9LQW9lLU1QUEM5RWwtQ3FaaEVXZ1hfTUY5VTcyVlotZ0Y5eE1OQktsNl9h?oc=5",
@@ -189,6 +182,27 @@
       "url": "https://news.google.com/rss/articles/CBMixgRBVV95cUxOZU9mdEV1aDd0U1JSQU1oUUZVYVFfSUtkTDZ3end0S2NFZE5qcHdfQTRPb3JsU3ZUci1aeVhnS1JnV1lSOXdmbmNHa2lyNmh3bGZFMXctMGFsd2t4QmF6N0FET1VLaWtWSkhfSGRwZ3V3T0FRYXB5T1YxdkZMMDRRNE94TUhqdTlIVWFFNDZfeDZnbEpEdjh1SU9GYndBdWNIUGdPR0I3bVg2bFFGejViYkRWUEk5YkZVc3BVRlMyOFRWdS1PUjJ1UWlGd1N0YWVteU5KRjR3Q1IwUTJoZ0pza2NxT3VTYWpTRk1ua1A4S3k3LXdpa3hiaXhkLXZ1SmhUNWlHWXhnWXBpbk5KcjM5MzBoN2xGdEo4b0gwdTRmb0FzOTRsbmE3cDBRSHFVRDFNYlYwVHB3NWNGTGpDQTJ4N21vMGpzRHhVRzVCLU55VmhCbFk2bEo1T0kwZ093NjlSRndTWWJUR3ZFQ1J5cVlfOGFIYk9SUm8yRVB3X09tRHFOUnMxQ3ozNTRFMElYNzV3ZVNXQVdsREExNnJpa2ozWTEtdWZqR2ZVUGhSNXdoXzlNYVh2WmJfQmRHdHFoVWFzdWN2VE9ONkNTNS1DN19mdzJZb3VTeVhPM09ZWkdhd1lsVmczc1FkUDg3TzZMWDNuMF9Vam9NSjhXdE90bEtIcDBET3FuLTZpbTJxVU9YWldRQm82ZjRqOWY1TmcyWFpGY1dxTzdBUWZ3QUV4SHNMQnZrSThTc3VicWprcjNjWGRMODJiYnc?oc=5",
       "published": "2026-10-15T14:24+08:00",
       "publisher": "Yahoo股市"
+    },
+    {
+      "market": "財報新聞",
+      "title": "台積電股民注意！法說會前股價挨刀下殺70元 外媒揭近4次財報「3次不漲」驚人紀錄 - Yahoo股市",
+      "url": "https://news.google.com/rss/articles/CBMi5gNBVV95cUxOSllfZkhLanRLY0JlcVhjMlZiOG9HVEtyZmFDQVNHSWhIZ0tRRVRNenc3RURoQThYZXhIUC1pcGMzVk16QldrUUNrM2JuZjNJdm1pMEJvamJoOUlKaW93REVRUkIyVEpRdlNOR3RpQ1Q1LXpEODEyTk9WLWxGdTF4VVJtZVhVaWFhYUlEZ0JmaGdNT0tES2dQeno2bUpPY2RsTHYwUlB3V1VfTlV2MHVROEIxajRDRlY5a292UWJ5amVyU2J3cjVqU1JxckdYM1pvSWo1VjUwdk9WWTNPdnFyMXlFcFpWSGk4MUVEQk04a3hQeDZJb1pDQXl4QjB6c1BPMVowT19wWXRXYlctSjRZT21STWhBa3dGbGxOaWZOSVpPTWRhQjhXWE56MmZKWjRwbGhxVWZ4X1MyenU4MC1UNkg1dVRZSkxvSVMxOTN6elRhX0pZbjJRS1dUNTdnb1Q3by0ta0JKZjNhZV9yVG5relJoampJbjM2WlY1cVBoUHoyTUl1S2VZTmhCS0RuRk53ZFNhenNna2hESW9KSl8wYkRkWlI2MWJldW1HaThMTHJiZXM1LTJRV19vQm4temhWN1hWZGhEVzNxQnFoUzdtX3lsOFBLeWdhdlctX3l1NExXbDBzWHc?oc=5",
+      "published": "2026-10-15T12:05+08:00",
+      "publisher": "Yahoo股市"
+    },
+    {
+      "market": "美股",
+      "title": "今晨國際頭條一次看／通膨升溫美股重挫 澤倫斯基直指川普背叛 - 經濟日報",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1faVNOWUItWFFSNnJlLXJzZ29KWk1ybXF1bW5nR1MxWVN3UXRXUjhTS1F3U19Wc05uTTBGT050bUhDS0VXZW1JcGhmek5uMERMalo5eFBuQUxJYVdv0gFiQVVfeXFMT3hCYk5vQ2x0Ty00X2xkZWNNZHRiVFRZLXlVTTJreXhQdjZpRkVqaGhHV1p2b0pabl9SOVlnSHhlQ0tvb2FkV2dGM3NjSDdHclk4dUdTTElmU1BlM19XeW9Dbmc?oc=5",
+      "published": "2026-10-15T07:41+08:00",
+      "publisher": "經濟日報"
+    },
+    {
+      "market": "美股",
+      "title": "美股收盤／通膨掀 AI 股賣壓 費半重挫4.3% 美股創7月來最重跌幅 - 經濟日報",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5aUElYWVI4bHpXNTM5VGVMMWhCU29KMFo5LUhBeWpNclhlTFpDZHBPSVhmU2stMW9ScWM2Y1hqS2dGdWkzUkVUWWRUYkFMR1FmbUxYN0NJMGphN1Ju0gFiQVVfeXFMTVFRdzVNQjBpb2xUTlFSQWZpSUJjamhUX3VCSFVzaDhfWnI2NUtlNVZESWNTaGtYcUNuZlJYNmZqVC1jWWNMeWdtUkx2cklINUtyVjhsaUdLZXdBRFZHZTlubHc?oc=5",
+      "published": "2026-10-15T06:49+08:00",
+      "publisher": "經濟日報"
     },
     {
       "market": "美股",
@@ -276,6 +290,13 @@
     },
     {
       "market": "美股",
+      "title": "〈美股盤後〉美光跌3.6%晶片股承壓 那指收低、費半連五跌 - 鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB4LUtvMHFmdDMzQ2JfekFJSFNlYmlNSXBvbVFJdUhZd3hnSnowUTJBblNudHpPVlFfYmY5aUtyV2U2RTlIeFpocTB0b0IwNkE?oc=5",
+      "published": "2026-10-14T05:44+08:00",
+      "publisher": "鉅亨網"
+    },
+    {
+      "market": "美股",
       "title": "〈美股盤後〉美光跌3.9%拖累費半、那指 油價走高、銀行財報季登場 - 鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBoMnQ2c0pBQ21JLTZKalR5aWRZQVVrWkJob19VQlJTbDJGUFdQQnE5YUM4bEpvSHN0TEdramllQlpPbEc4RUNhVUlFOC12c0k?oc=5",
       "published": "2026-10-14T02:48+08:00",
@@ -294,13 +315,6 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE45azgxVzJOY3g1MEpjVHcycXRCS2RSQkFnY2t1OXRlcElrTGNRbkYzTEQzWm9JbXVMU0RaLVVxN2pVNXYyWUxxWEdSS0ItWWM?oc=5",
       "published": "2026-10-13T22:30+08:00",
       "publisher": "鉅亨網"
-    },
-    {
-      "market": "美股",
-      "title": "美股早盤／記憶體股領跌 科技股黯淡…費半挫1% - UDN",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBIUDNOVUFMWUhSOUJRS2R4TFM4Qi1sYkQzTzNoRUJnUTdIdUZGZkx1NzNJVlhlZnFBMHF2TUtwVV8yeWc4bVRrVDIyVEhyWmcz?oc=5",
-      "published": "2026-10-13T21:52+08:00",
-      "publisher": "UDN"
     },
     {
       "market": "美股",
@@ -399,13 +413,6 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9SSEJOOHJUaHFEaEIwVzdoYjRMdkNzUVBIaTRicjJfT3J3U191bzdIdnRfclMyUi1jMXlDQlktT1YtOTd3QURmVWpfb09Nbnc?oc=5",
       "published": "2026-10-11T21:30+08:00",
       "publisher": "鉅亨網"
-    },
-    {
-      "market": "財報新聞",
-      "title": "三事件變化牽動台股後市 永豐投顧：大盤 43K 以下本益比低 觀望不殺低 - 經濟日報",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GeWlGSUxEMHVrd0I5eTQ0UVV3N1lKS1JLS0dkMVJrZi1LLXNJeFk3bEROaTYxNUxQV2hTNVBVRkhyQ21naWQ0Z2dwTHRZYzdTMGJyM1A5bDU5d9IBX0FVX3lxTFBiT3lVTHprT2xjbnFsS0lKTFNYcW1TNFdPeTIzT2R6VE1BRFZlSWFoaDJEam9tUmV4czVLVV9qU2dwOXFidlpkX3gxWGZ2UXpsb1hZdkhhaG14OGJodWxF?oc=5",
-      "published": "2026-10-11T17:00+08:00",
-      "publisher": "經濟日報"
     }
   ],
   "events": [
