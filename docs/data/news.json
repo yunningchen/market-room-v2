@@ -1,6 +1,27 @@
 {
-  "updated_at": "2026-10-19T12:50:56+08:00",
+  "updated_at": "2026-10-19T16:55:43+08:00",
   "news": [
+    {
+      "market": "美股",
+      "title": "憂AI投資回報美股走跌 亞洲科技股漲跌互見市場緊盯財報 - 民視財經網",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5RZHBUekVxZ1ZreFRva2VRTWxwVGRvX29fZFVXbGk4WndVTFBEcjkxb1ZGVFppQ3RFYTJDcm5TWlZzNEFqbzQtdEowdlFlNTJWTXNCZjhwNW5FOU0xZ2lra2Ztd2NGUQ?oc=5",
+      "published": "2026-10-19T15:46+08:00",
+      "publisher": "民視財經網"
+    },
+    {
+      "market": "美股",
+      "title": "華爾街早報：油價衝擊疊加AI拋售潮，股債蹺蹺板效應再現，本週聚焦科技財報和美債競拍 - PANews",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdEZzTVRDb2JHVGk5WnBzZ2hYWGlCR3J3RTBDQjZuS3dyeDIwQ1EwRDBaRWVpLVp4RXBOMy1mc3NJTFI3NzVRbTJQN1FqZFJycnppWWtGbldCME9QSlFwMTFpb3A5a1VWX0FhTERJSmJmRnNxTWZvbVZCNzlBT1NXbjdYX3NMQQ?oc=5",
+      "published": "2026-10-19T13:52+08:00",
+      "publisher": "PANews"
+    },
+    {
+      "market": "美股",
+      "title": "【2026-10-19】《商傳媒｜美財經一週大事》美股科技股熱潮退燒 資金輪動引市場恐懼 - 商傳媒 - SUN MEDIA",
+      "url": "https://news.google.com/rss/articles/CBMi8gNBVV95cUxNR1AyT1hwT21aZXJOWWVZX1R3V1l2SGxUTHFadWg0cVBOY3VJdkNzTUpSTGR2MmJ1QnNQMUkxVVBlMTB0VWx3cDFqVXNDalFEUzYzMUVIVUdsWUFNX0xfd2ZHSkxTMU02b0xIb3ljd3l0UGVvaHZXWkR1N2ZOUlVIbTdVRE1uajFVcDJOVVh0WVQ1VGpwQWhCQzFYWDNTel8xdGNlX0pHa005cnhOYndkV0J4M3FVUll3RkMtN3QxMHNFSWtWZ0dhV0ktYWY1RHNueDF5WkRDdzdHWmxFRThEOTZHTnNOQ2FodXpYVjNBYlZYNUd2SEVMRnFOaWhyZW4wTFdzdGE3dkdPbWtEQW9Ha29XVDdHVDZPSFpHWXlHSElJYWtxdTB5VE5KaXVZdlBja2dtT3dHYUlNQXg0TmdjbnBIVTdoeHEwNjRNOGZXUWlmS21xR1lVeGEzdHRvRTRobDB5cVFBbXAzNTFTcGlGODZIRG5XSmhoamxRcHl0aHJHLUlUQ0JTWndGRklyT09ubnQtek5IdjVYWVJtVHB5cF9FWWQ0TDhwS0Z5VFhHSW5fNGt3dDBzRmRVUk9ZeTR3dWF0LUozbzZ5UUZWS0xBVGNaOXZwUjBLV0loOHNaNHdiRnZNZm1qSFJVWC1oQ1VHOWc?oc=5",
+      "published": "2026-10-19T09:00+08:00",
+      "publisher": "商傳媒 - SUN MEDIA"
+    },
     {
       "market": "美股",
       "title": "賣出訊號解除！美銀Hartnett看11月中旬重返科技股 關鍵在晶片價格 - 鉅亨網",
@@ -73,17 +94,17 @@
     },
     {
       "market": "美股",
-      "title": "華爾街老將示警：美股早已「內部崩盤」！看好Nike、白銀布局機會 - 鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5pNWZnV090QTFPVE5oeC1YNUVLNWdqTlYwRy1rZUxFUE9pWEZ4Q0ltMXV4X2FhVzNrTjZzNVVxOUUxM19LRzJrSm1yX3VGSmc?oc=5",
-      "published": "2026-10-17T14:00+08:00",
-      "publisher": "鉅亨網"
-    },
-    {
-      "market": "美股",
       "title": "美股遭AI賣壓、油價雙利空夾擊全倒！財報季下周接棒 華爾街緊盯一件事 - 知新聞",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5qcXE1dEdoZ3ZpZ1p3NWdaQndaSzc4U2laUFQ3RlFGeHRYUmg0OGNnRFVSSXBFMVdEM2JXQXVibW85VWtXbUMzQnFFa1dlTWFwcXNQRV9MLVRFYW5sdnZSSHhORldzYTBiclAzQWJfUQ?oc=5",
       "published": "2026-10-17T13:22+08:00",
       "publisher": "知新聞"
+    },
+    {
+      "market": "美股",
+      "title": "AI賣壓重擊美股 華爾街靜候下週財報救市 - 大紀元",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1DdEw2S01WMDI1aUR1SUlCSTlxYlBnV25SdldOOFhRQUZVYWR6WGtuX2pxTXlVaGZ1N284WVVxZWFWT2gxTkh1UFEyeXVtelpWb2VmUjEwOW5pdDl2WE1vcnlB0gFnQVVfeXFMTmVSMDVzdXhGVUZOak9rTU5lYkl5bFVaTnJXa053dDNQVEZTai12S0J0NWk4bUw1Sk9fc1VSb2lnSDBlS1NwSnkxR2EtS0N2dFF4OXd1ZTNBSU9fb0o2eWplZGllUHRGRQ?oc=5",
+      "published": "2026-10-17T12:28+08:00",
+      "publisher": "大紀元"
     },
     {
       "market": "美股",
@@ -157,9 +178,9 @@
     },
     {
       "market": "美股",
-      "title": "不再只追AI 華爾街重新擁抱巴菲特式「無聊投資」 - 鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBnazFTZjhvZXloV1A5bXRSX1RiRzZoQ1Nnb3pUamlna3dJckNSYXJ3aXVmbFBtUnlCc3RneVN5RFRYN2t4WXBpYTF4NG9WWXM?oc=5",
-      "published": "2026-10-16T07:32+08:00",
+      "title": "投資人撤出科技股轉向消費類股 Nike等獲買盤挹注 - 鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB4cG5VRFVtRDJfSml6WHlFYzE0LU9uZmVYTzg0VEVEbTM2LVFQbl9oZE56S1UtUTdwNTZuN1hvbm9KM1ZJUGdXRG4zVEJHU28?oc=5",
+      "published": "2026-10-16T11:00+08:00",
       "publisher": "鉅亨網"
     },
     {
@@ -172,7 +193,7 @@
     {
       "market": "財報新聞",
       "title": "台股操作...盯六大指標 - 經濟日報",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBQZjRVd3JmMldFQXhRQWFNbFN3Z1ZHdUVXR1NRZzZtSktDeUdGZTNrMFBwU09JeTNXeGdibzhHMjE4blZ4VFl0cHJBS1ZVMW9ZcFV6VURwWFFTUUxNY1ctalRQRGNLSzZYMk85THlqdEZiTUxESnRoRjMzQTHSAV9BVV95cUxNQmxhWmJhODNuRWQzdXlRZkdNMERiNzhwMW1GSWFBcHRNVnBoOE1oU1ZBcDV4U0hXS2lqbE91dTB5c0VOS0wtYVpSRV9QQnMxVWpCYWNtMmxxRl8wNktLZw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWGhNM21FdTVORVdSWTlCODlEMGZOcWRSdlZZS3pKMzdLd1NsdWdjTl96dGphbmRNMUVobU1WUzlkaXhGTkpfYTM2TVJzSnZKR0YtS1drQkFQVEVXN1pvTjg2TjFUVlVqWEw1ZW9ORlc1ZTk1cGtLTDVGWkZhTndmd3pJR2rSAV9BVV95cUxNQmxhWmJhODNuRWQzdXlRZkdNMERiNzhwMW1GSWFBcHRNVnBoOE1oU1ZBcDV4U0hXS2lqbE91dTB5c0VOS0wtYVpSRV9QQnMxVWpCYWNtMmxxRl8wNktLZw?oc=5",
       "published": "2026-10-16T03:09+08:00",
       "publisher": "經濟日報"
     },
@@ -248,13 +269,6 @@
     },
     {
       "market": "美股",
-      "title": "Fed10月升息重回討論！華爾街憂通膨擴散 有人喊12月升2碼 - 鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBqYkV6dGloeTV2eHdFaXR3WEtGNzNTUXMtNjhpVHdHSzJneTNKeldXeTdud0VFcVdWbF9xNzNWS1AtZGhFRzhoV1RBajdKN3M?oc=5",
-      "published": "2026-10-14T21:50+08:00",
-      "publisher": "鉅亨網"
-    },
-    {
-      "market": "美股",
       "title": "〈財報〉股票交易與財富管理雙引擎發威！摩根士丹利Q3獲利報喜 - 鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9leHJZbDZkdFJOaE1iR3RyNWZPQkFZV2FlOU4tek5kSWJSbG1YZFRtZUJsU08weUNnQUdCQ2hmUWZlUE10LW1ySDNLN3A5Vlk?oc=5",
       "published": "2026-10-14T21:00+08:00",
@@ -276,13 +290,6 @@
     },
     {
       "market": "財報新聞",
-      "title": "無人機合作往美國製造走，記憶體財報亮眼卻先挨賣-雅筑股期理財術 - CMoney投資網誌",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdkpneHYxT18yLTZzbExOdkR5dUtRUVIyME1ZU0N1ZXlqbVZrWXZhbVNvWkx4WjNiZFBlaTNCR08zYW1nU3VVY0ltS0tybmgwS3EtT3JwbDN0ZXFyb0NkanVLSTkyZWdhVEtMOXhhMXZSQzVGOGxkWVVLM0prWnNaYg?oc=5",
-      "published": "2026-10-14T09:07+08:00",
-      "publisher": "CMoney投資網誌"
-    },
-    {
-      "market": "財報新聞",
       "title": "台股收盤／收漲284點49K有壓力 台積電尾單7999張摜壓收2490元 - TVBS新聞網",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0yN19VWkFBN1VncTMyQTBVSU0xQ0NlVlB0VTFWUzhrUjRmMUk3RzRONFNzcF92WkZDYV9iNEViNVd4dnlYZW1GeXhjSDJyVE0?oc=5",
       "published": "2026-10-14T09:05+08:00",
@@ -294,13 +301,6 @@
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBaam1pX085Z2dHOU5qeHVnMWc5MjdTQ0JTcmxXV2JXM0UyOUVxOUxUclhSY2d1Y0h2T0VhN2IzYnZ1M3dmMUlMVw?oc=5",
       "published": "2026-10-14T08:36+08:00",
       "publisher": "鉅亨號"
-    },
-    {
-      "market": "美股",
-      "title": "〈美股盤後〉美光跌3.9%拖累費半、那指 油價走高、銀行財報季登場 - 鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBoMnQ2c0pBQ21JLTZKalR5aWRZQVVrWkJob19VQlJTbDJGUFdQQnE5YUM4bEpvSHN0TEdramllQlpPbEc4RUNhVUlFOC12c0k?oc=5",
-      "published": "2026-10-14T02:48+08:00",
-      "publisher": "鉅亨網"
     },
     {
       "market": "美股",
@@ -328,20 +328,6 @@
       "title": "〈美股早盤〉銀行財報喜憂參半、晶片股續挫 主要指數漲跌互現 - 鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE54MjFDaTJ3cHFBTmJONVZOMVhwV1BEUDJwRnNtaFVHcHpLdGw1SVBNS05hT1JZUzI0OFB6RVd4bEdEeDhhbEtNRVA5WnNoUDg?oc=5",
       "published": "2026-10-13T21:45+08:00",
-      "publisher": "鉅亨網"
-    },
-    {
-      "market": "財報新聞",
-      "title": "〈財報〉賺更多市場卻沒買單！花旗Q3獲利增近4成 固定收益交易創十年同期最佳 - 鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBJTDBCRzBia2JnR2Fqb1RmR2dvWUhYV0R1ZU1YTmJNZ1FLZEZFUWJmSFZqVHlPQ3dQdDZEQ0Q1NVZxXy1wd1RkYnNQbjh1Sjg?oc=5",
-      "published": "2026-10-13T21:00+08:00",
-      "publisher": "鉅亨網"
-    },
-    {
-      "market": "美股",
-      "title": "〈財報〉摩根大通第3季固定收益交易營收意外下滑 股價早盤下跌 - 鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBxNzVEVUNrbzBMOTBHa1oxTTBKN0tuZDNSRXBqOVMxbGJSUkJLNS1uQzZqdkRLcUJLMU0zR0ZuYllTTW91ZjhBTHNna2V0cVk?oc=5",
-      "published": "2026-10-13T19:02+08:00",
       "publisher": "鉅亨網"
     },
     {
@@ -378,20 +364,6 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE80WmROY1BMbGc4MG1PVzNiRm9FVXhQMHhPejIwWDJ6SWxHQ3FzT2FTMU1PTDREeXVKS0RxVXhLSERtVlRsX2JBYXJHa1lLUVU?oc=5",
       "published": "2026-10-12T21:42+08:00",
       "publisher": "鉅亨網"
-    },
-    {
-      "market": "台股",
-      "title": "USITC啟動337調查壓科技股，台塑四寶分化能延續嗎？-葉博金融研究院 - CMoney投資網誌",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMUxUSFlGQk5EekxtX2p4UUdkTFRNdzhxTWJtY25TWmM4R0FpMGF4cEVoSGl4aDBVQUppbEowN3N0OVR6eTd5T2VzTS1Ycy1MUU5LWDZRV0tNSkFtS001WTVhcmdfNVBEbWtCYkpwNDFqcVF6LThKUk94aFFaMThXWQ?oc=5",
-      "published": "2026-10-12T16:19+08:00",
-      "publisher": "CMoney投資網誌"
-    },
-    {
-      "market": "財報新聞",
-      "title": "台積電法說會本週登場！專家估大盤指數「高點震盪」：5萬點絕非行情終點 - 民視財經網",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9JdjktVEFXWUg1amV2VlBfZUVNOC0tYVE1dS01SXJPWFNaekdBMW5QOU0zZGx6eWNQRURDUDh3cE1FemxERHRpQkdFTXNFa1FRaHAyRUhTV3BfNm8zU3ZQUTg1ZUYydw?oc=5",
-      "published": "2026-10-12T16:08+08:00",
-      "publisher": "民視財經網"
     }
   ],
   "events": [
