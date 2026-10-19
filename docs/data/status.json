@@ -1,15 +1,15 @@
 {
-  "market": "US",
-  "generated_utc": "2026-10-17T10:16:09.215660+00:00",
-  "candidate_count": 4970,
-  "attempted": 4970,
-  "successful": 4831,
-  "failed": 139,
+  "market": "TW",
+  "generated_utc": "2026-10-19T06:19:16.715366+00:00",
+  "candidate_count": 1983,
+  "attempted": 1983,
+  "successful": 1977,
+  "failed": 6,
   "unattempted": 0,
-  "success_rate": 0.972,
+  "success_rate": 0.997,
   "history_written": 250,
   "stored_symbols": 6808,
   "fresh_symbols": 6808,
-  "elapsed_seconds": 1507.9,
+  "elapsed_seconds": 424.7,
   "note": "7-day retention is not a real-time freshness guarantee. Check each stock date."
 }
