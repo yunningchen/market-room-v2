@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T08:07:38+08:00",
+  "updated_at": "2026-10-19T09:00:29+08:00",
   "news": [
     {
       "market": "美股",
@@ -20,6 +20,13 @@
       "title": "本週操盤筆記：Meta及特斯拉財報、AI漲勢動搖、Fed升息預期 - 鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE13bzdLcGRnQnZMNGhobFRNelEteFJMTFJROEI1Y0hNUkdRUTdfdUZ5NVR0RlhCdGlkaVAwZzVzUmlUZm1BcnhPaURDOA?oc=5",
       "published": "2026-10-18T21:50+08:00",
+      "publisher": "鉅亨網"
+    },
+    {
+      "market": "美股",
+      "title": "優分析｜美股觀察：AI投資疑慮升溫、那斯達克週跌4.5%Meta、特斯拉與SpaceX將公布財報 - 鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0yOEVnby1BTnphUFNCOV9QSXRnVW4xdGw1LXVFUTVyWHd4QVJCMDdGOV94SDFLT1NxRHByQ29qYVc2RHY3c0FwZ2ZyMEdSa28?oc=5",
+      "published": "2026-10-18T13:00+08:00",
       "publisher": "鉅亨網"
     },
     {
@@ -52,17 +59,17 @@
     },
     {
       "market": "美股",
-      "title": "華爾街老將示警：美股早已「內部崩盤」！看好Nike、白銀布局機會 - 鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5pNWZnV090QTFPVE5oeC1YNUVLNWdqTlYwRy1rZUxFUE9pWEZ4Q0ltMXV4X2FhVzNrTjZzNVVxOUUxM19LRzJrSm1yX3VGSmc?oc=5",
-      "published": "2026-10-17T14:00+08:00",
-      "publisher": "鉅亨網"
-    },
-    {
-      "market": "美股",
       "title": "美股遭AI賣壓、油價雙利空夾擊全倒！財報季下周接棒 華爾街緊盯一件事 - 知新聞",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5qcXE1dEdoZ3ZpZ1p3NWdaQndaSzc4U2laUFQ3RlFGeHRYUmg0OGNnRFVSSXBFMVdEM2JXQXVibW85VWtXbUMzQnFFa1dlTWFwcXNQRV9MLVRFYW5sdnZSSHhORldzYTBiclAzQWJfUQ?oc=5",
       "published": "2026-10-17T13:22+08:00",
       "publisher": "知新聞"
+    },
+    {
+      "market": "美股",
+      "title": "美股「黑五」血洗AI：CDS狂飆 兆豪賭反噬華爾街 - 鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9zRVBONGd4Vi1PcFZTM05uRlQ2WDNxNmljd3NTRG9RMWNfbktQdXBneWFJa01qNFpkdy1JXzhpcjJkR2x2cnVRV0VWa1hndlk?oc=5",
+      "published": "2026-10-17T12:00+08:00",
+      "publisher": "鉅亨網"
     },
     {
       "market": "美股",
@@ -217,13 +224,6 @@
       "url": "https://news.google.com/rss/articles/CBMixgRBVV95cUxOZU9mdEV1aDd0U1JSQU1oUUZVYVFfSUtkTDZ3end0S2NFZE5qcHdfQTRPb3JsU3ZUci1aeVhnS1JnV1lSOXdmbmNHa2lyNmh3bGZFMXctMGFsd2t4QmF6N0FET1VLaWtWSkhfSGRwZ3V3T0FRYXB5T1YxdkZMMDRRNE94TUhqdTlIVWFFNDZfeDZnbEpEdjh1SU9GYndBdWNIUGdPR0I3bVg2bFFGejViYkRWUEk5YkZVc3BVRlMyOFRWdS1PUjJ1UWlGd1N0YWVteU5KRjR3Q1IwUTJoZ0pza2NxT3VTYWpTRk1ua1A4S3k3LXdpa3hiaXhkLXZ1SmhUNWlHWXhnWXBpbk5KcjM5MzBoN2xGdEo4b0gwdTRmb0FzOTRsbmE3cDBRSHFVRDFNYlYwVHB3NWNGTGpDQTJ4N21vMGpzRHhVRzVCLU55VmhCbFk2bEo1T0kwZ093NjlSRndTWWJUR3ZFQ1J5cVlfOGFIYk9SUm8yRVB3X09tRHFOUnMxQ3ozNTRFMElYNzV3ZVNXQVdsREExNnJpa2ozWTEtdWZqR2ZVUGhSNXdoXzlNYVh2WmJfQmRHdHFoVWFzdWN2VE9ONkNTNS1DN19mdzJZb3VTeVhPM09ZWkdhd1lsVmczc1FkUDg3TzZMWDNuMF9Vam9NSjhXdE90bEtIcDBET3FuLTZpbTJxVU9YWldRQm82ZjRqOWY1TmcyWFpGY1dxTzdBUWZ3QUV4SHNMQnZrSThTc3VicWprcjNjWGRMODJiYnc?oc=5",
       "published": "2026-10-15T14:25+08:00",
       "publisher": "Yahoo股市"
-    },
-    {
-      "market": "美股",
-      "title": "今晨國際頭條一次看／通膨升溫美股重挫 澤倫斯基直指川普背叛 - 經濟日報",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1faVNOWUItWFFSNnJlLXJzZ29KWk1ybXF1bW5nR1MxWVN3UXRXUjhTS1F3U19Wc05uTTBGT050bUhDS0VXZW1JcGhmek5uMERMalo5eFBuQUxJYVdv0gFiQVVfeXFMT3hCYk5vQ2x0Ty00X2xkZWNNZHRiVFRZLXlVTTJreXhQdjZpRkVqaGhHV1p2b0pabl9SOVlnSHhlQ0tvb2FkV2dGM3NjSDdHclk4dUdTTElmU1BlM19XeW9Dbmc?oc=5",
-      "published": "2026-10-15T07:41+08:00",
-      "publisher": "經濟日報"
     },
     {
       "market": "美股",
