@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T08:11:59+08:00",
+  "updated_at": "2026-10-20T09:01:39+08:00",
   "news": [
     {
       "market": "美股",
@@ -45,6 +45,13 @@
     },
     {
       "market": "美股",
+      "title": "〈財報前瞻〉Netflix第三季營收估增11.8% 恐創三年同期最低增幅 - 鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5VVDNHdE1sRFFFTDVFOEpzNlByMm5VYVgzVk16anVaNjZNUEd3cUZhS2ZjNml2RnoxY1dwYy05R211VWJPdXNWNmxoSnEzQVk?oc=5",
+      "published": "2026-10-19T20:50+08:00",
+      "publisher": "鉅亨網"
+    },
+    {
+      "market": "美股",
       "title": "科技股殺到見底了？華爾街大咖點名「1關鍵訊號」：11月恐現大轉折- 財經 - 中時新聞網",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxeXN2QmlVSEw2Y1pmSXBmamJLRzc0LVpkekloS2o3NTA0Yl92VnV2a3B2dThwcFVfMzE4U2l0ZUx2WTEtQ1QyUU1QaGI1Tm9EYW03UnZTaERyT05YdFRLUWh0d2UtOWpyaDJNRlZB?oc=5",
       "published": "2026-10-19T19:13+08:00",
@@ -63,13 +70,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5RZHBUekVxZ1ZreFRva2VRTWxwVGRvX29fZFVXbGk4WndVTFBEcjkxb1ZGVFppQ3RFYTJDcm5TWlZzNEFqbzQtdEowdlFlNTJWTXNCZjhwNW5FOU0xZ2lra2Ztd2NGUQ?oc=5",
       "published": "2026-10-19T15:46+08:00",
       "publisher": "民視財經網"
-    },
-    {
-      "market": "美股",
-      "title": "TradingKey 華爾街週報：通膨升溫加劇升息壓力；Nasdaq 下跌 4.48%，創 6 月以來最大單週跌幅 - TradingKey",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQekdfNUR5TEJvLVoxYUJwMm1xUEY3RkY5Vk4tZ21fQmlESS1USzJYMUJjYVBfYVlIUGpoeFdiU0VWVkJ1QjdaNnB6Q0xIVHRHNmp0NHotU1NPQWpLMUZKVGRHMG5jMjd1NklROGZxYm1jMmladlFxTnJBUm9lckJlTkM3Y2g2R3kzczRtZEk4dTJlbzhoZUFFeThuYXFJZWFTOTFLYV9YeVNrUGtCZ08zbVJ5TjJEQmcwNjY0eEFaVXRReGFVdkJoeDFGYUpYVlZLNU1wTTF0NW80a1Nu?oc=5",
-      "published": "2026-10-19T08:29+08:00",
-      "publisher": "TradingKey"
     },
     {
       "market": "美股",
@@ -105,6 +105,20 @@
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zeWcwMjJJWkU1cTczcllmR1hGVE9kTVVYeHpPaGQyRkEtZXMxN3liNnhoR1ZKTU1hOElJaklkZDZOSU5HNzVnTGhfRTZpV3RNLUHSAVJBVV95cUxPc3lnMDIySVpFNXE3M3JZZkdYRlRPZE1VWHh6T2hkMkZBLWVzMTd5YjZ4aEdWSk1NYThJSWpJZGQ2TklORzc1Z0xoX0U2aVd0TS1B?oc=5",
       "published": "2026-10-18T06:52+08:00",
       "publisher": "NOWnews今日新聞"
+    },
+    {
+      "market": "美股",
+      "title": "AI陷入「疲勞交易」！投資人厭倦反覆爭論科技承諾 分析師：市場需要營收證明 - 鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE03REtKNlNTOGxkUGlUVk5aZVlILVJ2OFpRM2F1cDlUd1ZGZXNWVGFqY0tWVm5xXzdTUGFsVzNNc3NuNUtieEk4Vkw1QnMxUFk?oc=5",
+      "published": "2026-10-17T19:00+08:00",
+      "publisher": "鉅亨網"
+    },
+    {
+      "market": "美股",
+      "title": "華爾街風向逆轉，債券交易員光環被股票交易員蓋過｜Bloomberg Businessweek - BigGo 財經",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9HNW9TZk1lX0Y4YlRFQml6eERELXV6blhkSzR5NFJ4YzlBZjRMSm9VaHdYZ1NFSXlCbDRJUkxpanlWM1ZDVjhTRXhqN1c1NE1fVzk0LW9ENEdiNzBpbjZUYXJNRQ?oc=5",
+      "published": "2026-10-17T16:59+08:00",
+      "publisher": "BigGo 財經"
     },
     {
       "market": "美股",
@@ -184,6 +198,13 @@
       "publisher": "果仁家"
     },
     {
+      "market": "美股",
+      "title": "華爾街期貨走勢分化，科技股再受AI憂慮拖累 - Yahoo 財經",
+      "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxQMGRYYURWVEhHdHpjZ3ZVWXg4LURxcENJTUs5Q0owSUtzUEtGY2dSNHpwZFdZR0JlbWxpZWh0ZUxITGFUeS1XdkU2R3ZEbWRwdVRHcThnTnpwbVdXLVFsSmdFUDBmRjNfcWk0TGtEejE5Ylh5a1lMc2NfbzVIaDg3c1dPWWlaTndfY3p3QmpSalhEbUlZaEpBc3VwelAyQ0VpZHJES2ZfWko4N1VIbmk2NVg2SldCMXBCVW9NNy1nTXBmVVA0eTJKY0hzaVR3RVlYSXpzVk10M0dMQlphTDVJUDlESDAtS2FyWGxsWXJhZGJsbVg3aXA1UUowNk5DQWNJanNRNXlLRmV5RUNwZXdGSVE3eFdHMWNQa0MwR2UxLTYtTERsSFFSY1ZNWVdkSHYwZnJrUnJLQzRiWXZvb3JXMncxcUhuVlpUaXlHdHBEYTlEcGRDYTJuc1R5Q2dQaXhoUnluV3VkU25Idw?oc=5",
+      "published": "2026-10-16T10:32+08:00",
+      "publisher": "Yahoo 財經"
+    },
+    {
       "market": "財報新聞",
       "title": "〈台股盤前要聞〉台積電全年美元營收再上修至44%、外資爆砍3025億元創紀錄 - 鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1FY0ZxSnBjUm1aMEYtRU0tNkhyR1RPU3JqZkkzOExwTEVSc1dDWm0xQ2FiYU5OVnE0NkpaRDlsOGtRX0xQai1FTFZ4SWV2R0E?oc=5",
@@ -210,13 +231,6 @@
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBnZG56ZFk0THBKWDJFME1manZDN2dVd2ZoLXVSaGw2UkV5SF9wbldlcldlREtOU19KZExNRlB2U3JiQjROT3NQT29aa3FaSHpW?oc=5",
       "published": "2026-10-15T16:23+08:00",
       "publisher": "風傳媒"
-    },
-    {
-      "market": "美股",
-      "title": "吳金潮~非凡錢線百分百固定來賓(2011~2017)~兩岸證期雙分析師(共4張) - 鉅亨號",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAydXI1N3o4NWx1QThfR0cyNG5kLWlQWmllenpKUzlaTjExVkNPbkZkOVhUclhMSG50NjZrdVhuNDVHMmF0SmFTUA?oc=5",
-      "published": "2026-10-15T15:49+08:00",
-      "publisher": "鉅亨號"
     },
     {
       "market": "財報新聞",
@@ -248,6 +262,13 @@
     },
     {
       "market": "財報新聞",
+      "title": "法斯諾 (FAST) 2026 財年第三季法說會：營收成長 15.5%，利潤率擴張 - TradingKey",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBhQ1prWWhqM191SW5WYkhYdUdDZmZmWXFuYU96WkdKUkdDbDl1UWtMY3pJOXpnYVZCX1Z6eHFGUXNmdFlRcGpJWlIwWEtUZmdpdDFEWk9RYVRKTnNuaFpVT19aU1ZwdkthM282QjhUblZjcVJwRFRHTkxQdlQ?oc=5",
+      "published": "2026-10-15T04:01+08:00",
+      "publisher": "TradingKey"
+    },
+    {
+      "market": "財報新聞",
       "title": "台股押寶買盤 進場搶短 小摩建議買進12月到期的台積買權價差 - 經濟日報",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Da1hOR2g4MTVsZjlvcjBtNlJjc2taRkxwS0FLYTVRNDgyNDdfSUpoeVdIX3ZtNTlnUGtOYXVaaER1eTlDemtUWUNCWEI4NUNBSm5WcUdZWHdNZ9IBX0FVX3lxTE1PMkFOSHZydGFzaEdfckRqUGdtZVkxYXlBa0dCQUkwUlgtQzRaOHM4ckhWLWdSeGR6bnRJelhtOEx5UHYwX0J4Ul9UUkR0NHlCVXBjc1VOTU9wVlJmWDNj?oc=5",
       "published": "2026-10-15T03:27+08:00",
@@ -259,13 +280,6 @@
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBjQ1J0TUdqdUVjb2dwd2JXWV9TLUlvRVVmMUFiUGJnUVJQcnVQZ1lWY3lvUnRIXzRoMkQ1akNFbjJvSXlXQnU4NjI2VUxqOEo5dVBxQU1B?oc=5",
       "published": "2026-10-14T22:45+08:00",
       "publisher": "LINE TODAY"
-    },
-    {
-      "market": "美股",
-      "title": "〈財報〉股票交易與財富管理雙引擎發威！摩根士丹利Q3獲利報喜 - 鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9leHJZbDZkdFJOaE1iR3RyNWZPQkFZV2FlOU4tek5kSWJSbG1YZFRtZUJsU08weUNnQUdCQ2hmUWZlUE10LW1ySDNLN3A5Vlk?oc=5",
-      "published": "2026-10-14T21:00+08:00",
-      "publisher": "鉅亨網"
     },
     {
       "market": "財報新聞",
@@ -300,13 +314,6 @@
       "title": "ASML財報登場 可能調漲設備售價成晶片股重要指標 - 鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8yZVRhQS01U2NrTzNBUXVERllndk9ZRzdXUTM4Q3QtUUt6WUtsTHpkTmRMMGtnZTlUcVA0WHRWMWpiOG9YcFpnaGtZNG9CLU0?oc=5",
       "published": "2026-10-14T07:04+08:00",
-      "publisher": "鉅亨網"
-    },
-    {
-      "market": "美股",
-      "title": "〈美股盤後〉美光跌3.9%拖累費半、那指 油價走高、銀行財報季登場 - 鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBoMnQ2c0pBQ21JLTZKalR5aWRZQVVrWkJob19VQlJTbDJGUFdQQnE5YUM4bEpvSHN0TEdramllQlpPbEc4RUNhVUlFOC12c0k?oc=5",
-      "published": "2026-10-14T02:48+08:00",
       "publisher": "鉅亨網"
     },
     {
