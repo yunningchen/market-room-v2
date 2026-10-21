@@ -1,6 +1,27 @@
 {
-  "updated_at": "2026-10-21T12:48:40+08:00",
+  "updated_at": "2026-10-21T16:52:49+08:00",
   "news": [
+    {
+      "market": "台股",
+      "title": "8位主持人、2大顧問助陣TVBS推《TVBS財經》啟動24小時布局| TVBS - LINE TODAY",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB1aWxxTUI5MUJIeV91Z2l4aGFhNHpDVTFmRzM0a0g4cEFwTjJ1U3FvYkZuMi1KMkE4TmRaejB4ZDBHODZtNWE2a2luaF9yX3JSMS1FNVV3?oc=5",
+      "published": "2026-10-21T14:53+08:00",
+      "publisher": "LINE TODAY"
+    },
+    {
+      "market": "美股",
+      "title": "狂飆830%！SpaceX財報拯救AI交易 - 鉅亨號",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1yMGI5dHJrLUN2TFNZYnZEaVlHVGVuRXRaY0c4UF9oM0RIX0pLc0ZDODkzb0Nqb0lyQmdzdU1qM3p0djlPamRrSQ?oc=5",
+      "published": "2026-10-21T14:26+08:00",
+      "publisher": "鉅亨號"
+    },
+    {
+      "market": "美股",
+      "title": "Meta Q3財報考驗華爾街對AI支出的承受度 - 鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5vNUxGQXpUaVI5QTlhaDMtb3B4dlNUVklxNUFEUmNoSHYwV1pWOFJIUXEzZzJXQVFIbGlUWFdPSWhING9xRWMtRjJlbFlnLVk?oc=5",
+      "published": "2026-10-21T12:10+08:00",
+      "publisher": "鉅亨網"
+    },
     {
       "market": "美股",
       "title": "〈美股盤後〉財報撐盤！道瓊勁揚逾500點 SpaceX盤後跳升逾4% - 鉅亨網",
@@ -10,17 +31,24 @@
     },
     {
       "market": "美股",
-      "title": "歷史重演！\"AI股神\"又被打爆，反彈來了，拐點還是喘息？ - 鉅亨號",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTXpxQzJIZFNCamZERGt1Qk9iSEZqNHM4UnpnMlUtazU4dm5CMVFVSlE1OUR0cEpqZnJUa2lRa1REYmc0MUt5SGVUUGxWVThGN09KeGhIbHhSTEt6Mmw4MXJlZkFzazVRaDZMcjNnbHVKSXBHS1ZJazR4eXVCa0VfY3k0WWNEelloU0JkbVNfbw?oc=5",
-      "published": "2026-10-20T23:37+08:00",
-      "publisher": "鉅亨號"
-    },
-    {
-      "market": "美股",
       "title": "美股多頭還能撐？財報與Fed成考驗 標普7500點是關鍵防線 - 鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBEdzdzTVhyVENHUGR3akRvTVJzVUtGYXdXZXVOM0dwUjU4Sk41Y3p0NUtXTVVFSEZESGlRUzhhaUhoWFQ2S09OUm9LUFd4ckU?oc=5",
       "published": "2026-10-20T23:10+08:00",
       "publisher": "鉅亨網"
+    },
+    {
+      "market": "美股",
+      "title": "台股反彈全看這波？Meta、特斯拉財報將出爐 分析師：「這情況」恐將繼續補跌 | 林子靖 | 新聞 - 風傳媒",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBOazRGM3E0a2R4dHk4WWw5RDd2d19DSHVxeGUtSW5HUWYyX3E3Y3dfWE5TNEVSNktIR0VtSU9XeXRXc2pZeTUxWXhoZEc2QQ?oc=5",
+      "published": "2026-10-20T22:40+08:00",
+      "publisher": "風傳媒"
+    },
+    {
+      "market": "美股",
+      "title": "快新聞／AI概念股疲弱、油價反彈拖累 美股主要指數開低 - 民視財經網",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1rRmhzeXdnWFFmdGZ2dUQ1M3I5cWgyQnluVnlMZVJ1Nl8xZ2IwMmZ2LWdRWTJwX2JNaVdxLWNPQ3JLRk1LMVlqcHl1c2x1a2dlTFdRbnJNdXBneDI5clJlZjZ2RUtFQQ?oc=5",
+      "published": "2026-10-20T21:51+08:00",
+      "publisher": "民視財經網"
     },
     {
       "market": "美股",
@@ -66,13 +94,6 @@
     },
     {
       "market": "美股",
-      "title": "美股開盤／各大企業財報將揭曉「AI股反彈」 標普那指都開高 - TVBS新聞網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBFWGt4LWhNOXRkYklXemEwTXVzWkt1UDJUSjl2QXdUVEw0LXB2WFlWemJxQ1dzd2MtRy1RS2puOGo2Ny1qTXdhcmJNWkZwbkk?oc=5",
-      "published": "2026-10-19T22:32+08:00",
-      "publisher": "TVBS新聞網"
-    },
-    {
-      "market": "美股",
       "title": "〈美股早盤〉AI股跌深有人接！晶片巨頭反攻 那指開高 - 鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBKd1V6YjBUVWJySEZhcktiSXdQUmh4LXBUSFRmeVhWTkJicTVwM3p2aWJheGh5X3VqZ0pmbXRDWHdSc21SSFpqLWVINA?oc=5",
       "published": "2026-10-19T21:40+08:00",
@@ -105,13 +126,6 @@
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOb29LWThzZk9TRndDTTBobDhoQTFtRDdDLWFvUzBjcUJpVVpOMENmUkd6NnRkbE1FNUZSeENvTnpaYlhHQW85bGZMaXZ5Z3NRYVlIZEZuaFpNX2RRb1F6VnBSdFQ5akEzdGpMb0NkVk90TElISFIyTkpVUVlKUmNaeUFGcHFWakE?oc=5",
       "published": "2026-10-19T08:31+08:00",
       "publisher": "CMoney投資網誌"
-    },
-    {
-      "market": "美股",
-      "title": "TradingKey 華爾街週報：通膨升溫加劇升息壓力；Nasdaq 下跌 4.48%，創 6 月以來最大單週跌幅 - TradingKey",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQekdfNUR5TEJvLVoxYUJwMm1xUEY3RkY5Vk4tZ21fQmlESS1USzJYMUJjYVBfYVlIUGpoeFdiU0VWVkJ1QjdaNnB6Q0xIVHRHNmp0NHotU1NPQWpLMUZKVGRHMG5jMjd1NklROGZxYm1jMmladlFxTnJBUm9lckJlTkM3Y2g2R3kzczRtZEk4dTJlbzhoZUFFeThuYXFJZWFTOTFLYV9YeVNrUGtCZ08zbVJ5TjJEQmcwNjY0eEFaVXRReGFVdkJoeDFGYUpYVlZLNU1wTTF0NW80a1Nu?oc=5",
-      "published": "2026-10-19T08:29+08:00",
-      "publisher": "TradingKey"
     },
     {
       "market": "美股",
@@ -171,24 +185,10 @@
     },
     {
       "market": "美股",
-      "title": "美股遭AI賣壓、油價雙利空夾擊全倒！財報季下周接棒 華爾街緊盯一件事 - Yahoo股市",
-      "url": "https://news.google.com/rss/articles/CBMiswNBVV95cUxNN0tNeVRvZHRGQ0d3S1kzTlEyT1RDS3VISDZ1dVBJcGIyVHBsa1NiZlcyaTU0dW9seWRHR1BtTG1HSkQzb1JhTEQtSk5PaEs5TzFWQWY0em5TU0R6YWtSbUhMSHJMUEdlWWNaTzJNWnhLUUdFdFRMWXlyVGZoWDdhenlaR0dUR3ZnX29MVG5TZVdzRFV3UGJhOUg1bGExTnZfLTBZTm5ybmN6cEk4ZlFfSGdxNkl5ekpYZ3BSWmxreE1PbXU4S2RZVXV5Rkt5TEZUSmludy11NGdyRG5SRmNHSDVkUTlzcHJZVy1vOEM5MEdTd3BGbG5oUHZFT2dncldwSkVmRXlXRG1YS3A4ZkRrZURXbjk1aHVEVjBEZHV1SkZ6N2I3Wm16bjZ0V0Zjbl9sUF9fcUx2cE1kRHBIelRibDNsVUlSLTJLY25Bdk1wY3dNTkVmNDY4RUg5UHF2Ymp1cy1CYWVhenVGVURKV2l4eEVlUXdEbjJVVHh4U0ZGcmtrd3gtSWh2TUNxaUFfRUxRNnFNV0xPUVZrTzJNckJzMnI3TExqb1BSNWN2ekU1MG1oMm8?oc=5",
-      "published": "2026-10-17T13:34+08:00",
-      "publisher": "Yahoo股市"
-    },
-    {
-      "market": "美股",
       "title": "AI賣壓重擊美股 華爾街靜候下週財報救市 - 大紀元",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1DdEw2S01WMDI1aUR1SUlCSTlxYlBnV25SdldOOFhRQUZVYWR6WGtuX2pxTXlVaGZ1N284WVVxZWFWT2gxTkh1UFEyeXVtelpWb2VmUjEwOW5pdDl2WE1vcnlB0gFnQVVfeXFMTmVSMDVzdXhGVUZOak9rTU5lYkl5bFVaTnJXa053dDNQVEZTai12S0J0NWk4bUw1Sk9fc1VSb2lnSDBlS1NwSnkxR2EtS0N2dFF4OXd1ZTNBSU9fb0o2eWplZGllUHRGRQ?oc=5",
       "published": "2026-10-17T12:28+08:00",
       "publisher": "大紀元"
-    },
-    {
-      "market": "美股",
-      "title": "華爾街血流成河! 費半周崩11%創一年半最慘| 國際 - 非凡新聞台",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rQVZNcTdJMjk1VWNVZXRQUUhUMDVCN0hWRXpxeXd3WFdSLTZIVVJqTS10OHRYYlBSRWVzSE95M0tUWF81MmVOQTRIQklwUVkwOUlWQ2hSU2laaWNDTHBweE92ZGozb0hob3c?oc=5",
-      "published": "2026-10-17T11:06+08:00",
-      "publisher": "非凡新聞台"
     },
     {
       "market": "美股",
@@ -201,8 +201,22 @@
       "market": "美股",
       "title": "美股AI熱潮遇震盪 Meta與特斯拉最新財報成市場焦點 - 民視財經網",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ZdWRGMVVaNEpUckJmVlhRNklsNFM0Y1o1WWNyeEh5Zm9lQ1ppQlBwaV95LWN1c25uSGFOMzR0a0VnTTMwRTh6MF9SRVNNeGhhZHJ5QjltM2Z5TktBMTB3NEVqeGZRZw?oc=5",
-      "published": "2026-10-17T05:18+08:00",
+      "published": "2026-10-17T05:11+08:00",
       "publisher": "民視財經網"
+    },
+    {
+      "market": "美股",
+      "title": "AI 熱潮退燒？華爾街轉身「脫AI」行情狂飆，資金大挪移震撼科技股 - 美股放大鏡",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYndxbXNtQ3k2QW1zSU80d3h4T1Q2Y0pfWnpNM19GcVR5OFB5SzFNS1NwQmFDUGw2T0dhbzFqdnlGaGtPUTBqUjFmMFBmUV9xMGlLbkxIQmNIVWhLcnlRR1JyWGNCcWRzOXV4b21kS3U5dXM2RmZkSnZiS3g0bElxTm5CLUJidXNQeHZTdTdINTEtUTRM?oc=5",
+      "published": "2026-10-17T02:00+08:00",
+      "publisher": "美股放大鏡"
+    },
+    {
+      "market": "美股",
+      "title": "華許夜間談話說了什麼、又沒說什麼？一文掌握Fed政策線索 - 鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBkZVpWUXFpLS1LUm11UFAteTNDMzRZZ1lGUEN5c1RCSy1qZk54UXhGY1JUdWZQRWROLVVSNW0wV0xXV3VjcEd2d3ZxSWVVUEk?oc=5",
+      "published": "2026-10-17T01:02+08:00",
+      "publisher": "鉅亨網"
     },
     {
       "market": "美股",
@@ -217,6 +231,20 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE96N1k5cU8wVGFwbHc4QldzSENXSGxnb29HeG1iT0J6WmNWcUZrNC0yZ0M4MVRPaVFIN1hzOFpmNEItS1RneWFpRjN3dzJFRDg?oc=5",
       "published": "2026-10-16T19:31+08:00",
       "publisher": "鉅亨網"
+    },
+    {
+      "market": "美股",
+      "title": "AI概念股估值承壓、資金轉向傳產 法人：美股中期多頭格局未變 - 鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XZHR5djc3LWp4eTA1LU00Z2Z5RlpBZWlZeTRHOHU5bXFFelBBQjVnOFNXaXhCRVFFUDJyUExZUGV5TFJrYm5QdkJIMDloT28?oc=5",
+      "published": "2026-10-16T19:13+08:00",
+      "publisher": "鉅亨網"
+    },
+    {
+      "market": "財報新聞",
+      "title": "Intel 14A 奪馬斯克 Terafab 大單：台積電 2 奈米遇強敵？解析欣興、南電供應鏈紅利 - 口袋證券",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBqaFVIYy1CYi1LRXBoNGRBQlg5bHRyTlVQTWhuR1BmWExhZE5DRlJicjFaemdWODdzUUR1U2xaOHMzNTFPT1BudnpPQkhVcWo2RXJqOGpR?oc=5",
+      "published": "2026-10-16T15:00+08:00",
+      "publisher": "口袋證券"
     },
     {
       "market": "財報新聞",
@@ -244,6 +272,13 @@
       "title": "〈台股盤前要聞〉台積電全年美元營收再上修至44%、外資爆砍3025億元創紀錄 - 鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1FY0ZxSnBjUm1aMEYtRU0tNkhyR1RPU3JqZkkzOExwTEVSc1dDWm0xQ2FiYU5OVnE0NkpaRDlsOGtRX0xQai1FTFZ4SWV2R0E?oc=5",
       "published": "2026-10-16T05:11+08:00",
+      "publisher": "鉅亨網"
+    },
+    {
+      "market": "美股",
+      "title": "「美股怕的不是獲利、是估值」華爾街大多頭Yardeni下修標普500目標價 - 鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5WSE9kSkFMdzl2RHBXRVRwUlh2aXQwS1dwX1NPNGZaYVFYTGlBVmhWbHdKSWFTTVgyOXBSU1hJUUhHVTVVOV9zVXVyWUtkU1U?oc=5",
+      "published": "2026-10-15T22:00+08:00",
       "publisher": "鉅亨網"
     },
     {
@@ -290,9 +325,23 @@
     },
     {
       "market": "財報新聞",
+      "title": "2026 台積電 Q3 法說會直播 10/15 下午登場！幾點開始？時長、線上看、電話會議連結整理 - 果仁家",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9vVEYweS13RkZsVHlCb3RqQUtmSG91dWt3RUwzblpKakVPTWI0YVpIaEd4VUUyQUNjaGJaMXhQZ205WDFOWmZNRkZjWUUzUktDY2tr?oc=5",
+      "published": "2026-10-15T13:11+08:00",
+      "publisher": "果仁家"
+    },
+    {
+      "market": "財報新聞",
       "title": "10/15 台積電法說會幾點開始？幾點結束？直播線上看、電話會議連結整理 - 果仁家",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9TTmFYV0ZBOWpZSkhkT21fQ0FJSVJGWkRjMEQ4b2ZmckZybnI4RFI2dkpqQTZKd1JrX2x2eUtiSE1aODJqWm1vZnl1Szl6N1hTTl9N?oc=5",
       "published": "2026-10-15T12:18+08:00",
+      "publisher": "果仁家"
+    },
+    {
+      "market": "財報新聞",
+      "title": "2026 年 10 月 ETF 除息懶人包：0056、00922 等 14 檔，最後買進日、一張領多少一次看 - 果仁家",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYSFQ2Mkg2TWNTSTVWazlGejJnZlBDWXZBQ3dqQktXeGZYbFpTOHhWdXdiVklVdmVvUExFZ2VTR1JJang5NFFQVC1EWFFFZEZwckFv?oc=5",
+      "published": "2026-10-15T11:13+08:00",
       "publisher": "果仁家"
     },
     {
@@ -303,25 +352,18 @@
       "publisher": "蕃新聞"
     },
     {
-      "market": "美股",
-      "title": "Fed緘默期前最後發聲！華許周五談話牽動10月升息押注 - 鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1pRkQ1UWZ2dktGV3g3WjBHSjA5THZmUkZIMFVXRTlNZExTdEw1ZWFwcm5FVGdqWmRjaWtZVUo1UV9fdElYZHg0QVVjQWRZaEU?oc=5",
-      "published": "2026-10-15T08:00+08:00",
-      "publisher": "鉅亨網"
+      "market": "財報新聞",
+      "title": "法斯諾 (FAST) 2026 財年第三季法說會：營收成長 15.5%，利潤率擴張 - TradingKey",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBhQ1prWWhqM191SW5WYkhYdUdDZmZmWXFuYU96WkdKUkdDbDl1UWtMY3pJOXpnYVZCX1Z6eHFGUXNmdFlRcGpJWlIwWEtUZmdpdDFEWk9RYVRKTnNuaFpVT19aU1ZwdkthM282QjhUblZjcVJwRFRHTkxQdlQ?oc=5",
+      "published": "2026-10-15T04:01+08:00",
+      "publisher": "TradingKey"
     },
     {
-      "market": "美股",
-      "title": "通膨走強、AI股遭拋售 美股那指及費半重摔 | NOWNEWS今日新聞 - LINE TODAY",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1IeXpMR3lRbnRWSDNUS3hoRmRUbzFWWmtwZ05RNTVlMzQ2Y2c4RXkxdVotN3plRVcwdGJ2aXVwa2Z3WXNxT081OE5HUFlkX2lBWU9ldEl3?oc=5",
-      "published": "2026-10-15T06:40+08:00",
-      "publisher": "LINE TODAY"
-    },
-    {
-      "market": "美股",
-      "title": "Fed10月升息重回討論！華爾街憂通膨擴散 有人喊12月升2碼 - 鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBqYkV6dGloeTV2eHdFaXR3WEtGNzNTUXMtNjhpVHdHSzJneTNKeldXeTdud0VFcVdWbF9xNzNWS1AtZGhFRzhoV1RBajdKN3M?oc=5",
-      "published": "2026-10-14T21:50+08:00",
-      "publisher": "鉅亨網"
+      "market": "財報新聞",
+      "title": "台股反彈284點！台積法說明登場 高含積、含金、規模新高ETF一次看 - Life 生活網",
+      "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxNVWFYT2F6WXdJYktBOWtxOFYwRXZQWnJFeHRLTG1jaUZ5V291T0JsOGZkQ28yRERNWmRnZUdCY0R3ZzF2cHNXdm1Oc2tLVnc3YzRQUE0wNF95U2dBWGlCRVNHMWRLdlNZc2tHRGJULVJROGtDbG4xX1dXZ3R4bU93UVAzVUdwMXNvcjJQaUtvZTgtQlU5dWxmNUEwbjdmbWFaeTNHVWljc3g2WkRXNXJOV0FJQ0RaWWpQSmhZMktGMDBNb0dOQmJSWDY3TloyM2huMmlfNWwyM2dqSlpuTEdMMTZnTFJZYVJUeE80Y2hHOHZ2eWJUeFhjUFEzRmFqbFk1eEtLNDRfS2stUHg0cHY3cUotazBrS3Q1NlZPMEYzbHB6elNmSnhXRG1SUFBuaWk5bDFYVmRteUFobjE4MWkxZjY4MVVlaFFWTFZ5WUtkMA?oc=5",
+      "published": "2026-10-14T19:04+08:00",
+      "publisher": "Life 生活網"
     },
     {
       "market": "財報新聞",
@@ -723,12 +765,40 @@
       "datetime": "2026-11-04T09:00+08:00",
       "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=40",
       "source": "TDCC 公司投資人關係整合平台"
+    },
+    {
+      "symbol": "7869",
+      "company": "宏于電機",
+      "type": "台股法說會",
+      "datetime": "2026-11-04T14:30+08:00",
+      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=40",
+      "source": "TDCC 公司投資人關係整合平台"
+    },
+    {
+      "symbol": "2412",
+      "company": "中華電",
+      "type": "台股法說會",
+      "datetime": "2026-11-04T15:00+08:00",
+      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=40",
+      "source": "TDCC 公司投資人關係整合平台"
+    },
+    {
+      "symbol": "6412",
+      "company": "群電",
+      "type": "台股法說會",
+      "datetime": "2026-11-04T15:00+08:00",
+      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=40",
+      "source": "TDCC 公司投資人關係整合平台"
+    },
+    {
+      "symbol": "2395",
+      "company": "研華",
+      "type": "台股法說會",
+      "datetime": "2026-11-04T15:30+08:00",
+      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=40",
+      "source": "TDCC 公司投資人關係整合平台"
     }
   ],
-  "errors": [
-    "台股: HTTPError",
-    "美股: HTTPError",
-    "財報新聞: HTTPError"
-  ],
+  "errors": [],
   "notes": "新聞為公開 RSS 摘要連結；法說會時間以主辦單位最新公告為準。美股未確認的財報日期不會推測填入。"
 }
