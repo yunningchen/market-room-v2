@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T09:01:17+08:00",
+  "updated_at": "2026-10-21T12:48:40+08:00",
   "news": [
     {
       "market": "美股",
@@ -329,13 +329,6 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44dmFxaEFUS2h0X2F5OEtXTWRURWNDZ0FFMHI5Vm9SWDlPY0NLTEdFYWcwT01zazhpVlpyMms5ME9TYkdkSTl2ajBCRnBfdVdDSFAyQzJhV014NXhCWFdYek5aNDlLTmdLdmpPUmo1VXYzU0Z0cjEtYzJGUXNobHM?oc=5",
       "published": "2026-10-14T16:59+08:00",
       "publisher": "CMoney投資網誌"
-    },
-    {
-      "market": "財報新聞",
-      "title": "台股收盤／收漲284點49K有壓力 台積電尾單7999張摜壓收2490元 - TVBS新聞網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0yN19VWkFBN1VncTMyQTBVSU0xQ0NlVlB0VTFWUzhrUjRmMUk3RzRONFNzcF92WkZDYV9iNEViNVd4dnlYZW1GeXhjSDJyVE0?oc=5",
-      "published": "2026-10-14T09:05+08:00",
-      "publisher": "TVBS新聞網"
     }
   ],
   "events": [
@@ -732,6 +725,10 @@
       "source": "TDCC 公司投資人關係整合平台"
     }
   ],
-  "errors": [],
+  "errors": [
+    "台股: HTTPError",
+    "美股: HTTPError",
+    "財報新聞: HTTPError"
+  ],
   "notes": "新聞為公開 RSS 摘要連結；法說會時間以主辦單位最新公告為準。美股未確認的財報日期不會推測填入。"
 }
