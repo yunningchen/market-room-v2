@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T21:01:55+08:00",
+  "updated_at": "2026-10-22T21:35:28+08:00",
   "news": [
     {
       "market": "財報新聞",
@@ -157,6 +157,13 @@
     },
     {
       "market": "美股",
+      "title": "高利率將維持更久！阿波羅示警：AI投資與美國財政壓力成關鍵 - 鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5uUDZzenU2eDFsRVNtajZBdUZJU3pGal9haFdGVDB2N1F1SV9Dc09LelVScEgwb2RXR01fOG16WmZ5VXhSV2ZpM1lZVUNRVnM?oc=5",
+      "published": "2026-10-17T08:10+08:00",
+      "publisher": "鉅亨網"
+    },
+    {
+      "market": "美股",
       "title": "美股AI熱潮遇震盪 Meta與特斯拉最新財報成市場焦點 - 民視財經網",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ZdWRGMVVaNEpUckJmVlhRNklsNFM0Y1o1WWNyeEh5Zm9lQ1ppQlBwaV95LWN1c25uSGFOMzR0a0VnTTMwRTh6MF9SRVNNeGhhZHJ5QjltM2Z5TktBMTB3NEVqeGZRZw?oc=5",
       "published": "2026-10-17T05:18+08:00",
@@ -196,13 +203,6 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5WSE9kSkFMdzl2RHBXRVRwUlh2aXQwS1dwX1NPNGZaYVFYTGlBVmhWbHdKSWFTTVgyOXBSU1hJUUhHVTVVOV9zVXVyWUtkU1U?oc=5",
       "published": "2026-10-15T22:00+08:00",
       "publisher": "鉅亨網"
-    },
-    {
-      "market": "財報新聞",
-      "title": "(2330)台積電法說會 2026/10、台積電財報、台積電展望、台積電財報投資亮點｜理柴知道:法說最速報! - 方格子 - vocus",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuZXQ1NllMZUlTUEp5UXlpRDJxeUR5UTExQUl3cG9DV21YZi1ZQzhNYmhnVnA1VGRULXlpU0FpandfNTRlRC1IdXBCcnhCcXp5NlIzTlc1ajVXcFpMMVHSAWNBVV95cUxPbmhTaEhhS2V5UVNleWIzUTFCZlRPbUVBX3Bza1h1R3daMjVSYVMtRUQ3eW5zeDFINk9yc0ZYZzZobWVwVjl1OG1jTF9YYVhBTmxjWVZEOEk4QjdNX0syLU9Uc0k?oc=5",
-      "published": "2026-10-15T21:08+08:00",
-      "publisher": "vocus"
     }
   ],
   "events": [
