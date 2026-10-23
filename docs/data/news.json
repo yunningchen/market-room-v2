@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T16:51:13+08:00",
+  "updated_at": "2026-10-23T20:58:59+08:00",
   "news": [
     {
       "market": "美股",
@@ -7,13 +7,6 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5NT3VvOXo2OGZ6eHh4R010UzlOM3pFc2lrYkYwbnJLY1p6ODFFWFRNN1dNazlaelNXSU0zSThnRWxxLVhQY0VRUkhXMzE1Um8?oc=5",
       "published": "2026-10-23T13:27+08:00",
       "publisher": "鉅亨網"
-    },
-    {
-      "market": "美股",
-      "title": "納斯達克創六月以來最大單日跌幅，美股期貨周四晚間保持平穩 - Yahoo 財經",
-      "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxQZlJyOEZXNjZlWTduRm1YckNHQ1JMZW1wYVRiTTFZb0hYeWJCLW1pN0lkZDlzZEtGMFVGUzFid0RxNU8tNnM0MVZJMXFhZE1XR0NJTXM0d3AybXBNd0swa0kxa3d6RFFrdlJEbVlfd3N5Z0pTdEdkdHJBY3RvSHZ2NWdjLUxVSGJoUFZZY0pLazVBai1UaFRsLW9BQ2NpbS10ek9Xa3l6czAwUnNidnNzbnAwZnFKZFZjR25YdnZiUTNtanlHSHZSZHRCYWd0dEFxWjNrV2NSWTJGazVlRHluaTFwWmJQU1lRbVZYNi10NGYxUHZLQklnVDFzYmN2djViMmtWYjVuS19pXzVsREszZGc5V3I1dlNOREhreGtJOG55WjBIdGwwMjJHV3pVOXRvYWpPbXEtQ1J1ZVgtWm1IVURndmVPVEM1YS1uNFBKbFFJTTllSEJVMVl3ZXpLOGRRZ0NfZlRtaWtzekQwRUMtYzd2cWVjZEVrZEZfTW5YMjQ2N005MDJWMDktaWtNUHJ4bUZvTmJkTkxLN01sNThmR1lyRQ?oc=5",
-      "published": "2026-10-23T12:02+08:00",
-      "publisher": "Yahoo 財經"
     },
     {
       "market": "台股",
@@ -42,6 +35,13 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9jNTFzNFZTZWMyamFKTXFkaWgwSUF6Vm1pWk96VUd5aUQ4bnNmWXg2OVBMbjZ0YVRHT041RUdweE56Ty12WlFFRXFsV3c3RzNndUpvTlE2ekk?oc=5",
       "published": "2026-10-23T06:50+08:00",
       "publisher": "CMoney"
+    },
+    {
+      "market": "美股",
+      "title": "AI支出＋油價又漲 美股多收黑 | NOWNEWS今日新聞 - LINE TODAY",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JWlVaNEgtTDhtX213eU93azZlenE2eVpEcVhhSlJaSzV2eWFtaUliT3F3RUlZVGZKZ1ZmeHo2LTJpdDFkazEweGs5V3p5dVV0MHVhbExR?oc=5",
+      "published": "2026-10-23T06:24+08:00",
+      "publisher": "LINE TODAY"
     },
     {
       "market": "美股",
@@ -150,13 +150,6 @@
     },
     {
       "market": "美股",
-      "title": "華爾街早報：市場反彈只是喘息？AI敘事仍在考驗期，警惕信用危機引發新一輪去槓桿 - PANews",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPelhSQzl2VTFtdE9TNnFDeERKN01HckhaTHJjVmlpSHpGbjdVY280VUYtYVVMTmdHVjlLUWpJWVMwclRUYy1nY0g1OGR5THRGVWU0M1A0RG9HSFMtdEQ1NFRRcE1lbzJqNUxDa2t2T2UyRVpVa0dZWW1Kd18tTHdWWjhIU094dw?oc=5",
-      "published": "2026-10-20T13:14+08:00",
-      "publisher": "PANews"
-    },
-    {
-      "market": "美股",
       "title": "美股開盤／各大企業財報將揭曉「AI股反彈」 標普那指都開高 - TVBS新聞網",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBFWGt4LWhNOXRkYklXemEwTXVzWkt1UDJUSjl2QXdUVEw0LXB2WFlWemJxQ1dzd2MtRy1RS2puOGo2Ny1qTXdhcmJNWkZwbkk?oc=5",
       "published": "2026-10-19T22:32+08:00",
@@ -213,6 +206,13 @@
     },
     {
       "market": "美股",
+      "title": "TradingKey 華爾街週報：通膨升溫加劇升息壓力；Nasdaq 下跌 4.48%，創 6 月以來最大單週跌幅 - TradingKey",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQekdfNUR5TEJvLVoxYUJwMm1xUEY3RkY5Vk4tZ21fQmlESS1USzJYMUJjYVBfYVlIUGpoeFdiU0VWVkJ1QjdaNnB6Q0xIVHRHNmp0NHotU1NPQWpLMUZKVGRHMG5jMjd1NklROGZxYm1jMmladlFxTnJBUm9lckJlTkM3Y2g2R3kzczRtZEk4dTJlbzhoZUFFeThuYXFJZWFTOTFLYV9YeVNrUGtCZ08zbVJ5TjJEQmcwNjY0eEFaVXRReGFVdkJoeDFGYUpYVlZLNU1wTTF0NW80a1Nu?oc=5",
+      "published": "2026-10-19T08:29+08:00",
+      "publisher": "TradingKey"
+    },
+    {
+      "market": "美股",
       "title": "賣出訊號解除！美銀Hartnett看11月中旬重返科技股 關鍵在晶片價格 - 鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAxeGVHVzFYRnhmQnJTb0FETG96a2hGMm1lNi1hUUc5YmZRQ25IQUFzQVR3a3VFS0hSQ0VOXzJBZmhJNEkxRkhmTUkzOA?oc=5",
       "published": "2026-10-19T07:21+08:00",
@@ -241,7 +241,7 @@
     },
     {
       "market": "美股",
-      "title": "AI 概念股大漲後拉回！華爾街下週聚焦晶片股財報能否撐起估值 - PChome Online 新聞",
+      "title": "AI 概念股大漲後拉回！華爾街下週聚焦晶片股財報能否撐起估值- 寵物新聞 - PChome Online 新聞",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQ2hfTzBnOGFxMHo0NmtDczVMTXMtM0ZSSVVFRGs4Y29IQ2IyLS0zMEJVNTR1N1dNbS1RbUFKMGR4OEVZc1dzT3JyZy1UclBVOWhPNlZhTzRHV2JUM2lrRXZ3V3dTQTRHXzlaN1cxWEJ2SVlfem5zZnkwS0ZPZ0hvRVFSNWdkMW8?oc=5",
       "published": "2026-10-18T11:56+08:00",
       "publisher": "PChome Online 新聞"
@@ -273,6 +273,13 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPb0w5ZTktdFRpR2JmZW02cWdrRjVjTmI1aWJWTkFsLVQ3ZUxybE54SkxBWG5BSHQ3a1dPa2JSZEVydG5acU5DQjE1UlJab0l5MlhHTkwwUG9CUUtZZlV1NmV5ZXVFZmp6UEVlT3lRTDNYbzdhZ1Q0a1hiS3A1YmQxN0l4b9IBYkFVX3lxTE1jRm5nQzM5NDVBYVlmVURfTEh6ZGprVzJEbkJ6aDd3QTJvdjBxV1NqN1J4eWJSVGtXQXNGMFQyR25VUWptdWtETzNqNGljVUxZaXQ4cXRsTWxXQzc2Ump6R0NB?oc=5",
       "published": "2026-10-17T17:50+08:00",
       "publisher": "經濟日報"
+    },
+    {
+      "market": "美股",
+      "title": "華爾街老將示警：美股早已「內部崩盤」！看好Nike、白銀布局機會 - 鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5pNWZnV090QTFPVE5oeC1YNUVLNWdqTlYwRy1rZUxFUE9pWEZ4Q0ltMXV4X2FhVzNrTjZzNVVxOUUxM19LRzJrSm1yX3VGSmc?oc=5",
+      "published": "2026-10-17T14:00+08:00",
+      "publisher": "鉅亨網"
     },
     {
       "market": "美股",
@@ -308,13 +315,6 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYndxbXNtQ3k2QW1zSU80d3h4T1Q2Y0pfWnpNM19GcVR5OFB5SzFNS1NwQmFDUGw2T0dhbzFqdnlGaGtPUTBqUjFmMFBmUV9xMGlLbkxIQmNIVWhLcnlRR1JyWGNCcWRzOXV4b21kS3U5dXM2RmZkSnZiS3g0bElxTm5CLUJidXNQeHZTdTdINTEtUTRM?oc=5",
       "published": "2026-10-17T02:00+08:00",
       "publisher": "美股放大鏡"
-    },
-    {
-      "market": "美股",
-      "title": "美國下月期中選舉若民主黨大勝 科技股可能崩盤？ | 外媒解析 | 國際 - 經濟日報",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5IbVpjd09VX2xfUWNQSVE3d2pHczlsX2RLNUJ3djNoRUJNaUN6N0xHdllRZlNzMDhFN0RFOExDa3RwU1hLb0F0eW1nWDhQby12aFNCajlOWEVoVHRh?oc=5",
-      "published": "2026-10-16T23:16+08:00",
-      "publisher": "經濟日報"
     }
   ],
   "events": [
