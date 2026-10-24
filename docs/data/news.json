@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-10-24T12:46:50+08:00",
+  "updated_at": "2026-10-24T16:48:40+08:00",
   "news": [
+    {
+      "market": "美股",
+      "title": "全球科技股暴跌，到頭了嗎？ - 鉅亨號",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE94RWswX0R1WkFpWTc2Z2dhQng1Q1pFYTRRRUY2ZjZBdW9qNEZlYXlBWHJXMXRvRTg1MmNVQmxIYUpCUjRWUUhaRA?oc=5",
+      "published": "2026-10-24T15:08+08:00",
+      "publisher": "鉅亨號"
+    },
     {
       "market": "美股",
       "title": "晶片股本月跌逾15% 科技三巨人財報檢驗AI投資回報Fed、油價再添考驗| 全球財經| 全球 - UDN",
@@ -14,6 +21,13 @@
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPT1FYZ1RfdlNPUUFXSXJlWlV2LU1RajRFOFVxeU9QY2tCdWZZZXFkOWJuLWxkNkNxa1RHN3B6LVByeHdJYUtmLUJXTzc2Ym9FU1dJSG9sWmp0VmZhc1h3b3ladFRhYVB1MXBfXy1EX2VnWlpvTXoyU2JVU0UyMGZZcTVn0gFnQVVfeXFMT3JFcTh4Vms0R1R0M1dQY0laMTg0MU5YWkt2NjdOd2ZvN2EtZktDaDRnQkFzRml3YWpDRHZlaHdZV29zanhBdjJMcnZxMmVQeDBGa3ZQR3VoQi1INWgtQ20wUzA2RFphUQ?oc=5",
       "published": "2026-10-24T11:40+08:00",
       "publisher": "世界新聞網"
+    },
+    {
+      "market": "美股",
+      "title": "黃仁勳︰AI缺乏成長所需資本 - 翻爆",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTVg0Sks1YVYyVkNTd0JWY1ZEcEdMeVk2Z09BbzdCRGJwS25UbHpGeUYyRjVYc2FETnBEUjRzZXpjVXNTRkVBS29DMlR0b3VrREloeEZRZlpyazZLNmtsNS1MaGFBaUhvX0hpcWhWR1FETThOQ2xhenhSMnFoTGk2eDR6UFR4QQ?oc=5",
+      "published": "2026-10-24T05:47+08:00",
+      "publisher": "翻爆"
     },
     {
       "market": "美股",
@@ -73,6 +87,13 @@
     },
     {
       "market": "美股",
+      "title": "葉門叛軍襲擊添亂油價衝114美元5個月新高| 國際 - 非凡新聞台",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PZEk3OU1adXJPSDRlbFAyOVhpM09MR1NnQXBRd0lYR052NURuVDExRWViS3JUQ19XakpuYlFRVGlnYkRnbW4xd3Fxb2NFTVBhc0FUeTQ4UlhYVWM?oc=5",
+      "published": "2026-10-23T13:23+08:00",
+      "publisher": "非凡新聞台"
+    },
+    {
+      "market": "美股",
       "title": "費半為何重摔6.7%、黃仁勳說了什麼？六重點一次看| 全球財經| 全球 - UDN",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9HZGw1Tmx4emptdDhpVHZyc0w5djA2MHBGb2IwWm1FVk9BWHFqXzFGUklqc3BKT1QtWDVlQVk1RVlPTDNlN2hjNWJUSld1d1lN?oc=5",
       "published": "2026-10-23T08:57+08:00",
@@ -87,13 +108,6 @@
     },
     {
       "market": "美股",
-      "title": "TWA00 加權指數 - 10/23 財經新聞 1.Meta 財報重燃華爾街人工智慧... - 股市爆料同學會 - CMoney",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9jNTFzNFZTZWMyamFKTXFkaWgwSUF6Vm1pWk96VUd5aUQ4bnNmWXg2OVBMbjZ0YVRHT041RUdweE56Ty12WlFFRXFsV3c3RzNndUpvTlE2ekk?oc=5",
-      "published": "2026-10-23T06:50+08:00",
-      "publisher": "CMoney"
-    },
-    {
-      "market": "美股",
       "title": "美股黑色星期五 科技股遭血洗 費半單日崩跌10.3% - 自由時報",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBXbjNRMDFzVVp4RERMX1JqU1Z6UnRQV25nUW1uR1RCUmRQRTFvRlFVaE50MllxMEl3N04wNTdIUVRxaHJTSnlDdEJPU3ZJMG9sSnJZbXh3aUc?oc=5",
       "published": "2026-10-23T05:50+08:00",
@@ -101,10 +115,10 @@
     },
     {
       "market": "美股",
-      "title": "華爾街早報：AI財報狂歡掩蓋槓桿風險，華爾街總槓桿率飆升至214% - PANews",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPODRjVmdiX2VvRlZnTmxEYmxDaTZJZEdYZ2ZUOFlyNFRPUjBXdTI1TnI5M2lkMmhsSWQxQVR6anI4UFAyYU1rNHNhOXdnQ2txckVmNjRjaExoNGNSWlZNZ2g4QWh1Y0JuTTVGRGszUXROVTNiNElKSUZCUE9GZWpDUGJyRnRQZw?oc=5",
-      "published": "2026-10-22T23:58+08:00",
-      "publisher": "PANews"
+      "title": "美股早盤／Meta特斯拉財報好也難救 四大指數齊跌、費半重挫4% - UDN",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5nN181TnFDcnhCM29EdjdfZzFtZGRmMElrRFk0bHpacmE0Q2ZzR1BkQm1tX3ZxUkEyQkgyX1o0VE5QUDFFUUw0ZlVtcVM1RGx5?oc=5",
+      "published": "2026-10-22T21:45+08:00",
+      "publisher": "UDN"
     },
     {
       "market": "財報新聞",
@@ -112,6 +126,13 @@
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVjh4dGJRY09naWJSektlcVVjYlVLVnhKOEswV0xqYnlob3kyeHRSSUJlajFnMmo2T2poTkl6WjRha1NERk8wc3pZRmxSMEJpZUFacVZGUjBTUWE3TWt5WGtfV0Y2eUxZMzNTSENiNmpKOGtBdGVuVWJYQzgxT3dvMjdfX2xhM2pfWkJkclBHVjNMU0hrUGswXzZkQWppR3FTR1A5bG1DNGgzVWRjbTdrd1JpUFNldGg0OGpGUEc5aFVWd29yNW54a213QmI3Y0tjZnc?oc=5",
       "published": "2026-10-22T14:18+08:00",
       "publisher": "MacroMicro"
+    },
+    {
+      "market": "美股",
+      "title": "華爾街早報：AI財報狂歡掩蓋槓桿風險，華爾街總槓桿率飆升至214% - PANews",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPODRjVmdiX2VvRlZnTmxEYmxDaTZJZEdYZ2ZUOFlyNFRPUjBXdTI1TnI5M2lkMmhsSWQxQVR6anI4UFAyYU1rNHNhOXdnQ2txckVmNjRjaExoNGNSWlZNZ2g4QWh1Y0JuTTVGRGszUXROVTNiNElKSUZCUE9GZWpDUGJyRnRQZw?oc=5",
+      "published": "2026-10-22T12:44+08:00",
+      "publisher": "PANews"
     },
     {
       "market": "美股",
@@ -164,10 +185,10 @@
     },
     {
       "market": "美股",
-      "title": "特斯拉Q3財報在即 華爾街估營收持平、獲利承壓 - PChome Online 新聞",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbm5ia1J4NGhGaGRlNG5oUWNWWkc0Y2ROaVp0bTZ4TkFxZ1ZFZG5NdjBWdXlCVWhnVkxNSUJmTGphWUx5a1BLdE1CZ24zNW1DS3hLU0hzX0NpcWRtSDVFN0dDZXdnaFg2TDczR1hXcnFTclpISFMtNEZzX1M0Wkp0V21SMURkLWpybXd3NQ?oc=5",
-      "published": "2026-10-21T10:21+08:00",
-      "publisher": "PChome Online 新聞"
+      "title": "歷史重演！\"AI股神\"又被打爆，反彈來了，拐點還是喘息？ - 鉅亨號",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE84RVFRcjJlSi05UFVHRVdDbVRPT013cERrWnpoVEdvM0FYcENxaEtmT2c4aDl5Rkx4VmJuSDh0OVlhYTBCQ2t0Sw?oc=5",
+      "published": "2026-10-21T09:16+08:00",
+      "publisher": "鉅亨號"
     },
     {
       "market": "美股",
@@ -182,13 +203,6 @@
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBOazRGM3E0a2R4dHk4WWw5RDd2d19DSHVxeGUtSW5HUWYyX3E3Y3dfWE5TNEVSNktIR0VtSU9XeXRXc2pZeTUxWXhoZEc2QQ?oc=5",
       "published": "2026-10-20T22:40+08:00",
       "publisher": "風傳媒"
-    },
-    {
-      "market": "美股",
-      "title": "AI投資回報引發市場憂慮亞洲科技股重挫領跌亞股| 民視新聞網 - LINE TODAY",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9Ecm5lMUMzMl9yOWMwZjZNR0ptT1REVk9JWGxNbkJ2NTJBeXhKYkg3bXpsNmF3eEpLQ0hPakpwRDhha08tZFNCQm5PYnc5MHAwa0Z1dmZKbHc4NVdpandzSzhYQlBYd3lqLVEzdlc0OFhONTc2?oc=5",
-      "published": "2026-10-20T16:10+08:00",
-      "publisher": "LINE TODAY"
     },
     {
       "market": "美股",
@@ -241,13 +255,6 @@
     },
     {
       "market": "美股",
-      "title": "AI股重挫、美債重拾避險光環 大舉押空投資人恐措手不及 - 鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8wa1RLVzVybDZaek44clU3cmFWUFU3SnpnWWtkdkRtRGVxUEY3OFBSdm9Xb3puOTU2WmxEeFpoOEpMelF3SG9fdy1tWTBpQlU?oc=5",
-      "published": "2026-10-19T06:32+08:00",
-      "publisher": "鉅亨網"
-    },
-    {
-      "market": "美股",
       "title": "本週操盤筆記：Meta及特斯拉財報、AI漲勢動搖、Fed升息預期 - 鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5EWDlZQVIweHZKTDVsRVdTd3F4TnhkaEVZSml0R08zWFFSNW1SWlVtanpxdFVkckw2U3pxM2loQ3ZjOUdRUlZFMXI3bTJvb00?oc=5",
       "published": "2026-10-18T21:50+08:00",
@@ -280,13 +287,6 @@
       "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPcEEzQzA4NFMyZ1d5Vml0WlotbTZHVEExbmtQS3cxTlB2T1dNN0tzRWxUWkdWQkJuSHpCXzllMDE2Q1VDTUZZZkszTm9jXzZxdXU2R1RPUHRscW54b0QweTBLRS1WUFR6STBvb0hUR09yQWZaYkMzVy04UGNzMGtQbkpHcHVCZmRDczdDQlJKX1JJcm1ZdFhYeFItRkdUYXo0azRIVHdlSzZkeHhmcHFEZmVxY1lSdWhLaTNXcmR0UjRIMmt6MWtRT1pGazdHUzh1ajVCX092dm10VWlxSEtFeHdieUR6QXM0anY4Mlo4cDhoWHBORXQ2SjdVUnlUVnRENEw1Y0h4ZnRrZlpORFdtTW9JUk9ncHo3?oc=5",
       "published": "2026-10-18T06:59+08:00",
       "publisher": "Yahoo新聞"
-    },
-    {
-      "market": "美股",
-      "title": "大型避險基金傳爆倉 美股恐慌指數漲22% - 經濟日報",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE96b1djclpoQlFoYktSSVpialR3VVYydXplSXdwVkFKM3EybFRtSnNSM2hpa0MwSEpBdEUyQWlabk0wdUxSSnF1Rm9XQkpQNzBJNVRUcG42OGpVTHVO0gFiQVVfeXFMTVpYeVhxT2lnNjlEczRpcndhck9aOTJ6a25UYU1tWnp0TzJMU0xQT3ozcVoySjRRa0pndVU5R1BFd2p0bVhzWGQ2UWJSdkkwazZyTk50ajZZWEg1cWQzLWk1eWc?oc=5",
-      "published": "2026-10-18T02:28+08:00",
-      "publisher": "經濟日報"
     },
     {
       "market": "美股",
