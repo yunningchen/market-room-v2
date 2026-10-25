@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-10-25T16:48:03+08:00",
+  "updated_at": "2026-10-25T20:55:28+08:00",
   "news": [
+    {
+      "market": "美股",
+      "title": "下周，Google、微軟、亞馬遜、SK海力士、希捷科技、康寧、英特爾、閃迪，集中披露財報（附披露時間表） - 鉅亨號",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5EM3FrdG5TTDFnbHZVRUZwRFpWV2xGLVRNSmoyMU1Ocm52NkgyS0k4WF9nbU8zLTM3aEJVUlZoVnFRUUFMSWd1TA?oc=5",
+      "published": "2026-10-25T15:23+08:00",
+      "publisher": "鉅亨號"
+    },
     {
       "market": "美股",
       "title": "科技巨頭財報+Fed利率決策將登場！專家：決定疲軟美科技股後市 - TVBS新聞網",
@@ -59,10 +66,10 @@
     },
     {
       "market": "美股",
-      "title": "美股收盤｜道瓊跌逾1%，市場緊盯科技巨頭AI支出與Fed決策 - LINE TODAY",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9xSG90MWdwbV9ER2NLZzQwR1RiVGQtS09XNHFVZGR5dFJVUjFfb2pZSzFQcVR5ZlFUNDJtT1cyUjJ2QnVFYkVkZmlWdl9kOVd1aF9GSzNBM0lsYjJVWEgzVWo0N2NKLThIb25UM3NQQ1lEdFkyU0Vwcmc4LU80Zw?oc=5",
-      "published": "2026-10-24T04:57+08:00",
-      "publisher": "LINE TODAY"
+      "title": "美股收盤｜道瓊跌逾1%，市場緊盯科技巨頭AI支出與Fed決策 - 優分析UAnalyze",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzMjVoVVQ2NDN2YW90U0o1dzBjODdsMTBsV3BPTk5qR3hRS1RrLUVObVpnbElQbi0yR1ZkckZDMFphcDF0WmFNTHNKbGFhOWZUM3dhYm9B?oc=5",
+      "published": "2026-10-24T04:51+08:00",
+      "publisher": "優分析UAnalyze"
     },
     {
       "market": "美股",
@@ -129,17 +136,17 @@
     },
     {
       "market": "財報新聞",
+      "title": "2026 韓國央行利率會議時間表：全年 8 次韓國央行決策日期一次看 - 果仁家",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAwU0d4MjNRcDloeWt2aDZmR1RmNlpjRTd5YWF5bTlXX3RFbnVySDNjS2dWR1Fhbk9UQV9NZkdOdDdaS0psd2FacWlKZE9udE5wNXFR?oc=5",
+      "published": "2026-10-22T15:00+08:00",
+      "publisher": "果仁家"
+    },
+    {
+      "market": "財報新聞",
       "title": "【行情快報】好財報換不到掌聲？寫在台積法說後的關鍵三問！ - MacroMicro",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVjh4dGJRY09naWJSektlcVVjYlVLVnhKOEswV0xqYnlob3kyeHRSSUJlajFnMmo2T2poTkl6WjRha1NERk8wc3pZRmxSMEJpZUFacVZGUjBTUWE3TWt5WGtfV0Y2eUxZMzNTSENiNmpKOGtBdGVuVWJYQzgxT3dvMjdfX2xhM2pfWkJkclBHVjNMU0hrUGswXzZkQWppR3FTR1A5bG1DNGgzVWRjbTdrd1JpUFNldGg0OGpGUEc5aFVWd29yNW54a213QmI3Y0tjZnc?oc=5",
       "published": "2026-10-22T14:18+08:00",
       "publisher": "MacroMicro"
-    },
-    {
-      "market": "美股",
-      "title": "華爾街早報：AI財報狂歡掩蓋槓桿風險，華爾街總槓桿率飆升至214% - PANews",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPODRjVmdiX2VvRlZnTmxEYmxDaTZJZEdYZ2ZUOFlyNFRPUjBXdTI1TnI5M2lkMmhsSWQxQVR6anI4UFAyYU1rNHNhOXdnQ2txckVmNjRjaExoNGNSWlZNZ2g4QWh1Y0JuTTVGRGszUXROVTNiNElKSUZCUE9GZWpDUGJyRnRQZw?oc=5",
-      "published": "2026-10-22T12:44+08:00",
-      "publisher": "PANews"
     },
     {
       "market": "財報新聞",
@@ -198,13 +205,6 @@
       "publisher": "果仁家"
     },
     {
-      "market": "財報新聞",
-      "title": "0056 配息 2026 最新：正式配 1.72 元！10/22 除息、11/11 入帳，全年配息 4.936 元 - 果仁家",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5lQnlSY2Etc3hnNWlQWGxfbjhhb1pWakNScW1hbjhqMVJiMGItbDZ3Mko5bEtWeTg3TlpPd3FOakZSbGxMbHNwV1lnZGxWQWU2RjYw?oc=5",
-      "published": "2026-10-21T15:00+08:00",
-      "publisher": "果仁家"
-    },
-    {
       "market": "台股",
       "title": "8位主持人、2大顧問助陣 TVBS推《TVBS財經》啟動24小時布局 - TVBS新聞網",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE11U1FYWE5qc0ZUZTdmSXVWcUdJajY0LWdDS1Izb0hiSVdzM1d5aDY1bk01ODVkQlpmdDhYOXd0NlpIT0I2OHFTU1lVaV8xZ3M?oc=5",
@@ -234,10 +234,24 @@
     },
     {
       "market": "美股",
+      "title": "AI類股走弱油價上揚　美股開低 - 經濟日報",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB4Q0JqZG9Ja1NYVHR0RlVmZ0M4dEhmYUNab1JWbFM2M3p3MnVycFVZQlZ2cFh2MUhFMzZMYTRpWUZmay1OVU1feUswQ2NDVnMydjhsSXBkU3VFYXlv0gFiQVVfeXFMTTlRRVhTV09nMHBNQU81anFKRnI2R1ptVkZRaFNSTU5vX3VzZGduUkhLODZ0QUloQVFIUWFkWFNVSkgta1hvQVRDR21hSWM3clR4M0pqZU5oc3ZqVXM4LXJuNUE?oc=5",
+      "published": "2026-10-20T22:02+08:00",
+      "publisher": "經濟日報"
+    },
+    {
+      "market": "美股",
       "title": "AI投資回報引發市場憂慮 亞洲科技股重挫領跌亞股 | 民視新聞網 - LINE TODAY",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wRnhaNjZIOVA3bjZBOFBINmtTY1labjltakNJWmVZaUdpeFFaLXdrblpQTnJ5alp4Uy1DTl9ubGc3eFhVcHdzejV0dmg1QlBEN3ZfQlRR?oc=5",
       "published": "2026-10-20T16:41+08:00",
       "publisher": "LINE TODAY"
+    },
+    {
+      "market": "美股",
+      "title": "深夜，暗中護盤，意外發生了 - 鉅亨號",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1CQVB4T2t3ak4xa3lZbDREdmJ4WEdzTVZxNDhzZUZydS1WbS1CQkdDUTQyR2xtcmtXTlhSbkh4NE4xbGwzN1FGVw?oc=5",
+      "published": "2026-10-20T07:29+08:00",
+      "publisher": "鉅亨號"
     },
     {
       "market": "美股",
@@ -290,13 +304,6 @@
     },
     {
       "market": "美股",
-      "title": "本益比降了 AI 泡沫疑慮為何不散？曾看準網路泡沫的馬克斯這麼看 - 經濟日報",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBuMUxkN1RXd2dzVVNURUVGVHBRbFREVFVreFZzVFB3RVBoRTMxSmpHX1NzbFFTZERjSE5iU3d3R1gteG1kWFgtVi1OVFZoeWdVZ0dHOE5Nd19aU3lD0gFiQVVfeXFMTmJUSXpEUmhEY25BXzdoc2U1NmVzNXBJRU1HNXJLSWkwN3RzQUpENHRwV0hFTFdGaF9la1hYQ1FiWmduaDF0WDMzZE00REs2Z2RLTmRaWUZ6MEc3YVVMNXUwV0E?oc=5",
-      "published": "2026-10-19T08:43+08:00",
-      "publisher": "經濟日報"
-    },
-    {
-      "market": "美股",
       "title": "TradingKey 華爾街週報：通膨升溫加劇升息壓力；Nasdaq 下跌 4.48%，創 6 月以來最大單週跌幅 - TradingKey",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQekdfNUR5TEJvLVoxYUJwMm1xUEY3RkY5Vk4tZ21fQmlESS1USzJYMUJjYVBfYVlIUGpoeFdiU0VWVkJ1QjdaNnB6Q0xIVHRHNmp0NHotU1NPQWpLMUZKVGRHMG5jMjd1NklROGZxYm1jMmladlFxTnJBUm9lckJlTkM3Y2g2R3kzczRtZEk4dTJlbzhoZUFFeThuYXFJZWFTOTFLYV9YeVNrUGtCZ08zbVJ5TjJEQmcwNjY0eEFaVXRReGFVdkJoeDFGYUpYVlZLNU1wTTF0NW80a1Nu?oc=5",
       "published": "2026-10-19T08:29+08:00",
@@ -322,20 +329,6 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5EWDlZQVIweHZKTDVsRVdTd3F4TnhkaEVZSml0R08zWFFSNW1SWlVtanpxdFVkckw2U3pxM2loQ3ZjOUdRUlZFMXI3bTJvb00?oc=5",
       "published": "2026-10-18T21:50+08:00",
       "publisher": "鉅亨網"
-    },
-    {
-      "market": "美股",
-      "title": "AI牛市4年要變天？華爾街緊盯這波財報季 | NOWNEWS今日新聞 - LINE TODAY",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5KemVqNWluSEowdTRJNDgtd3UyODRORHBHbDIwN2EzS1IwU1FzNlBoMDNmcHZ3aEpiNlNnWkdfanB6eWg3UVFBZmdRRHRyVkp1TGdsc3Ytak1laUtzSXotY1hXNU9LcE12b2I5bVlTTmU?oc=5",
-      "published": "2026-10-18T18:44+08:00",
-      "publisher": "LINE TODAY"
-    },
-    {
-      "market": "財報新聞",
-      "title": "【MM一週盤前】通膨超預期、費半罕見八連跌，台積電法說優於預期！ - MacroMicro",
-      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPV2JBaXowdm95WHJjMTR1dUhMbmZzOHlYclJPcjFEc09pZnUxTnR1LXBrTnJabGlHZjVsbWVSUldoYU5lR3ZmUkg0VW5SbG1Vc1dFaGFUTWJhQjFlRVIzTFl2LW5wYlRSenV0LXRmWERucGVNS3Y0VTlMT0dzazZ4VVhPZHloMkIxMTMyZjIwZE9KOEVzWHpBUnB6Uzh2Rnk3Y1k5N1B4bTNCV0lPdkFNeDIzdzFUNXdaRlIyVTZ4UWUyN204enNOMFA1RHloLWE5YlVMOHQ2T2hBZEttV3F1am04VmZRTW9UQmtDNDhNRmVMeTYwSDNWc3B3NlF3ZENZVDBfTDdsNlUwdkpYVUpxMWRDRkNmZw?oc=5",
-      "published": "2026-10-18T17:20+08:00",
-      "publisher": "MacroMicro"
     }
   ],
   "events": [
