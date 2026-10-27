@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-10-27T21:04:14+08:00",
+  "updated_at": "2026-10-27T21:41:33+08:00",
   "news": [
+    {
+      "market": "美股",
+      "title": "油價回跌美股期指走揚 市場靜待聯準會決策與企業財報 - 民視財經網",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5wcmtrZzdjYl9DTjZHSDhIblV6V0M4THB5RjJmZ1V6ZDlMR2ZqWWh3QUxIUGlaeVdCYmNCSXA4VDU2akhxSXhQMEhvbFBJemtYRkpMaGpjSTYzMk81clFkOWlnUUp2dw?oc=5",
+      "published": "2026-10-27T20:59+08:00",
+      "publisher": "民視財經網"
+    },
     {
       "market": "財報新聞",
       "title": "2026年11月台美股行事曆｜蘋果財報撞期中選舉，聚焦輝達財報、鴻海法說與通膨數據 - 永豐金證券",
@@ -17,6 +24,13 @@
     },
     {
       "market": "美股",
+      "title": "韓國半年，從笑到哭 - 鉅亨號",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1jQ2VjRHZZRFAzaHo4bUFoWFo2RU8zYXRnX2JRaVRzYWxqajh0TDJlSjg3SUVuNHMxQ1lOVmd0eUJZb0Z0MUUtYQ?oc=5",
+      "published": "2026-10-27T16:30+08:00",
+      "publisher": "鉅亨號"
+    },
+    {
+      "market": "美股",
       "title": "AI巨頭Anthropic遞交IPO申請 帶動亞洲科技股逆勢勁揚 - 民視財經網",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBZaVJCTXhPMjFNVjFBRHNORWFlZkQ5N2VUb1M5SkxFZW1nd1JNUE1jbWlfRXpBNFFqWGhwSy1YaC05VEEzQi0tazVOektKLXhVbmw1ZGdaT0o5MDlrRzJ4OXNzS3FYUQ?oc=5",
       "published": "2026-10-27T10:48+08:00",
@@ -28,13 +42,6 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9pc19ES01yTGdpbDNCWWhjY3dTejZzU2tGMU16SFFfVFFQMVhIbm51cDJocW1TUllaTEc4b1lLVm5SenpaRlZ1ZlRaMjhjMHc?oc=5",
       "published": "2026-10-27T09:16+08:00",
       "publisher": "鉅亨網"
-    },
-    {
-      "market": "美股",
-      "title": "美股收盤／Anthropic 上市案點燃 AI 買氣 費半大漲2.8% AI 疑慮仍在 - 經濟日報",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5XRVk0ckhxN2VpR3h1WDFfSzlCdXV6OFlYbVVfWFY1X29XSUNDNF9VSUp5cWJxQkgyLUszczFzQkpOWVZkTkd5U3VPejVaUHBWOVhaS21Zc1B6WmFz0gFiQVVfeXFMTWJUVzJ5bXRGOHpzVUdOT3ZsNGx3aWZLQXJTaFpUcFBpcFB0SDdFcXlOLWVuMDE3bW1BZmg5bE5VQzJLMzhOem5YOUxiTHpBYmw3RWdDUEpJd1BfTUNxOGQ2Smc?oc=5",
-      "published": "2026-10-27T06:52+08:00",
-      "publisher": "經濟日報"
     },
     {
       "market": "美股",
@@ -56,13 +63,6 @@
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14WGxQdGJPbWtzOHVNUG1oUXpvRnBaSDlhN3NrUmFuRlJVRHNTa1NjZkZoc25yM3dpd0x6bmVRRlFvVnBCWjNMQmNNa0FzVUpqNHhoQmJB?oc=5",
       "published": "2026-10-26T22:57+08:00",
       "publisher": "LINE TODAY"
-    },
-    {
-      "market": "美股",
-      "title": "美股開盤／AI大廠Anthropic申請上市！3大指數振奮開高 - TVBS新聞網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE52V3AxaV95NXRJM205VktOTzlmelN6cWNvdUJGdUN6QkNReG54Q0l0d19xbWlVVFZaUWlpTTF3dzBPYzMzTWUyT0NsU2RPeTQ?oc=5",
-      "published": "2026-10-26T22:30+08:00",
-      "publisher": "TVBS新聞網"
     },
     {
       "market": "美股",
@@ -205,13 +205,6 @@
       "publisher": "鉅亨號"
     },
     {
-      "market": "財報新聞",
-      "title": "宏盟 (OMC) 2026 年第三季財報法說會：有機成長 7.2%，利潤率擴張 - TradingKey",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE90RER4V3EyZW40cjlmY09wcG5Fbko2WU5tWUw2Qlp0LUNPRDVxbkRIZ2VDOGFnREVJa1JyM0txU2tuSEI0ampEV3pxeE03NDNTZktLUGVOc05sX25ET1hfX2ltZWpKWE5lSjE4bXpNTWNSVlg1QWpRRVFWNTA?oc=5",
-      "published": "2026-10-23T07:43+08:00",
-      "publisher": "TradingKey"
-    },
-    {
       "market": "美股",
       "title": "AI支出＋油價又漲 美股多收黑 | NOWNEWS今日新聞 - LINE TODAY",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JWlVaNEgtTDhtX213eU93azZlenE2eVpEcVhhSlJaSzV2eWFtaUliT3F3RUlZVGZKZ1ZmeHo2LTJpdDFkazEweGs5V3p5dVV0MHVhbExR?oc=5",
@@ -287,20 +280,6 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRDJhUEdpTXJGZHVKbko3WTFZM19TdWM5NTlrZDdmMVFWbEIySzZXSDg5aEVVWUFFYmI3VDJIQXhpWkZQZkdrT1NzRW5rMV90dkl6Z2tKLVowd0JCRHFael9rNVZQT0w1ZUQxZTlRb2VnaGJiNE95dDhscjJfZ0hpS0VPdk91YmVaQzU1SmtR?oc=5",
       "published": "2026-10-21T18:02+08:00",
       "publisher": "CMoney投資網誌"
-    },
-    {
-      "market": "財報新聞",
-      "title": "2026 年 10 月 ETF 除息懶人包：0056、00922 等 14 檔，最後買進日、一張領多少一次看 - 果仁家",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYSFQ2Mkg2TWNTSTVWazlGejJnZlBDWXZBQ3dqQktXeGZYbFpTOHhWdXdiVklVdmVvUExFZ2VTR1JJang5NFFQVC1EWFFFZEZwckFv?oc=5",
-      "published": "2026-10-21T15:00+08:00",
-      "publisher": "果仁家"
-    },
-    {
-      "market": "財報新聞",
-      "title": "0056 配息 2026 最新：正式配 1.72 元！10/22 除息、11/11 入帳，全年配息 4.936 元 - 果仁家",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5lQnlSY2Etc3hnNWlQWGxfbjhhb1pWakNScW1hbjhqMVJiMGItbDZ3Mko5bEtWeTg3TlpPd3FOakZSbGxMbHNwV1lnZGxWQWU2RjYw?oc=5",
-      "published": "2026-10-21T15:00+08:00",
-      "publisher": "果仁家"
     },
     {
       "market": "台股",
