@@ -1,13 +1,6 @@
 {
-  "updated_at": "2026-11-05T09:25:54+08:00",
+  "updated_at": "2026-11-05T13:14:32+08:00",
   "news": [
-    {
-      "market": "美股",
-      "title": "〈財報〉Arm營收年增27%仍難振信心 權利金收入失色、盤後一度跌3.5% - 鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE83eEdPSTlSQ2k4RHhwOC1lblU4QU5nU2dBSGdqUUZPeWxnQVJKcFpicmhXTmJaZnJVOHlkTDdFWVhfdDhkdndDNG1wTHM5a3c?oc=5",
-      "published": "2026-11-05T09:18+08:00",
-      "publisher": "鉅亨網"
-    },
     {
       "market": "財報新聞",
       "title": "2026 美國期中選舉結果：民主黨奪參眾兩院！7 州參院翻盤、川普政策與美股台股影響 - 果仁家",
@@ -59,6 +52,13 @@
     },
     {
       "market": "美股",
+      "title": "〈財報〉蘋果特納斯首份財報好壞參半！Q1毛利率展望失色 盤後一度挫4% - 鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE53NGctOVA0b3pwRFl6Ym0wbE9xUjlZVHNld0htQVpxREgtZU5zQk9xd0xoVWRqUWIyUGNOLURVZzZKRlFBWHJaT1BaYWU0T0E?oc=5",
+      "published": "2026-11-03T22:49+08:00",
+      "publisher": "鉅亨網"
+    },
+    {
+      "market": "美股",
       "title": "華爾街棄兒表現遠優於寵兒 這怪現象也曾發生在達康泡沫洩氣時 - 經濟日報",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9oMG45eDV5LUFQbThLZ3RGV3VxTHVwNFNqaXVWRWNKWTRONUV1dUxRZlBzXzlqbUhMYVBPakZHN24wOWRzLXV5RjE1SENKQ2pURE9lOXpnQnpReHpu0gFiQVVfeXFMTnFJQXgzWkhjbExXak02WEFod2VEMGU4UWNLeS1RODNTVVFjcElja3hmbWJtMG5tc0loWGZmSk5GbVBzeUlKMnRWUEpyMEtJSWhnSkRzVmhJNy1NVFp1VHNsYmc?oc=5",
       "published": "2026-11-03T21:44+08:00",
@@ -66,17 +66,17 @@
     },
     {
       "market": "美股",
+      "title": "財報亮眼升財測 盤後股價卻拉回！Palantir執行長批華爾街不懂AI - 鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBsSWpUVFNqTkZVb1B4T0tZNGFHQndPZXdHeldFQ3NnLTR6MzdtVnB4MGpOYWUyX29DM01LaVpMcnpsUXJIal96YjVHM2JhUTQ?oc=5",
+      "published": "2026-11-03T20:20+08:00",
+      "publisher": "鉅亨網"
+    },
+    {
+      "market": "美股",
       "title": "AI股風向大逆轉！動能崩跌逼近網路泡沫 華爾街警告：晶片盛宴恐進入冷卻期 - CMoney投資網誌",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNLVBtUUF0N1E5cXF4a1o4TmFjQTV4VE9fcXpxR2tfazI0WkUwVmo3UndkX2pVeTY4OUFFc3JlcE4xWHZBdmFwY0VaN1lIOW9QSUdZd2NMSkN1QU5lbEJZZXZZM2VfdWFJSXVwb1k4VWphQ2RkNkFHdWNkUDhJWUM3elpTMGlxZXIxNVFzM3RaM3pzLTFJNEpXTVI1cGVTbUZqSDQ2eXJiZnhTU3AwUkUwY0pETTJ4NDZHQlM3VVpxQmktWUJKd1B3cEFnQWd1RzA?oc=5",
       "published": "2026-11-03T18:00+08:00",
       "publisher": "CMoney投資網誌"
-    },
-    {
-      "market": "財報新聞",
-      "title": "三事件變化牽動台股後市 永豐投顧：大盤 43K 以下本益比低 觀望不殺低 - 經濟日報",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GeWlGSUxEMHVrd0I5eTQ0UVV3N1lKS1JLS0dkMVJrZi1LLXNJeFk3bEROaTYxNUxQV2hTNVBVRkhyQ21naWQ0Z2dwTHRZYzdTMGJyM1A5bDU5d9IBX0FVX3lxTFBiT3lVTHprT2xjbnFsS0lKTFNYcW1TNFdPeTIzT2R6VE1BRFZlSWFoaDJEam9tUmV4czVLVV9qU2dwOXFidlpkX3gxWGZ2UXpsb1hZdkhhaG14OGJodWxF?oc=5",
-      "published": "2026-11-03T16:00+08:00",
-      "publisher": "經濟日報"
     },
     {
       "market": "財報新聞",
@@ -101,13 +101,6 @@
     },
     {
       "market": "美股",
-      "title": "金融熱議》AI重大危機！雲端巨頭業績接連出狀況，「裂縫太多」最終會導致路面塌陷？ - 風傳媒",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1pSGFmS2lLVl9UaEdscFdKZ1lIQ3V5eGp3QUhaQmNUNzUzTlNLcEFCTlB3QU1UY05GUlNpRUd4OEUzVmtJQ0lMaTlIeGNMQQ?oc=5",
-      "published": "2026-11-03T10:30+08:00",
-      "publisher": "風傳媒"
-    },
-    {
-      "market": "美股",
       "title": "蘋果賣得更好，賺得更難！史上最好財年，好消息還是壞消息？華爾街分歧明顯 - 鉅亨號",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5uZDRfVU51eHUzRGxkRGJUR2lnd3FYeUNsZXZUUDhseXZ4MVQ3YzI4VE5kUndQdFN1RE1WRmZwdTdjcVppLV9STQ?oc=5",
       "published": "2026-11-03T09:58+08:00",
@@ -129,23 +122,9 @@
     },
     {
       "market": "美股",
-      "title": "美股這波快跌完了？大摩：這個指數六成股票已跌過兩成 - 鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBFNXZRcWRHNGNnOXlZdVBhZEt2YnVSSC1pbUVKVUI5ekFRUkFFbkN0YkxSNV8wYVVEbEFxZUpTSnRqSjdENTZLSnFLZVVqMUE?oc=5",
-      "published": "2026-11-03T02:06+08:00",
-      "publisher": "鉅亨網"
-    },
-    {
-      "market": "美股",
       "title": "〈美股早盤〉油價急跌讓華爾街喘口氣！科技股反彈帶動主要指數開高 - 鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9nWjlob1dFM0g5SEFuRTlwTUNYZlVodjF3dV9yOUV5VUNEdXNsMXZMWlhXNHRad1hjU2tsTWR2dUg3a0kyNVlVQXVUbjJhVHM?oc=5",
       "published": "2026-11-02T22:41+08:00",
-      "publisher": "鉅亨網"
-    },
-    {
-      "market": "美股",
-      "title": "以史為鑑 科技股的崩盤可能還會進一步惡化 - 鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBzanQ3eEtrWVZvaVpHRjZIc21GeHpJQWdjVU9pdXlIamRWeXNwNFZidlNndHp6QzhsdmhobDZWalo0QnNleXBrYjR5ODRTaTA?oc=5",
-      "published": "2026-11-02T17:10+08:00",
       "publisher": "鉅亨網"
     },
     {
@@ -164,13 +143,6 @@
     },
     {
       "market": "美股",
-      "title": "華爾街「黑色十月」落幕 AI股熱潮轉冷、市場求效益 - 商傳媒",
-      "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxQNW5KX00zMHFESGhyM0daWUlGZ2hDSi13Wk1BY0hlMWk0a29vZ1BSTGs0NXVCMGJSQ003TjhHNWNnc3dNZzBjWjlfM0lhUW1fa3psaWs5TjFoU2l6eDdBWURLQ3JhV0QzTGtxWXB0a3dYOXFHM3V6ZXVCNEIxRGVaM3dUb2lNZUhDWk9nd2Z0bXR4UUJFS3JrT3M4aS1ISzZDc3ZFcVdRajZJbVBYTnA4djNlQzB2ZFhoU1JLbkRud29VSW1Za2hLM1hHanpBZFBQemdJVDBRempsdXZTZmUxRUEwcm9vdjBJUF9PaFIwRnBlZjJyaC00Q3llRXVCbzBZSE9tUUxHQ1ZmMnFBTFhkZVNQWWZMOWFyNTBfNFVqVFIzMmJNX0phVDREUWduVTJYbFN6Y2xaTV9ydjN2TlhJMjFqQkxaYnNNNWMwU0tCZ2U1VVcxZy1nRlRoNF9rWXJRalZmRUdQRmRocDZXWGc?oc=5",
-      "published": "2026-11-02T10:01+08:00",
-      "publisher": "商傳媒"
-    },
-    {
-      "market": "美股",
       "title": "AI行情還能漲？高盛兩策略師看法分歧：獲利已見頂 VS. 投資報酬率明確 - 鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE95Mjl1WC1WcHpUVzVXU3ZEN0I3dGNlckEwTGRpd3lJQ0Z4ZE1rRGFsVnVzeGtDM2o5Mjh2c2k3X1FIS0Y0RHB6UUxzTkdVcFk?oc=5",
       "published": "2026-11-02T06:41+08:00",
@@ -182,6 +154,13 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5BbUdtTnVuVFJkQ1NaS2x6a3BuajdubThhdnBwcV9BYy02N1ZDRmlkQzMyN1Q5MU8yR2JjYkNpRlNmV3lKMUVlb3dOeU40NUU?oc=5",
       "published": "2026-11-01T21:50+08:00",
       "publisher": "鉅亨網"
+    },
+    {
+      "market": "財報新聞",
+      "title": "三事件變化牽動台股後市 永豐投顧：大盤 43K 以下本益比低 觀望不殺低 - 經濟日報",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GeWlGSUxEMHVrd0I5eTQ0UVV3N1lKS1JLS0dkMVJrZi1LLXNJeFk3bEROaTYxNUxQV2hTNVBVRkhyQ21naWQ0Z2dwTHRZYzdTMGJyM1A5bDU5d9IBX0FVX3lxTFBiT3lVTHprT2xjbnFsS0lKTFNYcW1TNFdPeTIzT2R6VE1BRFZlSWFoaDJEam9tUmV4czVLVV9qU2dwOXFidlpkX3gxWGZ2UXpsb1hZdkhhaG14OGJodWxF?oc=5",
+      "published": "2026-11-01T16:00+08:00",
+      "publisher": "經濟日報"
     },
     {
       "market": "美股",
@@ -219,6 +198,13 @@
       "publisher": "口袋證券"
     },
     {
+      "market": "美股",
+      "title": "不讓華爾街猜透！華許保留升息底牌 重塑Fed決策模式 - 鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Md29ld2phMGJXdHp2YTdIZ08tcEdNYjFFREFjZ3QtcUlpNm1Qc3VyQWltbkpxWmQ2ZEtwcjFSUnRNU3NFZ3lBNWJZQjZZQUU?oc=5",
+      "published": "2026-10-30T07:28+08:00",
+      "publisher": "鉅亨網"
+    },
+    {
       "market": "財報新聞",
       "title": "(6176)瑞儀法說會 2026/10、瑞儀財報、瑞儀展望、瑞儀財報投資亮點｜理柴知道:法說最速報! - 方格子 - Vocus",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBmN01tZFpySF9MQTVkQjYyWWdKTXlTX3dXVEVyMzdONEFuZHIxVy1nYkZ1aXRyY2ZYbWg4QUR1Q0czVUNVS3ZjbHZ6T2dFWVU3Z21oZ3gxYm9yMFB4R2fSAWNBVV95cUxOMlNQOWo1c0RHV0l4X2F4QnNJV1AwTFVYX1kxUEpLZllaNDlqRjZqZXk5RjhPN01OZG5zNmVvZjUwOVNqV2MtXzN4ZWp5NkN0cE9ZLTlHbzZ6VzRkY3duRGd3dE0?oc=5",
@@ -237,13 +223,6 @@
       "title": "精測獲利翻倍卻大跌，AI測試成長要看懂的財報細節 - 口袋證券",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJLUxPZ1JWTmEyR0ZmSlU1U1FjNDFZS0FmZU1RTkNmZXNrOHYwbDU4d0lGUVlYZUpocXlNSDNVaUlkNEd6Z2lwSTcxOVRydXVyYzZ4NzFXYTZHdDM0OVFiR3hvb1RnUQ?oc=5",
       "published": "2026-10-29T14:43+08:00",
-      "publisher": "口袋證券"
-    },
-    {
-      "market": "財報新聞",
-      "title": "聯電法說後盤中跌停，AI新生意還要等多久？ - 口袋證券",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9vSHA5V00tM2NTZ2NFMXVsR00zUDd1MTFGWE5tUHFXRmg0WkFtZlZFV3BSTXVZcFFyNzRDY3NlTmF4NWFrdGNEWG1zaHc3Mlh2NGRZM3hCSVFtaFVqUk5rRi1rNGdEQQ?oc=5",
-      "published": "2026-10-29T11:57+08:00",
       "publisher": "口袋證券"
     }
   ],
