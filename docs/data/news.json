@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T21:28:53+08:00",
+  "updated_at": "2026-11-05T22:06:50+08:00",
   "news": [
     {
       "market": "財報新聞",
@@ -16,11 +16,25 @@
       "publisher": "口袋證券"
     },
     {
+      "market": "美股",
+      "title": "AI科技股遭血洗 AppLovin逆勢狂飆23%！輕資產模式成最大優勢 - 鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA3RzE2dVF4ZFlzYlFqYV8yQV9uMHhNeVc5OUVkckR3NTlHekdhQ2NVR3hGWUFwUXlJTnBVZDh0RTBIb1hHMThjVk95Z1VvY2M?oc=5",
+      "published": "2026-11-05T11:20+08:00",
+      "publisher": "鉅亨網"
+    },
+    {
       "market": "財報新聞",
       "title": "2026 美國期中選舉結果：民主黨奪參眾兩院！7 州參院翻盤、川普政策與美股台股影響 - 果仁家",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KT1lOUWVNRlZzNjZqTHhWbEJHSXczMWFrLTNDZ1JKT1hNcVh4bmc0VmpqTXlQT2RzazJNZDh5TTRDdGhUcWttRTVxa3Z5RVFwMXBz?oc=5",
       "published": "2026-11-04T17:37+08:00",
       "publisher": "果仁家"
+    },
+    {
+      "market": "財報新聞",
+      "title": "聯詠營收成長，淨利卻下滑，問題出在哪？ - 口袋證券",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44MmkyTnNyNmtYckpVSUNwdDcwVkdtcjd1TWt0QmRabmJVZDllc1puTjRuT2Q5RF9lU055dm9zRnRJLUhmeldsNW16WDRhMVYzOVhUenNjNnF5QkdMOVU5UmJMQlVqUQ?oc=5",
+      "published": "2026-11-04T15:06+08:00",
+      "publisher": "口袋證券"
     },
     {
       "market": "財報新聞",
@@ -73,16 +87,16 @@
     },
     {
       "market": "美股",
-      "title": "〈財報〉輝瑞Q3業績優於預期！抗凝血藥與癌症藥熱賣 全年展望上修 - 鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBacmlOSjZ1V2hkNE01N3BIZDZyM0dOVXpHYkdRUTIyT2haT19oeGo0enZsN0xLT3dUdjFvbDhlWDNISl9EZHFPbi1QWlNKUnM?oc=5",
-      "published": "2026-11-03T21:11+08:00",
+      "title": "財報亮眼升財測 盤後股價卻拉回！Palantir執行長批華爾街不懂AI - 鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBsSWpUVFNqTkZVb1B4T0tZNGFHQndPZXdHeldFQ3NnLTR6MzdtVnB4MGpOYWUyX29DM01LaVpMcnpsUXJIal96YjVHM2JhUTQ?oc=5",
+      "published": "2026-11-03T20:20+08:00",
       "publisher": "鉅亨網"
     },
     {
       "market": "美股",
-      "title": "財報亮眼升財測 盤後股價卻拉回！Palantir執行長批華爾街不懂AI - 鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBsSWpUVFNqTkZVb1B4T0tZNGFHQndPZXdHeldFQ3NnLTR6MzdtVnB4MGpOYWUyX29DM01LaVpMcnpsUXJIal96YjVHM2JhUTQ?oc=5",
-      "published": "2026-11-03T20:20+08:00",
+      "title": "華爾街憂未來兩年華府陷「政治僵局」 加劇科技股賣壓 - 鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA4WEd5RHZlbmhVRkFQNTNBOTZQNDhQWnh3VVl4YXYxdjRZMkdYREhhRkdoTDNrLVd0WXhGYzZ5bm9iU2dqM05Zem8tMmU4NEk?oc=5",
+      "published": "2026-11-03T19:00+08:00",
       "publisher": "鉅亨網"
     },
     {
@@ -126,13 +140,6 @@
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5uZDRfVU51eHUzRGxkRGJUR2lnd3FYeUNsZXZUUDhseXZ4MVQ3YzI4VE5kUndQdFN1RE1WRmZwdTdjcVppLV9STQ?oc=5",
       "published": "2026-11-03T09:58+08:00",
       "publisher": "鉅亨號"
-    },
-    {
-      "market": "美股",
-      "title": "難擋科技股強大賣壓！美股4大指數多收黑 道瓊逆勢漲213點 - 台視全球資訊網",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4zWlFaSFNTNmZuY3ZJTUNPWHJrQTRCRDI5TEo2X1lPZnl4QnpvdVA1LU84Zmdoa2o0OERpY2ZkbHF5ZEFrVzdkVnRtaWNLeWYtdTdJRVV0Yw?oc=5",
-      "published": "2026-11-03T06:35+08:00",
-      "publisher": "台視全球資訊網"
     },
     {
       "market": "財報新聞",
@@ -216,20 +223,6 @@
       "title": "不讓華爾街猜透！華許保留升息底牌 重塑Fed決策模式 - 鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Md29ld2phMGJXdHp2YTdIZ08tcEdNYjFFREFjZ3QtcUlpNm1Qc3VyQWltbkpxWmQ2ZEtwcjFSUnRNU3NFZ3lBNWJZQjZZQUU?oc=5",
       "published": "2026-10-30T07:28+08:00",
-      "publisher": "鉅亨網"
-    },
-    {
-      "market": "財報新聞",
-      "title": "(6176)瑞儀法說會 2026/10、瑞儀財報、瑞儀展望、瑞儀財報投資亮點｜理柴知道:法說最速報! - 方格子 - Vocus",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBmN01tZFpySF9MQTVkQjYyWWdKTXlTX3dXVEVyMzdONEFuZHIxVy1nYkZ1aXRyY2ZYbWg4QUR1Q0czVUNVS3ZjbHZ6T2dFWVU3Z21oZ3gxYm9yMFB4R2fSAWNBVV95cUxOMlNQOWo1c0RHV0l4X2F4QnNJV1AwTFVYX1kxUEpLZllaNDlqRjZqZXk5RjhPN01OZG5zNmVvZjUwOVNqV2MtXzN4ZWp5NkN0cE9ZLTlHbzZ6VzRkY3duRGd3dE0?oc=5",
-      "published": "2026-10-30T05:55+08:00",
-      "publisher": "Vocus"
-    },
-    {
-      "market": "美股",
-      "title": "〈美股早盤〉AI砸錢何時回本？Alphabet財報失色、通膨又施壓 主要指數開低 - 鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9rS3BXUnBINkszbkptVTVJRUxDQ2c1ZWNpWklpT3AyRjVBMVNScTJkMXhTcE1Ha0pnNC10NWhKMzduczZfMno3Nm51dGN3cnM?oc=5",
-      "published": "2026-10-29T21:40+08:00",
       "publisher": "鉅亨網"
     }
   ],
