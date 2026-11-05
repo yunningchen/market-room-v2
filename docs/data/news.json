@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-11-05T13:14:32+08:00",
+  "updated_at": "2026-11-05T17:17:02+08:00",
   "news": [
+    {
+      "market": "台股",
+      "title": "全球經濟指標| 鉅亨網 - 鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MWDczb0VIbE5YVlR6aDRlcDBqNlhFWUNZVndjczlpX2xNUmt3WTVsQXhEbmFEUGVGVUR4YjNLUTdlUUl4a3ZmTnNRWk1hSjFf?oc=5",
+      "published": "2026-11-05T15:17+08:00",
+      "publisher": "鉅亨網"
+    },
+    {
+      "market": "財報新聞",
+      "title": "中華電信Q3獲利增近三成，ICT大單為何還沒帶動企客獲利？ - 口袋證券",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5nUlpCQmlUd1FOa2ZNWlZGNTh6VG9QMFlXb01neEg3RkRUUC1RaHVkYTF0OHdFWEI0LS1LclpIOXRCUzlQczQtNnFycjA4anVxSHhkSkQ1Q0VWSGJnd0h0b3h6NkVXUQ?oc=5",
+      "published": "2026-11-05T13:58+08:00",
+      "publisher": "口袋證券"
+    },
     {
       "market": "財報新聞",
       "title": "2026 美國期中選舉結果：民主黨奪參眾兩院！7 州參院翻盤、川普政策與美股台股影響 - 果仁家",
@@ -217,13 +231,6 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9rS3BXUnBINkszbkptVTVJRUxDQ2c1ZWNpWklpT3AyRjVBMVNScTJkMXhTcE1Ha0pnNC10NWhKMzduczZfMno3Nm51dGN3cnM?oc=5",
       "published": "2026-10-29T21:40+08:00",
       "publisher": "鉅亨網"
-    },
-    {
-      "market": "財報新聞",
-      "title": "精測獲利翻倍卻大跌，AI測試成長要看懂的財報細節 - 口袋證券",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJLUxPZ1JWTmEyR0ZmSlU1U1FjNDFZS0FmZU1RTkNmZXNrOHYwbDU4d0lGUVlYZUpocXlNSDNVaUlkNEd6Z2lwSTcxOVRydXVyYzZ4NzFXYTZHdDM0OVFiR3hvb1RnUQ?oc=5",
-      "published": "2026-10-29T14:43+08:00",
-      "publisher": "口袋證券"
     }
   ],
   "events": [
