@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-11-06T08:29:28+08:00",
+  "updated_at": "2026-11-06T09:27:15+08:00",
   "news": [
+    {
+      "market": "台股",
+      "title": "全球經濟指標| 鉅亨網 - 鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MWDczb0VIbE5YVlR6aDRlcDBqNlhFWUNZVndjczlpX2xNUmt3WTVsQXhEbmFEUGVGVUR4YjNLUTdlUUl4a3ZmTnNRWk1hSjFf?oc=5",
+      "published": "2026-11-06T06:50+08:00",
+      "publisher": "鉅亨網"
+    },
     {
       "market": "財報新聞",
       "title": "鴻海 10 月營收破 1.3 兆創歷史新高！年增 45.73%、前 10 月累計逼近 9 兆 - 果仁家",
@@ -95,7 +102,7 @@
     {
       "market": "美股",
       "title": "AI股風向大逆轉！動能崩跌逼近網路泡沫 華爾街警告：晶片盛宴恐進入冷卻期 - CMoney投資網誌",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNLVBtUUF0N1E5cXF4a1o4TmFjQTV4VE9fcXpxR2tfazI0WkUwVmo3UndkX2pVeTY4OUFFc3JlcE4xWHZBdmFwY0VaN1lIOW9QSUdZd2NMSkN1QU5lbEJZZXZZM2VfdWFJSXVwb1k4VWphQ2RkNkFHdWNkUDhJWUM3elpTMGlxZXIxNVFzM3RaM3pzLTFJNEpXTVI1cGVTbUZqSDQ2eXJiZnhTU3AwUkUwY0pETTJ4NDZHQlM3VVpxQmktWUJKd1B3cEFnQWd1RzA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRWt2WVhPc2xGNnhsNVVFcTZMNjNGbC1LNFJCMDBRd1d2UkgwWHA2NVlVVTlnRzhweUk0RHZDSmlmdFhvQmppYW5ZMUc4eHpKS04tMTd4M2x1LXA0X09ydk9VX0lySjctZ1ctUEM0WGMxanRpaDg4UW5RMzZxRjIzeFBwMkhnZ1N5blpzdTB3?oc=5",
       "published": "2026-11-03T18:00+08:00",
       "publisher": "CMoney投資網誌"
     },
@@ -128,24 +135,17 @@
       "publisher": "經濟日報"
     },
     {
-      "market": "財報新聞",
-      "title": "蘋果財報前瞻／特納斯法說會首秀 華爾街最關注「1事」 - 三立新聞",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBnakhRWnV4aTFObktPZE9FRUtqZUNVTVhXRy1RMUxTUkFVTUJwMm1uYUpQZTF0RVJXVkM1ZTMyR1hPVEd0ckU5SEFMdw?oc=5",
-      "published": "2026-11-03T03:34+08:00",
-      "publisher": "三立新聞"
+      "market": "美股",
+      "title": "美股這波快跌完了？大摩：這個指數六成股票已跌過兩成 - 鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBFNXZRcWRHNGNnOXlZdVBhZEt2YnVSSC1pbUVKVUI5ekFRUkFFbkN0YkxSNV8wYVVEbEFxZUpTSnRqSjdENTZLSnFLZVVqMUE?oc=5",
+      "published": "2026-11-03T02:06+08:00",
+      "publisher": "鉅亨網"
     },
     {
       "market": "美股",
       "title": "〈美股早盤〉油價急跌讓華爾街喘口氣！科技股反彈帶動主要指數開高 - 鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9nWjlob1dFM0g5SEFuRTlwTUNYZlVodjF3dV9yOUV5VUNEdXNsMXZMWlhXNHRad1hjU2tsTWR2dUg3a0kyNVlVQXVUbjJhVHM?oc=5",
       "published": "2026-11-02T22:41+08:00",
-      "publisher": "鉅亨網"
-    },
-    {
-      "market": "美股",
-      "title": "〈財報前瞻〉記憶體漲價有多傷？蘋果上季獲利增幅恐創六季來最小 - 鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBnanduSHcydTFobGl4SVVmMmhwSVBMWEo0eElPUTJTM2tkY1J1akR5U19KSERLZjVSWHVqWTNMY3R1M2JsRDl4Ym44eEpvU2M?oc=5",
-      "published": "2026-11-02T19:32+08:00",
       "publisher": "鉅亨網"
     },
     {
@@ -185,17 +185,17 @@
     },
     {
       "market": "美股",
-      "title": "科技股財報拖累SpaceX跌破IPO價 沒有公司達到馬斯克的高標準 - 鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9VQ21VY2dWZ0NBbFM5LTg2UkR4YzRVY1huSmR4V1ZXRGRiSG9uYVFZNHpfYzR2Rl9nUGpjMlYyWE1leTZmOVZNOFZxRm9PQms?oc=5",
-      "published": "2026-10-31T07:08+08:00",
-      "publisher": "鉅亨網"
-    },
-    {
-      "market": "美股",
       "title": "科技巨頭AI魔法正在褪色 華爾街年終行情面臨艱難考驗 - 鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ZeWNfemxOSVFBN2tqc243MV9RTTN4S1ZodEZBMnlqczdZMGtNcUdiZng2NHY2MUZYeE9wczBTZ1Vpemp3cHNPb2JYcUNWSkk?oc=5",
       "published": "2026-10-31T00:01+08:00",
       "publisher": "鉅亨網"
+    },
+    {
+      "market": "美股",
+      "title": "今天，世界等待最後一道希望 - 鉅亨號",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9RZy1jMDRGRHp1WGw3dm9BU3d1UVpCVUVwUjJsa255UklJanJqbXdMSnhtb0xFR3NjM1RUREpyRkJZODNBU2p6MQ?oc=5",
+      "published": "2026-10-30T21:41+08:00",
+      "publisher": "鉅亨號"
     },
     {
       "market": "美股",
