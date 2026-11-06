@@ -1,12 +1,33 @@
 {
-  "updated_at": "2026-11-06T09:27:15+08:00",
+  "updated_at": "2026-11-06T13:13:22+08:00",
   "news": [
+    {
+      "market": "財報新聞",
+      "title": "民主黨大勝後AI投資會轉向？台股供應鏈面臨兩道考驗 - Life 生活網",
+      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQeEJqaUdEVFJWeng1eXd5Xy1rb0FJMkFGSXhFOXFySGJNVmdtWWhFSTk1ZHQ1UWhuTzUyLUF4cEltVWctN3lqM1lJV3pycUtadXVzV205NXFpUXc2YjZiekI0TnRUaE94VG5oUXE2dXJXaU5yY3BuTHpPNVkwdVNnT1JtS3A4TDlfLUFqQXlKcmt6OFk1cUJyUVR2ZjRDcjRxMGVzZk1tN0lQMV83a2lfTkV2V3Vqb08tLVFIWEdJOHJBVlJUejVFRlpBYmFuekkyZ0VPUzVKd2w2aUtKQk5fMEh1ako4Wl9MbVZ3UHpGRVhzaEl4YjJ1c2o4elNEVWlDVWpGcXpaaGxXZjRleVdsVEtCQ1FLSFNTZWIzVWtOekJIOWFka09oMnlfTDQzdVF5Nkd0R1J5djV3c0J4MWxfb0I4NGEtUFZFTUlfeGdoWEcwYzQ?oc=5",
+      "published": "2026-11-06T10:16+08:00",
+      "publisher": "Life 生活網"
+    },
+    {
+      "market": "台股",
+      "title": "台股不妙？AI巨頭倒一地網哀號：不想玩了 - 鏡週刊Mirror Media",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1vZ2lSUFE0RmtCVkxIR281a0gtSWtXVmJ6MWFJQ2dSb2kxY3BxRmVHTlB4SnpiaFBEeXJPN25YSWtTODNTeG14X0hpMVM4bmRvNU5pWms5cVlPcDBKeU5DWHl30gFiQVVfeXFMTW9naVJQUTRGa0JWTEhHbzVrSC1Ja1dWYnoxYUlDZ1JvaTFjcHFGZUdOUHhKemJoUER5ck83blhJa1M4M1N4bXhfSGkxUzhuZG81TmlaazlxWU9wMEp5TkNYeXc?oc=5",
+      "published": "2026-11-06T08:15+08:00",
+      "publisher": "鏡週刊Mirror Media"
+    },
     {
       "market": "台股",
       "title": "全球經濟指標| 鉅亨網 - 鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MWDczb0VIbE5YVlR6aDRlcDBqNlhFWUNZVndjczlpX2xNUmt3WTVsQXhEbmFEUGVGVUR4YjNLUTdlUUl4a3ZmTnNRWk1hSjFf?oc=5",
       "published": "2026-11-06T06:50+08:00",
       "publisher": "鉅亨網"
+    },
+    {
+      "market": "美股",
+      "title": "美股收盤／費半暴跌12.3% 那斯達克陷修正 晶片財報 AI 建設疑慮掀賣壓 - 經濟日報",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ZUFhXVzBYTEk3V01rb1V4MHN6eExTZktSS21TVWVPVkZ3UEpiNnFqZGhrdHI2MVAtVmZlSjRnOFJKWC1OWHc4UnFBZE4zQk5BT0EwTnZmSnJIR2Qt0gFiQVVfeXFMUFZBSm9jd0d3cnFzdjEzRnBpd25lQlNXQmhJVnlwcFhDeFgzR3ZaU2NIYW1HVVZ4MmY4VGpvazhBX2tqM0gwanRvREcwMkkxaVNzckl1YVJ4d05FRUdXbnJrLVE?oc=5",
+      "published": "2026-11-06T06:34+08:00",
+      "publisher": "經濟日報"
     },
     {
       "market": "財報新聞",
@@ -59,6 +80,13 @@
     },
     {
       "market": "美股",
+      "title": "AI股不再是華爾街寵兒？最受追捧股票跑輸冷門股、創近30年極端紀錄 - 鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBCWTlQb3ZrbVRkSnNYQVpteWdXWnNhb0ZpYUY4REgyYzZFUzBKQ3E1X0tzaThjVkRtTkFyUVZYTXRnRklQbTJ2R2VDVV85aVU?oc=5",
+      "published": "2026-11-04T11:06+08:00",
+      "publisher": "鉅亨網"
+    },
+    {
+      "market": "美股",
       "title": "〈財報〉AMD Q3超預期 資料中心營收近翻倍 盤後大漲8% - 鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9hai1WRnZCRnhlcjc4TFBfQUhzRWJjZFlLYmRhN2ZMcjZZSGU5WXc3bVRULTFNQlFUeElONE5JcGdESmthYzFWTXgxYngtX2M?oc=5",
       "published": "2026-11-04T06:04+08:00",
@@ -70,13 +98,6 @@
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE50TWNscjE0V0tZdjBWVkcwX1d5NThVbVBGZUU0SkM4alF0TWZXX2JQZDdQMXNudDBRVndrQXZ3TzlTeS0taktpS09yTkQzNFZBaGlsLXRoWlNLdTgt0gFiQVVfeXFMTm1YcnFwRUF5Q2g4cUhYTVJrdWhIZHp4cW5fOUVfR1F5RThrZV9oclcySV9oZmgwOG5tV2tGR1JWa3pUc0taSVZSbDVUdW5ib1ZmdnQycTA0Q2stMjhnTTNGRHc?oc=5",
       "published": "2026-11-03T23:11+08:00",
       "publisher": "經濟日報"
-    },
-    {
-      "market": "美股",
-      "title": "〈財報〉蘋果特納斯首份財報好壞參半！Q1毛利率展望失色 盤後一度挫4% - 鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE53NGctOVA0b3pwRFl6Ym0wbE9xUjlZVHNld0htQVpxREgtZU5zQk9xd0xoVWRqUWIyUGNOLURVZzZKRlFBWHJaT1BaYWU0T0E?oc=5",
-      "published": "2026-11-03T22:49+08:00",
-      "publisher": "鉅亨網"
     },
     {
       "market": "美股",
@@ -203,6 +224,13 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVWJmVkNUcUFPa0tyb3YtRjVtVmIyaTZSbEpBeDZBNEVWUHZOR0s4eUlpZXBacEVQcXRkRG5Zc2VVZmplRW5YTElPamFSQlhNUXRCaEZKcGtZMUM0azhjdk5DZkxtSXJuTGtEdUNLZVExd1pCMWhSQWpnZGpTMC1iZDFId0RQVUNBM2JKSUxR?oc=5",
       "published": "2026-10-30T18:03+08:00",
       "publisher": "CMoney投資網誌"
+    },
+    {
+      "market": "美股",
+      "title": "美股能否通過新一輪壓力測試？雅德尼：期中選舉後 拉回可能是買點 - 經濟日報",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5adFo3T0FYbk1Genk3eHg5eHk3cW1PZG9VSzgzb2JPbWNrZWN1Ymc3Y1ctUGNOajJtaGloV1lPWEVHb0pKdWxXMGc3WlhFSGZFazB3RzBhdGlRZDNQ0gFiQVVfeXFMUEZBSk1JdVJlSmZmVGlZMzk2QjVBTDJnZTcyeUxUNXR4RFpIS3hlWm5qM0I2S3FnalZ1OFFySkR3dHNzajlfaEdzRWFzemxTcTVMQXlabExHUnFaMG1wSS14NVE?oc=5",
+      "published": "2026-10-30T17:10+08:00",
+      "publisher": "經濟日報"
     },
     {
       "market": "財報新聞",
