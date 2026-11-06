@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T21:23:43+08:00",
+  "updated_at": "2026-11-06T21:59:51+08:00",
   "news": [
     {
       "market": "台股",
@@ -35,13 +35,6 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1vZ2lSUFE0RmtCVkxIR281a0gtSWtXVmJ6MWFJQ2dSb2kxY3BxRmVHTlB4SnpiaFBEeXJPN25YSWtTODNTeG14X0hpMVM4bmRvNU5pWms5cVlPcDBKeU5DWHl30gFiQVVfeXFMTW9naVJQUTRGa0JWTEhHbzVrSC1Ja1dWYnoxYUlDZ1JvaTFjcHFGZUdOUHhKemJoUER5ck83blhJa1M4M1N4bXhfSGkxUzhuZG81TmlaazlxWU9wMEp5TkNYeXc?oc=5",
       "published": "2026-11-06T08:15+08:00",
       "publisher": "鏡週刊Mirror Media"
-    },
-    {
-      "market": "台股",
-      "title": "全球經濟指標| 鉅亨網 - 鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MWDczb0VIbE5YVlR6aDRlcDBqNlhFWUNZVndjczlpX2xNUmt3WTVsQXhEbmFEUGVGVUR4YjNLUTdlUUl4a3ZmTnNRWk1hSjFf?oc=5",
-      "published": "2026-11-06T06:50+08:00",
-      "publisher": "鉅亨網"
     },
     {
       "market": "美股",
@@ -125,13 +118,6 @@
       "title": "華爾街棄兒表現遠優於寵兒 這怪現象也曾發生在達康泡沫洩氣時 - 經濟日報",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9oMG45eDV5LUFQbThLZ3RGV3VxTHVwNFNqaXVWRWNKWTRONUV1dUxRZlBzXzlqbUhMYVBPakZHN24wOWRzLXV5RjE1SENKQ2pURE9lOXpnQnpReHpu0gFiQVVfeXFMTnFJQXgzWkhjbExXak02WEFod2VEMGU4UWNLeS1RODNTVVFjcElja3hmbWJtMG5tc0loWGZmSk5GbVBzeUlKMnRWUEpyMEtJSWhnSkRzVmhJNy1NVFp1VHNsYmc?oc=5",
       "published": "2026-11-03T21:44+08:00",
-      "publisher": "經濟日報"
-    },
-    {
-      "market": "美股",
-      "title": "AI 熱有無風險引發分歧：華爾街大行樂觀 資管巨頭示警 | 美股動態 | 國際 - 經濟日報",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KaGlndGk2SDFVeHZCejlJM0pQNGloaXg0SG5Xcl9mV0hnUzFnLWhDcU9ISGxKb29MX0d2TUV0c2hEWFYwamVqT3BwVFZhYlp3Wk9vaDdyWG94akt2?oc=5",
-      "published": "2026-11-03T20:21+08:00",
       "publisher": "經濟日報"
     },
     {
@@ -266,20 +252,6 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ZeWNfemxOSVFBN2tqc243MV9RTTN4S1ZodEZBMnlqczdZMGtNcUdiZng2NHY2MUZYeE9wczBTZ1Vpemp3cHNPb2JYcUNWSkk?oc=5",
       "published": "2026-10-31T00:01+08:00",
       "publisher": "鉅亨網"
-    },
-    {
-      "market": "美股",
-      "title": "科技類股持續失血！英特爾早盤暴跌26％ 台積電ADR跌3.5％ - 自由財經",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBabENjQWhwTWdTUWZfUFZYenRYNkhSbVF0RDNZWGdrRHhaNndIMld3dDhtSTZxSkpxMTV2UndORlhZZkg4aFNvVThoV1ZmN18wS3lEYU83UXMwRlBpWjRn0gFkQVVfeXFMTlAxbE84M0lMbndiVkZnRlBXdno2TV82U0tJcUcxS0x0TmM1N2FPSFZXSmVUZmI1VGpYOWlpOG53TGdiUWYtTmRGeWRoRFMwUUNvLTBab0FNYVNSY05abzQxSUJmSA?oc=5",
-      "published": "2026-10-30T21:54+08:00",
-      "publisher": "自由財經"
-    },
-    {
-      "market": "美股",
-      "title": "今天，世界等待最後一道希望 - 鉅亨號",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9RZy1jMDRGRHp1WGw3dm9BU3d1UVpCVUVwUjJsa255UklJanJqbXdMSnhtb0xFR3NjM1RUREpyRkJZODNBU2p6MQ?oc=5",
-      "published": "2026-10-30T21:41+08:00",
-      "publisher": "鉅亨號"
     }
   ],
   "events": [
