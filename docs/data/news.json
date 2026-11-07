@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-11-07T13:03:51+08:00",
+  "updated_at": "2026-11-07T17:01:45+08:00",
   "news": [
+    {
+      "market": "美股",
+      "title": "美股一周展望／晶片股急彈能追嗎？通膨、CoreWeave財報考驗反彈成色 | 美股動態 | 國際 - 經濟日報",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1hdFF2Ynd2NTY4NjJpeEpUbEl2UHpFcEFObi1SY1dSMlE5TUY1ekV6YzIwdkRzRVIwaW5WdjVxX2pvOEd4TVFHX0lMb1BabVVtZENSdkVBd3hHY0Nl?oc=5",
+      "published": "2026-11-07T13:09+08:00",
+      "publisher": "經濟日報"
+    },
+    {
+      "market": "台股",
+      "title": "全球經濟指標| 鉅亨網 - 鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MWDczb0VIbE5YVlR6aDRlcDBqNlhFWUNZVndjczlpX2xNUmt3WTVsQXhEbmFEUGVGVUR4YjNLUTdlUUl4a3ZmTnNRWk1hSjFf?oc=5",
+      "published": "2026-11-07T11:26+08:00",
+      "publisher": "鉅亨網"
+    },
     {
       "market": "美股",
       "title": "AI資料中心成華爾街「雷區」：選後風險、融資壓力夾擊新雲端概念股 - CMoney投資網誌",
@@ -17,16 +31,16 @@
     },
     {
       "market": "美股",
-      "title": "美就業數據優於預期華爾街科技股回彈| 全球財經| 全球 - UDN",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE41M3FGRXY2eENQZUN6WF90WnBDY1lkcjVkX05sa3RXbnJuOEROZVAyaU5leGlBVEo1TlEyemZpSmcwcG9YUUxDaGUtUDljSW5O?oc=5",
-      "published": "2026-11-07T06:40+08:00",
-      "publisher": "UDN"
-    },
-    {
-      "market": "美股",
       "title": "AI股跌夠了嗎？美股下周兩大考驗：CPI看升息、CoreWeave看資金 - 鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9SRVFqVnpZSTRjbmxJZjVETUFUSjZqS21lVFhNWXl6UWU5OTJDcnJPb1pzMHZTOEc2VmtwODVqdHBfaHN2TkdqejBSZVdHTmM?oc=5",
       "published": "2026-11-07T03:59+08:00",
+      "publisher": "鉅亨網"
+    },
+    {
+      "market": "美股",
+      "title": "1000億美元「搶跑」陷阱：華爾街預判賣壓 反引爆集體踩踏 - 鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5aY0o1Z2JleGlWMTdZSEJsZmRLTE1TV2JaRHYtaDE3SzM3QjZwc2NuTTRiUURCZUhtNXI5aVF2MFZYNmZDc00yVGtRckR3akk?oc=5",
+      "published": "2026-11-06T22:10+08:00",
       "publisher": "鉅亨網"
     },
     {
@@ -72,20 +86,6 @@
       "publisher": "口袋證券"
     },
     {
-      "market": "美股",
-      "title": "AI光通訊產能賣光至2027年！GlobalFoundries為何財報優仍急跌近6%？ - 鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TWHUxREZrQ0pSRklnYWlfdUxkNG02M2NrUlFza05vdEtLU0kxdWRsUHZkNUZJRmdvUlF5a0N1UWlGcmswT05sQ2V6Qk9RX0E?oc=5",
-      "published": "2026-11-05T05:58+08:00",
-      "publisher": "鉅亨網"
-    },
-    {
-      "market": "美股",
-      "title": "同樣賣CPU 為什麼英特爾與AMD財報後股價走勢完全相反？ - 鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBBdkp6bnJVQ2JZNGF1M0drS0ZmTjNScTgxQkNaMUJEY1J0T0l4SldZR3VqOEhld3VlZ2ZfWUJjNEh1YXpSeUFlTzliZVotM2M?oc=5",
-      "published": "2026-11-04T17:20+08:00",
-      "publisher": "鉅亨網"
-    },
-    {
       "market": "財報新聞",
       "title": "聯詠營收成長，淨利卻下滑，問題出在哪？ - 口袋證券",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44MmkyTnNyNmtYckpVSUNwdDcwVkdtcjd1TWt0QmRabmJVZDllc1puTjRuT2Q5RF9lU055dm9zRnRJLUhmeldsNW16WDRhMVYzOVhUenNjNnF5QkdMOVU5UmJMQlVqUQ?oc=5",
@@ -112,13 +112,6 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1VLVpqMkl1QXRiU1NzNmI2eDI4Qm1nLUE1cU9Hd1p0U1RwOWszVjZPUHFtd2tTRm5vSDY3QnhDdkViZ05yNWI2ekEwUEYtTEE?oc=5",
       "published": "2026-11-04T09:33+08:00",
       "publisher": "鉅亨網"
-    },
-    {
-      "market": "美股",
-      "title": "AI 狂潮顛覆避險邏輯？華爾街在科技飆漲與全球利率壓力間拉鋸 - CMoney投資網誌",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdVp5UmdIUi1MVjlZTXloSkl4TU9NTWJ5SHB4NGtBT19sOWtkczUyWTBxcm9vX0dSZUxzM2dvbUF1dnEzVnNzYVlxUGZYTVUyQXNDRlJZZjZqTDRTaERsaktuZDg3djNLcEE0LU5jMUxFUHZLWW5PMDlxengzVVU2SXFBR09rTkFOeUphcDln?oc=5",
-      "published": "2026-11-04T07:00+08:00",
-      "publisher": "CMoney投資網誌"
     },
     {
       "market": "美股",
@@ -170,13 +163,6 @@
       "publisher": "經濟日報"
     },
     {
-      "market": "美股",
-      "title": "【即時新聞】麥當勞(MCD)財報將出爐！華爾街估同店銷售跌0.5%，關注定價策略與買氣 - CMoney",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB2U1hxZTg3MDRvYnFsOHlxc0tXcUs0ZTk4eTZHUzRWT19rX0JkMzF3aVBTTjJYZkpaNjRsay0xVWNHeFo4bkdFYktMS3k4MHdXTVZ1Q3J2aDk?oc=5",
-      "published": "2026-11-03T15:18+08:00",
-      "publisher": "CMoney"
-    },
-    {
       "market": "財報新聞",
       "title": "晶豪科EPS躍上36.79元：缺貨推升售價，高毛利還要過成本關 - 口袋證券",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9rdXhpMVRaYjJyaHdzYThIRTJ4cmtsUnp0blFJOEtnejlHZDJhcEh5Q3FxZ09LeUg5VWdEbVRESHlPQWdYWGY4M3JMMU1RcGk2d0ZFUU5wVkE3NGRpb0ZWT2FpOEkydw?oc=5",
@@ -217,13 +203,6 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5BbUdtTnVuVFJkQ1NaS2x6a3BuajdubThhdnBwcV9BYy02N1ZDRmlkQzMyN1Q5MU8yR2JjYkNpRlNmV3lKMUVlb3dOeU40NUU?oc=5",
       "published": "2026-11-01T21:50+08:00",
       "publisher": "鉅亨網"
-    },
-    {
-      "market": "美股",
-      "title": "華爾街「10月股災」今年針對性特強！全月跌最慘的晶片股是這支 - 經濟日報",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA2MEdVMzRlVEJjSTczS2plYzQyTzMzRThISXU4cHJRcEtremk0N3FtbE1feEhqb0hVdEZHNDJDc2RZQVRvRGRhZVR5YkxfWjRtejNFUVFKRXNwLXRR0gFiQVVfeXFMTzhWVC0xTVhRNUcybEhibm8wZEZqTHF0cGpfeWF5bFlndlB1ZXNBWHhDRE50VVRXNVR2YldtbDZKak1NOUhvczh5bXlRc0lwLTJ5S3V1ZlVCcjd0TGdCVzg3NVE?oc=5",
-      "published": "2026-10-31T18:50+08:00",
-      "publisher": "經濟日報"
     }
   ],
   "events": [
