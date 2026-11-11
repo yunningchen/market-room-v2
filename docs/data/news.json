@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-11-11T13:15:34+08:00",
+  "updated_at": "2026-11-11T17:10:57+08:00",
   "news": [
+    {
+      "market": "美股",
+      "title": "美股放大鏡 Forecastock - 掌握美股動態，精準投資指南 - 美股放大鏡",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQX0RQZjdJbnRFSDlQY0VBd0lXVm5OMWJDSlBuODZEdXBkLTVDd05pZTNHU3FBVVFfTmpWOWRvWm11V2RIUFNuN09vTHJWZTdjRkE2cTFUaDVFV1pOckNZdERRTXNpMG9ka0cwZ29HTmlhcFc2MC1HMHJpc29kRGdnNkluNjNNVmNVekhRSFBrUEtGRllY?oc=5",
+      "published": "2026-11-11T15:00+08:00",
+      "publisher": "美股放大鏡"
+    },
+    {
+      "market": "美股",
+      "title": "道瓊期貨走高，市場聚焦通膨數據與科技股財報 - www.tmgm.com",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZUlRdmR0MG8xdmUySTRmSTZuNE1TaWgwLXNOaVVyQmp6T09mVFVBb1NqNWVBdlpfZTUxSmhMeWZfTDZsMFJCQnJFdy0wMUhzdmprWnp2MHo0MGJqOTZDdDl2Q0kyVHBfWW5hNXpNSUZzT0JuQ3A4VGJ1UkRIcFh5YU9SMVB0SS1hNjkwaFpOcXB2c2cwRmkwX05jMDdlUDFTbk9ubWlvcU1JNjRKRGRoZ0lZMXlGSnBrRUEwQW1FVUJ1dVY2SzJuNEo4bVFqRk9nYkE?oc=5",
+      "published": "2026-11-11T05:27+08:00",
+      "publisher": "www.tmgm.com"
+    },
     {
       "market": "財報新聞",
       "title": "MFIX/Nomura Strategic Income ETF|美股|法說會(財報電話會議) - 美股放大鏡",
@@ -17,20 +31,6 @@
     },
     {
       "market": "美股",
-      "title": "道瓊期貨走高，市場聚焦通膨數據與科技股財報 - www.tmgm.com",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTTAwMjdBazVNWVI5X1NIcnJveTBCT2d6UnNxSmQxdS1tVUJtc3BDNVBQc2RQRHRQRFhhbjE0UmpkZ3dOVmhPYkxEVGE0dVQtS0l6SzloQ1hORXkwdzE4bm5kSUF0ODMzOUxuNzJhTXJ2Sjk1Y1NObnhjZlE4VXJUekotelFZTkRlRVM1eTg4V0RiQzZUck92SG1XMDZlSXJscms1M1FhdmVWVjI4U3MtNGpfd21BM3Byamo1SHk1dXMxTDY1M2ZNMi1wTmxNakN0QndtQ0pKcw?oc=5",
-      "published": "2026-11-10T22:24+08:00",
-      "publisher": "www.tmgm.com"
-    },
-    {
-      "market": "美股",
-      "title": "美10月CPI今夜揭曉：年增率罕見缺席 月增放緩能否撼動聯準會12月升息預期？ - 鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9FQmtqMDg3YW01alVQWEw5U1hpdnFqNkRadU5SX0Z4RWZERnQyVFN5RFM2WnlISmM0UWU4ZkNrcTZiYzB5ZmVmbFh6TmJVMzg?oc=5",
-      "published": "2026-11-10T20:30+08:00",
-      "publisher": "鉅亨網"
-    },
-    {
-      "market": "美股",
       "title": "AI晶片股回神！韓日領軍反彈、台股祭限空令終結連七跌 市場緊盯CPI - 鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5uSm9WV0tkMGVPNVo4OEt4eThyWFBYME9kbTl5LVpTUldLNWxrS1Q1YnMtVlQwZnNMTFlaaEVOUVhVQzEwRmZPS29yWjhDRVU?oc=5",
       "published": "2026-11-10T13:53+08:00",
@@ -42,13 +42,6 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1EcUQ4MThLWldlcG0zNzJvOFd6aWk3WmRlUnpjY00zVTlIMEtNT2ZYUGRmWjY1emUzSTMwT3o1WTlSb0ZmQjJoNF9IWQ?oc=5",
       "published": "2026-11-10T06:37+08:00",
       "publisher": "鉅亨網"
-    },
-    {
-      "market": "美股",
-      "title": "美股放大鏡 Forecastock - 掌握美股動態，精準投資指南 - 美股放大鏡",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUUZycXRZRVBuLV8yRVRoUHg4aV80Tk9paERBVEo2WjdSMjI0VDlwWEgzNnBkWWdKWDRIUU11MnB0QXd1UlpfWDA3Skd3ZDNhellTaWZJVURnd1VYSjVkcGhrTGl3SGFlTzR4RFdUaXhDOW9VTHFqeVRFTDZJeFJfbXhtckFSRENKSXo3Z0duSDl1ZmtV?oc=5",
-      "published": "2026-11-10T01:38+08:00",
-      "publisher": "美股放大鏡"
     },
     {
       "market": "美股",
@@ -77,13 +70,6 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9yTnctVzNaOVdtNE1NeHRHVmVvZzJxcmFtSDNGaWRid1R2RFhabnp0b0lnemoxei1RNWNCU09pczBFTUJ3RG9oZTFZNA?oc=5",
       "published": "2026-11-09T16:47+08:00",
       "publisher": "三立新聞網SETN.com"
-    },
-    {
-      "market": "美股",
-      "title": "科技股跌到比大盤便宜 華爾街喊加碼、大摩點名未來兩三週是良機 - 鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9JbklPaHZkMVlmZEJKaVdJM0x5VkJjMjJKMkNUZDVUWkhaamtycDB0SWM4cHFjd0FpMTV0LVRqMk0tYkFkS0ppdTBvWQ?oc=5",
-      "published": "2026-11-09T16:10+08:00",
-      "publisher": "鉅亨網"
     },
     {
       "market": "美股",
@@ -177,32 +163,18 @@
       "publisher": "鉅亨網"
     },
     {
-      "market": "美股",
-      "title": "AI光通訊產能賣光至2027年！GlobalFoundries為何財報優仍急跌近6%？ - 鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TWHUxREZrQ0pSRklnYWlfdUxkNG02M2NrUlFza05vdEtLU0kxdWRsUHZkNUZJRmdvUlF5a0N1UWlGcmswT05sQ2V6Qk9RX0E?oc=5",
-      "published": "2026-11-05T05:58+08:00",
-      "publisher": "鉅亨網"
+      "market": "財報新聞",
+      "title": "(2395)研華法說會 2026/11、研華財報、研華展望、研華財報投資亮點｜理柴知道:法說最速報! - 方格子 - vocus",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1wcGxGakwyM1pyNy1vcktENXJidFMxb0lyaS1hdS1CN2FDN180Q0VXSzN4dUJWd1N2QXR6aTVzTWMtUEJzcVRjcVJBNjVWSzMxWGZINXVZa3FldEFFQkHSAWNBVV95cUxOZW1ZSi1XOUpEMkVmRVUxaHllalQxMkFHVnc4Q2ZQRGpHZjA0S04tN1ktUFhlSGZzUGtGc0dicTk0Z1lxSXFCS3piS3U0dlJPeFo0ZnUxTWpqSXU4d2VuSWdpYUU?oc=5",
+      "published": "2026-11-04T23:36+08:00",
+      "publisher": "vocus"
     },
     {
       "market": "財報新聞",
-      "title": "(2344)華邦電法說會 2026/11、華邦電財報、華邦電展望、華邦電財報投資亮點｜理柴知道:法說最速報! - 方格子 - Vocus",
+      "title": "(2344)華邦電法說會 2026/11、華邦電財報、華邦電展望、華邦電財報投資亮點｜理柴知道:法說最速報! - 方格子 - vocus",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0zdmRYeE8tNm1PNWV0eG9PcDFNRW5ZSTdWcVZta2l0VmxycHNEcWZJR0NVTHJoVzdHd0pXaUwybU9vQ3diYzZyeTQtbUYyVHJzeTJsM2dXTmFNZHprbGfSAWNBVV95cUxPUFZEX1Q3NThSNUdMS00tWEQyYktvS1A3WUZiN184Z29YWU1JbVRKS3FzZWpJM0R5cmFoOEVOWDM3d1N4LWY1Uzd4OXZMUWpXazV2bDQwLVhIT25ZSGVjZFIzaTQ?oc=5",
       "published": "2026-11-04T23:35+08:00",
-      "publisher": "Vocus"
-    },
-    {
-      "market": "財報新聞",
-      "title": "聯詠營收成長，淨利卻下滑，問題出在哪？ - 口袋證券",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44MmkyTnNyNmtYckpVSUNwdDcwVkdtcjd1TWt0QmRabmJVZDllc1puTjRuT2Q5RF9lU055dm9zRnRJLUhmeldsNW16WDRhMVYzOVhUenNjNnF5QkdMOVU5UmJMQlVqUQ?oc=5",
-      "published": "2026-11-04T15:06+08:00",
-      "publisher": "口袋證券"
-    },
-    {
-      "market": "財報新聞",
-      "title": "台股收盤／震盪逾1500點！殺破半年線再急拉跌358點 爆1.1兆成交量 - TVBS新聞網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBSWnVNdkdQdWFlVG1HWkdJR3h3SV9aNmFWY2dqTEotMmVLaGN3cHNTZnpCZThjWThCbnBIeWFybzRPbTZ2a2phNEZjLUVwZFE?oc=5",
-      "published": "2026-11-04T13:43+08:00",
-      "publisher": "TVBS新聞網"
+      "publisher": "vocus"
     }
   ],
   "events": [
