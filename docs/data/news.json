@@ -1,12 +1,19 @@
 {
-  "updated_at": "2026-11-11T17:10:57+08:00",
+  "updated_at": "2026-11-11T21:28:01+08:00",
   "news": [
     {
       "market": "美股",
-      "title": "美股放大鏡 Forecastock - 掌握美股動態，精準投資指南 - 美股放大鏡",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQX0RQZjdJbnRFSDlQY0VBd0lXVm5OMWJDSlBuODZEdXBkLTVDd05pZTNHU3FBVVFfTmpWOWRvWm11V2RIUFNuN09vTHJWZTdjRkE2cTFUaDVFV1pOckNZdERRTXNpMG9ka0cwZ29HTmlhcFc2MC1HMHJpc29kRGdnNkluNjNNVmNVekhRSFBrUEtGRllY?oc=5",
+      "title": "CPI掀美債殺盤、連沃勒都轉鷹 華爾街將「一口氣升息2碼」納入定價 - 鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBNRU54SXp2QXN6ZDBRS2dQOWR5dDQ5Z0FQWnpsZlVpc2hxanA1dUVrMVhZX1FxbDFRcGdlSGFUME40czNtRXN6ekpieFlzQ3c?oc=5",
+      "published": "2026-11-11T16:20+08:00",
+      "publisher": "鉅亨網"
+    },
+    {
+      "market": "美股",
+      "title": "「AI 熱」硬碰「高利率時代」：華爾街與亞洲股市的驚險共舞 - CMoney",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBKbm9OY09oZjM2eEVJNlU5WWp2SjVkUURNQXFfWnpSaVE5YmxkbF8yMy1UMHNYWVV4VDJGVjF1b1JDNktzWkRxNkh4Ny1yODBLUlFIYUU5WWNwQUU3dklkRmdIcUVlRXM?oc=5",
       "published": "2026-11-11T15:00+08:00",
-      "publisher": "美股放大鏡"
+      "publisher": "CMoney"
     },
     {
       "market": "美股",
@@ -31,9 +38,9 @@
     },
     {
       "market": "美股",
-      "title": "AI晶片股回神！韓日領軍反彈、台股祭限空令終結連七跌 市場緊盯CPI - 鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5uSm9WV0tkMGVPNVo4OEt4eThyWFBYME9kbTl5LVpTUldLNWxrS1Q1YnMtVlQwZnNMTFlaaEVOUVhVQzEwRmZPS29yWjhDRVU?oc=5",
-      "published": "2026-11-10T13:53+08:00",
+      "title": "美10月CPI今夜揭曉：年增率罕見缺席 月增放緩能否撼動聯準會12月升息預期？ - 鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9FQmtqMDg3YW01alVQWEw5U1hpdnFqNkRadU5SX0Z4RWZERnQyVFN5RFM2WnlISmM0UWU4ZkNrcTZiYzB5ZmVmbFh6TmJVMzg?oc=5",
+      "published": "2026-11-10T20:30+08:00",
       "publisher": "鉅亨網"
     },
     {
@@ -42,6 +49,13 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1EcUQ4MThLWldlcG0zNzJvOFd6aWk3WmRlUnpjY00zVTlIMEtNT2ZYUGRmWjY1emUzSTMwT3o1WTlSb0ZmQjJoNF9IWQ?oc=5",
       "published": "2026-11-10T06:37+08:00",
       "publisher": "鉅亨網"
+    },
+    {
+      "market": "美股",
+      "title": "美股放大鏡 Forecastock - 掌握美股動態，精準投資指南 - 美股放大鏡",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUUZycXRZRVBuLV8yRVRoUHg4aV80Tk9paERBVEo2WjdSMjI0VDlwWEgzNnBkWWdKWDRIUU11MnB0QXd1UlpfWDA3Skd3ZDNhellTaWZJVURnd1VYSjVkcGhrTGl3SGFlTzR4RFdUaXhDOW9VTHFqeVRFTDZJeFJfbXhtckFSRENKSXo3Z0duSDl1ZmtV?oc=5",
+      "published": "2026-11-10T01:38+08:00",
+      "publisher": "美股放大鏡"
     },
     {
       "market": "美股",
@@ -70,6 +84,13 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9yTnctVzNaOVdtNE1NeHRHVmVvZzJxcmFtSDNGaWRid1R2RFhabnp0b0lnemoxei1RNWNCU09pczBFTUJ3RG9oZTFZNA?oc=5",
       "published": "2026-11-09T16:47+08:00",
       "publisher": "三立新聞網SETN.com"
+    },
+    {
+      "market": "美股",
+      "title": "科技股跌到比大盤便宜 華爾街喊加碼、大摩點名未來兩三週是良機 - 鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9JbklPaHZkMVlmZEJKaVdJM0x5VkJjMjJKMkNUZDVUWkhaamtycDB0SWM4cHFjd0FpMTV0LVRqMk0tYkFkS0ppdTBvWQ?oc=5",
+      "published": "2026-11-09T16:10+08:00",
+      "publisher": "鉅亨網"
     },
     {
       "market": "美股",
@@ -129,10 +150,17 @@
     },
     {
       "market": "美股",
-      "title": "美股一周展望／晶片股急彈能追嗎？通膨、CoreWeave 財報考驗反彈成色 - 經濟日報",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE00WTlKZEpITnlfNVlHNzVCY0RaSjdTdGpzYmdZMGJCV2JIeHNOYnlINTZwUjJWRVlxeldwYnhNQ3lnT1FFN0UyUzlueDBiQWxLY2FxY0pGbXZSSTY3dWRZeVhHWTZONE81QXdMSWhmaDNiZS16Nm11adIBYkFVX3lxTE9WWWF3WXdJaVdSRnROVXVOVzFqREpRZUFEcmlrRllWdnc0OVExakxqOVVGS3dYYmhZRnktZEJVSWp0SG8ySXBUWGdDcU5YTEVRaFl6dXdLSmoySGdWMzQyRHdn?oc=5",
+      "title": "美股一周展望／晶片股急彈能追嗎？通膨、CoreWeave財報考驗反彈成色 - 經濟日報",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9DMUt3Z29qcVhsR1VicUxPMG1vLTA3VjVFZ3RWX3NsVmVBZnVHTzdTOC1mRVRPYnc4U2VyOWhNQ2gwTm13Ui1CU3RwT0FpQTc0Z0h1bFRfNmdZbmNGaExxNV9aZ0M0SWF0VmxJeTFOczhkTnZOODlySjloQdIBYkFVX3lxTE9WWWF3WXdJaVdSRnROVXVOVzFqREpRZUFEcmlrRllWdnc0OVExakxqOVVGS3dYYmhZRnktZEJVSWp0SG8ySXBUWGdDcU5YTEVRaFl6dXdLSmoySGdWMzQyRHdn?oc=5",
       "published": "2026-11-07T13:09+08:00",
       "publisher": "經濟日報"
+    },
+    {
+      "market": "美股",
+      "title": "AI資料中心成華爾街「雷區」：選後風險、融資壓力夾擊新雲端概念股 - CMoney投資網誌",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNT3FIT0tUWnhBNFpCejhETzNHOFVObEhqM1A1LTcycUJIZXJ4dV9BZUVLQ192QWpja3FtUFdHUUFwbFBZQkp5ZHpNeHZPczBta3JRRFBnOUgwaWQwQmlydTE0Z2FEeE5uWE1lMEN5UDVrb3JtN0VudURfaDczTWpESnZnZjhTSkxtc3VlaUJ3?oc=5",
+      "published": "2026-11-07T11:00+08:00",
+      "publisher": "CMoney投資網誌"
     },
     {
       "market": "美股",
@@ -157,9 +185,9 @@
     },
     {
       "market": "美股",
-      "title": "〈美國期中選舉〉選完也別急著追AI股！華爾街提醒贏家輸家要挑清楚 - 鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9KbmdCdmRWaDAzWVdPRjYyZVJBOVJULV9QLXJXSzVxY3dyTGVnOEF1NmFyNzFGR1NicWZHTDZST2pidWNiYkpIRGpHM0ZfcHM?oc=5",
-      "published": "2026-11-05T12:05+08:00",
+      "title": "AI光通訊產能賣光至2027年！GlobalFoundries為何財報優仍急跌近6%？ - 鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TWHUxREZrQ0pSRklnYWlfdUxkNG02M2NrUlFza05vdEtLU0kxdWRsUHZkNUZJRmdvUlF5a0N1UWlGcmswT05sQ2V6Qk9RX0E?oc=5",
+      "published": "2026-11-05T05:58+08:00",
       "publisher": "鉅亨網"
     },
     {
