@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T21:28:01+08:00",
+  "updated_at": "2026-11-11T22:03:53+08:00",
   "news": [
     {
       "market": "美股",
@@ -93,6 +93,13 @@
       "publisher": "鉅亨網"
     },
     {
+      "market": "台股",
+      "title": "全球經濟指標| 鉅亨網 - 鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MWDczb0VIbE5YVlR6aDRlcDBqNlhFWUNZVndjczlpX2xNUmt3WTVsQXhEbmFEUGVGVUR4YjNLUTdlUUl4a3ZmTnNRWk1hSjFf?oc=5",
+      "published": "2026-11-09T16:00+08:00",
+      "publisher": "鉅亨網"
+    },
+    {
       "market": "美股",
       "title": "美光財報亮眼，華爾街機構紛紛上調目標價 - BigGo 財經",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE41aEZlaVFrd2JlQXpFdkx0a3lUQWpoc3RscGNXT0NuWVVDQkVOZDIzUXpDU3MtRHh1enYtVXdPNDlRX3ZOMlhwTjhjNUZRb2ZwNl9xQU9vNWZJaERXbzFLcXhUZENBQVVfUHRkS1FkVk9NS3VJVk5aVXpR?oc=5",
@@ -150,8 +157,8 @@
     },
     {
       "market": "美股",
-      "title": "美股一周展望／晶片股急彈能追嗎？通膨、CoreWeave財報考驗反彈成色 - 經濟日報",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9DMUt3Z29qcVhsR1VicUxPMG1vLTA3VjVFZ3RWX3NsVmVBZnVHTzdTOC1mRVRPYnc4U2VyOWhNQ2gwTm13Ui1CU3RwT0FpQTc0Z0h1bFRfNmdZbmNGaExxNV9aZ0M0SWF0VmxJeTFOczhkTnZOODlySjloQdIBYkFVX3lxTE9WWWF3WXdJaVdSRnROVXVOVzFqREpRZUFEcmlrRllWdnc0OVExakxqOVVGS3dYYmhZRnktZEJVSWp0SG8ySXBUWGdDcU5YTEVRaFl6dXdLSmoySGdWMzQyRHdn?oc=5",
+      "title": "美股一周展望／晶片股急彈能追嗎？通膨、CoreWeave 財報考驗反彈成色 - 經濟日報",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE00WTlKZEpITnlfNVlHNzVCY0RaSjdTdGpzYmdZMGJCV2JIeHNOYnlINTZwUjJWRVlxeldwYnhNQ3lnT1FFN0UyUzlueDBiQWxLY2FxY0pGbXZSSTY3dWRZeVhHWTZONE81QXdMSWhmaDNiZS16Nm11adIBYkFVX3lxTE9WWWF3WXdJaVdSRnROVXVOVzFqREpRZUFEcmlrRllWdnc0OVExakxqOVVGS3dYYmhZRnktZEJVSWp0SG8ySXBUWGdDcU5YTEVRaFl6dXdLSmoySGdWMzQyRHdn?oc=5",
       "published": "2026-11-07T13:09+08:00",
       "publisher": "經濟日報"
     },
@@ -161,6 +168,13 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNT3FIT0tUWnhBNFpCejhETzNHOFVObEhqM1A1LTcycUJIZXJ4dV9BZUVLQ192QWpja3FtUFdHUUFwbFBZQkp5ZHpNeHZPczBta3JRRFBnOUgwaWQwQmlydTE0Z2FEeE5uWE1lMEN5UDVrb3JtN0VudURfaDczTWpESnZnZjhTSkxtc3VlaUJ3?oc=5",
       "published": "2026-11-07T11:00+08:00",
       "publisher": "CMoney投資網誌"
+    },
+    {
+      "market": "美股",
+      "title": "美股重點新聞摘要2026年11月7日 - 鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8wcjllYmJRa291STdOLWo2UDdLcGgxQzdqVHVTTkUtVG9XWlVOdXgyR2txVmcyeURlaklrbTVSSlNzR1BtVWotY3BtTlM4U00?oc=5",
+      "published": "2026-11-07T08:20+08:00",
+      "publisher": "鉅亨網"
     },
     {
       "market": "美股",
@@ -182,13 +196,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5nUlpCQmlUd1FOa2ZNWlZGNTh6VG9QMFlXb01neEg3RkRUUC1RaHVkYTF0OHdFWEI0LS1LclpIOXRCUzlQczQtNnFycjA4anVxSHhkSkQ1Q0VWSGJnd0h0b3h6NkVXUQ?oc=5",
       "published": "2026-11-05T13:58+08:00",
       "publisher": "口袋證券"
-    },
-    {
-      "market": "美股",
-      "title": "AI光通訊產能賣光至2027年！GlobalFoundries為何財報優仍急跌近6%？ - 鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TWHUxREZrQ0pSRklnYWlfdUxkNG02M2NrUlFza05vdEtLU0kxdWRsUHZkNUZJRmdvUlF5a0N1UWlGcmswT05sQ2V6Qk9RX0E?oc=5",
-      "published": "2026-11-05T05:58+08:00",
-      "publisher": "鉅亨網"
     },
     {
       "market": "財報新聞",
