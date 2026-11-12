@@ -1,19 +1,47 @@
 {
-  "updated_at": "2026-11-12T13:16:08+08:00",
+  "updated_at": "2026-11-12T22:06:36+08:00",
   "news": [
     {
+      "market": "財報新聞",
+      "title": "【鴻海法說會 Q3】鴻海自產機器人已進入 AI 伺服器產線！Genesis 智慧製造平台 12 月試營運 - 果仁家",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5PU1h1Z2djRG1Ick8tTFVLNE9GbWIzMW1vcTlyN0xoNDFUX3lYWDkzbHhYcjB1M1NpTFRBcVJSNHAzbGhGdWhqN25SVWJheGhadEVz?oc=5",
+      "published": "2026-11-12T20:25+08:00",
+      "publisher": "果仁家"
+    },
+    {
+      "market": "財報新聞",
+      "title": "【鴻海法說會 Q3】鴻海前三季賺 1,874 億、自由現金流卻淨流出 2,874 億！AI 擴產支出年增 - 果仁家",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5DWm9FM1QzbkRKLW9lcWlGS3l2ejc0NGo3aXhsNlZ3d1lZZjhQSktBTW91WDIxZ3p5TkFlVkw5eEptVUY5eEJxM09NNlVtOVFwY25Z?oc=5",
+      "published": "2026-11-12T20:09+08:00",
+      "publisher": "果仁家"
+    },
+    {
       "market": "美股",
-      "title": "天下晨間新聞：黃仁勳爆出第二段婚外情，董事會將決定去留 - 天下雜誌",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9McDB5RHVTMDd2d1Y3WGdDaW5wSG1nUEdMQndQWVQxSERLLUZmOUFUY0NfUDRjRE1vV094YjhvLWtxeGNYZ29neGhqRHdqUQ?oc=5",
-      "published": "2026-11-12T12:12+08:00",
-      "publisher": "天下雜誌"
+      "title": "11/12(四)拉回！跟上布局的機會、台積電、鴻海、建榮、富邦金 - 鉅亨號",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9QZGdVeW5kRG40OGtUdnM4enVLb1hQTU1LR2ZqRDBCbnIyQmNJRVZ3aTJkdTVsS2ZPLWFOaXY3LWRrS2tSeGs0ZQ?oc=5",
+      "published": "2026-11-12T17:12+08:00",
+      "publisher": "鉅亨號"
+    },
+    {
+      "market": "財報新聞",
+      "title": "Pegatron Q3 Revenue Up 41.8% Quarter-over-Quarter, but Net Profit Falls 11.4% - VOCO News",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1TUUtITWdOZjlXSEU4TkpvQ1Rtc294Tk9lU1ZxOFBCMmpVb3J1YmZfaExXV1o0Umg1OE9aLVBDNVpJR0FBVk0tdzZpRW1DT0JOUGlGS0oxenRxWUpldk1lR0o5V3FLQUhJOWVSaFQ4NGJHRTI4RFFWeUxucw?oc=5",
+      "published": "2026-11-12T16:05+08:00",
+      "publisher": "VOCO News"
     },
     {
       "market": "財報新聞",
       "title": "2026 鴻海法說會直播 11/12 下午 3 點登場！線上看連結、Q3 財報 5 大焦點一次看 - 果仁家",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Ld3JXUURiNVdKU3JzRF9BaENuVDZyOVVwUldNR2NCcDNrWFk2X0xjM3BfcjEtSjliSnNrWjVtZkQ4MWM1RHNJUWw1LUJ4WFNrODBj?oc=5",
-      "published": "2026-11-12T11:55+08:00",
+      "published": "2026-11-12T15:39+08:00",
       "publisher": "果仁家"
+    },
+    {
+      "market": "台股",
+      "title": "黃仁勳若下台恐衝擊半導體！分析師點名「這2家」公司有望受惠 - Yahoo股市",
+      "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxPcDB6bVhGTUFIMHdBZjNBVFptMjgzeFI3X0dlaFNDbmNZQnBuZEtGaTV4Mm83QXM2MldvTmN4ZkFHaUw3cjZMMldfYTR4N2Q1X2F4YXBqY0ZPaUxrUnJfQjlXbUwwNmlONUhhVkpWbUFUVDNGeTVoWHU4MjI2ZE9aVWtiRk91T05KeFQ2ckw1cV9nYS1hVTB1YUNlYzJuUzVyWHI3aWVhVE9EUVAtdHlkbHE5NFZ0OFAwYmZqN2JzenA3cUpZeDgwM3E4bEQyMEZNU1pMdHIwZzk3aVZKZmhsQ1JPel9POV9ZYkNOcU8wdUlYUnlkZ3pUVnlSc2kyRHFoM045dFA4Vi10VVRFS3JPZ1FyQjlTeGdjTERJaUg2LW45ZnNEc1FwaTVrWHE2TzNTSURsT3pLNm0tWXdzeWZHS2VobXZ0clJWdjA5aUZQVGZ1ZUpBcVlVVVY4RndzN2k5S01QYThVMW5uVkIxUjVObGlzcW9kaXhtLU1VQ3BsLWd2Sy11Q2lrZ3V3aDQ?oc=5",
+      "published": "2026-11-12T11:57+08:00",
+      "publisher": "Yahoo股市"
     },
     {
       "market": "財報新聞",
@@ -30,11 +58,18 @@
       "publisher": "鉅亨網"
     },
     {
+      "market": "美股",
+      "title": "天下晨間新聞：黃仁勳爆出第二段婚外情，董事會將決定去留 - 天下雜誌",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9McDB5RHVTMDd2d1Y3WGdDaW5wSG1nUEdMQndQWVQxSERLLUZmOUFUY0NfUDRjRE1vV094YjhvLWtxeGNYZ29neGhqRHdqUQ?oc=5",
+      "published": "2026-11-12T07:04+08:00",
+      "publisher": "天下雜誌"
+    },
+    {
       "market": "財報新聞",
-      "title": "(2049)上銀法說會 2026/11、上銀財報、上銀展望、上銀財報投資亮點｜理柴知道:法說最速報! - 方格子 - vocus",
+      "title": "(2049)上銀法說會 2026/11、上銀財報、上銀展望、上銀財報投資亮點｜理柴知道:法說最速報! - 方格子 - Vocus",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFByWS1Qci1iQVFtWVZ6Tmc4TzlncG1QZmtzVjctdE1UcEl5SHNZTlM1SWV3ci1zMWlBcVJ6bFNHWHBfRmpYamhNaHp5ampjRGdHUnJzLWhDYWdtR05sQ0HSAWNBVV95cUxPRGx2Uk5Edlg2Njd5UlVINDRsYzdTcEFGMWJIUlNNSjBaTERRQmVpcDN5SEhQQVYzUjlXbTN5NHJIUXpTSTZMZ2ZsdlpRWGp1OFhtYVUyN1o4QXpnVVY4ZzEtcmM?oc=5",
       "published": "2026-11-11T23:48+08:00",
-      "publisher": "vocus"
+      "publisher": "Vocus"
     },
     {
       "market": "美股",
@@ -59,6 +94,13 @@
     },
     {
       "market": "美股",
+      "title": "CoreWeave財報擊鼓點燃AI基礎股狂飆！三大指數期貨齊揚、納指領漲 - CMoney投資網誌",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPY1UyekV5YWdBd2hZOEE1OExIT2RleF9heHliVmxBaWowaTFCWUtTcDI1Z1RnUHV3b285N2RTN0oyZ2lrbXZ1eHpyU01JdFdUdUVjRGppZVQ1UWR2VnV4RWI4S1F3OWpDaFlMUkFDTjVZQXRzSU8zSTU0QXg4aFhJVGl3UnpIZXZMaEpHMXJn?oc=5",
+      "published": "2026-11-11T18:02+08:00",
+      "publisher": "CMoney投資網誌"
+    },
+    {
+      "market": "美股",
       "title": "「AI 熱」硬碰「高利率時代」：華爾街與亞洲股市的驚險共舞 - CMoney",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBKbm9OY09oZjM2eEVJNlU5WWp2SjVkUURNQXFfWnpSaVE5YmxkbF8yMy1UMHNYWVV4VDJGVjF1b1JDNktzWkRxNkh4Ny1yODBLUlFIYUU5WWNwQUU3dklkRmdIcUVlRXM?oc=5",
       "published": "2026-11-11T15:00+08:00",
@@ -72,25 +114,11 @@
       "publisher": "www.tmgm.com"
     },
     {
-      "market": "美股",
-      "title": "華爾街三巨頭策略師齊發聲 美股回檔可望接近尾聲 - 鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBLUE90T2RwOWZQdkJSeTY4S2d0ZllqQUlCeEtOYXJOUzFBQi1xRzNPNTlpLWF2N2FFM2JIQXk0SmJUa3lRRVZfanZuTFNEYkk?oc=5",
-      "published": "2026-11-10T22:20+08:00",
-      "publisher": "鉅亨網"
-    },
-    {
-      "market": "美股",
-      "title": "美10月CPI今夜揭曉：年增率罕見缺席 月增放緩能否撼動聯準會12月升息預期？ - 鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9FQmtqMDg3YW01alVQWEw5U1hpdnFqNkRadU5SX0Z4RWZERnQyVFN5RFM2WnlISmM0UWU4ZkNrcTZiYzB5ZmVmbFh6TmJVMzg?oc=5",
-      "published": "2026-11-10T20:30+08:00",
-      "publisher": "鉅亨網"
-    },
-    {
-      "market": "美股",
-      "title": "輝達逆勢跌逾4% 成費半唯一殞落股 黃仁勳去留引爆華爾街論戰 - 鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1EcUQ4MThLWldlcG0zNzJvOFd6aWk3WmRlUnpjY00zVTlIMEtNT2ZYUGRmWjY1emUzSTMwT3o1WTlSb0ZmQjJoNF9IWQ?oc=5",
-      "published": "2026-11-10T06:37+08:00",
-      "publisher": "鉅亨網"
+      "market": "財報新聞",
+      "title": "三事件變化牽動台股後市 永豐投顧：大盤 43K 以下本益比低 觀望不殺低 - 經濟日報",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GeWlGSUxEMHVrd0I5eTQ0UVV3N1lKS1JLS0dkMVJrZi1LLXNJeFk3bEROaTYxNUxQV2hTNVBVRkhyQ21naWQ0Z2dwTHRZYzdTMGJyM1A5bDU5d9IBX0FVX3lxTFBiT3lVTHprT2xjbnFsS0lKTFNYcW1TNFdPeTIzT2R6VE1BRFZlSWFoaDJEam9tUmV4czVLVV9qU2dwOXFidlpkX3gxWGZ2UXpsb1hZdkhhaG14OGJodWxF?oc=5",
+      "published": "2026-11-10T16:00+08:00",
+      "publisher": "經濟日報"
     },
     {
       "market": "美股",
@@ -105,13 +133,6 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wdVZSdFQ4eDRuNUJUcDFYSEpDS1V0clROV2dZalVkc1VicUtncjBUaGI3emxBWE5jenJoWlBiM0JOb2xsXzAtcGo5bU1QSzQ?oc=5",
       "published": "2026-11-09T22:39+08:00",
       "publisher": "鉅亨網"
-    },
-    {
-      "market": "財報新聞",
-      "title": "(8299)群聯法說會 2026/11、群聯財報、群聯展望、群聯財報投資亮點｜理柴知道:法說最速報! - 方格子 - vocus",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Makp1Tk1BYlBxNXhLTGVXVm5KbDdFQ0szcm9FU09TUUdPcFVXWGU1OWlLUDZ2MU9oUV9vTG8yeGJlWV9JQmtVWGI1ZHlYYUlydmpiYVc4cDBHcUF6VnfSAWNBVV95cUxNNTREQUdNb0ZwQ0otTVZmM1poRFZ5SzNIYVJQTnpIWlV3ZUVaQXRqaEt2ZGdRQmkwRl84NkktYVBpSVQ2ODM1QTdSMkQ0S0E3ZklvTWNSdkxfYkpDdmdEOV8yRG8?oc=5",
-      "published": "2026-11-09T20:34+08:00",
-      "publisher": "vocus"
     },
     {
       "market": "美股",
@@ -132,13 +153,6 @@
       "title": "科技股跌到比大盤便宜 華爾街喊加碼、大摩點名未來兩三週是良機 - 鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9JbklPaHZkMVlmZEJKaVdJM0x5VkJjMjJKMkNUZDVUWkhaamtycDB0SWM4cHFjd0FpMTV0LVRqMk0tYkFkS0ppdTBvWQ?oc=5",
       "published": "2026-11-09T16:10+08:00",
-      "publisher": "鉅亨網"
-    },
-    {
-      "market": "台股",
-      "title": "全球經濟指標 - 鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MWDczb0VIbE5YVlR6aDRlcDBqNlhFWUNZVndjczlpX2xNUmt3WTVsQXhEbmFEUGVGVUR4YjNLUTdlUUl4a3ZmTnNRWk1hSjFf?oc=5",
-      "published": "2026-11-09T16:00+08:00",
       "publisher": "鉅亨網"
     },
     {
@@ -212,13 +226,6 @@
       "publisher": "TVBS新聞網"
     },
     {
-      "market": "財報新聞",
-      "title": "三事件變化牽動台股後市 永豐投顧：大盤 43K 以下本益比低 觀望不殺低 - 經濟日報",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GeWlGSUxEMHVrd0I5eTQ0UVV3N1lKS1JLS0dkMVJrZi1LLXNJeFk3bEROaTYxNUxQV2hTNVBVRkhyQ21naWQ0Z2dwTHRZYzdTMGJyM1A5bDU5d9IBX0FVX3lxTFBiT3lVTHprT2xjbnFsS0lKTFNYcW1TNFdPeTIzT2R6VE1BRFZlSWFoaDJEam9tUmV4czVLVV9qU2dwOXFidlpkX3gxWGZ2UXpsb1hZdkhhaG14OGJodWxF?oc=5",
-      "published": "2026-11-07T16:00+08:00",
-      "publisher": "經濟日報"
-    },
-    {
       "market": "美股",
       "title": "AI資料中心成華爾街「雷區」：選後風險、融資壓力夾擊新雲端概念股 - CMoney投資網誌",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNT3FIT0tUWnhBNFpCejhETzNHOFVObEhqM1A1LTcycUJIZXJ4dV9BZUVLQ192QWpja3FtUFdHUUFwbFBZQkp5ZHpNeHZPczBta3JRRFBnOUgwaWQwQmlydTE0Z2FEeE5uWE1lMEN5UDVrb3JtN0VudURfaDczTWpESnZnZjhTSkxtc3VlaUJ3?oc=5",
@@ -238,13 +245,6 @@
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ZUFhXVzBYTEk3V01rb1V4MHN6eExTZktSS21TVWVPVkZ3UEpiNnFqZGhrdHI2MVAtVmZlSjRnOFJKWC1OWHc4UnFBZE4zQk5BT0EwTnZmSnJIR2Qt0gFiQVVfeXFMUFZBSm9jd0d3cnFzdjEzRnBpd25lQlNXQmhJVnlwcFhDeFgzR3ZaU2NIYW1HVVZ4MmY4VGpvazhBX2tqM0gwanRvREcwMkkxaVNzckl1YVJ4d05FRUdXbnJrLVE?oc=5",
       "published": "2026-11-06T06:34+08:00",
       "publisher": "經濟日報"
-    },
-    {
-      "market": "財報新聞",
-      "title": "中華電信Q3獲利增近三成，ICT大單為何還沒帶動企客獲利？ - 口袋證券",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5nUlpCQmlUd1FOa2ZNWlZGNTh6VG9QMFlXb01neEg3RkRUUC1RaHVkYTF0OHdFWEI0LS1LclpIOXRCUzlQczQtNnFycjA4anVxSHhkSkQ1Q0VWSGJnd0h0b3h6NkVXUQ?oc=5",
-      "published": "2026-11-05T13:58+08:00",
-      "publisher": "口袋證券"
     }
   ],
   "events": [
