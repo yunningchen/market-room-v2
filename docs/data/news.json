@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-11-13T00:50:43+08:00",
+  "updated_at": "2026-11-13T08:32:44+08:00",
   "news": [
+    {
+      "market": "美股",
+      "title": "黃仁勳辭職，CFO臨時接任，輝達千億市值瞬間蒸發！ - 鉅亨號",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA2cHphT3RZRG1zSnR0cVIwaVJnSGFkMXl5bTN5cFhpZ3Z3YVZVckZZeS1PMkFXdzBCREEzd1FWTk5HWEplVjJLWg?oc=5",
+      "published": "2026-11-13T00:26+08:00",
+      "publisher": "鉅亨號"
+    },
     {
       "market": "財報新聞",
       "title": "【鴻海法說會 Q3】鴻海前三季賺 1,874 億、自由現金流卻淨流出 2,874 億！AI 擴產支出年增 - 果仁家",
@@ -44,13 +51,6 @@
       "publisher": "果仁家"
     },
     {
-      "market": "美股",
-      "title": "11/12(四)拉回！跟上布局的機會、台積電、鴻海、建榮、富邦金 - 鉅亨號",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9QZGdVeW5kRG40OGtUdnM4enVLb1hQTU1LR2ZqRDBCbnIyQmNJRVZ3aTJkdTVsS2ZPLWFOaXY3LWRrS2tSeGs0ZQ?oc=5",
-      "published": "2026-11-12T17:12+08:00",
-      "publisher": "鉅亨號"
-    },
-    {
       "market": "台股",
       "title": "黃仁勳若下台恐衝擊半導體！分析師點名「這2家」公司有望受惠 - Yahoo股市",
       "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxPcDB6bVhGTUFIMHdBZjNBVFptMjgzeFI3X0dlaFNDbmNZQnBuZEtGaTV4Mm83QXM2MldvTmN4ZkFHaUw3cjZMMldfYTR4N2Q1X2F4YXBqY0ZPaUxrUnJfQjlXbUwwNmlONUhhVkpWbUFUVDNGeTVoWHU4MjI2ZE9aVWtiRk91T05KeFQ2ckw1cV9nYS1hVTB1YUNlYzJuUzVyWHI3aWVhVE9EUVAtdHlkbHE5NFZ0OFAwYmZqN2JzenA3cUpZeDgwM3E4bEQyMEZNU1pMdHIwZzk3aVZKZmhsQ1JPel9POV9ZYkNOcU8wdUlYUnlkZ3pUVnlSc2kyRHFoM045dFA4Vi10VVRFS3JPZ1FyQjlTeGdjTERJaUg2LW45ZnNEc1FwaTVrWHE2TzNTSURsT3pLNm0tWXdzeWZHS2VobXZ0clJWdjA5aUZQVGZ1ZUpBcVlVVVY4RndzN2k5S01QYThVMW5uVkIxUjVObGlzcW9kaXhtLU1VQ3BsLWd2Sy11Q2lrZ3V3aDQ?oc=5",
@@ -80,10 +80,10 @@
     },
     {
       "market": "財報新聞",
-      "title": "(2049)上銀法說會 2026/11、上銀財報、上銀展望、上銀財報投資亮點｜理柴知道:法說最速報! - 方格子 - Vocus",
+      "title": "(2049)上銀法說會 2026/11、上銀財報、上銀展望、上銀財報投資亮點｜理柴知道:法說最速報! - 方格子 - vocus",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFByWS1Qci1iQVFtWVZ6Tmc4TzlncG1QZmtzVjctdE1UcEl5SHNZTlM1SWV3ci1zMWlBcVJ6bFNHWHBfRmpYamhNaHp5ampjRGdHUnJzLWhDYWdtR05sQ0HSAWNBVV95cUxPRGx2Uk5Edlg2Njd5UlVINDRsYzdTcEFGMWJIUlNNSjBaTERRQmVpcDN5SEhQQVYzUjlXbTN5NHJIUXpTSTZMZ2ZsdlpRWGp1OFhtYVUyN1o4QXpnVVY4ZzEtcmM?oc=5",
       "published": "2026-11-11T23:48+08:00",
-      "publisher": "Vocus"
+      "publisher": "vocus"
     },
     {
       "market": "美股",
@@ -115,10 +115,24 @@
     },
     {
       "market": "美股",
+      "title": "CPI掀美債殺盤、連沃勒都轉鷹 華爾街將「一口氣升息2碼」納入定價 - 鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBNRU54SXp2QXN6ZDBRS2dQOWR5dDQ5Z0FQWnpsZlVpc2hxanA1dUVrMVhZX1FxbDFRcGdlSGFUME40czNtRXN6ekpieFlzQ3c?oc=5",
+      "published": "2026-11-11T16:20+08:00",
+      "publisher": "鉅亨網"
+    },
+    {
+      "market": "美股",
       "title": "「AI 熱」硬碰「高利率時代」：華爾街與亞洲股市的驚險共舞 - CMoney",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBKbm9OY09oZjM2eEVJNlU5WWp2SjVkUURNQXFfWnpSaVE5YmxkbF8yMy1UMHNYWVV4VDJGVjF1b1JDNktzWkRxNkh4Ny1yODBLUlFIYUU5WWNwQUU3dklkRmdIcUVlRXM?oc=5",
       "published": "2026-11-11T15:00+08:00",
       "publisher": "CMoney"
+    },
+    {
+      "market": "美股",
+      "title": "美股重點新聞摘要2026年11月11日 - 鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5vV2dSYV9FN0JkUUZmUHM0WXdxSEwzUzdkUUtkTFV5cElORnVhOW5BTFdQU2hCUG12V0xBUmN4NWtLRFFrMEFRUHlWdw?oc=5",
+      "published": "2026-11-11T08:10+08:00",
+      "publisher": "鉅亨網"
     },
     {
       "market": "美股",
@@ -133,13 +147,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GeWlGSUxEMHVrd0I5eTQ0UVV3N1lKS1JLS0dkMVJrZi1LLXNJeFk3bEROaTYxNUxQV2hTNVBVRkhyQ21naWQ0Z2dwTHRZYzdTMGJyM1A5bDU5d9IBX0FVX3lxTFBiT3lVTHprT2xjbnFsS0lKTFNYcW1TNFdPeTIzT2R6VE1BRFZlSWFoaDJEam9tUmV4czVLVV9qU2dwOXFidlpkX3gxWGZ2UXpsb1hZdkhhaG14OGJodWxF?oc=5",
       "published": "2026-11-10T16:00+08:00",
       "publisher": "經濟日報"
-    },
-    {
-      "market": "美股",
-      "title": "美股放大鏡 Forecastock - 掌握美股動態，精準投資指南 - 美股放大鏡",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUUZycXRZRVBuLV8yRVRoUHg4aV80Tk9paERBVEo2WjdSMjI0VDlwWEgzNnBkWWdKWDRIUU11MnB0QXd1UlpfWDA3Skd3ZDNhellTaWZJVURnd1VYSjVkcGhrTGl3SGFlTzR4RFdUaXhDOW9VTHFqeVRFTDZJeFJfbXhtckFSRENKSXo3Z0duSDl1ZmtV?oc=5",
-      "published": "2026-11-10T01:38+08:00",
-      "publisher": "美股放大鏡"
     },
     {
       "market": "美股",
@@ -184,6 +191,13 @@
       "publisher": "永豐金證券"
     },
     {
+      "market": "美股",
+      "title": "美股週五反彈只是「死貓跳」？AI股賣壓未消、升息疑慮升溫 - 鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9tYTdqa29ZUWJPLWh3dVhFcjE5UzJkN1NFM0RmaDM3VGVkdExEdzFtZmxIOGFJUjZhN25KY0xOajh5WGVrU01PZjFGUkZDZ2c?oc=5",
+      "published": "2026-11-09T07:41+08:00",
+      "publisher": "鉅亨網"
+    },
+    {
       "market": "財報新聞",
       "title": "融資暴減423億 國安基金進場！本週台股、美股重磅大事一次看 - 三立新聞網SETN.com",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5CTGtfLW1rQk9aRHdyanFlZVcwcE5yMmlLelhiSkgwa0NRYzFKVGpHRlZzdXZMMnpwV041QkdUQ0NPV2gzSG5iWE1tbw?oc=5",
@@ -199,15 +213,8 @@
     },
     {
       "market": "美股",
-      "title": "美股下週展望／AI股修正後迎CPI考驗CoreWeave財報成焦點 - 鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1GVENOYzFNMTRyQmhNdmZ2Y2x2RWJUTzdGQkhtTk5YS2o2X2JxR1JsYVlzYnpJWENKek1ickZ1dVB1N1FEbUw2X3Q4UnRBcXc?oc=5",
-      "published": "2026-11-08T12:00+08:00",
-      "publisher": "鉅亨網"
-    },
-    {
-      "market": "美股",
-      "title": "美期中選舉衝擊華爾街！美股科技股還會跌？下週2大考驗成關鍵 - NOWnews今日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB3QWZlUlRJaGkxOE8waXhmVGRZQURFdGdsRGVZVXFVWGoxc05pQlFYM3BydmxjZGxHTmxmN1dOZFlYZmZjSV90cmF1bkHSAVJBVV95cUxPVDU2SHNrVDBwS0xacG96UHVXMWFfZUItTkU3RTVjVFh4Q3JqS2dyWDVXS1c1VkFtR1VTaHpjb1pfV295SUNYTTJhdWF3ZjRTZDVR?oc=5",
+      "title": "美期中選舉衝擊華爾街！美股科技股還會跌？下週2大考驗成關鍵 | 國際要聞 | 全球 - NOWnews今日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB3QWZlUlRJaGkxOE8waXhmVGRZQURFdGdsRGVZVXFVWGoxc05pQlFYM3BydmxjZGxHTmxmN1dOZFlYZmZjSV90cmF1bkE?oc=5",
       "published": "2026-11-08T07:00+08:00",
       "publisher": "NOWnews今日新聞"
     },
@@ -221,7 +228,7 @@
     {
       "market": "美股",
       "title": "美股一周展望／晶片股急彈能追嗎？通膨、CoreWeave 財報考驗反彈成色 - 經濟日報",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE00WTlKZEpITnlfNVlHNzVCY0RaSjdTdGpzYmdZMGJCV2JIeHNOYnlINTZwUjJWRVlxeldwYnhNQ3lnT1FFN0UyUzlueDBiQWxLY2FxY0pGbXZSSTY3dWRZeVhHWTZONE81QXdMSWhmaDNiZS16Nm11adIBYkFVX3lxTE9WWWF3WXdJaVdSRnROVXVOVzFqREpRZUFEcmlrRllWdnc0OVExakxqOVVGS3dYYmhZRnktZEJVSWp0SG8ySXBUWGdDcU5YTEVRaFl6dXdLSmoySGdWMzQyRHdn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1hdFF2Ynd2NTY4NjJpeEpUbEl2UHpFcEFObi1SY1dSMlE5TUY1ekV6YzIwdkRzRVIwaW5WdjVxX2pvOEd4TVFHX0lMb1BabVVtZENSdkVBd3hHY0Nl0gFiQVVfeXFMT1ZZYXdZd0lpV1JGdE5VdU5XMWpESlFlQURyaWtGWVZ2dzQ5UTFqTGo5VUZLd1hiaFlGeS1kQlVJanRIbzJJcFRYZ0NxTlhMRVFoWXp1d0tKajJIZ1YzNDJEd2c?oc=5",
       "published": "2026-11-07T13:09+08:00",
       "publisher": "經濟日報"
     },
@@ -238,23 +245,17 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9SRVFqVnpZSTRjbmxJZjVETUFUSjZqS21lVFhNWXl6UWU5OTJDcnJPb1pzMHZTOEc2VmtwODVqdHBfaHN2TkdqejBSZVdHTmM?oc=5",
       "published": "2026-11-07T03:59+08:00",
       "publisher": "鉅亨網"
-    },
-    {
-      "market": "美股",
-      "title": "〈分析〉10月非農令聯準會可繼續聚焦抗通膨 但存在三大不確定性 - 鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9GdFZYUFl1NHEzYXNaU1ppYmdPNFRobk5QTXJ6UzY2WUFGRnoyZzd6dm1MRUdwZzA2cElXcW9vTzRjaFVuTmR2cHNFOVVIblk?oc=5",
-      "published": "2026-11-06T22:40+08:00",
-      "publisher": "鉅亨網"
-    },
-    {
-      "market": "美股",
-      "title": "美股收盤／費半暴跌12.3% 那斯達克陷修正 晶片財報 AI 建設疑慮掀賣壓 - 經濟日報",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ZUFhXVzBYTEk3V01rb1V4MHN6eExTZktSS21TVWVPVkZ3UEpiNnFqZGhrdHI2MVAtVmZlSjRnOFJKWC1OWHc4UnFBZE4zQk5BT0EwTnZmSnJIR2Qt0gFiQVVfeXFMUFZBSm9jd0d3cnFzdjEzRnBpd25lQlNXQmhJVnlwcFhDeFgzR3ZaU2NIYW1HVVZ4MmY4VGpvazhBX2tqM0gwanRvREcwMkkxaVNzckl1YVJ4d05FRUdXbnJrLVE?oc=5",
-      "published": "2026-11-06T06:34+08:00",
-      "publisher": "經濟日報"
     }
   ],
   "events": [
+    {
+      "symbol": "2317",
+      "company": "鴻海",
+      "type": "台股法說會",
+      "datetime": "2026-11-13T09:00+08:00",
+      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=0",
+      "source": "TDCC 公司投資人關係整合平台"
+    },
     {
       "symbol": "2327",
       "company": "國巨*",
@@ -266,6 +267,14 @@
     {
       "symbol": "2421",
       "company": "建準",
+      "type": "台股法說會",
+      "datetime": "2026-11-13T09:00+08:00",
+      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=0",
+      "source": "TDCC 公司投資人關係整合平台"
+    },
+    {
+      "symbol": "2467",
+      "company": "志聖",
       "type": "台股法說會",
       "datetime": "2026-11-13T09:00+08:00",
       "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=0",
@@ -304,6 +313,30 @@
       "source": "TDCC 公司投資人關係整合平台"
     },
     {
+      "symbol": "6640",
+      "company": "均華",
+      "type": "台股法說會",
+      "datetime": "2026-11-13T09:00+08:00",
+      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=0",
+      "source": "TDCC 公司投資人關係整合平台"
+    },
+    {
+      "symbol": "2317",
+      "company": "鴻海",
+      "type": "台股法說會",
+      "datetime": "2026-11-13T10:00+08:00",
+      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=0",
+      "source": "TDCC 公司投資人關係整合平台"
+    },
+    {
+      "symbol": "3218",
+      "company": "大學光",
+      "type": "台股法說會",
+      "datetime": "2026-11-13T10:00+08:00",
+      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=0",
+      "source": "TDCC 公司投資人關係整合平台"
+    },
+    {
       "symbol": "6274",
       "company": "台燿",
       "type": "台股法說會",
@@ -322,6 +355,14 @@
     {
       "symbol": "2356",
       "company": "英業達",
+      "type": "台股法說會",
+      "datetime": "2026-11-13T14:00+08:00",
+      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=0",
+      "source": "TDCC 公司投資人關係整合平台"
+    },
+    {
+      "symbol": "2481",
+      "company": "強茂",
       "type": "台股法說會",
       "datetime": "2026-11-13T14:00+08:00",
       "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=0",
@@ -352,6 +393,14 @@
       "source": "TDCC 公司投資人關係整合平台"
     },
     {
+      "symbol": "5263",
+      "company": "智崴",
+      "type": "台股法說會",
+      "datetime": "2026-11-13T14:00+08:00",
+      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=0",
+      "source": "TDCC 公司投資人關係整合平台"
+    },
+    {
       "symbol": "5340",
       "company": "建榮",
       "type": "台股法說會",
@@ -360,11 +409,27 @@
       "source": "TDCC 公司投資人關係整合平台"
     },
     {
+      "symbol": "5457",
+      "company": "宣德",
+      "type": "台股法說會",
+      "datetime": "2026-11-13T14:00+08:00",
+      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=20",
+      "source": "TDCC 公司投資人關係整合平台"
+    },
+    {
+      "symbol": "6116",
+      "company": "彩晶",
+      "type": "台股法說會",
+      "datetime": "2026-11-13T14:00+08:00",
+      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=20",
+      "source": "TDCC 公司投資人關係整合平台"
+    },
+    {
       "symbol": "6415",
       "company": "矽力*-KY",
       "type": "台股法說會",
       "datetime": "2026-11-13T14:00+08:00",
-      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=0",
+      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=20",
       "source": "TDCC 公司投資人關係整合平台"
     },
     {
@@ -372,7 +437,7 @@
       "company": "藥華藥",
       "type": "台股法說會",
       "datetime": "2026-11-13T14:00+08:00",
-      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=0",
+      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=20",
       "source": "TDCC 公司投資人關係整合平台"
     },
     {
@@ -380,7 +445,7 @@
       "company": "騰輝電子-KY",
       "type": "台股法說會",
       "datetime": "2026-11-13T14:00+08:00",
-      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=0",
+      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=20",
       "source": "TDCC 公司投資人關係整合平台"
     },
     {
@@ -388,7 +453,7 @@
       "company": "來億-KY",
       "type": "台股法說會",
       "datetime": "2026-11-13T14:00+08:00",
-      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=0",
+      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=20",
       "source": "TDCC 公司投資人關係整合平台"
     },
     {
@@ -396,7 +461,7 @@
       "company": "新代",
       "type": "台股法說會",
       "datetime": "2026-11-13T14:00+08:00",
-      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=0",
+      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=20",
       "source": "TDCC 公司投資人關係整合平台"
     },
     {
@@ -404,7 +469,7 @@
       "company": "能率亞洲",
       "type": "台股法說會",
       "datetime": "2026-11-13T14:00+08:00",
-      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=0",
+      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=20",
       "source": "TDCC 公司投資人關係整合平台"
     },
     {
@@ -412,7 +477,7 @@
       "company": "羅昇",
       "type": "台股法說會",
       "datetime": "2026-11-13T14:00+08:00",
-      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=0",
+      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=20",
       "source": "TDCC 公司投資人關係整合平台"
     },
     {
@@ -426,6 +491,14 @@
     {
       "symbol": "1256",
       "company": "鮮活果汁-KY",
+      "type": "台股法說會",
+      "datetime": "2026-11-13T14:30+08:00",
+      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=20",
+      "source": "TDCC 公司投資人關係整合平台"
+    },
+    {
+      "symbol": "1436",
+      "company": "華友聯",
       "type": "台股法說會",
       "datetime": "2026-11-13T14:30+08:00",
       "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=20",
@@ -450,6 +523,14 @@
     {
       "symbol": "4746",
       "company": "台耀",
+      "type": "台股法說會",
+      "datetime": "2026-11-13T14:30+08:00",
+      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=20",
+      "source": "TDCC 公司投資人關係整合平台"
+    },
+    {
+      "symbol": "4994",
+      "company": "傳奇",
       "type": "台股法說會",
       "datetime": "2026-11-13T14:30+08:00",
       "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=20",
@@ -492,7 +573,23 @@
       "company": "數泓科",
       "type": "台股法說會",
       "datetime": "2026-11-13T14:30+08:00",
-      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=20",
+      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=40",
+      "source": "TDCC 公司投資人關係整合平台"
+    },
+    {
+      "symbol": "6902",
+      "company": "GOGOLOOK",
+      "type": "台股法說會",
+      "datetime": "2026-11-13T14:30+08:00",
+      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=40",
+      "source": "TDCC 公司投資人關係整合平台"
+    },
+    {
+      "symbol": "1777",
+      "company": "生泰",
+      "type": "台股法說會",
+      "datetime": "2026-11-13T15:00+08:00",
+      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=40",
       "source": "TDCC 公司投資人關係整合平台"
     },
     {
@@ -500,7 +597,7 @@
       "company": "大豐電",
       "type": "台股法說會",
       "datetime": "2026-11-13T15:00+08:00",
-      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=20",
+      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=40",
       "source": "TDCC 公司投資人關係整合平台"
     },
     {
@@ -508,7 +605,15 @@
       "company": "順藥",
       "type": "台股法說會",
       "datetime": "2026-11-13T15:00+08:00",
-      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=20",
+      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=40",
+      "source": "TDCC 公司投資人關係整合平台"
+    },
+    {
+      "symbol": "3357",
+      "company": "臺慶科",
+      "type": "台股法說會",
+      "datetime": "2026-11-13T15:10+08:00",
+      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=40",
       "source": "TDCC 公司投資人關係整合平台"
     },
     {
@@ -516,7 +621,7 @@
       "company": "耕興",
       "type": "台股法說會",
       "datetime": "2026-11-13T15:10+08:00",
-      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=20",
+      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=40",
       "source": "TDCC 公司投資人關係整合平台"
     },
     {
@@ -524,7 +629,7 @@
       "company": "宇辰系統",
       "type": "台股法說會",
       "datetime": "2026-11-13T15:10+08:00",
-      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=20",
+      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=40",
       "source": "TDCC 公司投資人關係整合平台"
     },
     {
@@ -532,7 +637,7 @@
       "company": "美時",
       "type": "台股法說會",
       "datetime": "2026-11-13T16:00+08:00",
-      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=20",
+      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=40",
       "source": "TDCC 公司投資人關係整合平台"
     },
     {
@@ -540,7 +645,7 @@
       "company": "力旺",
       "type": "台股法說會",
       "datetime": "2026-11-13T16:00+08:00",
-      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=20",
+      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=40",
       "source": "TDCC 公司投資人關係整合平台"
     },
     {
@@ -548,7 +653,15 @@
       "company": "嘉澤",
       "type": "台股法說會",
       "datetime": "2026-11-13T16:00+08:00",
-      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=20",
+      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=40",
+      "source": "TDCC 公司投資人關係整合平台"
+    },
+    {
+      "symbol": "5425",
+      "company": "台半",
+      "type": "台股法說會",
+      "datetime": "2026-11-13T16:00+08:00",
+      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=40",
       "source": "TDCC 公司投資人關係整合平台"
     },
     {
@@ -556,7 +669,23 @@
       "company": "合邦",
       "type": "台股法說會",
       "datetime": "2026-11-13T16:00+08:00",
-      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=20",
+      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=40",
+      "source": "TDCC 公司投資人關係整合平台"
+    },
+    {
+      "symbol": "8072",
+      "company": "陞泰",
+      "type": "台股法說會",
+      "datetime": "2026-11-13T16:00+08:00",
+      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=40",
+      "source": "TDCC 公司投資人關係整合平台"
+    },
+    {
+      "symbol": "2458",
+      "company": "義隆",
+      "type": "台股法說會",
+      "datetime": "2026-11-13T16:10+08:00",
+      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=40",
       "source": "TDCC 公司投資人關係整合平台"
     },
     {
@@ -564,7 +693,15 @@
       "company": "高力",
       "type": "台股法說會",
       "datetime": "2026-11-13T16:10+08:00",
-      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=20",
+      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=40",
+      "source": "TDCC 公司投資人關係整合平台"
+    },
+    {
+      "symbol": "2376",
+      "company": "技嘉",
+      "type": "台股法說會",
+      "datetime": "2026-11-13T16:30+08:00",
+      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=40",
       "source": "TDCC 公司投資人關係整合平台"
     },
     {
@@ -572,7 +709,15 @@
       "company": "保瑞",
       "type": "台股法說會",
       "datetime": "2026-11-13T16:30+08:00",
-      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=20",
+      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=40",
+      "source": "TDCC 公司投資人關係整合平台"
+    },
+    {
+      "symbol": "6415",
+      "company": "矽力*-KY",
+      "type": "台股法說會",
+      "datetime": "2026-11-13T21:00+08:00",
+      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=40",
       "source": "TDCC 公司投資人關係整合平台"
     },
     {
@@ -588,7 +733,15 @@
       "company": "聯電",
       "type": "台股法說會",
       "datetime": "2026-11-16T09:00+08:00",
-      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=40",
+      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=60",
+      "source": "TDCC 公司投資人關係整合平台"
+    },
+    {
+      "symbol": "2317",
+      "company": "鴻海",
+      "type": "台股法說會",
+      "datetime": "2026-11-16T09:00+08:00",
+      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=60",
       "source": "TDCC 公司投資人關係整合平台"
     },
     {
@@ -596,7 +749,7 @@
       "company": "國巨*",
       "type": "台股法說會",
       "datetime": "2026-11-16T09:00+08:00",
-      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=40",
+      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=60",
       "source": "TDCC 公司投資人關係整合平台"
     },
     {
@@ -604,7 +757,7 @@
       "company": "台積電",
       "type": "台股法說會",
       "datetime": "2026-11-16T09:00+08:00",
-      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=40",
+      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=60",
       "source": "TDCC 公司投資人關係整合平台"
     },
     {
@@ -612,7 +765,15 @@
       "company": "建準",
       "type": "台股法說會",
       "datetime": "2026-11-16T09:00+08:00",
-      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=40",
+      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=60",
+      "source": "TDCC 公司投資人關係整合平台"
+    },
+    {
+      "symbol": "3131",
+      "company": "弘塑",
+      "type": "台股法說會",
+      "datetime": "2026-11-16T09:00+08:00",
+      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=60",
       "source": "TDCC 公司投資人關係整合平台"
     },
     {
@@ -620,7 +781,15 @@
       "company": "萬潤",
       "type": "台股法說會",
       "datetime": "2026-11-16T09:00+08:00",
-      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=40",
+      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=60",
+      "source": "TDCC 公司投資人關係整合平台"
+    },
+    {
+      "symbol": "6223",
+      "company": "旺矽",
+      "type": "台股法說會",
+      "datetime": "2026-11-16T09:00+08:00",
+      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=60",
       "source": "TDCC 公司投資人關係整合平台"
     },
     {
@@ -628,7 +797,7 @@
       "company": "南俊國際",
       "type": "台股法說會",
       "datetime": "2026-11-16T09:00+08:00",
-      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=40",
+      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=60",
       "source": "TDCC 公司投資人關係整合平台"
     },
     {
@@ -636,182 +805,6 @@
       "company": "萊德光電-KY",
       "type": "台股法說會",
       "datetime": "2026-11-16T09:00+08:00",
-      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=40",
-      "source": "TDCC 公司投資人關係整合平台"
-    },
-    {
-      "symbol": "6526",
-      "company": "達發",
-      "type": "台股法說會",
-      "datetime": "2026-11-16T11:00+08:00",
-      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=40",
-      "source": "TDCC 公司投資人關係整合平台"
-    },
-    {
-      "symbol": "1102",
-      "company": "亞泥",
-      "type": "台股法說會",
-      "datetime": "2026-11-16T14:00+08:00",
-      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=40",
-      "source": "TDCC 公司投資人關係整合平台"
-    },
-    {
-      "symbol": "1905",
-      "company": "華紙",
-      "type": "台股法說會",
-      "datetime": "2026-11-16T14:00+08:00",
-      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=40",
-      "source": "TDCC 公司投資人關係整合平台"
-    },
-    {
-      "symbol": "3014",
-      "company": "聯陽",
-      "type": "台股法說會",
-      "datetime": "2026-11-16T14:00+08:00",
-      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=40",
-      "source": "TDCC 公司投資人關係整合平台"
-    },
-    {
-      "symbol": "3105",
-      "company": "穩懋",
-      "type": "台股法說會",
-      "datetime": "2026-11-16T14:00+08:00",
-      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=40",
-      "source": "TDCC 公司投資人關係整合平台"
-    },
-    {
-      "symbol": "5292",
-      "company": "華懋",
-      "type": "台股法說會",
-      "datetime": "2026-11-16T14:00+08:00",
-      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=40",
-      "source": "TDCC 公司投資人關係整合平台"
-    },
-    {
-      "symbol": "6138",
-      "company": "茂達",
-      "type": "台股法說會",
-      "datetime": "2026-11-16T14:00+08:00",
-      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=40",
-      "source": "TDCC 公司投資人關係整合平台"
-    },
-    {
-      "symbol": "6223",
-      "company": "旺矽",
-      "type": "台股法說會",
-      "datetime": "2026-11-16T14:00+08:00",
-      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=40",
-      "source": "TDCC 公司投資人關係整合平台"
-    },
-    {
-      "symbol": "6274",
-      "company": "台燿",
-      "type": "台股法說會",
-      "datetime": "2026-11-16T14:00+08:00",
-      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=40",
-      "source": "TDCC 公司投資人關係整合平台"
-    },
-    {
-      "symbol": "6510",
-      "company": "精測",
-      "type": "台股法說會",
-      "datetime": "2026-11-16T14:00+08:00",
-      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=40",
-      "source": "TDCC 公司投資人關係整合平台"
-    },
-    {
-      "symbol": "6697",
-      "company": "東捷資訊",
-      "type": "台股法說會",
-      "datetime": "2026-11-16T14:00+08:00",
-      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=40",
-      "source": "TDCC 公司投資人關係整合平台"
-    },
-    {
-      "symbol": "7786",
-      "company": "東方風能",
-      "type": "台股法說會",
-      "datetime": "2026-11-16T14:00+08:00",
-      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=40",
-      "source": "TDCC 公司投資人關係整合平台"
-    },
-    {
-      "symbol": "8299",
-      "company": "群聯",
-      "type": "台股法說會",
-      "datetime": "2026-11-16T14:00+08:00",
-      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=60",
-      "source": "TDCC 公司投資人關係整合平台"
-    },
-    {
-      "symbol": "2459",
-      "company": "敦吉",
-      "type": "台股法說會",
-      "datetime": "2026-11-16T14:30+08:00",
-      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=60",
-      "source": "TDCC 公司投資人關係整合平台"
-    },
-    {
-      "symbol": "2897",
-      "company": "王道銀行",
-      "type": "台股法說會",
-      "datetime": "2026-11-16T14:30+08:00",
-      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=60",
-      "source": "TDCC 公司投資人關係整合平台"
-    },
-    {
-      "symbol": "5234",
-      "company": "達興材料",
-      "type": "台股法說會",
-      "datetime": "2026-11-16T14:30+08:00",
-      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=60",
-      "source": "TDCC 公司投資人關係整合平台"
-    },
-    {
-      "symbol": "6730",
-      "company": "常廣",
-      "type": "台股法說會",
-      "datetime": "2026-11-16T14:30+08:00",
-      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=60",
-      "source": "TDCC 公司投資人關係整合平台"
-    },
-    {
-      "symbol": "7856",
-      "company": "漢測",
-      "type": "台股法說會",
-      "datetime": "2026-11-16T14:30+08:00",
-      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=60",
-      "source": "TDCC 公司投資人關係整合平台"
-    },
-    {
-      "symbol": "9933",
-      "company": "中鼎",
-      "type": "台股法說會",
-      "datetime": "2026-11-16T14:30+08:00",
-      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=60",
-      "source": "TDCC 公司投資人關係整合平台"
-    },
-    {
-      "symbol": "1907",
-      "company": "永豐餘",
-      "type": "台股法說會",
-      "datetime": "2026-11-16T15:00+08:00",
-      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=60",
-      "source": "TDCC 公司投資人關係整合平台"
-    },
-    {
-      "symbol": "7861",
-      "company": "貝爾威勒",
-      "type": "台股法說會",
-      "datetime": "2026-11-16T15:00+08:00",
-      "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=60",
-      "source": "TDCC 公司投資人關係整合平台"
-    },
-    {
-      "symbol": "6111",
-      "company": "光聚晶電",
-      "type": "台股法說會",
-      "datetime": "2026-11-16T16:00+08:00",
       "url": "https://irplatform.tdcc.com.tw/ir/event/list?lang=zh&max=20&offset=60",
       "source": "TDCC 公司投資人關係整合平台"
     }
