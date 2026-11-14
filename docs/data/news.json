@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-14T14:31:59+08:00",
+  "updated_at": "2026-11-14T23:08:22+08:00",
   "news": [
     {
       "market": "美股",
-      "title": "【即時新聞】輝達(NVDA)遇高層震撼彈重挫13%！AI熱潮不滅，資金輪動卡位這3檔巨頭 - CMoney投資網誌",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOODFyOHpQV3Z1Q2xvZXRDS1VWbHdKbmJ3YWQ5ZDBqUnJaZGk3YTdWMU9nalpzOEsydzgwcVM4WmFHNzlLYzVFcUc1YXVVNHJqTUJ0ZUxLZmtzVlowaExfVFpPazBqNlo5QXVKaDJPaF9jQzZOYUFZZlQ1ZVlpNWVjakVOM1J5TGpqc2NzUTJPd18?oc=5",
-      "published": "2026-11-14T07:51+08:00",
-      "publisher": "CMoney投資網誌"
+      "title": "輝達財報後股價將波動多少？市場估單週漲跌幅達9% - 鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1wZ2ZVbzBrSDlBeDhLYXdWckV2LTV6X01Gc2t3dXpGZzAtSFhFSVZ4TURXZFR5TDRtNG9Ub0tINGhuTElxS3hycFhHLTBjeUk?oc=5",
+      "published": "2026-11-14T16:10+08:00",
+      "publisher": "鉅亨網"
     },
     {
       "market": "美股",
@@ -73,6 +73,13 @@
     },
     {
       "market": "財報新聞",
+      "title": "輝達黃仁勳辭職！33 年掌舵生涯落幕、財務長暫代執行長，NVIDIA 股價與台股 AI 供應鏈影響分析 - 果仁家",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBrX2kydUZSa1YxTmd4c3RRdTNJRDQ2R1ZGaWlSNFVEbWxDb09UeExhX0VTTU1JX2Ywa245b3NUM1RhSHJWZmd6VlZZLUpKVEY1SXNR?oc=5",
+      "published": "2026-11-12T23:19+08:00",
+      "publisher": "果仁家"
+    },
+    {
+      "market": "財報新聞",
       "title": "2026 鴻海法說會直播 11/12 下午 3 點登場！線上看連結、Q3 財報 5 大焦點一次看 - 果仁家",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Ld3JXUURiNVdKU3JzRF9BaENuVDZyOVVwUldNR2NCcDNrWFk2X0xjM3BfcjEtSjliSnNrWjVtZkQ4MWM1RHNJUWw1LUJ4WFNrODBj?oc=5",
       "published": "2026-11-12T20:30+08:00",
@@ -93,18 +100,18 @@
       "publisher": "Yahoo股市"
     },
     {
+      "market": "美股",
+      "title": "彭博：輝達董事會準備撤換黃仁勳 委外物色新執行長 盤後股價崩超7% - 鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5HS01iTnNBaktoeC16RjR1WGY4Q3BpenBVQUZ3WTloSGlmTUxXaXNNWW5ubTIzSmh5RWFVUWh4alMydXkwZW9uMi1pZl9DUTg?oc=5",
+      "published": "2026-11-12T10:10+08:00",
+      "publisher": "鉅亨網"
+    },
+    {
       "market": "財報新聞",
       "title": "黃仁勳恐遭董事會撤換？輝達啟動獨立調查，11月17日財報成國會簡報前關鍵｜美股觀察｜豐雲學堂2026 年 11 月 - 永豐金證券",
       "url": "https://news.google.com/rss/articles/CBMingRBVV95cUxQTjg0NjBnY0szZDg2c1ZVRU5LM3A2NjB2Q29UNlpGWk9mZnZsN1MtbERTYi1kbVhRMElYc09qa0RrdHBvOGFtYVY5azdwa0pnTm9QOGVFZkI3TjMxXzlmUzlMU3NsdTYzSW1jVDhPOFBTaUFRRmVRQkViRTA2YnRQeFVGZFp6elpkSndmVXJ5VUp5dzdwUnVSUXNHeHh6RHVIU1VMS29oaGNEdG9BMXQ3V1h3N0NObFlER2dBWW5PVjNZeHY0MGd5V2tnSV9XQkstOVQ3RmlJcmN0OGREY1RPcnNNVkJBT2w4R1FjNWg1TEh1a1FUX3NmdjZPTmxEQkREUEtqWHJ4RWdNZDNMd19jdG4tS3pCakgzVUVFMi1HaXhRZlhPWUIyN1RCc0FFV0dPQTdaVnZyZ2tqeU1KZlhDaGs1TnFnaUdjNi1yaGY5MG1NZVJicXBQcENxNlE4a2VkeFppU25ZN01adWRROXNzRUhka3BhNDlpUFg1SFByaUg4Z3VOSlhxUU14YnIwT18wdHlYdUxmRWRQWWRJOTQ4aEVkaFpocHZXRngtckpaVjhrNmJXNFlXQXFsY2lTUkZ5UVdSYjJsa21lM1JWT2EtWmpuNzBWWDhjMm9SWVVUUnlsMjRRMWtTZkxUQ1AwWnoyVWg0SS1lZ1RyaFVGSjk0cVU5LXFFLVlLNWJuLXlDdVF6UERHNkVwSGg1eS1pUQ?oc=5",
       "published": "2026-11-12T08:55+08:00",
       "publisher": "永豐金證券"
-    },
-    {
-      "market": "美股",
-      "title": "彭博：輝達董事會準備撤換黃仁勳 委外物色新執行長 盤後股價崩超7% - 鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5HS01iTnNBaktoeC16RjR1WGY4Q3BpenBVQUZ3WTloSGlmTUxXaXNNWW5ubTIzSmh5RWFVUWh4alMydXkwZW9uMi1pZl9DUTg?oc=5",
-      "published": "2026-11-12T08:02+08:00",
-      "publisher": "鉅亨網"
     },
     {
       "market": "財報新聞",
@@ -142,25 +149,11 @@
       "publisher": "CMoney"
     },
     {
-      "market": "美股",
-      "title": "美股重點新聞摘要2026年11月11日 - 鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5vV2dSYV9FN0JkUUZmUHM0WXdxSEwzUzdkUUtkTFV5cElORnVhOW5BTFdQU2hCUG12V0xBUmN4NWtLRFFrMEFRUHlWdw?oc=5",
-      "published": "2026-11-11T08:10+08:00",
-      "publisher": "鉅亨網"
-    },
-    {
       "market": "財報新聞",
       "title": "三事件變化牽動台股後市 永豐投顧：大盤 43K 以下本益比低 觀望不殺低 - 經濟日報",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GeWlGSUxEMHVrd0I5eTQ0UVV3N1lKS1JLS0dkMVJrZi1LLXNJeFk3bEROaTYxNUxQV2hTNVBVRkhyQ21naWQ0Z2dwTHRZYzdTMGJyM1A5bDU5d9IBX0FVX3lxTFBiT3lVTHprT2xjbnFsS0lKTFNYcW1TNFdPeTIzT2R6VE1BRFZlSWFoaDJEam9tUmV4czVLVV9qU2dwOXFidlpkX3gxWGZ2UXpsb1hZdkhhaG14OGJodWxF?oc=5",
       "published": "2026-11-10T16:00+08:00",
       "publisher": "經濟日報"
-    },
-    {
-      "market": "美股",
-      "title": "輝達逆勢跌逾4% 成費半唯一殞落股 黃仁勳去留引爆華爾街論戰 - 鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1S2VTdXBzZHBYaHc0dDh6dXdpN3VvUUxUeGF1dnp0U2d0bGtVeC1WMV9YZThweldDSHFoTm1aQjg5TW9wRjRZbkRvMGcyd3M?oc=5",
-      "published": "2026-11-10T06:37+08:00",
-      "publisher": "鉅亨網"
     },
     {
       "market": "美股",
@@ -231,13 +224,6 @@
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB3QWZlUlRJaGkxOE8waXhmVGRZQURFdGdsRGVZVXFVWGoxc05pQlFYM3BydmxjZGxHTmxmN1dOZFlYZmZjSV90cmF1bkHSAVJBVV95cUxPVDU2SHNrVDBwS0xacG96UHVXMWFfZUItTkU3RTVjVFh4Q3JqS2dyWDVXS1c1VkFtR1VTaHpjb1pfV295SUNYTTJhdWF3ZjRTZDVR?oc=5",
       "published": "2026-11-08T07:00+08:00",
       "publisher": "NOWnews今日新聞"
-    },
-    {
-      "market": "美股",
-      "title": "美股反彈能撐多久？通膨數據、AI財報登場 下周5大國際財經焦點 - TVBS新聞網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYdlhTR1NKaUZUWUVocVg5RG5ISWFaa3ItU2FWaThXM2RVSHNhLXBrTDFqZUFfY0l2U1o2d1AwbzVSM0dHZVVIcWRjdWRyZlk?oc=5",
-      "published": "2026-11-07T17:55+08:00",
-      "publisher": "TVBS新聞網"
     }
   ],
   "events": [
