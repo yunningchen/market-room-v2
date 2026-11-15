@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-11-15T14:41:10+08:00",
+  "updated_at": "2026-11-15T23:41:21+08:00",
   "news": [
+    {
+      "market": "美股",
+      "title": "【即時新聞】輝達(NVDA)黃仁勳閃辭震撼華爾街！財報大考與高估值Anthropic掛牌成AI關鍵 - CMoney投資網誌",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWmNBNmZXYUluQzNPWVRTUjgwRGpvUWptZ3FQdFRoUEJoX2NNUTdmRVg4d1cyeXlESGptY0IzVzVJWTJzUGczS0VaQlZFZ3RtRFo0S0xMaTNLeUxwLVloUXRWN1hvS3pHSTk1d2NON05XZzhuTXVjZkdxaGlFbG1wZVhvelpPeTVnejNySGQzMlY?oc=5",
+      "published": "2026-11-15T19:53+08:00",
+      "publisher": "CMoney投資網誌"
+    },
     {
       "market": "美股",
       "title": "聯準會突發警告！大空頭加碼做空。。 - 鉅亨號",
@@ -18,8 +25,15 @@
     {
       "market": "美股",
       "title": "AI股王崩跌、華爾街洗牌：從Nvidia危機看資料中心投資大轉向 - CMoney投資網誌",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONEJMRDlJMEI5akIyY2hIbFp5dXFFTzQ5Z3l1WFkxSVlXVjhKcUQwMUxjVE5pOFNzTWtISXY4QnVkUWZHb0JDUVVzMUs0SEFWdGtpWExLaXMtNWFaeUVTMVFLMWZRQld1Vlotd2VCS2dpZ0RFNUxVamZWNHlzRWE2Xy1QMW9GbGxaRVk1SzVub3FlYmZPY1dZeVNBRkEwN2JyVTlRZkJJcUphNDQwMEw2TVBVQm5fbVI1Q282ejVOMk8weFlZcnlCUUtLZFVpZnM?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaU5GSUtma0VEbUxnNXh3SlBIMXp3d2NKNXRtLTJYUFFZbkl5cEZMdlUwQ25DdHFWZDl5ajd1V1YtZWZDWEo5UVZ2V3o4U3dDbUpTdzlhV3dHOXpZdDNnYV9fUFZqSG1KOEg1U2JGSm9lYmluZkZmUzF4R1llQ1RzOXBlSnZSeDRwXzNlZGNB?oc=5",
       "published": "2026-11-15T04:00+08:00",
+      "publisher": "CMoney投資網誌"
+    },
+    {
+      "market": "美股",
+      "title": "通膨殺不死、美股利率再拉高？Fed「抗通膨二部曲」恐重擊科技股估值 - CMoney投資網誌",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVEFTQ1h1S2ZydnpSVXliTGxzMExlbzlPaXZpTDlKamxaZF9DMGpFOHdtMG1VU1ViSFhPZWphRmhFRmNHd0dqN1EzMVAtczFCeHlnRzlxRFByOTlYOE04czJBSV9jSVpQODBQdE9JbkZSS2xuY21UZ292ZHhoblRuZkFNR05ybXFmWXp4dndB?oc=5",
+      "published": "2026-11-15T01:00+08:00",
       "publisher": "CMoney投資網誌"
     },
     {
@@ -58,24 +72,10 @@
       "publisher": "CMoney投資網誌"
     },
     {
-      "market": "台股",
-      "title": "台股收漲583點站穩43675點 單週反彈3973點終止連4黑 - Life 生活網",
-      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOUTlKZERFNEJPLTZQQ3dJeENxcVlreGpweF9BVFFZelhwY2JoWS1wSV9sb01yREJocXFzcl9adExtSHladVpjZTJtdW1fRGJVaWhTVUNHSVIwbWJqeWwxUUlfdFRTOFpBaVhtRVRUVkxYZXgwNHFsZk1jS1I4ck94OTI0aG00Tnh3djR0SEdjUThpWEloTElTRWNXYkxSTUZwYmRDa0t4dDNtUDdEa1JfdkRGRGYtR0VsUzR3cU9hVi1ta3pneGFMRXZscGtMY2kzNVNTSG00QzhPLWgxdm8tQkZxdGJEZHlzWVJIemYwLVZ4RDFfTGRzanNhTGM1UXRUUGlLd0NXVDVQTV94OTFhNFlSQW81UUdDVXc?oc=5",
-      "published": "2026-11-13T17:01+08:00",
-      "publisher": "Life 生活網"
-    },
-    {
-      "market": "財報新聞",
-      "title": "黃仁勳請辭懶人包》婚外情事件、輝達股價、接班人選、財報隱憂一次看｜美股觀察｜豐雲學堂2026 年 11 月 - 永豐金證券",
-      "url": "https://news.google.com/rss/articles/CBMigwRBVV95cUxQYUoxRUlueVhST2VUTXBPeV9BWUtEZVA1UXhvTFBSM3BoeWh2TzhUT3VnS1YwbEZObkJQUTlHNDR4OEV3ajJOTFNEdEJPV1R5MnZIa1JVTXVDeEZpaW1PS3Z3N3B1dVlfWjFqc2hFZmxPb1N3TXNkRnJEYm9SNGhtR2R4bzJWYXBESHVlSDc4ZExKU0tvSmY5S1BBMUFYRXFkcHZhZ0hQNGN3SHh2Ykdhb3RwLVI5VXJzYU5icFJ3MWJ2YUk3dFY5TTNtaE92MUY5bnpPdW9zUUpaUHJieGVIYjFFNjJ2VG44NW00alJFVWtLaDg3RnVEWnFWb0c0cmppRmFmYXdlODk0VXFCR2xUbUZDQ3M3U3lXRUNXT1l3Ny1RM0JseFNZOFBhbGJHWmJvZ3lDbFVCdGkwUUMybU9kOElJaXk2WnRUQVBTWHE2ZnNzQmpzaHZhMTN1aW5zeGhTMFk1bzhYb0k5eldzNTJWdXhral8yRXVoRERGNmV6cnlSaWNBSlZhMjFENGhYQWhNQU5EaWpSR1h2eXNHR0JPbnozVHduRXJRRUFqclpka1hURjRxbDhZLUJsQVE4b2hweXFUMGU4dGxjSnV1bHhRb1M4Q1JXLW56Q2RmRXZvcGh5enI0cEJ0Y3dnc282azdRZ2ZxOUVEd1c0cUtxcllZSGxFcw?oc=5",
-      "published": "2026-11-13T16:00+08:00",
-      "publisher": "永豐金證券"
-    },
-    {
       "market": "財報新聞",
       "title": "NVIDIA 輝達財報 11/18 公布！黃仁勳辭職後首場法說，Q3 營收預估 1,080 億美元 - 果仁家",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1hNGk1dU5MbDhwRHVCdU5iX0dpUUVwRFVfbmJDRGF0M2gzQV96TS1lajM2RzdoSjJlQ3lZa3gyVVNsbTgxNE5pLXBvc3ZxcG1IYi1z?oc=5",
-      "published": "2026-11-13T11:05+08:00",
+      "published": "2026-11-13T16:56+08:00",
       "publisher": "果仁家"
     },
     {
@@ -121,13 +121,6 @@
       "publisher": "果仁家"
     },
     {
-      "market": "財報新聞",
-      "title": "2026 鴻海 Q3 財報出爐！EPS 5.51 元、營收突破 3 兆，AI 機櫃帶動全年展望上修 - 果仁家",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1OSzRoaGFOdU11Ynd4N0ZySUlDSkpxQXZEQk5wazUzaFVweVpqYU5fY01mdDJ2TGd3a2pybGF1Z0F2eUxjbk0xb2hXWnhSZlJJc3lB?oc=5",
-      "published": "2026-11-12T20:30+08:00",
-      "publisher": "果仁家"
-    },
-    {
       "market": "台股",
       "title": "黃仁勳若下台恐衝擊半導體！分析師點名「這2家」公司有望受惠 - Yahoo股市",
       "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxPcDB6bVhGTUFIMHdBZjNBVFptMjgzeFI3X0dlaFNDbmNZQnBuZEtGaTV4Mm83QXM2MldvTmN4ZkFHaUw3cjZMMldfYTR4N2Q1X2F4YXBqY0ZPaUxrUnJfQjlXbUwwNmlONUhhVkpWbUFUVDNGeTVoWHU4MjI2ZE9aVWtiRk91T05KeFQ2ckw1cV9nYS1hVTB1YUNlYzJuUzVyWHI3aWVhVE9EUVAtdHlkbHE5NFZ0OFAwYmZqN2JzenA3cUpZeDgwM3E4bEQyMEZNU1pMdHIwZzk3aVZKZmhsQ1JPel9POV9ZYkNOcU8wdUlYUnlkZ3pUVnlSc2kyRHFoM045dFA4Vi10VVRFS3JPZ1FyQjlTeGdjTERJaUg2LW45ZnNEc1FwaTVrWHE2TzNTSURsT3pLNm0tWXdzeWZHS2VobXZ0clJWdjA5aUZQVGZ1ZUpBcVlVVVY4RndzN2k5S01QYThVMW5uVkIxUjVObGlzcW9kaXhtLU1VQ3BsLWd2Sy11Q2lrZ3V3aDQ?oc=5",
@@ -140,6 +133,13 @@
       "url": "https://news.google.com/rss/articles/CBMingRBVV95cUxQTjg0NjBnY0szZDg2c1ZVRU5LM3A2NjB2Q29UNlpGWk9mZnZsN1MtbERTYi1kbVhRMElYc09qa0RrdHBvOGFtYVY5azdwa0pnTm9QOGVFZkI3TjMxXzlmUzlMU3NsdTYzSW1jVDhPOFBTaUFRRmVRQkViRTA2YnRQeFVGZFp6elpkSndmVXJ5VUp5dzdwUnVSUXNHeHh6RHVIU1VMS29oaGNEdG9BMXQ3V1h3N0NObFlER2dBWW5PVjNZeHY0MGd5V2tnSV9XQkstOVQ3RmlJcmN0OGREY1RPcnNNVkJBT2w4R1FjNWg1TEh1a1FUX3NmdjZPTmxEQkREUEtqWHJ4RWdNZDNMd19jdG4tS3pCakgzVUVFMi1HaXhRZlhPWUIyN1RCc0FFV0dPQTdaVnZyZ2tqeU1KZlhDaGs1TnFnaUdjNi1yaGY5MG1NZVJicXBQcENxNlE4a2VkeFppU25ZN01adWRROXNzRUhka3BhNDlpUFg1SFByaUg4Z3VOSlhxUU14YnIwT18wdHlYdUxmRWRQWWRJOTQ4aEVkaFpocHZXRngtckpaVjhrNmJXNFlXQXFsY2lTUkZ5UVdSYjJsa21lM1JWT2EtWmpuNzBWWDhjMm9SWVVUUnlsMjRRMWtTZkxUQ1AwWnoyVWg0SS1lZ1RyaFVGSjk0cVU5LXFFLVlLNWJuLXlDdVF6UERHNkVwSGg1eS1pUQ?oc=5",
       "published": "2026-11-12T08:55+08:00",
       "publisher": "永豐金證券"
+    },
+    {
+      "market": "財報新聞",
+      "title": "(2049)上銀法說會 2026/11、上銀財報、上銀展望、上銀財報投資亮點｜理柴知道:法說最速報! - 方格子 - Vocus",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFByWS1Qci1iQVFtWVZ6Tmc4TzlncG1QZmtzVjctdE1UcEl5SHNZTlM1SWV3ci1zMWlBcVJ6bFNHWHBfRmpYamhNaHp5ampjRGdHUnJzLWhDYWdtR05sQ0HSAWNBVV95cUxPRGx2Uk5Edlg2Njd5UlVINDRsYzdTcEFGMWJIUlNNSjBaTERRQmVpcDN5SEhQQVYzUjlXbTN5NHJIUXpTSTZMZ2ZsdlpRWGp1OFhtYVUyN1o4QXpnVVY4ZzEtcmM?oc=5",
+      "published": "2026-11-11T23:48+08:00",
+      "publisher": "Vocus"
     },
     {
       "market": "美股",
@@ -157,17 +157,17 @@
     },
     {
       "market": "美股",
-      "title": "CoreWeave財報擊鼓點燃AI基礎股狂飆！三大指數期貨齊揚、納指領漲 - CMoney投資網誌",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPY1UyekV5YWdBd2hZOEE1OExIT2RleF9heHliVmxBaWowaTFCWUtTcDI1Z1RnUHV3b285N2RTN0oyZ2lrbXZ1eHpyU01JdFdUdUVjRGppZVQ1UWR2VnV4RWI4S1F3OWpDaFlMUkFDTjVZQXRzSU8zSTU0QXg4aFhJVGl3UnpIZXZMaEpHMXJn?oc=5",
-      "published": "2026-11-11T18:02+08:00",
+      "title": "「AI 熱」硬碰「高利率時代」：華爾街與亞洲股市的驚險共舞 - CMoney投資網誌",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbWtFbm1yLWdsaUZnc3ZCclVRbHg2TlRvRXlDbEg0Sm1uRHI3LVdLeVlqY0tNRkFnUXRwQ1BXek9PM2RCRWxNV2w2dkVramxMTWUzRFVSSWMyLU1Lb1haVm1xcmF1Z0pRQVBDbDZyYzEyLTZldmpzVjRRV2FBbEp1WnRIR0FhVHhERXpBMDZ3?oc=5",
+      "published": "2026-11-11T15:00+08:00",
       "publisher": "CMoney投資網誌"
     },
     {
       "market": "美股",
-      "title": "「AI 熱」硬碰「高利率時代」：華爾街與亞洲股市的驚險共舞 - CMoney",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBKbm9OY09oZjM2eEVJNlU5WWp2SjVkUURNQXFfWnpSaVE5YmxkbF8yMy1UMHNYWVV4VDJGVjF1b1JDNktzWkRxNkh4Ny1yODBLUlFIYUU5WWNwQUU3dklkRmdIcUVlRXM?oc=5",
-      "published": "2026-11-11T15:00+08:00",
-      "publisher": "CMoney"
+      "title": "AI 熱潮退燒？從華爾街到歐洲股市：『簡單 AI 概念股』時代恐落幕 - CMoney投資網誌",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQLVdmN0wwVGxsNnNwWFljb0hVMDFtSGlXeHNRQm9IMEw2UU1XajZveDctVWxzQnVGZGhGWGNzYkhhNDZEbEo1MEt3N0pDMnBNdVlxSEJCZjMxbl9zNUJnZjlHYUFkalFTVzdjdEJ3a1E5X0p3d1ZEZEoxcU9vUUVSMmJBbzdrZlRBZWg4UTVB?oc=5",
+      "published": "2026-11-10T19:00+08:00",
+      "publisher": "CMoney投資網誌"
     },
     {
       "market": "財報新聞",
@@ -178,16 +178,30 @@
     },
     {
       "market": "美股",
-      "title": "AI 股暴跌＋黃仁勳陷色諜風暴：華爾街被迫面對的「接班黑洞」 - CMoney投資網誌",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWmRob2w2eXRSajRJc1B3MGY0aFVqV0MtUUxYYmtGbHBXVkRBb3lNbHh5eWdKQV9vekZQdDVVOV9rTUd3ckVLWjR1Z2pxT2c4LUQ5WjFZZHR5RnlpUTB5eXpYU18zaTQyVFltc1FSU3lWSE14czRJeXRzVjBpaHVKS2xzS3BWenFZcHZ5WlVn?oc=5",
-      "published": "2026-11-09T20:00+08:00",
-      "publisher": "CMoney投資網誌"
+      "title": "〈美股早盤〉買盤回來了！油價下跌助攻 道瓊漲600點 - 鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wdVZSdFQ4eDRuNUJUcDFYSEpDS1V0clROV2dZalVkc1VicUtncjBUaGI3emxBWE5jenJoWlBiM0JOb2xsXzAtcGo5bU1QSzQ?oc=5",
+      "published": "2026-11-09T22:39+08:00",
+      "publisher": "鉅亨網"
     },
     {
       "market": "美股",
-      "title": "華爾街期貨試圖反彈但恐慌未解：英偉達CEO涉外國情報疑雲，AI題材震盪加劇 - CMoney投資網誌",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObTlzcFZnX0ZER0V0N3JBVlIyMm50R0NlSkJqOXVpMW5HR0NnTFVzVjB3NTRtMkwtZnVEQnR2bDdwTGZVM0o5ZnlzX0M2cWxDX0VZUm1GMDdicmJVUE5QZExQS1FsNDFkWHNGdUNwS0E5dFpIcXBiZXpRdDFIa2oyaVBNbHBkQU9jNTlLV2xn?oc=5",
-      "published": "2026-11-09T19:14+08:00",
+      "title": "標題 : 華爾街期指逢低買盤回歸：股市反彈受擾於英偉達執行長調查陰影 - 美股放大鏡",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd2p3MWtQRWNJdmtuSVE3X05GQlJVcm1SdE1ZZ2YxZVhWRU9ES2dfVzV1a1d4TDFmdDA5NlJYelhJTTBtMGM0dUVhSnlQRXBrY0dTRGZ1UkRDRTZHRFJKWWw5MUxBMjlQTmNjWDdrcFBPQ3dJb05uTjA2R2lkMF9kTzR3N1dMaGRxWTBaNV9IOWNkckI1?oc=5",
+      "published": "2026-11-09T20:44+08:00",
+      "publisher": "美股放大鏡"
+    },
+    {
+      "market": "財報新聞",
+      "title": "(8299)群聯法說會 2026/11、群聯財報、群聯展望、群聯財報投資亮點｜理柴知道:法說最速報! - 方格子 - Vocus",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Makp1Tk1BYlBxNXhLTGVXVm5KbDdFQ0szcm9FU09TUUdPcFVXWGU1OWlLUDZ2MU9oUV9vTG8yeGJlWV9JQmtVWGI1ZHlYYUlydmpiYVc4cDBHcUF6VnfSAWNBVV95cUxNNTREQUdNb0ZwQ0otTVZmM1poRFZ5SzNIYVJQTnpIWlV3ZUVaQXRqaEt2ZGdRQmkwRl84NkktYVBpSVQ2ODM1QTdSMkQ0S0E3ZklvTWNSdkxfYkpDdmdEOV8yRG8?oc=5",
+      "published": "2026-11-09T20:34+08:00",
+      "publisher": "Vocus"
+    },
+    {
+      "market": "美股",
+      "title": "AI 股暴跌＋黃仁勳陷色諜風暴：華爾街被迫面對的「接班黑洞」 - CMoney投資網誌",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWmRob2w2eXRSajRJc1B3MGY0aFVqV0MtUUxYYmtGbHBXVkRBb3lNbHh5eWdKQV9vekZQdDVVOV9rTUd3ckVLWjR1Z2pxT2c4LUQ5WjFZZHR5RnlpUTB5eXpYU18zaTQyVFltc1FSU3lWSE14czRJeXRzVjBpaHVKS2xzS3BWenFZcHZ5WlVn?oc=5",
+      "published": "2026-11-09T20:00+08:00",
       "publisher": "CMoney投資網誌"
     },
     {
@@ -210,13 +224,6 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5CTGtfLW1rQk9aRHdyanFlZVcwcE5yMmlLelhiSkgwa0NRYzFKVGpHRlZzdXZMMnpwV041QkdUQ0NPV2gzSG5iWE1tbw?oc=5",
       "published": "2026-11-09T04:41+08:00",
       "publisher": "三立新聞網SETN.com"
-    },
-    {
-      "market": "美股",
-      "title": "美國本週新財報、消費者物價指數將牽動AI交易信心華爾街迎接不確定的選後局勢| 國際焦點 - 太報 TaiSounds",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5GUGFieDR0czFWT2szRzh2SFcwOGNxR2YxZU1VXzY3Z2ExRmJNcnEwUlBGN0pIMEtiVDNIVUxfVEo2WmJRdDdKS3FjOGpFV1l5Nk9oMXoxVnh5LXVK?oc=5",
-      "published": "2026-11-08T22:42+08:00",
-      "publisher": "太報 TaiSounds"
     }
   ],
   "events": [
