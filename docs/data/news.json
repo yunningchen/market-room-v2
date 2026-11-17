@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-11-18T01:39:40+08:00",
+  "updated_at": "2026-11-18T05:28:58+08:00",
   "news": [
+    {
+      "market": "美股",
+      "title": "華爾街在英偉達財報與Anthropic登臺前急跌：AI熱潮遇醜聞、政策與利率三重風暴 - CMoney投資網誌",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRk9Bd1pjYjNWRXRSSmVKWnFudjkxeVU2WHBxWmxFTGp1Q01FNzRTZXR5VXhoN1R0eUZVeWFsZ2dnSGI0YkFYQ0JlZ25TdjFOV3NSbHRkajYxdFJyMWEtNVhIcFMxdWNydmJWb1U4aUZfWDdySXhScG9NSUk4S2xncTZKZ0xJY2pwblVUcTV3?oc=5",
+      "published": "2026-11-18T04:09+08:00",
+      "publisher": "CMoney投資網誌"
+    },
     {
       "market": "美股",
       "title": "Nvidia財報前華爾街下滑、Anthropic IPO價位受注目 AI熱潮遭市場更挑剔 - CMoney投資網誌",
@@ -16,24 +23,17 @@
       "publisher": "民視財經網"
     },
     {
+      "market": "台股",
+      "title": "全球經濟指標| 鉅亨網 - 鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MWDczb0VIbE5YVlR6aDRlcDBqNlhFWUNZVndjczlpX2xNUmt3WTVsQXhEbmFEUGVGVUR4YjNLUTdlUUl4a3ZmTnNRWk1hSjFf?oc=5",
+      "published": "2026-11-17T22:43+08:00",
+      "publisher": "鉅亨網"
+    },
+    {
       "market": "美股",
       "title": "〈美股早盤〉AI股能否翻身？主要指數漲跌互現 市場屏息等輝達財報 - 鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9fNEt1YjkxbHl3MkVza1cwdkNobGxwS3Rtd3AtTklyNUpPd0dtUWJGLUF5YUVsdG5Bb2RqMW9DYjZ5VVEtcnkwUDVWNHRhUEk?oc=5",
       "published": "2026-11-17T22:41+08:00",
-      "publisher": "鉅亨網"
-    },
-    {
-      "market": "美股",
-      "title": "AI股票遭拋售是否過頭？還是華爾街已提前下修獲利預期？高盛揭市場兩大隱憂 - 鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9adkJHMGVaZFVpZnZRZjQ3QnUtTWxXMWlLT2hfVVhPT1RrY056OVNaTVNOT3c3U3NtWF9oRzhfM3BoWUJ0UEI1anQwalJpR2M?oc=5",
-      "published": "2026-11-17T22:10+08:00",
-      "publisher": "鉅亨網"
-    },
-    {
-      "market": "台股",
-      "title": "全球經濟指標 - 鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MWDczb0VIbE5YVlR6aDRlcDBqNlhFWUNZVndjczlpX2xNUmt3WTVsQXhEbmFEUGVGVUR4YjNLUTdlUUl4a3ZmTnNRWk1hSjFf?oc=5",
-      "published": "2026-11-17T21:01+08:00",
       "publisher": "鉅亨網"
     },
     {
@@ -44,24 +44,10 @@
       "publisher": "鉅亨網"
     },
     {
-      "market": "美股",
-      "title": "華爾街早報：美聯儲為「AI壞結局」建模，芯片新規+算力預期腰斬，英偉達財報前夜AI遭集體拋售 - PANews",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeldaNjd0VHFoa19UMXd5aHBoSVgxMHVjdHoyeVNDNWdqeVBMbUtUNXQ3Q0t3NXI2SS12a3paWlM5ZDd4SHJELTd3Tms1OW85Z3pPU000SmI3X3RCYnRMa04yWFRZX3RzNTNCZE0xUU9SbUY1bE1oREE0V1FRZ0JyaENYMGgwZw?oc=5",
-      "published": "2026-11-17T19:04+08:00",
-      "publisher": "PANews"
-    },
-    {
       "market": "台股",
       "title": "〈券商投資展望〉群益估明年台股有望衝破5萬點 惟提防這隻大黑天鵝 - 鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBqa3Zkd1FzTmV2SW1GUTkzZHlwTlAyRlFKRk9BbTFjVnVHbGxqdHRjcWhXck00eXgzZ2lUYVJsVEJDX1VZUWpwX1JxYw?oc=5",
       "published": "2026-11-17T17:38+08:00",
-      "publisher": "鉅亨網"
-    },
-    {
-      "market": "美股",
-      "title": "強美元恐成全球股市破壞球 華爾街緊盯105關鍵警戒線 - 鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE92bzJxWjd0M2U2SERXWExmeGFoSzZ6S0JwOUtMdWdhVGg5Tnc0YXh6STM1WThiZmIwT0ZSX2o5MkYxdE9UZDhTRWVrRTIyRTA?oc=5",
-      "published": "2026-11-17T15:20+08:00",
       "publisher": "鉅亨網"
     },
     {
@@ -73,17 +59,17 @@
     },
     {
       "market": "財報新聞",
+      "title": "記憶體漲價，南亞科、創見毛利率為何一升一降？ - 口袋證券",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE15RDlzYjNUVnJ6Q3hzcUs3ZVZzamlSa0FETS1rTzI3emF2a1J4UXhLUHFzNG5yLTRkVlVCRTNYeFhFSzhUakpzSmpNb0UtLS1iNHJ3Y1JvZTFnYjRkck03WWJKOF84UQ?oc=5",
+      "published": "2026-11-17T12:07+08:00",
+      "publisher": "口袋證券"
+    },
+    {
+      "market": "財報新聞",
       "title": "美股收盤／那指陷修正 AI 股希望繫於輝達財報和 Anthropic 上市 - 經濟日報",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE00bVNHMnlSNzNqTGQtSmJBNkZEZnlhX2kzVVNNU0dqRkVGcGtPWEc4NGl3NXdCNENIcl9Jbk1ob1NOUUY4UG9oamhPUXJ3TVNjeTA5ODQzTlEyUi0t0gFiQVVfeXFMTm5uS0dEcXgtX0lQZW84dW1aVnlFcG16OXdGdWZONUpaMUdyMXlhT2l2VXoxOENxVVFLLV9pRDZrMTFEY0xiWmZSVTNqaEZucVd2bEx2SFpLWGtqUVViNngteGc?oc=5",
       "published": "2026-11-17T06:38+08:00",
       "publisher": "經濟日報"
-    },
-    {
-      "market": "美股",
-      "title": "台積電ADR挫4%！美股早盤費半跌400點 | NOWNEWS今日新聞 - LINE TODAY",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE41dktxYnh3TTBJcmFaeW9mcHZCaVQzTFItazd4aTNBRUhDTzBlcWpfeXJuWkZkMkpzaEZYNGE5dEJGQ2xkbjNYVUJuUXAyeVN1WW10aEd3?oc=5",
-      "published": "2026-11-16T23:32+08:00",
-      "publisher": "LINE TODAY"
     },
     {
       "market": "美股",
@@ -143,30 +129,30 @@
     },
     {
       "market": "美股",
+      "title": "聯準會突發警告！大空頭加碼做空。。 - 鉅亨號",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA1YXdtTUxaRUJmbHJIYmxGTWpKMllqaURiVnZPNXp5TTEtU3VwUTZxU2tEaklFLUMwSUZPWU1yOWpoWUxoenlxaQ?oc=5",
+      "published": "2026-11-15T13:12+08:00",
+      "publisher": "鉅亨號"
+    },
+    {
+      "market": "美股",
       "title": "AI股王崩跌、華爾街洗牌：從Nvidia危機看資料中心投資大轉向 - CMoney投資網誌",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONEJMRDlJMEI5akIyY2hIbFp5dXFFTzQ5Z3l1WFkxSVlXVjhKcUQwMUxjVE5pOFNzTWtISXY4QnVkUWZHb0JDUVVzMUs0SEFWdGtpWExLaXMtNWFaeUVTMVFLMWZRQld1Vlotd2VCS2dpZ0RFNUxVamZWNHlzRWE2Xy1QMW9GbGxaRVk1SzVub3FlYmZPY1dZeVNBRkEwN2JyVTlRZkJJcUphNDQwMEw2TVBVQm5fbVI1Q282ejVOMk8weFlZcnlCUUtLZFVpZnM?oc=5",
       "published": "2026-11-15T04:00+08:00",
       "publisher": "CMoney投資網誌"
     },
     {
-      "market": "財報新聞",
-      "title": "台積電法說遇輝達財報AI行情的關鍵48小時 MSCI半年度調整出爐AI伺服器供電散熱誰最強？緯穎台達電奇鋐雙鴻11月17至18日法說見真章中油油價連8凍漲｜投資早知道 - Yahoo股市",
-      "url": "https://news.google.com/rss/articles/CBMigwdBVV95cUxQOXN2QXlmOEJLa2VBcEQ1SGtxRU0yOUNkUDRpQzZCMVRCWTdEVzZpVGNqTDJROFo5eC11Zy0tdGhnUFBvV1llZEwtbi1PQUdXZEdBOGJuTjhreGQxcVhwbjRHb2hOXzlFNVBtNkZVaC1YZmJGUmsxZ0xuUVhNS0JKT0tQaGlVRDlsNm5LdHdpR2lSeGpOWDI2S01hU1VMblBIR2JvX05vcWVucFotd1hBVHNRWlROZUhsTjZPdzdNMTI5M1BpYWFoSlV1dzRKNjZPQUNCY2FnS0VRSGtDYXhINFlmU1BMQ0dINklkckFRc28tVF9xT0xIOHZvUW1hV0NHWHFRX051UmpUQVhaVEp1OUN0Wk1teEpjVndCU19ZS2lDU2F2Qkcwdl80V0lSd1lpS3FHVzVZM1VqdFJzYWd4bjM4T2p0YkNDMW9ZZEJyVkhDQk5CY1dEdGRtRHpSWU1QVFcyTGV0eUhKS0F0dXVRNjUwY3RDOW9sUHJ4ZzNZOVBuVWUxUFotYXNBdmhjUVZicHFZZWJwVXRjOG1fYmpWS0ltN0lSb1VvM0NnNXNaODJFYndiZXFJTHpiRW0yT1NzdnpENTZpSnNON0R1SnhkUEhMcUV1UjNHclhvODVHNHFnSTdwU2pXaTFRQjB0WWxzaWJBblN6TjZZRVA2cGR5QUEwSmFJX3hlY1JyMFFhM2xTc0lpb0ppeHh1ZzE2Ty01SDczeC1YdWdLRmlYR3BuczFfVm5Ob1djMy1aN1gxWXk5UGFBZVVGM1g4bHA5Rzd5WHFQMS1FWFpnTFk1VWc4NkJQS3Bmb3V0X0sxSkVuTHhtTE1xU1U4NUFQX1QwckFFek5jU3B0bzh4ZmwxS3ZwTXE2WFBnOHZIdFYwUmFIRTdGTGdkMTlVM21qaHBzWGNvd3JIVmlFWmJEYm5sV2x6T3RCbDVBalozblQzckpLQ01NVEVNcDNiejYtaHd5NFpQTEx3RU1vQnlZSHRmTUxNMWVNSkFrdHptYTJsZ1ZfVGtNdmNoU0llNUdzbU9qbDVaNzVtcDBPY2k4YUh3OFlqYlliYV96SGJKdnlENVRMTnU4RU12Wms2UkFUTWlZaXUxQ21GVE5XS0NiZFF6eF9CZDI1XzFnQ0hlVjBQZUpQekRwNWtKeVduUXVHczh2R3I2TmlHRzhla2FYZWlYSmwxOWRZZw?oc=5",
-      "published": "2026-11-14T21:18+08:00",
-      "publisher": "Yahoo股市"
+      "market": "美股",
+      "title": "輝達財報後股價將波動多少？市場估單週漲跌幅達9% - 鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1wZ2ZVbzBrSDlBeDhLYXdWckV2LTV6X01Gc2t3dXpGZzAtSFhFSVZ4TURXZFR5TDRtNG9Ub0tINGhuTElxS3hycFhHLTBjeUk?oc=5",
+      "published": "2026-11-14T16:10+08:00",
+      "publisher": "鉅亨網"
     },
     {
       "market": "美股",
       "title": "AI躍居金融穩定首要隱憂聯準會調查87%受訪者示警 - 鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1lMl9kN01ONUxqTEc0OGo3RlNzQ25XZV9HNWdNTzhRa1J4MUpGYU9EcnJ4ZlJta1NkTWhTMEpQTjlZcVZIamxBdFBsNlhCcjg?oc=5",
       "published": "2026-11-14T12:00+08:00",
-      "publisher": "鉅亨網"
-    },
-    {
-      "market": "美股",
-      "title": "AI成金融系統最大威脅！Fed最新調查87%受訪者示警 遠高於股市修正與網攻風險 - 鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ZUlJfelFwWGZMQmF6NUU5Y1BiUWJlMF9NNWNNODduR0ZlLVE4RC1ZWjRhS09HMjRMUUZiQTJYVEU3YlBtU01aRG02bGIwN0U?oc=5",
-      "published": "2026-11-14T11:10+08:00",
       "publisher": "鉅亨網"
     },
     {
@@ -202,6 +188,13 @@
       "title": "〈美股早盤〉CoreWeave財報助攻！那指領漲 台積電ADR漲逾4% - 鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE01cC1yVi1yVjcwOVB3endxVEpyZGpPeTJkbUdPSlF3b2JmQ1pVeGx2anRGMFFnNFVzMVF2NWpRNHZqbHdnVnJSWWt0X040Ums?oc=5",
       "published": "2026-11-11T22:40+08:00",
+      "publisher": "鉅亨網"
+    },
+    {
+      "market": "美股",
+      "title": "CPI掀美債殺盤、連沃勒都轉鷹 華爾街將「一口氣升息2碼」納入定價 - 鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBNRU54SXp2QXN6ZDBRS2dQOWR5dDQ5Z0FQWnpsZlVpc2hxanA1dUVrMVhZX1FxbDFRcGdlSGFUME40czNtRXN6ekpieFlzQ3c?oc=5",
+      "published": "2026-11-11T16:20+08:00",
       "publisher": "鉅亨網"
     },
     {
