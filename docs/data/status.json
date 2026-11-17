@@ -1,6 +1,6 @@
 {
   "market": "TW",
-  "generated_utc": "2026-11-16T14:06:39.634016+00:00",
+  "generated_utc": "2026-11-17T15:00:58.428953+00:00",
   "candidate_count": 1991,
   "attempted": 1991,
   "successful": 1984,
@@ -8,8 +8,8 @@
   "unattempted": 0,
   "success_rate": 0.9965,
   "history_written": 250,
-  "stored_symbols": 6813,
-  "fresh_symbols": 6811,
-  "elapsed_seconds": 465.0,
+  "stored_symbols": 6809,
+  "fresh_symbols": 6807,
+  "elapsed_seconds": 464.5,
   "note": "7-day retention is not a real-time freshness guarantee. Check each stock date."
 }
