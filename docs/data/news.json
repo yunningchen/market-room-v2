@@ -1,12 +1,54 @@
 {
-  "updated_at": "2026-11-17T06:41:35+08:00",
+  "updated_at": "2026-11-17T13:21:27+08:00",
   "news": [
+    {
+      "market": "美股",
+      "title": "老黃想回來？輝達董事會：沒門 - 鉅亨號",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0yR3gxdktXR2FEdlpwRU9yMDZibFRMRXh0XzJsNjBoY1FfQ24tZWJFR2FJZmhhTmNSMWxLVnlOMHF2SklaQlFaNQ?oc=5",
+      "published": "2026-11-17T11:19+08:00",
+      "publisher": "鉅亨號"
+    },
+    {
+      "market": "台股",
+      "title": "全球經濟指標| 鉅亨網 - 鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MWDczb0VIbE5YVlR6aDRlcDBqNlhFWUNZVndjczlpX2xNUmt3WTVsQXhEbmFEUGVGVUR4YjNLUTdlUUl4a3ZmTnNRWk1hSjFf?oc=5",
+      "published": "2026-11-17T10:11+08:00",
+      "publisher": "鉅亨網"
+    },
+    {
+      "market": "美股",
+      "title": "美擴大晶片禁令衝擊科技股 亞洲股市走跌輝達財報成焦點 - 民視財經網",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5qbFN2U3liMmg3bjFNSEM4NTZ5ZWFLZFpKREFDZ2RzRjV1Y0x4dkdjRm4xcHBCZ1g0NWx0LTg4T3lld0pnVnBWNlBFWG9uM2l1SUY2VXFVMjlYZzk3Q21IVm1jUzNhUQ?oc=5",
+      "published": "2026-11-17T09:21+08:00",
+      "publisher": "民視財經網"
+    },
+    {
+      "market": "美股",
+      "title": "英偉達財報將至，AI前景憂慮籠罩華爾街期貨市場 作者 Investing.com - Investing.com 香港 - 股市報價& 財經新聞",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Ya3pPZTNiQ0IyRTZwelBaa0NYY05HLVR5ZFZTRmJ0M2lENFp6YVpFTVlkMjJwczctd202WWtSblVxdDFkeGVlbjFWLTJBZE13eV9ESkNjV19STWJrVFV3OU5aX201cV9pajFfMWZSU04?oc=5",
+      "published": "2026-11-17T08:38+08:00",
+      "publisher": "Investing.com 香港 - 股市報價& 財經新聞"
+    },
+    {
+      "market": "美股",
+      "title": "【即時新聞】輝達(NVDA)黃仁勳辭職震撼華爾街，那斯達克重挫2.5%領跌美股！ - CMoney投資網誌",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZGtYdzk2YUtBVE9jakdSaUJZelJKWHltQ2hPOG9YSklHRWlsbFRaQ1ZsTk05T05KLVE4NDB5M0tQTnVFSjVDam5MYnk0cmJ0M1Y4RFhGc0RhMkhDWnppaFlHdWotS0JMQWprTjVCSlRyT291aG40QnhlZl9MSWVlbVJfeHpWdFJ5d2Vnc1Z2c2s?oc=5",
+      "published": "2026-11-17T06:54+08:00",
+      "publisher": "CMoney投資網誌"
+    },
     {
       "market": "美股",
       "title": "川投顧買了多少輝達？《華郵》估持股最高6200萬美元 - 鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1CZzRSN1NWTEk2eTlyeFNTMEQzTG9kREZiU2kwajUzWWF2dGVoRl80cVVjdEd0V1V5d0xUQmpkTnNoN3Fjck9lQ3VoOA?oc=5",
       "published": "2026-11-17T00:59+08:00",
       "publisher": "鉅亨網"
+    },
+    {
+      "market": "美股",
+      "title": "台積電ADR挫4%！美股早盤費半跌400點 | NOWNEWS今日新聞 - LINE TODAY",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE41dktxYnh3TTBJcmFaeW9mcHZCaVQzTFItazd4aTNBRUhDTzBlcWpfeXJuWkZkMkpzaEZYNGE5dEJGQ2xkbjNYVUJuUXAyeVN1WW10aEd3?oc=5",
+      "published": "2026-11-16T23:32+08:00",
+      "publisher": "LINE TODAY"
     },
     {
       "market": "美股",
@@ -24,9 +66,16 @@
     },
     {
       "market": "美股",
-      "title": "全球股市走弱 AI投資熱潮面臨考驗 NVIDIA財報與Anthropic上市成焦點 - 鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBaVmU5TkduT1JXWTVBUHhjaGYwOGFsTFFfRWRWZkFacFltRzcycWRCS3JSQU9vUWVQdms0OVdjOUZMcUVpc181eEZuUk55RGs?oc=5",
-      "published": "2026-11-16T18:00+08:00",
+      "title": "聯準會升息步調有變？波士頓聯準銀行總裁：未來一年利率恐高於預期 - 鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Lc0JqMWhQVnAwejZVTlYtU1BXemtSYTJrQmVxZ0xRNDl6RFlxcUFpYzFtVF9XbHJyMEtwNEhFSlhKazNCaE9aS2Q3OVd0ZVk?oc=5",
+      "published": "2026-11-16T10:10+08:00",
+      "publisher": "鉅亨網"
+    },
+    {
+      "market": "美股",
+      "title": "本週操盤筆記：AI交易關鍵時刻！輝達首份無黃仁勳財報、Anthropic重磅IPO 「川習普」三方會議登場 - 鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9tc2drU2l6SEJOSHRJWGdvWGxQeEdQd0MtbHJBUlhHMDJPVzRIdzFBeEFrRnFUaFVYd21XM1k0XzR5YVFBSEFhQi1femFXS2M?oc=5",
+      "published": "2026-11-15T21:30+08:00",
       "publisher": "鉅亨網"
     },
     {
@@ -42,13 +91,6 @@
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA1YXdtTUxaRUJmbHJIYmxGTWpKMllqaURiVnZPNXp5TTEtU3VwUTZxU2tEaklFLUMwSUZPWU1yOWpoWUxoenlxaQ?oc=5",
       "published": "2026-11-15T13:12+08:00",
       "publisher": "鉅亨號"
-    },
-    {
-      "market": "美股",
-      "title": "輝達財報、Anthropic上市登場 市場迎2考驗 | NOWNEWS今日新聞 - LINE TODAY",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBheUF5ZkpGUkVJcW1XMm1jd0IwNXg5NENkSjVfUmJJSk5JZ0Zzdm9lMUU5cXU1UHI2U09SLXFWSVBQVVBRWFZIMFhxZ0V5VDJUN01jWEJn?oc=5",
-      "published": "2026-11-15T07:20+08:00",
-      "publisher": "LINE TODAY"
     },
     {
       "market": "美股",
@@ -73,13 +115,6 @@
     },
     {
       "market": "美股",
-      "title": "【即時新聞】輝達(NVDA)遇高層震撼彈重挫13%！AI熱潮不滅，資金輪動卡位這3檔巨頭 - CMoney投資網誌",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOODFyOHpQV3Z1Q2xvZXRDS1VWbHdKbmJ3YWQ5ZDBqUnJaZGk3YTdWMU9nalpzOEsydzgwcVM4WmFHNzlLYzVFcUc1YXVVNHJqTUJ0ZUxLZmtzVlowaExfVFpPazBqNlo5QXVKaDJPaF9jQzZOYUFZZlQ1ZVlpNWVjakVOM1J5TGpqc2NzUTJPd18?oc=5",
-      "published": "2026-11-14T07:51+08:00",
-      "publisher": "CMoney投資網誌"
-    },
-    {
-      "market": "美股",
       "title": "【即時新聞】輝達(NVDA)市值血洗近2兆！黃仁勳閃辭震撼華爾街，AI類股迎雙重考驗 - CMoney投資網誌",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQS0U4ZGdSSUU2MnA0bk5HQTBmWHlVSGZKZllwaVRQNWZoZjFYTGZfUUVjSGwxdHQzWTBIcGx3ZEpQT2JWcDduUXgxM09uQlRmN1hZbUR6LXBNNUVkd1FhWGpMQnpYaURFZEwwaDY1MWNIYlZlTU91aVlKS2Vma3UyT2trM2Nrcmg0VEp4NTBaeDE?oc=5",
       "published": "2026-11-14T06:57+08:00",
@@ -93,18 +128,11 @@
       "publisher": "CMoney投資網誌"
     },
     {
-      "market": "美股",
-      "title": "〈美股早盤〉輝達回穩、PPI數據助攻 主要指數漲跌不一 - 鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ORkhnU0F1LTV3Y05pdUxyVHExMXFrT3pSOGhSZjF1Y1QwYXkzdmNJckJfRm1XUjZ6NS1yVE9ScVdCSVBpeG9ManNrMkwxRUU?oc=5",
-      "published": "2026-11-13T22:41+08:00",
-      "publisher": "鉅亨網"
-    },
-    {
-      "market": "美股",
-      "title": "快訊／輝達甩暴跌陰霾反彈2.6%！費半狂飆463點「台積電ADR漲破4%」 - ETtoday財經雲",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54UFdHYkhTdjBsX0tteUM1MjJITFFBaF9RSWRCMFltOHB2d0Z5SkNleWhFd1I3b3JJTm9RV2NKeHBsRHNoVXdGNzV3M3VJRWVUeVHSAVBBVV95cUxNNW5ZWW1sandldHVpUHRJZWNhVUpKQkJ0S3dKZjBXXzJKNnBQNnFjVWVidDJ5d2U4U0RZMDFHdWJoNFVtSEV3V3FMNjFFWFNrWg?oc=5",
-      "published": "2026-11-11T23:21+08:00",
-      "publisher": "ETtoday財經雲"
+      "market": "台股",
+      "title": "黃仁勳若下台恐衝擊半導體！分析師點名「這2家」公司有望受惠 - Yahoo股市",
+      "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxPcDB6bVhGTUFIMHdBZjNBVFptMjgzeFI3X0dlaFNDbmNZQnBuZEtGaTV4Mm83QXM2MldvTmN4ZkFHaUw3cjZMMldfYTR4N2Q1X2F4YXBqY0ZPaUxrUnJfQjlXbUwwNmlONUhhVkpWbUFUVDNGeTVoWHU4MjI2ZE9aVWtiRk91T05KeFQ2ckw1cV9nYS1hVTB1YUNlYzJuUzVyWHI3aWVhVE9EUVAtdHlkbHE5NFZ0OFAwYmZqN2JzenA3cUpZeDgwM3E4bEQyMEZNU1pMdHIwZzk3aVZKZmhsQ1JPel9POV9ZYkNOcU8wdUlYUnlkZ3pUVnlSc2kyRHFoM045dFA4Vi10VVRFS3JPZ1FyQjlTeGdjTERJaUg2LW45ZnNEc1FwaTVrWHE2TzNTSURsT3pLNm0tWXdzeWZHS2VobXZ0clJWdjA5aUZQVGZ1ZUpBcVlVVVY4RndzN2k5S01QYThVMW5uVkIxUjVObGlzcW9kaXhtLU1VQ3BsLWd2Sy11Q2lrZ3V3aDQ?oc=5",
+      "published": "2026-11-12T11:58+08:00",
+      "publisher": "Yahoo股市"
     },
     {
       "market": "美股",
@@ -119,6 +147,13 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbWtFbm1yLWdsaUZnc3ZCclVRbHg2TlRvRXlDbEg0Sm1uRHI3LVdLeVlqY0tNRkFnUXRwQ1BXek9PM2RCRWxNV2w2dkVramxMTWUzRFVSSWMyLU1Lb1haVm1xcmF1Z0pRQVBDbDZyYzEyLTZldmpzVjRRV2FBbEp1WnRIR0FhVHhERXpBMDZ3?oc=5",
       "published": "2026-11-11T15:00+08:00",
       "publisher": "CMoney投資網誌"
+    },
+    {
+      "market": "美股",
+      "title": "美通膨火熱強化Fed升息預期　華爾街股市收低 - 經濟日報",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9KeDlnbjdXZUJMd0VsSmYyQ2psV0dCYkItTEpyMGdkekJWMnVwTnVEWFZIMnNPaHlmRy1mY0RfTUhyX2pDYnphRzlBYzUxb3JIZWJnVWF6Qm5xand60gFiQVVfeXFMTTBxMzNCaEdxTnBoUXBDQXBKaE43TGI0Vno4VFIxZmdlQzZzSFVoS3JETDBGMXYtbG5HUHpJRS1JSHlJVFFCRW5EVk5rV01VdXg2Uk1qc0k1WTFOMEp0R016V0E?oc=5",
+      "published": "2026-11-11T06:21+08:00",
+      "publisher": "經濟日報"
     },
     {
       "market": "美股",
@@ -705,7 +740,6 @@
     }
   ],
   "errors": [
-    "台股: HTTPError",
     "財報新聞: HTTPError"
   ],
   "notes": "新聞為公開 RSS 摘要連結；法說會時間以主辦單位最新公告為準。美股未確認的財報日期不會推測填入。"
