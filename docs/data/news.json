@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T01:17:55+08:00",
+  "updated_at": "2026-11-19T05:02:44+08:00",
   "news": [
     {
       "market": "美股",
@@ -16,18 +16,18 @@
       "publisher": "vocus"
     },
     {
+      "market": "美股",
+      "title": "黃仁勳接班人是誰？CUDA之父亮相輝達財報會議 引發華爾街高度關注 - 鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5qckJFeHdqSHNXazIzbl91d1lJN3NkTE1YczJxbS1lRGFnRkN4VkJ0bGJtcnpCU2plZDJGczVwcy00VkVXTmhkaXlJNWxuamM?oc=5",
+      "published": "2026-11-18T19:50+08:00",
+      "publisher": "鉅亨網"
+    },
+    {
       "market": "財報新聞",
       "title": "拆解 NVIDIA 這份不尋常的財報：業績亮眼但股價沒暴漲？｜美股評析｜豐雲學堂 2026 年 11 月 - 永豐金證券",
       "url": "https://news.google.com/rss/articles/CBMiswNBVV95cUxQb2JaWUdmYmVKSnd6RUpOdERvMHVqZ19maTRHS3dYVk1MZEg3OHMzZnJVVDBiRVlBTlN3T3R2ak9yelZIazhHbTJOMjZmRmpXYXZVSFlMa2x5WldWOVJscU83cjdjSDFndGVnUzJhRjJ2X1JnYllMaEFxMWxuYS14emhRVjdLYXo4WXA3a1JKVTZwS2k2M2p3YktQbjBHdU42eFlaVkRYMUV2VFJpQ1hCdmlrWVV1VDV6TDBZc2x1S3p6TDh6Mk5MUjBENUlfU19xT0ZWUTY3akJKbU55TkxkaWZzT1lNT2hIeTh4cXpHOVZkQ1oyRTA0LVc0RzZNaTY1VVVrRTBBU1MtejJLRkZQRGg2OEV1aFRpbkhSZEZXQW1UQ214NktJYi1iVXFDX1oxY2hhQkFWUmp2ZGJLQk5HU0E0RWdVVHZJNURFcThmM2xpQWhpdm9BTm1wSEp4NGN4bnp3VDcyaFRGeTA5Sm03QTRZOGVubGlXOUI4ZW1jMkppNEhvXzJ2UkQxMW1GNi02N3BMTk1yR1dfR0c2UFhfQlNnUGVkVUhfdmpYWEJnZWk5UzA?oc=5",
       "published": "2026-11-18T18:43+08:00",
       "publisher": "永豐金證券"
-    },
-    {
-      "market": "台股",
-      "title": "全球經濟指標| 鉅亨網 - 鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MWDczb0VIbE5YVlR6aDRlcDBqNlhFWUNZVndjczlpX2xNUmt3WTVsQXhEbmFEUGVGVUR4YjNLUTdlUUl4a3ZmTnNRWk1hSjFf?oc=5",
-      "published": "2026-11-18T16:38+08:00",
-      "publisher": "鉅亨網"
     },
     {
       "market": "美股",
@@ -79,6 +79,13 @@
       "publisher": "民視財經網"
     },
     {
+      "market": "美股",
+      "title": "日股開盤／輝達財報優於預期，日經指數反彈站上59,000點 - 鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5wNnE4cU9PTGQyNVpNcERPaFhfc2RCNUl0MVB5UG1kdmJSbjAwN1NDcEFOTkplU2JPWHlURk91dF9HZDVQMW5mMVRURjN1Vlk?oc=5",
+      "published": "2026-11-18T09:00+08:00",
+      "publisher": "鉅亨網"
+    },
+    {
       "market": "財報新聞",
       "title": "【輝達法說】加碼庫藏股 1,500 億美元！剩餘回購額度 2,273 億、Q4 毛利率估降至 - 果仁家",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1VbmYtMDNsS1ZaTWNrVjdnN3oxcS1VUWpFdks2RzlaSS1sVlpRUk90RXNybElZY2otTFBNXzBmVXUyRlM1TzZJQVR4YlQtTWVYRjBj?oc=5",
@@ -98,13 +105,6 @@
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9raFAxbWsyUUtyQUNWazZKYWZRSk0weWJhYWxVVnl4dkZyWDR5U0Z6LWlfYXNmZmJvOTdTTXZSV1BCaUVhMWFEMllNbThUSklCT2FZ?oc=5",
       "published": "2026-11-18T07:39+08:00",
       "publisher": "果仁家"
-    },
-    {
-      "market": "美股",
-      "title": "台股今早剉咧等？靜待輝達財報美股先倒地 台積電ADR挫3.7％ - 中天新聞網",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBCZEg4Z0dUT1BScVdTYTBvekhMUDNJU3p6OTN6X0NoZjJZX3BxU3MxRGRlQ0I5SUN1S0pOa19sTE1RcGJVRnVDcTJjRkhRdVY5bWM0?oc=5",
-      "published": "2026-11-18T07:35+08:00",
-      "publisher": "中天新聞網"
     },
     {
       "market": "美股",
@@ -206,6 +206,13 @@
     },
     {
       "market": "美股",
+      "title": "輝達財報前夕籠罩黃仁勳離任陰影 華爾街憂成長觸頂 - 鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1saTNkLUFqUFk2QTFOZEpDOWNTV3dYdnA5dWE5aElUeFBZY2xDMTAwUTI3V0R4YUlLRkRpVVpHbUh4a1FDWUU5dmozZ1FsVms?oc=5",
+      "published": "2026-11-17T17:30+08:00",
+      "publisher": "鉅亨網"
+    },
+    {
+      "market": "美股",
       "title": "〈美股早盤〉AI股又被砍！那指跌逾1% 輝達財報與Anthropic上市成焦點 - 鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5VUmttVi1SeGVhaU5tdjZiQmhJak1XcFhQSDRqQVNLSVlLMnE1a0VkZFhLY2RWeFhzLWpWazFwWXVrR1VHNW03aE9KVQ?oc=5",
       "published": "2026-11-16T22:41+08:00",
@@ -219,18 +226,18 @@
       "publisher": "鉅亨網"
     },
     {
+      "market": "台股",
+      "title": "全球經濟指標 - 鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MWDczb0VIbE5YVlR6aDRlcDBqNlhFWUNZVndjczlpX2xNUmt3WTVsQXhEbmFEUGVGVUR4YjNLUTdlUUl4a3ZmTnNRWk1hSjFf?oc=5",
+      "published": "2026-11-16T16:00+08:00",
+      "publisher": "鉅亨網"
+    },
+    {
       "market": "財報新聞",
       "title": "台積電法說／第三季EPS 29.43元年增68.7%，第四季美元營收看523億至543億美元，全年年增約44%，2奈米放量稀釋毛利率｜股市話題｜豐雲學堂2026 年 11 月 - 永豐金證券",
       "url": "https://news.google.com/rss/articles/CBMimwVBVV95cUxOb2Q3MmUzWDBFVV9Ud0JRVUlDa015QUszcU5hd3BaNlNidnRUdHlZVWZKU0tPTDBPMDdqdm1veFcxT25teVduUi1xSkx3dlp3QVFRT2JnWG03djBhM0xHZmVLYVU0TnRBMzFKMWZWcjMzZjNhYzRndEpwQk1raWNLUlJlaTBfMDhWczUtb1pKVHdUbmVtdkkxcU1aTVp0OENHMG1oNGJMX1FuRkV1ZTBKUGdJVG83SV90a2c2WWMxM1NtRURuejNmQzlFTGY2emlWMUF5Z2diSEkyUmlGU09xbzdvVjBocUpNT09kM0NrZG9laEJMZHgwZHN4Sy0zMGNpclNiWm53MktHX21ZeXdVMU5sSVZMemY3OHU1VjlmMEJNbkt2QjNtWkJtUzVveGdQZlZJN0k0R2p3eGx4WEVBS1RJa3gtTzVUMlNuOWtyM19VUjhZMHpuaUhIMkdDTjNHTTExMkNuM2RYUzBBVGt0VTQzZG1GdFl1WmY5SHlDeUdQOW9KdEpuWVlzMFBJTDNid2JhUXE0RmVMQXlCd0NYZm1nS1dMN016NkwycFZ5cy1zSnl3a0ZDclkybldDUG1sRm9sY3FNYnRnR1BPTUI3LW9ZdUNaVWp4cEwzWTBmbWh5V2cxd2tfVTBldmZHUDdOeHRnZWdNdUVHTktMdWRDVVN0dWZHeEJzVWRCWkkxenlWYzhZSTdjYmRnR05lMEJHRVd3ajhkTU5PNTd2dU5PNzhCdTczRGprVUIweEdKZDVISFpjWXZpcHJxUVRoelRZSVdUWU5DaUR1bGRHamVjNVBsenVNVlVIMFZLd0hSUDFBR09za2F0NVVybS1xM2tlQ2hSOUlpQ3c4UERSSk5vUW5WWDNfUUVwN3k0?oc=5",
       "published": "2026-11-16T15:26+08:00",
       "publisher": "永豐金證券"
-    },
-    {
-      "market": "美股",
-      "title": "本週操盤筆記：AI交易關鍵時刻！輝達首份無黃仁勳財報、Anthropic重磅IPO 「川習普」三方會議登場 - 鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9tc2drU2l6SEJOSHRJWGdvWGxQeEdQd0MtbHJBUlhHMDJPVzRIdzFBeEFrRnFUaFVYd21XM1k0XzR5YVFBSEFhQi1femFXS2M?oc=5",
-      "published": "2026-11-15T21:30+08:00",
-      "publisher": "鉅亨網"
     },
     {
       "market": "美股",
@@ -273,13 +280,6 @@
       "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxPcDB6bVhGTUFIMHdBZjNBVFptMjgzeFI3X0dlaFNDbmNZQnBuZEtGaTV4Mm83QXM2MldvTmN4ZkFHaUw3cjZMMldfYTR4N2Q1X2F4YXBqY0ZPaUxrUnJfQjlXbUwwNmlONUhhVkpWbUFUVDNGeTVoWHU4MjI2ZE9aVWtiRk91T05KeFQ2ckw1cV9nYS1hVTB1YUNlYzJuUzVyWHI3aWVhVE9EUVAtdHlkbHE5NFZ0OFAwYmZqN2JzenA3cUpZeDgwM3E4bEQyMEZNU1pMdHIwZzk3aVZKZmhsQ1JPel9POV9ZYkNOcU8wdUlYUnlkZ3pUVnlSc2kyRHFoM045dFA4Vi10VVRFS3JPZ1FyQjlTeGdjTERJaUg2LW45ZnNEc1FwaTVrWHE2TzNTSURsT3pLNm0tWXdzeWZHS2VobXZ0clJWdjA5aUZQVGZ1ZUpBcVlVVVY4RndzN2k5S01QYThVMW5uVkIxUjVObGlzcW9kaXhtLU1VQ3BsLWd2Sy11Q2lrZ3V3aDQ?oc=5",
       "published": "2026-11-12T11:58+08:00",
       "publisher": "Yahoo股市"
-    },
-    {
-      "market": "財報新聞",
-      "title": "2026 鴻海法說會直播 11/12 下午 3 點登場！線上看連結、Q3 財報 5 大焦點一次看 - 果仁家",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Ld3JXUURiNVdKU3JzRF9BaENuVDZyOVVwUldNR2NCcDNrWFk2X0xjM3BfcjEtSjliSnNrWjVtZkQ4MWM1RHNJUWw1LUJ4WFNrODBj?oc=5",
-      "published": "2026-11-12T11:55+08:00",
-      "publisher": "果仁家"
     }
   ],
   "events": [
