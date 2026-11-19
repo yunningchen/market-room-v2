@@ -1,13 +1,6 @@
 {
-  "updated_at": "2026-11-19T12:40:27+08:00",
+  "updated_at": "2026-11-19T15:31:40+08:00",
   "news": [
-    {
-      "market": "台股",
-      "title": "全球經濟指標 - 鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MWDczb0VIbE5YVlR6aDRlcDBqNlhFWUNZVndjczlpX2xNUmt3WTVsQXhEbmFEUGVGVUR4YjNLUTdlUUl4a3ZmTnNRWk1hSjFf?oc=5",
-      "published": "2026-11-19T09:31+08:00",
-      "publisher": "鉅亨網"
-    },
     {
       "market": "美股",
       "title": "輝達股價跌近3%標普連5黑 Anthropic定價83美元高出預期 - TVBS新聞網",
@@ -72,6 +65,13 @@
       "publisher": "風傳媒"
     },
     {
+      "market": "美股",
+      "title": "輝達營收狂飆 103% 、財測再超預期！比特幣卻困守 6.4 萬，AI 股利多為何帶不動 BTC？ - 鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5DSG5SUl83ZEpaMm5MSlFiSlN5YVlfV2RmSTYwZ3FjS3BRNEZ2cGpSODEyV1Q1S1VnYlo5OVNoakIyZnhwcDBDbW1iaF9hT2M?oc=5",
+      "published": "2026-11-18T12:30+08:00",
+      "publisher": "鉅亨網"
+    },
+    {
       "market": "財報新聞",
       "title": "黃仁勳離開後首份財報！輝達營收年增 103%，股價為何還不能追？-Alpha's Newsletter - CMoney投資網誌",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdUNSSWFmSUhyTkZ3SXgzcVg3RC0xZlVFWW4yOXlkdGFZbGd0MlMyVThhVXFFUEZTaVR5VC1KZ1NvUXk5SC1aTXZWbmF0TUZzU2hKRXk2VkUwa28tRWFDNTJEdFIyT1FuMXBLamM2U2QyMjhwNkhMTkxRZEtEdURJejd3cTJmNFlIWkVN?oc=5",
@@ -98,6 +98,13 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAtOWpxTlgzNjZZZlY0STNDVTVkRk5HWlpEM19lWFNYWUNYQTVIM05HNU9FNnVoNFQzYnRabmI4TnNUUmhseVV0cm53endmaUxvQWlGNGNsc0NfUmNoVE5FZkVmYi1OQQ?oc=5",
       "published": "2026-11-18T09:08+08:00",
       "publisher": "民視財經網"
+    },
+    {
+      "market": "美股",
+      "title": "日股開盤／輝達財報優於預期，日經指數反彈站上59,000點 - 鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5wNnE4cU9PTGQyNVpNcERPaFhfc2RCNUl0MVB5UG1kdmJSbjAwN1NDcEFOTkplU2JPWHlURk91dF9HZDVQMW5mMVRURjN1Vlk?oc=5",
+      "published": "2026-11-18T09:00+08:00",
+      "publisher": "鉅亨網"
     },
     {
       "market": "財報新聞",
@@ -233,6 +240,13 @@
       "publisher": "永豐金證券"
     },
     {
+      "market": "台股",
+      "title": "全球經濟指標| 鉅亨網 - 鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MWDczb0VIbE5YVlR6aDRlcDBqNlhFWUNZVndjczlpX2xNUmt3WTVsQXhEbmFEUGVGVUR4YjNLUTdlUUl4a3ZmTnNRWk1hSjFf?oc=5",
+      "published": "2026-11-16T16:00+08:00",
+      "publisher": "鉅亨網"
+    },
+    {
       "market": "財報新聞",
       "title": "台積電法說／第三季EPS 29.43元年增68.7%，第四季美元營收看523億至543億美元，全年年增約44%，2奈米放量稀釋毛利率｜股市話題｜豐雲學堂2026 年 11 月 - 永豐金證券",
       "url": "https://news.google.com/rss/articles/CBMimwVBVV95cUxOb2Q3MmUzWDBFVV9Ud0JRVUlDa015QUszcU5hd3BaNlNidnRUdHlZVWZKU0tPTDBPMDdqdm1veFcxT25teVduUi1xSkx3dlp3QVFRT2JnWG03djBhM0xHZmVLYVU0TnRBMzFKMWZWcjMzZjNhYzRndEpwQk1raWNLUlJlaTBfMDhWczUtb1pKVHdUbmVtdkkxcU1aTVp0OENHMG1oNGJMX1FuRkV1ZTBKUGdJVG83SV90a2c2WWMxM1NtRURuejNmQzlFTGY2emlWMUF5Z2diSEkyUmlGU09xbzdvVjBocUpNT09kM0NrZG9laEJMZHgwZHN4Sy0zMGNpclNiWm53MktHX21ZeXdVMU5sSVZMemY3OHU1VjlmMEJNbkt2QjNtWkJtUzVveGdQZlZJN0k0R2p3eGx4WEVBS1RJa3gtTzVUMlNuOWtyM19VUjhZMHpuaUhIMkdDTjNHTTExMkNuM2RYUzBBVGt0VTQzZG1GdFl1WmY5SHlDeUdQOW9KdEpuWVlzMFBJTDNid2JhUXE0RmVMQXlCd0NYZm1nS1dMN016NkwycFZ5cy1zSnl3a0ZDclkybldDUG1sRm9sY3FNYnRnR1BPTUI3LW9ZdUNaVWp4cEwzWTBmbWh5V2cxd2tfVTBldmZHUDdOeHRnZWdNdUVHTktMdWRDVVN0dWZHeEJzVWRCWkkxenlWYzhZSTdjYmRnR05lMEJHRVd3ajhkTU5PNTd2dU5PNzhCdTczRGprVUIweEdKZDVISFpjWXZpcHJxUVRoelRZSVdUWU5DaUR1bGRHamVjNVBsenVNVlVIMFZLd0hSUDFBR09za2F0NVVybS1xM2tlQ2hSOUlpQ3c4UERSSk5vUW5WWDNfUUVwN3k0?oc=5",
@@ -259,13 +273,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GeWlGSUxEMHVrd0I5eTQ0UVV3N1lKS1JLS0dkMVJrZi1LLXNJeFk3bEROaTYxNUxQV2hTNVBVRkhyQ21naWQ0Z2dwTHRZYzdTMGJyM1A5bDU5d9IBX0FVX3lxTFBiT3lVTHprT2xjbnFsS0lKTFNYcW1TNFdPeTIzT2R6VE1BRFZlSWFoaDJEam9tUmV4czVLVV9qU2dwOXFidlpkX3gxWGZ2UXpsb1hZdkhhaG14OGJodWxF?oc=5",
       "published": "2026-11-15T16:00+08:00",
       "publisher": "經濟日報"
-    },
-    {
-      "market": "美股",
-      "title": "輝達財報後股價將波動多少？市場估單週漲跌幅達9% - 鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1wZ2ZVbzBrSDlBeDhLYXdWckV2LTV6X01Gc2t3dXpGZzAtSFhFSVZ4TURXZFR5TDRtNG9Ub0tINGhuTElxS3hycFhHLTBjeUk?oc=5",
-      "published": "2026-11-14T16:10+08:00",
-      "publisher": "鉅亨網"
     },
     {
       "market": "美股",
