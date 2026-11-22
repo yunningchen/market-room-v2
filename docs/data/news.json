@@ -1,12 +1,19 @@
 {
-  "updated_at": "2026-11-22T00:11:58+08:00",
+  "updated_at": "2026-11-22T14:56:49+08:00",
   "news": [
     {
       "market": "美股",
-      "title": "那斯達克重挫5.3%逼近熊市 美股AI震盪重點一次看 - 三立新聞網SETN.com",
+      "title": "Anthropic 史上最大 IPO 難救市！美股 AI 蒸發 4 兆美元背後投資人恐慌 - TechNews 科技新報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Sc2VHV1R2QlY1VFZFc2FPeXViLUxILXBFVE55VV9VVURZWHZHVktSa2FCQUxWenN1a1dIR2I1YUpZeTlsMkNPb24wWnFrc2l1Y2tMUTZoZm5HLWlVcXJNS3c1MUJtYzJxc2tNSncycw?oc=5",
+      "published": "2026-11-22T10:57+08:00",
+      "publisher": "TechNews 科技新報"
+    },
+    {
+      "market": "美股",
+      "title": "那斯達克重挫5.3%逼近熊市 美股AI震盪重點一次看 - 三立新聞",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1rNkN6ZTdkZVo1YjUtUjUzNVNZRGY4Yldvend3RS1YTy1yWVJmX2plSFl3aVhCY0lWQ2h1dTVSZXlNOHZvSmp5VWF3RQ?oc=5",
       "published": "2026-11-21T17:12+08:00",
-      "publisher": "三立新聞網SETN.com"
+      "publisher": "三立新聞"
     },
     {
       "market": "美股",
@@ -21,13 +28,6 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAzdmNQUFRuNHNHbUNqdkl5czJwQjZldElwMVZxcnFJYWdFNkZMaGxGSFo3QmxwWlgwTWtOb2tsSnJ4UlJ5OVpMSTZjQ2xDTFk?oc=5",
       "published": "2026-11-20T17:13+08:00",
       "publisher": "TVBS新聞網"
-    },
-    {
-      "market": "財報新聞",
-      "title": "Enanta(ENTA)全年虧損擴大，授權收入能否撐過研發燒錢期？-許明哲的產業筆記本 - CMoney投資網誌",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQ09RcVNEZmJUOGxxc19YVzlpTVQ4enNoc1JmcW9jdkhCV0JyN1JjZUVfbDJ5QmF3STJZM1hza2VOY3pzakQyV1d1OVh0VWJXSUdrMS1tSm5PR1oxbkVIclo3MlNEcVJleW03LWZ2SHdGb3hhTWFEMmhtYkFUS3JMRHFn?oc=5",
-      "published": "2026-11-19T17:34+08:00",
-      "publisher": "CMoney投資網誌"
     },
     {
       "market": "財報新聞",
@@ -73,17 +73,17 @@
     },
     {
       "market": "財報新聞",
-      "title": "(6672)騰輝電子-KY法說會 2026/11、騰輝電子-KY財報、騰輝電子-KY展望、騰輝電子-KY財報投資亮點｜理柴知道:法說最速報! - 方格子 - vocus",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9jWVVNVDFwWFNkWmg5ekpXS0ZaQ3Ytc0JNMmtRcjgzZWg0dzRVakZDejJtckNPeEtxRGRqdmdHMnNydTBsUUdSeGRjYXd6eGVsUHlJSmJ4NExHVXFraXfSAWNBVV95cUxNaTd0U21meXNZQXlYR3RuV3lNNm02QTN0RXltZDNOTDExMGlVQlYwazZobWRHVkdkOVBrWm5SLTd1S3lFM0o4bTJzMTYtWjFxWWpJanhOVHFsRzBtZlZiYUJoNHM?oc=5",
-      "published": "2026-11-18T22:03+08:00",
-      "publisher": "vocus"
-    },
-    {
-      "market": "財報新聞",
       "title": "輝達財報公布時間 2026：Q1～Q4 日期、輝達法說會台灣時間與直播 - 果仁家",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9lNTVKNHFLUzlrMlFzTlNHTzZlZTVJd3VoZHMtX05rTXVsTnExSnF2OEdmOVIybVQ1Y0lmcWpUekJSSjY3Z2hnZVNrUkY2WmF4T2V30gFYQVVfeXFMTlJGbnZqUElqZnluV2I2LUwwVGxGVW1mMlEydDN0Sk1rSV8wN1NJLUkzdS1aWlRZYXh6QnIyaGNwY3RJeXpVS3JxT2x2empsMml5aklYR3ByaQ?oc=5",
       "published": "2026-11-18T16:00+08:00",
       "publisher": "果仁家"
+    },
+    {
+      "market": "財報新聞",
+      "title": "黃仁勳離開後首份財報！輝達營收年增 103%，股價為何還不能追？-Alpha's Newsletter - CMoney投資網誌",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdUNSSWFmSUhyTkZ3SXgzcVg3RC0xZlVFWW4yOXlkdGFZbGd0MlMyVThhVXFFUEZTaVR5VC1KZ1NvUXk5SC1aTXZWbmF0TUZzU2hKRXk2VkUwa28tRWFDNTJEdFIyT1FuMXBLamM2U2QyMjhwNkhMTkxRZEtEdURJejd3cTJmNFlIWkVN?oc=5",
+      "published": "2026-11-18T12:19+08:00",
+      "publisher": "CMoney投資網誌"
     },
     {
       "market": "財報新聞",
@@ -100,18 +100,18 @@
       "publisher": "LINE TODAY"
     },
     {
-      "market": "財報新聞",
-      "title": "【輝達法說】加碼庫藏股 1,500 億美元！剩餘回購額度 2,273 億、Q4 毛利率估降至 - 果仁家",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1VbmYtMDNsS1ZaTWNrVjdnN3oxcS1VUWpFdks2RzlaSS1sVlpRUk90RXNybElZY2otTFBNXzBmVXUyRlM1TzZJQVR4YlQtTWVYRjBj?oc=5",
-      "published": "2026-11-18T07:54+08:00",
-      "publisher": "果仁家"
-    },
-    {
       "market": "美股",
       "title": "黃仁勳離職首份輝達財報報喜盤後漲5%！台積電ADR盤後飆逾6% - TVBS",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8xc1JFQmFPM25kZ3N1T1AxVXNqZGx0eG9kY1RWcDl4QU8yVGc0akZONWJVYjJCbG5rRzRocUluNHI4aEFFd0VUNkc4cENjeEk?oc=5",
       "published": "2026-11-18T07:34+08:00",
       "publisher": "TVBS"
+    },
+    {
+      "market": "財報新聞",
+      "title": "2026 輝達法說會直播 11/18 上午 6 點！NVIDIA 官方線上收聽連結、電話會議重點 - 果仁家",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBWbTRFSjlhZ1hHYTRlSGV5U2tEd2hTRVJ0WVhMLV9DXzFnN0RLQmFVLWdTMUs0OUlsU3JJUHpkTEdFbnZBVXJURkJSM1dXbTY3T0lJ?oc=5",
+      "published": "2026-11-18T07:14+08:00",
+      "publisher": "果仁家"
     },
     {
       "market": "美股",
@@ -143,13 +143,6 @@
     },
     {
       "market": "美股",
-      "title": "美股｜輝達財報前夕 AI股陷低迷 道瓊大瀉739點 台積電ADR暴跌6.3％ - 工商時報",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE44X2NGRXRFYjlTbWVmSHZOdjJlbVhxUXZZWHNuVEhuVWZORWJuN1phZ013WlEwSEgwdDV3NVphMFNsRDVzR3EwTENFdTNxVE8zQ0dUalNRWHgtenctN1lV?oc=5",
-      "published": "2026-11-17T06:54+08:00",
-      "publisher": "工商時報"
-    },
-    {
-      "market": "美股",
       "title": "【即時新聞】輝達(NVDA)黃仁勳辭職震撼華爾街，那斯達克重挫2.5%領跌美股！ - CMoney投資網誌",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZGtYdzk2YUtBVE9jakdSaUJZelJKWHltQ2hPOG9YSklHRWlsbFRaQ1ZsTk05T05KLVE4NDB5M0tQTnVFSjVDam5MYnk0cmJ0M1Y4RFhGc0RhMkhDWnppaFlHdWotS0JMQWprTjVCSlRyT291aG40QnhlZl9MSWVlbVJfeHpWdFJ5d2Vnc1Z2c2s?oc=5",
       "published": "2026-11-17T06:54+08:00",
@@ -167,6 +160,13 @@
       "title": "〈美股早盤〉AI股又被砍！那指跌逾1% 輝達財報與Anthropic上市成焦點 - 鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBhVTJjNy1CRU1oQ1ZtZGgxXzVudzdSVjZ5NHVORnB2Wms3cjFJcVlhVTBmS044THY0OUtPQUxHUTRQMVN2Y1RacERQd0R5Nnc?oc=5",
       "published": "2026-11-16T22:41+08:00",
+      "publisher": "鉅亨網"
+    },
+    {
+      "market": "美股",
+      "title": "美股盤前／AI股賣壓全面擴散！輝達財報、Anthropic上市雙重考驗，那斯達克期貨重挫1.2% - 鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5sTjQ3anEtNUlBVERZM1M1bVd6NW5RX05qR29YRWxoTURvbDdrb2diTTdSTXVpS0E2NG0yZG8zUE9tZ1dndUtCeUFuRFk5ZEE?oc=5",
+      "published": "2026-11-16T21:30+08:00",
       "publisher": "鉅亨網"
     },
     {
