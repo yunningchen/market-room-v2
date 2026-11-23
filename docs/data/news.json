@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T12:14:08+08:00",
+  "updated_at": "2026-11-23T15:45:50+08:00",
   "news": [
     {
       "market": "美股",
@@ -14,13 +14,6 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMDNIWkZOOTN1dzNEWjFzYW1RM1ZMWTZYcGx4T21HSXcwcUlSU2NKUlpXS0FwcDZsRnNPajdETW9CTDB1SnpCRzVaa0wzbnRHdXlpb25CUWZjbmRLUGVzbU5NaU1nX2Rka2xsa2xURmJTQ2ZpM2dwY1l1UFVOaUtHbk9mSHBpcDkySEsxMnM3VVRjZjN5UUNxTm5PYjUtQQ?oc=5",
       "published": "2026-11-23T09:23+08:00",
       "publisher": "TradingKey"
-    },
-    {
-      "market": "美股",
-      "title": "美股賣壓恐持續？標普500進入修正區間、分析師揭逢低買進訊號 - 鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5UNTByb2VSNWxydVJSME9mcGtuUGZNSkQxZW5jeUpmeUtsSGRvUUxScWdOVjRjb0FLRDdzQjk2SnV3VG0wWXJ5dmp6YjRabkU?oc=5",
-      "published": "2026-11-23T06:41+08:00",
-      "publisher": "鉅亨網"
     },
     {
       "market": "美股",
@@ -42,13 +35,6 @@
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Sc2VHV1R2QlY1VFZFc2FPeXViLUxILXBFVE55VV9VVURZWHZHVktSa2FCQUxWenN1a1dIR2I1YUpZeTlsMkNPb24wWnFrc2l1Y2tMUTZoZm5HLWlVcXJNS3c1MUJtYzJxc2tNSncycw?oc=5",
       "published": "2026-11-22T10:57+08:00",
       "publisher": "TechNews 科技新報"
-    },
-    {
-      "market": "美股",
-      "title": "〈美股盤後〉美股大屠殺！AI殺盤全面失控道瓊標普陷修正區費半瀉逾10% 輝達、美光暴跌約14% - 鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1TWExRndYejA5TkVPZmxTSnNPemZRaHVtMk05bkFkRVVXNld4LTNkM1c4ZnA3d0lObEZkZXZyZUlmMmtDSTZqNy1oMGFwazQ?oc=5",
-      "published": "2026-11-21T06:10+08:00",
-      "publisher": "鉅亨網"
     },
     {
       "market": "台股",
@@ -94,6 +80,13 @@
     },
     {
       "market": "美股",
+      "title": "納指小漲、道瓊重挫！英偉達財報先漲後跌 引爆AI股多空拉鋸、標普五連跌 - 美股放大鏡",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeTUxOVJqcG5hZ0g5ZHZsc0kwU0ZaTl9lZExQbGI4Yk1qeTZ1b0xYMV9ldlVjdXdPdm1LUmc0cnQwaHUzLW1ya1ZmN0N4QjN0VjE0M29sVkw0NTROcEpfWF9LbG9HVzNzUG96aUM4QzBNbmlfY25hQmowWUYzQzlFZjZSSC1EN0lEMkxHZGlhb2xrbDct?oc=5",
+      "published": "2026-11-19T06:12+08:00",
+      "publisher": "美股放大鏡"
+    },
+    {
+      "market": "美股",
       "title": "〈美股盤後〉輝達財報難救股價！道瓊挫逾560點 標普連五黑 那指逆勢翻紅 - 鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5sMWMyMmFMMDRNdWcxNGI5U044SEhKZTMzUHUzeXdmakZuLU1pOVZGZ2JNNzMxOVZkdXF3QWxpM0IzeU5vODBLdEFFRGVOZGs?oc=5",
       "published": "2026-11-19T06:11+08:00",
@@ -107,6 +100,13 @@
       "publisher": "鉅亨網"
     },
     {
+      "market": "美股",
+      "title": "黃仁勳接班人是誰？CUDA之父亮相輝達財報會議 引發華爾街高度關注 - 鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5qckJFeHdqSHNXazIzbl91d1lJN3NkTE1YczJxbS1lRGFnRkN4VkJ0bGJtcnpCU2plZDJGczVwcy00VkVXTmhkaXlJNWxuamM?oc=5",
+      "published": "2026-11-18T19:50+08:00",
+      "publisher": "鉅亨網"
+    },
+    {
       "market": "財報新聞",
       "title": "輝達財報公布時間 2026：Q1～Q4 日期、輝達法說會台灣時間與直播 - 果仁家",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9lNTVKNHFLUzlrMlFzTlNHTzZlZTVJd3VoZHMtX05rTXVsTnExSnF2OEdmOVIybVQ1Y0lmcWpUekJSSjY3Z2hnZVNrUkY2WmF4T2V30gFYQVVfeXFMTlJGbnZqUElqZnluV2I2LUwwVGxGVW1mMlEydDN0Sk1rSV8wN1NJLUkzdS1aWlRZYXh6QnIyaGNwY3RJeXpVS3JxT2x2empsMml5aklYR3ByaQ?oc=5",
@@ -114,11 +114,25 @@
       "publisher": "果仁家"
     },
     {
+      "market": "美股",
+      "title": "輝達財報優於預期仍難消除AI投資疑慮，亞股止跌回穩、Anthropic IPO成下一觀察焦點 - 鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ZcVA4N1FtOVJ2X0Fkd3VxYWlzSERXZzdFS2RFbjB6QlluTUp0TnNLNHdEY2ZwempKdjBDZzExZkxyWUItWm4tdS1ubm9mUVE?oc=5",
+      "published": "2026-11-18T15:30+08:00",
+      "publisher": "鉅亨網"
+    },
+    {
       "market": "財報新聞",
       "title": "玉山金獲利創高，股價為何重挫？4%殖利率與三商壽資本壓力 - 口袋證券",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1nZ1VOX0V6S2lsYTl6bmdzeV82dFJ0VWgxbGhFTFVxanFzMnpmV2duY29ZOE5qUjNDbXZYQzRmNGh0TDNfaE9xT25yTHB4M0c4REVnZ2FsTno2ZnNvMFRsOHF2YklDZw?oc=5",
       "published": "2026-11-18T11:53+08:00",
       "publisher": "口袋證券"
+    },
+    {
+      "market": "財報新聞",
+      "title": "輝達法說1／輝達營收暴增103%！台股卻由紅翻黑 法人揭財報背後3大隱憂 | 鏡週刊 - LINE TODAY",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBjdzJNTm8tb0RHMlhJRjRCeG92T0JUejNjaVFpQVhjdDBWSFF5d0lzNVdTZWVrQ2E3VUJ1WVRWcEthOHhMSFVOQ2tOSk9DY2VKRWo5QkdB?oc=5",
+      "published": "2026-11-18T11:10+08:00",
+      "publisher": "LINE TODAY"
     },
     {
       "market": "財報新聞",
@@ -178,20 +192,6 @@
     },
     {
       "market": "美股",
-      "title": "AI股票遭拋售是否過頭？還是華爾街已提前下修獲利預期？高盛揭市場兩大隱憂 - 鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9adkJHMGVaZFVpZnZRZjQ3QnUtTWxXMWlLT2hfVVhPT1RrY056OVNaTVNOT3c3U3NtWF9oRzhfM3BoWUJ0UEI1anQwalJpR2M?oc=5",
-      "published": "2026-11-17T22:10+08:00",
-      "publisher": "鉅亨網"
-    },
-    {
-      "market": "美股",
-      "title": "標題 : 震撼！英偉達CEO驟辭引爆AI股恐慌 華爾街重挫、財報與Anthropic IPO成風向標 - CMoney投資網誌",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZm9YV0J6aXhaSkhPbWEtc0xZdzZCZUV5S3V5ZDhoV0RJSWtuRWd0VEVEZWhHbTNWcHRpZERFMUdFckEwOHpDNzhtS0hXVzQwV1JMQ0xLa1o2RGJLWUNYWWVqcXMyQ1ZPN1pqTXNuVmR3cWlMNXk1SmpHVHhHdU1iV1hDOHZyNFRxWFZ3Z1VR?oc=5",
-      "published": "2026-11-17T04:38+08:00",
-      "publisher": "CMoney投資網誌"
-    },
-    {
-      "market": "美股",
       "title": "〈美股早盤〉AI股又被砍！那指跌逾1% 輝達財報與Anthropic上市成焦點 - 鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBhVTJjNy1CRU1oQ1ZtZGgxXzVudzdSVjZ5NHVORnB2Wms3cjFJcVlhVTBmS044THY0OUtPQUxHUTRQMVN2Y1RacERQd0R5Nnc?oc=5",
       "published": "2026-11-16T22:41+08:00",
@@ -203,13 +203,6 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBaVmU5TkduT1JXWTVBUHhjaGYwOGFsTFFfRWRWZkFacFltRzcycWRCS3JSQU9vUWVQdms0OVdjOUZMcUVpc181eEZuUk55RGs?oc=5",
       "published": "2026-11-16T18:00+08:00",
       "publisher": "鉅亨網"
-    },
-    {
-      "market": "財報新聞",
-      "title": "台積電法說／第三季EPS 29.43元年增68.7%，第四季美元營收看523億至543億美元，全年年增約44%，2奈米放量稀釋毛利率｜股市話題｜豐雲學堂2026 年 11 月 - 永豐金證券",
-      "url": "https://news.google.com/rss/articles/CBMimwVBVV95cUxOb2Q3MmUzWDBFVV9Ud0JRVUlDa015QUszcU5hd3BaNlNidnRUdHlZVWZKU0tPTDBPMDdqdm1veFcxT25teVduUi1xSkx3dlp3QVFRT2JnWG03djBhM0xHZmVLYVU0TnRBMzFKMWZWcjMzZjNhYzRndEpwQk1raWNLUlJlaTBfMDhWczUtb1pKVHdUbmVtdkkxcU1aTVp0OENHMG1oNGJMX1FuRkV1ZTBKUGdJVG83SV90a2c2WWMxM1NtRURuejNmQzlFTGY2emlWMUF5Z2diSEkyUmlGU09xbzdvVjBocUpNT09kM0NrZG9laEJMZHgwZHN4Sy0zMGNpclNiWm53MktHX21ZeXdVMU5sSVZMemY3OHU1VjlmMEJNbkt2QjNtWkJtUzVveGdQZlZJN0k0R2p3eGx4WEVBS1RJa3gtTzVUMlNuOWtyM19VUjhZMHpuaUhIMkdDTjNHTTExMkNuM2RYUzBBVGt0VTQzZG1GdFl1WmY5SHlDeUdQOW9KdEpuWVlzMFBJTDNid2JhUXE0RmVMQXlCd0NYZm1nS1dMN016NkwycFZ5cy1zSnl3a0ZDclkybldDUG1sRm9sY3FNYnRnR1BPTUI3LW9ZdUNaVWp4cEwzWTBmbWh5V2cxd2tfVTBldmZHUDdOeHRnZWdNdUVHTktMdWRDVVN0dWZHeEJzVWRCWkkxenlWYzhZSTdjYmRnR05lMEJHRVd3ajhkTU5PNTd2dU5PNzhCdTczRGprVUIweEdKZDVISFpjWXZpcHJxUVRoelRZSVdUWU5DaUR1bGRHamVjNVBsenVNVlVIMFZLd0hSUDFBR09za2F0NVVybS1xM2tlQ2hSOUlpQ3c4UERSSk5vUW5WWDNfUUVwN3k0?oc=5",
-      "published": "2026-11-16T15:26+08:00",
-      "publisher": "永豐金證券"
     }
   ],
   "events": [
