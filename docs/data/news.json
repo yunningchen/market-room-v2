@@ -1,20 +1,6 @@
 {
-  "updated_at": "2026-11-25T06:30:27+08:00",
+  "updated_at": "2026-11-25T06:52:27+08:00",
   "news": [
-    {
-      "market": "美股",
-      "title": "【即時新聞】輝達(NVDA)領軍美股上演3兆美元大反彈！AI狂飆後小心這1隱憂發酵 - CMoney投資網誌",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcnQ0ZjhMSEVJQjljYzBmeGlWTnhPblVfVThfeERtNUx3ZlR2VTRjTGVXbmpYRDNlLU9aSWdrTTlTNFBqTDJfQkp4VEdjM3BVcFBzdVlvWTdqYjdxTUphUTFXd0dqcGkzNlRYWGZYVWtGS25ia0RkaHpWT3Y4RzZHLXFpUXhObE1VbC1wSERUeDk?oc=5",
-      "published": "2026-11-25T03:09+08:00",
-      "publisher": "CMoney投資網誌"
-    },
-    {
-      "market": "美股",
-      "title": "【即時新聞】輝達(NVDA)黃仁勳回歸帶動股價狂飆！AI巨震考驗聯準會升息決策，華爾街緊盯後續行動 - CMoney投資網誌",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZFY5cVlEWGVreWxSdlpJakxBNVJxM284SlpBNFZRNzl0VkRkSUVhY1BKZmNkRUIwR19CVkJHY0g4QzBsUkVpeXlMWU5EMUF4eTNLTE1lV2U1Wi1vRlJXamdKY0FBME1NSFhvUE9WZUxvQzFrQlhhczJWclpOaUhPcDNrYzdTTnNBd2dIdWpleHE?oc=5",
-      "published": "2026-11-24T19:11+08:00",
-      "publisher": "CMoney投資網誌"
-    },
     {
       "market": "美股",
       "title": "【即時新聞】輝達(NVDA)暴漲後拉回3%！AI狂潮推升通膨隱憂，華爾街聚焦聯準會動向 - CMoney投資網誌",
@@ -38,45 +24,10 @@
     },
     {
       "market": "美股",
-      "title": "美股上周有多慘？三大指數齊陷修正 華爾街多項慘烈紀錄一次看 - 鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9iR0JvR3o1VDMwNHREUUNFSlI0ZjV6UHhhaE1BY1liX1ZHZ0x5TDU1dU11OUotUVQ5MzZIWkdmeXFkZjJhZEtqclgxUE1IOE0?oc=5",
-      "published": "2026-11-23T21:37+08:00",
-      "publisher": "鉅亨網"
-    },
-    {
-      "market": "美股",
-      "title": "美股反彈！AI股回勇帶動期指暴漲，標普、道瓊已步入修正區 - 美股放大鏡",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaWMyN0NMZHg2ZkZick1SUEJaWHJxYWRNVW4zblgwMVZwdE11dWF0TXhGZGQ1WWlWdXhzMXVGTVY1R0JwSVhqZWduTHU5bnBybXlScHBiV1l5LWtrVDBUbTB1SXdZaDFCNVhiR0I5QkEtdHNkcU9VNUIyRi1vTkFZS0toU0VmWmFWdnR2MllqQlNKRkx6?oc=5",
-      "published": "2026-11-23T21:08+08:00",
-      "publisher": "美股放大鏡"
-    },
-    {
-      "market": "美股",
       "title": "華爾街避險基金大撤退！摩根士丹利：強勢股不再受追捧 基金槓桿降至一年低點 - 鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE16VkJacjk2SmhuVmtHSDdqblBfZy1GSDNzSHNfdHlzeVl6eVI0UmhmTy1ZSzBVR0lfSFV2UGRLMGJNNmczZWs2Zl96cGpBbmc?oc=5",
       "published": "2026-11-23T21:07+08:00",
       "publisher": "鉅亨網"
-    },
-    {
-      "market": "美股",
-      "title": "【即時新聞】輝達(NVDA)遭徹查！科技股血洗逼近熊市跌逾5％，聯準會12月恐照常升息 - CMoney",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fc3pTdE5VUlJoRWd1RUFkSFJxUmNBZVZMdTZxUDhzdENQWjI4TFVZeFE4M1RtSzk4eTRvOHJnczNxUllnNVNoNElSUEJEeDBXMG9CcWkydWpvUHJpeC04QzhnWFk1TWc?oc=5",
-      "published": "2026-11-23T20:10+08:00",
-      "publisher": "CMoney"
-    },
-    {
-      "market": "美股",
-      "title": "【即時新聞】輝達(NVDA)財報優預期卻血洗23%！標普500指數蒸發5兆美元，解析AI熱潮下的美股暴跌危機 - CMoney投資網誌",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQc1g5aDBEOFgteWYzZk1ldWowNVlUTmZhSXB3Tk83ZF9ia05UWmZSOWQ1UmZtaVh5SnJJZEFxcTFoNk02Qzlma3hNcGxVSVFLbFVHNEg5bUpFY2dfVHRFR0dkM0NubTNVQXNMR0xmdnhLVkVwRmF3anZRT01LN1JQMzJ3em9GN2ptQVVzVmZ6Nmw?oc=5",
-      "published": "2026-11-23T20:09+08:00",
-      "publisher": "CMoney投資網誌"
-    },
-    {
-      "market": "美股",
-      "title": "恐慌指數飆升，現在可以進場抄底了嗎？華爾街緊盯3大訊號，最怕股市還沒跌完 | 林彥呈 | 財經 - 風傳媒",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBqcXRZMFQ4M1VaekdXckZHdkRVZGZ1VkY5MTVoOHQ1N3p5MlhpbTd1T0xrRmduWE9xZ2JkQ3J5RjRYeEZfU1Z6elJYazMzUQ?oc=5",
-      "published": "2026-11-23T15:45+08:00",
-      "publisher": "風傳媒"
     },
     {
       "market": "美股",
@@ -108,34 +59,6 @@
     },
     {
       "market": "美股",
-      "title": "【盤前】台指夜盤殺1881點 今恐再掀殺盤 - 鏡週刊Mirror Media",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9pVmFkV0VHOEpDUE9SMmdpZWVJMElnNXNRMVdXejYwc2wzUHhUaTlIV004czZmeWRvMEdCU3N5RnFvZGFqUWtMblRHX1BGUnBEaEtlc2IxcjZ3TnVm?oc=5",
-      "published": "2026-11-23T06:11+08:00",
-      "publisher": "鏡週刊Mirror Media"
-    },
-    {
-      "market": "美股",
-      "title": "AI 泡沫還是超跌？美股科技慘殺之際，華爾街押注「下一波 AI 牛市」 - CMoney投資網誌",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaGkzWk52aEJVU3NlVnFYX1ZGb2ZrM1k3UC1MbHFHMmV5V25SSGVsa1dYcVhHNURMX3BwcXpYby1DMzVjOFNnQVFiNGpRWWc4d0JqOFBycDBhSjcza0w1YnVzODRCWlZBZGk3TmVXaXRISUZvUmthWnRWQ3hTRm1PNExqUWVSb2VGVlhnb19CNTNEbE1EZjhsR1dwOGd3a2FRbjRxQm1IVXRxSkpQdnBZcGJROU1qR2l6dC1PTTV3VzFHTlRJaTA1ZkxUeXh1b0E?oc=5",
-      "published": "2026-11-23T04:00+08:00",
-      "publisher": "CMoney投資網誌"
-    },
-    {
-      "market": "美股",
-      "title": "美股是否見底？高盛、大摩、瑞銀觀點彙總 - 鉅亨號",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9RWUtwWVA3MlYycDJONmlZc3UtM2ZVS2NoMm52YmdtSXpEQXVIcFJ1YzYzOWpkWF9Dd29WYzFkLUNMYmdQRGkxeg?oc=5",
-      "published": "2026-11-22T20:48+08:00",
-      "publisher": "鉅亨號"
-    },
-    {
-      "market": "美股",
-      "title": "4 兆美元“蒸發” ！為什麼美股一夜跌入熊市？AI 交易正在經歷怎樣的再定價 ？（深度解讀） - 鉅亨號",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5xWHZjZWs5SEdKT0J4VGRDQ1BnNV84M1hUNk95OWVPSTd1VXRReFFJT0pQUE11bFRCSHgtb2R4NWhJUmxsMnRmYw?oc=5",
-      "published": "2026-11-22T12:32+08:00",
-      "publisher": "鉅亨號"
-    },
-    {
-      "market": "美股",
       "title": "美股今天恐演黑色星期一？ 科技股入熊市 華爾街恐慌指數VIX飆近40 - TVBS新聞",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9DTjc5S1hrY1J6azloWGxfbm9ENXdsZkZNN19mWnF0Z3dTV3VRREZmdEM3aEdTT0xmdlluakhBWXoyS2xDZUFod0pyQUMzckk?oc=5",
       "published": "2026-11-22T11:19+08:00",
@@ -149,32 +72,11 @@
       "publisher": "TechNews 科技新報"
     },
     {
-      "market": "美股",
-      "title": "美股45天蒸發6兆美元，AI資本支出要等到2027年驗收？-柏宇 KD 獲利模式 - CMoney投資網誌",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTElOY21qLUFkdHoxZHQ0czJJWkNqUkdDMzVGaGdzd2FmRUhmQmdSUGExMFlHOURwVTZJb0xjWmJEYnh5dnZHcEo1TEJZcF9jbFJ4a01aVEF4M2hiXzZuRVJVcHR2WnNtSXZWcXdxU1FhV1dQd0o1Z0FCTjJqQzJWag?oc=5",
-      "published": "2026-11-21T16:07+08:00",
-      "publisher": "CMoney投資網誌"
-    },
-    {
-      "market": "美股",
-      "title": "〈美股盤後〉美股大屠殺！AI殺盤全面失控道瓊標普陷修正區費半瀉逾10% 輝達、美光暴跌約14% - 鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1TWExRndYejA5TkVPZmxTSnNPemZRaHVtMk05bkFkRVVXNld4LTNkM1c4ZnA3d0lObEZkZXZyZUlmMmtDSTZqNy1oMGFwazQ?oc=5",
-      "published": "2026-11-21T06:10+08:00",
-      "publisher": "鉅亨網"
-    },
-    {
       "market": "台股",
       "title": "證交所董座喊話 投資人要對台灣企業基本面保持信心 - 自由時報",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBJNFNpZzJnNHhlRUdCRzdBeEVMa0oxT01Ka1VUeEpCNWNQYVQ4VnZBZDB2Vld4Vmlsd0RhNlVacmVpUTV2T2dVRmNGcjRYQkxTQmM5UVpIb00?oc=5",
       "published": "2026-11-20T17:33+08:00",
       "publisher": "自由時報"
-    },
-    {
-      "market": "美股",
-      "title": "11/20 🚨【政府救市也沒用？台股近400家跌停、成交量急凍，VIX衝破52！末跌段真的到了嗎？】 - 鉅亨號",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9PZDJuV2ZCMjJVLUZWQk5kc1dtVmtWUmlMTmxGLUFDZmRxRDBiUldXdFAwc1JjRmlFSEdnSl9oYjk1b2lDSnVLRg?oc=5",
-      "published": "2026-11-20T16:05+08:00",
-      "publisher": "鉅亨號"
     },
     {
       "market": "台股",
@@ -189,6 +91,13 @@
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQ09RcVNEZmJUOGxxc19YVzlpTVQ4enNoc1JmcW9jdkhCV0JyN1JjZUVfbDJ5QmF3STJZM1hza2VOY3pzakQyV1d1OVh0VWJXSUdrMS1tSm5PR1oxbkVIclo3MlNEcVJleW03LWZ2SHdGb3hhTWFEMmhtYkFUS3JMRHFn?oc=5",
       "published": "2026-11-19T17:34+08:00",
       "publisher": "CMoney投資網誌"
+    },
+    {
+      "market": "財報新聞",
+      "title": "2026 美國期中選舉結果：民主黨參院 56 席、眾院過半！全球經濟、川普關稅與台股影響 - 果仁家",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KT1lOUWVNRlZzNjZqTHhWbEJHSXczMWFrLTNDZ1JKT1hNcVh4bmc0VmpqTXlQT2RzazJNZDh5TTRDdGhUcWttRTVxa3Z5RVFwMXBz?oc=5",
+      "published": "2026-11-19T16:00+08:00",
+      "publisher": "果仁家"
     },
     {
       "market": "財報新聞",
@@ -226,25 +135,11 @@
       "publisher": "鉅亨網"
     },
     {
-      "market": "美股",
-      "title": "AI 泡沫陰影壟罩華爾街：Fed 點名高槓桿、Nvidia 震盪引爆「數位韌性」投資潮 - 美股放大鏡",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNFJQWlRJYXVMNDZnWEduQWRsYTdsRFpnUVZwU1g0WWFiTkxWa0tHbFlxc0VkaGdWVXR0X0tqVjM2WXJ0TXhVMl9DZU5sN0EzTkNnMWQyTlkyWEhoVUdUSERQQ1JvUlE3Sm9zLUROempGYmxtNVZoTm93dl9YSy1WVUhTTnp2c1U0dGduZlhENEZldXp5?oc=5",
-      "published": "2026-11-19T06:00+08:00",
-      "publisher": "美股放大鏡"
-    },
-    {
-      "market": "美股",
-      "title": "〈美股早盤〉輝達交卷穩軍心！科技股回神 下一關看Anthropic - 鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5LZ0JGakZHc09OdHh1U1VnNlhJbHRzXzVCQ0t3djN5cVRXMFViSUVWbHc0dk1HUnMwTXZQUW1JMlZEUEJSeWlKZHBMTnp6bWc?oc=5",
-      "published": "2026-11-18T22:42+08:00",
-      "publisher": "鉅亨網"
-    },
-    {
-      "market": "美股",
-      "title": "亞股止跌回穩、Anthropic IPO成下一觀察焦點 - 鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5CM2VmZEI2MHNlT3dlQmpMY2ZZMDdqSWVYdWlFQkRQdXNKYUhZVTZlWl81cHlSeE9VLVJHMDV4bl8yOF9jTW1YNU5tSzZJT1E?oc=5",
-      "published": "2026-11-18T16:00+08:00",
-      "publisher": "鉅亨網"
+      "market": "財報新聞",
+      "title": "(6672)騰輝電子-KY法說會 2026/11、騰輝電子-KY財報、騰輝電子-KY展望、騰輝電子-KY財報投資亮點｜理柴知道:法說最速報! - 方格子 - vocus",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9jWVVNVDFwWFNkWmg5ekpXS0ZaQ3Ytc0JNMmtRcjgzZWg0dzRVakZDejJtckNPeEtxRGRqdmdHMnNydTBsUUdSeGRjYXd6eGVsUHlJSmJ4NExHVXFraXfSAWNBVV95cUxNaTd0U21meXNZQXlYR3RuV3lNNm02QTN0RXltZDNOTDExMGlVQlYwazZobWRHVkdkOVBrWm5SLTd1S3lFM0o4bTJzMTYtWjFxWWpJanhOVHFsRzBtZlZiYUJoNHM?oc=5",
+      "published": "2026-11-18T22:03+08:00",
+      "publisher": "vocus"
     },
     {
       "market": "財報新聞",
@@ -252,13 +147,6 @@
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9lNTVKNHFLUzlrMlFzTlNHTzZlZTVJd3VoZHMtX05rTXVsTnExSnF2OEdmOVIybVQ1Y0lmcWpUekJSSjY3Z2hnZVNrUkY2WmF4T2V30gFYQVVfeXFMTlJGbnZqUElqZnluV2I2LUwwVGxGVW1mMlEydDN0Sk1rSV8wN1NJLUkzdS1aWlRZYXh6QnIyaGNwY3RJeXpVS3JxT2x2empsMml5aklYR3ByaQ?oc=5",
       "published": "2026-11-18T16:00+08:00",
       "publisher": "果仁家"
-    },
-    {
-      "market": "美股",
-      "title": "輝達營收狂飆 103% 、財測再超預期！比特幣卻困守 6.4 萬，AI 股利多為何帶不動 BTC？ - 鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5DSG5SUl83ZEpaMm5MSlFiSlN5YVlfV2RmSTYwZ3FjS3BRNEZ2cGpSODEyV1Q1S1VnYlo5OVNoakIyZnhwcDBDbW1iaF9hT2M?oc=5",
-      "published": "2026-11-18T12:30+08:00",
-      "publisher": "鉅亨網"
     },
     {
       "market": "財報新聞",
@@ -283,30 +171,30 @@
     },
     {
       "market": "美股",
-      "title": "台股今早剉咧等？靜待輝達財報美股先倒地 台積電ADR挫3.7％ - 中天新聞網",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBCZEg4Z0dUT1BScVdTYTBvekhMUDNJU3p6OTN6X0NoZjJZX3BxU3MxRGRlQ0I5SUN1S0pOa19sTE1RcGJVRnVDcTJjRkhRdVY5bWM0?oc=5",
-      "published": "2026-11-18T07:35+08:00",
-      "publisher": "中天新聞網"
-    },
-    {
-      "market": "美股",
       "title": "黃仁勳離職首份輝達財報報喜盤後漲5%！台積電ADR盤後飆逾6% - TVBS",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8xc1JFQmFPM25kZ3N1T1AxVXNqZGx0eG9kY1RWcDl4QU8yVGc0akZONWJVYjJCbG5rRzRocUluNHI4aEFFd0VUNkc4cENjeEk?oc=5",
       "published": "2026-11-18T07:34+08:00",
       "publisher": "TVBS"
     },
     {
-      "market": "美股",
-      "title": "〈美股盤後〉道瓊尾盤一度狂瀉逾1000點 標普創7月底來最低收盤 輝達財報公布 - 鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5mVXdyQW5hM2dHQVRZdV90akgxWlp1clFmTHlIVVNpM0ZLc2k2clBDU1FwQUxwTDFSQ21mYjJEaWYyR2dYNE01blR0VFRTRHM?oc=5",
-      "published": "2026-11-18T07:14+08:00",
-      "publisher": "鉅亨網"
+      "market": "財報新聞",
+      "title": "【輝達法說】布局 AI Agent！收購 Hugging Face、推出 OpenAgent 安全平台，Token 用量快速增加 - 果仁家",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5VNlN5NFdYT3RLQ05EOEFTSkdNNkZuWUcyT2RKRHU2TVJRa3BuTE16aUMwd1F2Qkt5ZDVYQmRXQUNIREhpUjY2Z1plY0o2ZTc5R2pZ?oc=5",
+      "published": "2026-11-18T07:29+08:00",
+      "publisher": "果仁家"
     },
     {
       "market": "財報新聞",
-      "title": "2026 輝達法說會直播 11/18 上午 6 點！NVIDIA 官方線上收聽連結、電話會議重點 - 果仁家",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBWbTRFSjlhZ1hHYTRlSGV5U2tEd2hTRVJ0WVhMLV9DXzFnN0RLQmFVLWdTMUs0OUlsU3JJUHpkTEdFbnZBVXJURkJSM1dXbTY3T0lJ?oc=5",
+      "title": "【輝達法說】董事會表態無意讓黃仁勳回任 CEO！啟動接班遴選、新增出口管制監督委員會 - 果仁家",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1pY3NFOVZXNTZSREYzQ1NVSW93OGFiM1RFVEU5YWJ5N0V2VU51dTY4TU5SZkxWYjhQUmJWTm1ROV94ZVgtdnJjRkZjbF9QLXFhdnJN?oc=5",
       "published": "2026-11-18T07:14+08:00",
+      "publisher": "果仁家"
+    },
+    {
+      "market": "財報新聞",
+      "title": "2026 輝達 Q3 法說會懶人包：Rubin 爆發、2028 財年營收成長上看 - 果仁家",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1wa2ZPclU0NjlBVzhqSU11eThlSUdNOU1SaGVKMVR5ZlYxaWk1WDNibERfc0hWU2xMdl9Od2ZXdHlkUHAzM19WWmd1THpRdERsWWNr?oc=5",
+      "published": "2026-11-18T07:04+08:00",
       "publisher": "果仁家"
     }
   ],
