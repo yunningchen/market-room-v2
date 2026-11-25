@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-11-25T13:46:16+08:00",
+  "updated_at": "2026-11-25T16:42:42+08:00",
   "news": [
+    {
+      "market": "財報新聞",
+      "title": "2026 美股休市時間：11/26 感恩節休市、11/27 提早收盤！台灣時間與恢復交易日期一次看 - 果仁家",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ZR0pLUTVBSl95ZzFzVTRDY2hDVkdxVzJtVTVZT3U1RExZWE5OeE5kMWZnbmJybGk2UktpRWpyeXNfd0RyTHhsUWJEb2hENzlMNi0w?oc=5",
+      "published": "2026-11-25T15:02+08:00",
+      "publisher": "果仁家"
+    },
     {
       "market": "台股",
       "title": "黃仁勳慶祝行情沒了？川普關稅再揮刀 專家曝3大未爆彈：台股正式進入空頭走勢 | 張庭維 | 新聞 - 風傳媒",
@@ -45,10 +52,10 @@
     },
     {
       "market": "美股",
-      "title": "史上最大IPO也救不了！那斯達克蒸發4兆美元，美股為何全面失控？ - 商業週刊",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1YcHVVNWdXQ29JZTRHakt0ZnMxOEFUdV92ancwSVdQdXpEV0dpSW5tV3VOT0VoS3R6MzZhM0NCWHJLaTEyQWdjMXhQTlRNZVVkNVplLVdjQUdzZjdWcExxY3NGSExtUQ?oc=5",
-      "published": "2026-11-23T13:08+08:00",
-      "publisher": "商業週刊"
+      "title": "【即時新聞】輝達(NVDA)遭徹查！科技股血洗逼近熊市跌逾5％，聯準會12月恐照常升息 - CMoney",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fc3pTdE5VUlJoRWd1RUFkSFJxUmNBZVZMdTZxUDhzdENQWjI4TFVZeFE4M1RtSzk4eTRvOHJnczNxUllnNVNoNElSUEJEeDBXMG9CcWkydWpvUHJpeC04QzhnWFk1TWc?oc=5",
+      "published": "2026-11-23T20:10+08:00",
+      "publisher": "CMoney"
     },
     {
       "market": "美股",
@@ -74,7 +81,7 @@
     {
       "market": "美股",
       "title": "AI 泡沫還是超跌？美股科技慘殺之際，華爾街押注「下一波 AI 牛市」 - CMoney投資網誌",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVVZkazd6cjhJM1FVek8xUHdNVXZfVG9qX1Vwem4xZ3IwX3R6MkY0Mk83VnlmYkdrZXNPRHVpbHNJNENCZDB6TG9md2tRRDhWSTlYeGp6aWNhWmN6cU5naGRPZFpyd0kwWl96MDQ0d25pWVg5SFVtRXlMRUJpdm1GTFVQSy02SXNjNE9udVd3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaGkzWk52aEJVU3NlVnFYX1ZGb2ZrM1k3UC1MbHFHMmV5V25SSGVsa1dYcVhHNURMX3BwcXpYby1DMzVjOFNnQVFiNGpRWWc4d0JqOFBycDBhSjcza0w1YnVzODRCWlZBZGk3TmVXaXRISUZvUmthWnRWQ3hTRm1PNExqUWVSb2VGVlhnb19CNTNEbE1EZjhsR1dwOGd3a2FRbjRxQm1IVXRxSkpQdnBZcGJROU1qR2l6dC1PTTV3VzFHTlRJaTA1ZkxUeXh1b0E?oc=5",
       "published": "2026-11-23T04:00+08:00",
       "publisher": "CMoney投資網誌"
     },
@@ -93,11 +100,11 @@
       "publisher": "TechNews 科技新報"
     },
     {
-      "market": "台股",
-      "title": "證交所董座喊話 投資人要對台灣企業基本面保持信心 - 自由時報",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBJNFNpZzJnNHhlRUdCRzdBeEVMa0oxT01Ka1VUeEpCNWNQYVQ4VnZBZDB2Vld4Vmlsd0RhNlVacmVpUTV2T2dVRmNGcjRYQkxTQmM5UVpIb00?oc=5",
-      "published": "2026-11-20T17:33+08:00",
-      "publisher": "自由時報"
+      "market": "美股",
+      "title": "那斯達克重挫5.3%逼近熊市 美股AI震盪重點一次看 - 三立新聞",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1rNkN6ZTdkZVo1YjUtUjUzNVNZRGY4Yldvend3RS1YTy1yWVJmX2plSFl3aVhCY0lWQ2h1dTVSZXlNOHZvSmp5VWF3RQ?oc=5",
+      "published": "2026-11-21T17:12+08:00",
+      "publisher": "三立新聞"
     },
     {
       "market": "台股",
@@ -108,16 +115,9 @@
     },
     {
       "market": "財報新聞",
-      "title": "2026 美國期中選舉結果：民主黨參院 56 席、眾院過半！全球經濟、川普關稅與台股影響 - 果仁家",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KT1lOUWVNRlZzNjZqTHhWbEJHSXczMWFrLTNDZ1JKT1hNcVh4bmc0VmpqTXlQT2RzazJNZDh5TTRDdGhUcWttRTVxa3Z5RVFwMXBz?oc=5",
-      "published": "2026-11-19T16:00+08:00",
-      "publisher": "果仁家"
-    },
-    {
-      "market": "財報新聞",
       "title": "輝達股價有戲？Nvidia要先解決這三個問題！｜美股評析｜豐雲學堂 2026 年 11 月 - 永豐金證券",
-      "url": "https://news.google.com/rss/articles/CBMiywNBVV95cUxOZDR0THpObzZYY3pILW9WSlVmajdrOUxwVEdSSkNTOENNbG1DQm5RRmdrdkFCN2ZOVGdJT0QzLU1PT2lSbURMUnJDbVpRSEwwVE9sRDBDR0F3NDFWRVVDamhaVEtwSnJSVGdUc2YyMnBsTS1NdTA1cjk5bGQteVFIR2x2NlFrYzBkUzNNdGFoUmw4NGFvdlBKcFFDa0c0eHBpcV9zNmpMeFhTaTA4TGtnT1ljLS1JNlZRUGFZS2wtMXVxNUxKVkJ3cllVT0loQ1lzbUpveDBGcWN4QjB5VEJPaFl6d2hrRnFhY3E4SmpKY191NzI4VGxfQzUzVTVSV3c5dlc0cTRZVXVxdEdVSEU5UXFtMlpqcnRGRGlESDE0OFJ3U2FVM1Y0MEFaVVpzLXVKdF93V0REZmFBRngtMlNCWTU2T0lKRGxvUGxIdFUyTmhHc0ljRm1TR1ktQVY5YnFmcWFWV3pIbGtTZGxWTTF4cmRZNmJQdDdUemVYQXhvUnBVZEIwT2F4cm9LNXRudXN1SkpPSGZWQmFicDhiSnVBYU9iMnU0MkNuMDNaaENybXZsZ09pLWtaM09QMWw3OHNXZjdVV2pJbjRjeVE?oc=5",
-      "published": "2026-11-19T12:38+08:00",
+      "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxOcWE0QWdRcDJkRjJNN3JBRDNIUU14TlFYdnFPWk5aUFRyd3AyeDZMbTlJenFkTExpTVlWd20yRWl0MktSbmI4Qy1fWi1VM3JIMnM5aE05cGprYzF6aG1hRHhYUl9PclV2S2h4U2xTbXZoYmw1YW80OVJiVnVRNVRJUEhGUy02VjRuRnRXV3Zrd3dFWFB2SklaVlZOeER0Ul9lYXVROVlmLW9YNGVsanF3dWM0bDBoM2lYMFhpc1gtUUo5QlkzYWZHVW80aUZNZVNYRTBwT2ZIZnJ1ay1DbjNzbXBKTFFQY2FlcjNXZm8tWGw3UlY4OU9McDdNX0p1RUVSLXZUQzlsMGw5ejltTklzZXZ6SUhxWUpEcDFkLUxOaXQ4RHVHT1Z4RDlQbVhWanVycmpMdG9kaHh1cG5qaVVjRXhIUlhFa1ExLVpLdFd3b3Z6U0w5TWlsNEtNMWxfai1vVzdvZzV0aUVXVXREbHByREMyeVU?oc=5",
+      "published": "2026-11-19T21:00+08:00",
       "publisher": "永豐金證券"
     },
     {
@@ -143,30 +143,16 @@
     },
     {
       "market": "美股",
-      "title": "〈美股早盤〉輝達交卷穩軍心！科技股回神 下一關看Anthropic - 鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5LZ0JGakZHc09OdHh1U1VnNlhJbHRzXzVCQ0t3djN5cVRXMFViSUVWbHc0dk1HUnMwTXZQUW1JMlZEUEJSeWlKZHBMTnp6bWc?oc=5",
-      "published": "2026-11-18T22:42+08:00",
+      "title": "〈美股盤後〉輝達財報難救股價！道瓊挫逾560點 標普連五黑 那指逆勢翻紅 - 鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5sMWMyMmFMMDRNdWcxNGI5U044SEhKZTMzUHUzeXdmakZuLU1pOVZGZ2JNNzMxOVZkdXF3QWxpM0IzeU5vODBLdEFFRGVOZGs?oc=5",
+      "published": "2026-11-19T06:11+08:00",
       "publisher": "鉅亨網"
     },
     {
-      "market": "財報新聞",
-      "title": "(6672)騰輝電子-KY法說會 2026/11、騰輝電子-KY財報、騰輝電子-KY展望、騰輝電子-KY財報投資亮點｜理柴知道:法說最速報! - 方格子 - vocus",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9jWVVNVDFwWFNkWmg5ekpXS0ZaQ3Ytc0JNMmtRcjgzZWg0dzRVakZDejJtckNPeEtxRGRqdmdHMnNydTBsUUdSeGRjYXd6eGVsUHlJSmJ4NExHVXFraXfSAWNBVV95cUxNaTd0U21meXNZQXlYR3RuV3lNNm02QTN0RXltZDNOTDExMGlVQlYwazZobWRHVkdkOVBrWm5SLTd1S3lFM0o4bTJzMTYtWjFxWWpJanhOVHFsRzBtZlZiYUJoNHM?oc=5",
-      "published": "2026-11-18T22:03+08:00",
-      "publisher": "vocus"
-    },
-    {
-      "market": "財報新聞",
-      "title": "輝達財報公布時間 2026：Q1～Q4 日期、輝達法說會台灣時間與直播 - 果仁家",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9lNTVKNHFLUzlrMlFzTlNHTzZlZTVJd3VoZHMtX05rTXVsTnExSnF2OEdmOVIybVQ1Y0lmcWpUekJSSjY3Z2hnZVNrUkY2WmF4T2V30gFYQVVfeXFMTlJGbnZqUElqZnluV2I2LUwwVGxGVW1mMlEydDN0Sk1rSV8wN1NJLUkzdS1aWlRZYXh6QnIyaGNwY3RJeXpVS3JxT2x2empsMml5aklYR3ByaQ?oc=5",
-      "published": "2026-11-18T16:00+08:00",
-      "publisher": "果仁家"
-    },
-    {
       "market": "美股",
-      "title": "輝達財報優於預期仍難消除AI投資疑慮，亞股止跌回穩、Anthropic IPO成下一觀察焦點 - 鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ZcVA4N1FtOVJ2X0Fkd3VxYWlzSERXZzdFS2RFbjB6QlluTUp0TnNLNHdEY2ZwempKdjBDZzExZkxyWUItWm4tdS1ubm9mUVE?oc=5",
-      "published": "2026-11-18T15:30+08:00",
+      "title": "〈美股早盤〉輝達交卷穩軍心！科技股回神 下一關看Anthropic - 鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5LZ0JGakZHc09OdHh1U1VnNlhJbHRzXzVCQ0t3djN5cVRXMFViSUVWbHc0dk1HUnMwTXZQUW1JMlZEUEJSeWlKZHBMTnp6bWc?oc=5",
+      "published": "2026-11-18T22:42+08:00",
       "publisher": "鉅亨網"
     }
   ],
